@@ -1,0 +1,1687 @@
+2018-02-21 22:01:04,833 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:04,834 INFO Turn 1 begins
+2018-02-21 22:01:04,834 INFO Anthony command: dodge
+2018-02-21 22:01:04,835 INFO Barth command: dodge
+2018-02-21 22:01:04,835 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,835 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,836 INFO Turn 2 begins
+2018-02-21 22:01:04,836 INFO Anthony command: dodge
+2018-02-21 22:01:04,837 INFO Barth command: dodge
+2018-02-21 22:01:04,837 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,837 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,838 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,838 INFO Turn 3 begins
+2018-02-21 22:01:04,838 INFO Anthony command: dodge
+2018-02-21 22:01:04,839 INFO Anthony command: reload
+2018-02-21 22:01:04,839 INFO Barth command: dodge
+2018-02-21 22:01:04,839 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,840 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,840 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,840 INFO Turn 4 begins
+2018-02-21 22:01:04,841 INFO Anthony command: dodge
+2018-02-21 22:01:04,841 INFO Barth command: dodge
+2018-02-21 22:01:04,841 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:04,842 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,842 INFO Turn 1 begins
+2018-02-21 22:01:04,842 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,842 INFO Anthony command: dodge
+2018-02-21 22:01:04,843 INFO Turn 5 begins
+2018-02-21 22:01:04,843 INFO Barth command: dodge
+2018-02-21 22:01:04,843 INFO Anthony command: reload
+2018-02-21 22:01:04,843 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,843 INFO Anthony command: dodge
+2018-02-21 22:01:04,844 INFO Barth command: dodge
+2018-02-21 22:01:04,844 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,844 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,844 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,844 INFO Turn 2 begins
+2018-02-21 22:01:04,845 INFO Turn 6 begins
+2018-02-21 22:01:04,845 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,845 INFO Anthony command: reload
+2018-02-21 22:01:04,846 INFO Barth command: dodge
+2018-02-21 22:01:04,846 INFO Anthony command: shoot
+2018-02-21 22:01:04,846 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,846 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,847 INFO Turn 7 begins
+2018-02-21 22:01:04,847 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,847 INFO Turn 3 begins
+2018-02-21 22:01:04,847 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,847 INFO Anthony command: dodge
+2018-02-21 22:01:04,847 INFO Anthony command: reload
+2018-02-21 22:01:04,848 INFO Turn 7 begins
+2018-02-21 22:01:04,848 INFO Barth command: dodge
+2018-02-21 22:01:04,848 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,849 INFO Anthony command: dodge
+2018-02-21 22:01:04,849 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,849 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,848 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:04,849 INFO Turn 8 begins
+2018-02-21 22:01:04,849 INFO Turn 4 begins
+2018-02-21 22:01:04,849 INFO Turn 1 begins
+2018-02-21 22:01:04,849 INFO Barth command: shoot
+2018-02-21 22:01:04,850 INFO Anthony command: dodge
+2018-02-21 22:01:04,850 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:04,850 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,850 INFO Barth command: dodge
+2018-02-21 22:01:04,851 INFO Turn 8 begins
+2018-02-21 22:01:04,851 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,851 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,851 INFO Anthony command: dodge
+2018-02-21 22:01:04,852 INFO Turn 9 begins
+2018-02-21 22:01:04,852 INFO Turn 5 begins
+2018-02-21 22:01:04,852 INFO Turn 2 begins
+2018-02-21 22:01:04,852 INFO Anthony command: dodge
+2018-02-21 22:01:04,852 INFO Barth command: dodge
+2018-02-21 22:01:04,853 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,853 INFO Barth command: dodge
+2018-02-21 22:01:04,853 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,854 INFO Turn 9 begins
+2018-02-21 22:01:04,854 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,854 INFO Turn 10 begins
+2018-02-21 22:01:04,854 INFO Turn 6 begins
+2018-02-21 22:01:04,854 INFO Anthony command: dodge
+2018-02-21 22:01:04,854 INFO Turn 3 begins
+2018-02-21 22:01:04,855 INFO Anthony command: dodge
+2018-02-21 22:01:04,855 INFO Anthony command: shoot
+2018-02-21 22:01:04,855 INFO Barth command: dodge
+2018-02-21 22:01:04,855 INFO Anthony command: reload
+2018-02-21 22:01:04,855 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,856 INFO Barth command: dodge
+2018-02-21 22:01:04,856 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,856 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,856 INFO Turn 10 begins
+2018-02-21 22:01:04,857 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,857 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,857 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,857 INFO Anthony command: dodge
+2018-02-21 22:01:04,857 INFO Turn 4 begins
+2018-02-21 22:01:04,857 INFO Turn 11 begins
+2018-02-21 22:01:04,857 INFO Turn 7 begins
+2018-02-21 22:01:04,858 INFO Anthony command: shoot
+2018-02-21 22:01:04,858 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,858 INFO Barth command: dodge
+2018-02-21 22:01:04,858 INFO Barth command: shoot
+2018-02-21 22:01:04,859 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,859 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,859 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:04,859 INFO Turn 11 begins
+2018-02-21 22:01:04,859 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,859 INFO Turn 5 begins
+2018-02-21 22:01:04,860 INFO Turn 8 begins
+2018-02-21 22:01:04,860 INFO Anthony command: dodge
+2018-02-21 22:01:04,860 INFO Turn 12 begins
+2018-02-21 22:01:04,860 INFO Barth command: dodge
+2018-02-21 22:01:04,861 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,861 INFO Barth command: shoot
+2018-02-21 22:01:04,861 INFO Barth shot but without bullets
+2018-02-21 22:01:04,861 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,861 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:04,861 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,862 INFO Turn 12 begins
+2018-02-21 22:01:04,862 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,862 INFO Turn 13 begins
+2018-02-21 22:01:04,862 INFO Turn 9 begins
+2018-02-21 22:01:04,862 INFO Turn 6 begins
+2018-02-21 22:01:04,862 INFO Anthony command: dodge
+2018-02-21 22:01:04,863 INFO Anthony command: reload
+2018-02-21 22:01:04,863 INFO Anthony command: dodge
+2018-02-21 22:01:04,863 INFO Barth command: dodge
+2018-02-21 22:01:04,863 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,864 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,864 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,864 INFO Turn 13 begins
+2018-02-21 22:01:04,864 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,865 INFO Turn 10 begins
+2018-02-21 22:01:04,865 INFO Turn 14 begins
+2018-02-21 22:01:04,865 INFO Anthony command: dodge
+2018-02-21 22:01:04,865 INFO Turn 7 begins
+2018-02-21 22:01:04,865 INFO Anthony command: shoot
+2018-02-21 22:01:04,865 INFO Barth command: dodge
+2018-02-21 22:01:04,866 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,866 INFO Barth command: dodge
+2018-02-21 22:01:04,866 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,867 INFO Turn 14 begins
+2018-02-21 22:01:04,867 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,867 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,867 INFO Turn 15 begins
+2018-02-21 22:01:04,867 INFO Turn 11 begins
+2018-02-21 22:01:04,867 INFO Anthony command: reload
+2018-02-21 22:01:04,867 INFO Turn 8 begins
+2018-02-21 22:01:04,868 INFO Anthony command: dodge
+2018-02-21 22:01:04,868 INFO Barth command: dodge
+2018-02-21 22:01:04,868 INFO Anthony command: reload
+2018-02-21 22:01:04,868 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,868 INFO Barth shot but without bullets
+2018-02-21 22:01:04,869 INFO Barth shot but without bullets
+2018-02-21 22:01:04,869 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,869 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,869 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,869 INFO Turn 15 begins
+2018-02-21 22:01:04,869 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,870 INFO Turn 12 begins
+2018-02-21 22:01:04,870 INFO Anthony command: dodge
+2018-02-21 22:01:04,870 INFO Turn 9 begins
+2018-02-21 22:01:04,870 INFO Turn 16 begins
+2018-02-21 22:01:04,870 INFO Anthony command: reload
+2018-02-21 22:01:04,870 INFO Barth command: dodge
+2018-02-21 22:01:04,871 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,871 INFO Barth command: dodge
+2018-02-21 22:01:04,871 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,872 INFO Turn 16 begins
+2018-02-21 22:01:04,872 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,872 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,872 INFO Turn 17 begins
+2018-02-21 22:01:04,872 INFO Turn 10 begins
+2018-02-21 22:01:04,872 INFO Turn 13 begins
+2018-02-21 22:01:04,872 INFO Anthony command: dodge
+2018-02-21 22:01:04,873 INFO Anthony command: dodge
+2018-02-21 22:01:04,873 INFO Anthony command: reload
+2018-02-21 22:01:04,873 INFO Barth command: dodge
+2018-02-21 22:01:04,873 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,874 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,874 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,874 INFO Turn 17 begins
+2018-02-21 22:01:04,874 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,875 INFO Turn 11 begins
+2018-02-21 22:01:04,875 INFO Turn 14 begins
+2018-02-21 22:01:04,875 INFO Turn 18 begins
+2018-02-21 22:01:04,875 INFO Anthony command: dodge
+2018-02-21 22:01:04,876 INFO Barth command: dodge
+2018-02-21 22:01:04,876 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,876 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,877 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,877 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,877 INFO Turn 18 begins
+2018-02-21 22:01:04,877 INFO Turn 15 begins
+2018-02-21 22:01:04,877 INFO Turn 12 begins
+2018-02-21 22:01:04,877 INFO Turn 19 begins
+2018-02-21 22:01:04,877 INFO Anthony command: dodge
+2018-02-21 22:01:04,878 INFO Anthony command: dodge
+2018-02-21 22:01:04,878 INFO Anthony command: shoot
+2018-02-21 22:01:04,878 INFO Barth command: dodge
+2018-02-21 22:01:04,878 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,879 INFO Barth command: dodge
+2018-02-21 22:01:04,879 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,879 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,879 INFO Turn 19 begins
+2018-02-21 22:01:04,879 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,880 INFO Turn 20 begins
+2018-02-21 22:01:04,880 INFO Turn 13 begins
+2018-02-21 22:01:04,880 INFO Turn 16 begins
+2018-02-21 22:01:04,880 INFO Anthony command: dodge
+2018-02-21 22:01:04,881 INFO Anthony command: shoot
+2018-02-21 22:01:04,880 INFO Anthony command: reload
+2018-02-21 22:01:04,881 INFO Barth command: dodge
+2018-02-21 22:01:04,882 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,882 INFO Barth command: dodge
+2018-02-21 22:01:04,882 INFO Barth shot but without bullets
+2018-02-21 22:01:04,882 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,882 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,882 INFO Anthony shoots Barth
+2018-02-21 22:01:04,882 INFO Turn 20 begins
+2018-02-21 22:01:04,882 INFO Turn 17 begins
+2018-02-21 22:01:04,883 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,883 INFO Anthony shoots Barth
+2018-02-21 22:01:04,883 INFO Turn 21 begins
+2018-02-21 22:01:04,883 INFO Anthony command: dodge
+2018-02-21 22:01:04,883 INFO Killing Anthony
+2018-02-21 22:01:04,884 INFO Anthony command: reload
+2018-02-21 22:01:04,884 INFO Barth command: dodge
+2018-02-21 22:01:04,884 INFO Anthony exit code: None
+2018-02-21 22:01:04,884 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,884 INFO Killing Barth
+2018-02-21 22:01:04,885 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,885 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,885 INFO Barth exit code: None
+2018-02-21 22:01:04,885 INFO Turn 21 begins
+2018-02-21 22:01:04,886 INFO Anthony command: dodge
+2018-02-21 22:01:04,886 INFO Turn 18 begins
+2018-02-21 22:01:04,886 INFO Barth command: dodge
+2018-02-21 22:01:04,887 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,887 INFO Barth command: dodge
+2018-02-21 22:01:04,887 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,888 INFO Turn 22 begins
+2018-02-21 22:01:04,888 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,888 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,888 INFO Turn 19 begins
+2018-02-21 22:01:04,888 INFO Anthony command: reload
+2018-02-21 22:01:04,888 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,889 INFO Turn 22 begins
+2018-02-21 22:01:04,889 INFO Anthony command: reload
+2018-02-21 22:01:04,889 INFO Barth command: dodge
+2018-02-21 22:01:04,889 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,890 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,890 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,890 INFO Turn 23 begins
+2018-02-21 22:01:04,890 INFO Barth command: dodge
+2018-02-21 22:01:04,890 INFO Turn 20 begins
+2018-02-21 22:01:04,891 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,891 INFO Anthony command: shoot
+2018-02-21 22:01:04,891 INFO Anthony command: reload
+2018-02-21 22:01:04,891 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,892 INFO Barth command: dodge
+2018-02-21 22:01:04,892 INFO Turn 23 begins
+2018-02-21 22:01:04,892 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,892 INFO Anthony command: dodge
+2018-02-21 22:01:04,893 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,893 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,893 INFO Barth command: dodge
+2018-02-21 22:01:04,893 INFO Turn 24 begins
+2018-02-21 22:01:04,893 INFO Turn 21 begins
+2018-02-21 22:01:04,893 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,894 INFO Anthony command: reload
+2018-02-21 22:01:04,894 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,894 INFO Anthony command: dodge
+2018-02-21 22:01:04,894 INFO Barth shot but without bullets
+2018-02-21 22:01:04,894 INFO Turn 24 begins
+2018-02-21 22:01:04,895 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,895 INFO Barth command: dodge
+2018-02-21 22:01:04,895 INFO Anthony command: shoot
+2018-02-21 22:01:04,895 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,895 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,895 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,896 INFO Turn 25 begins
+2018-02-21 22:01:04,896 INFO Barth command: dodge
+2018-02-21 22:01:04,896 INFO Turn 22 begins
+2018-02-21 22:01:04,896 INFO Anthony command: dodge
+2018-02-21 22:01:04,896 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,897 INFO Barth command: dodge
+2018-02-21 22:01:04,897 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,897 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,897 INFO Turn 25 begins
+2018-02-21 22:01:04,897 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,898 INFO Anthony command: shoot
+2018-02-21 22:01:04,898 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,898 INFO Turn 26 begins
+2018-02-21 22:01:04,898 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,898 INFO Barth shot but without bullets
+2018-02-21 22:01:04,899 INFO Anthony command: shoot
+2018-02-21 22:01:04,899 INFO Turn 23 begins
+2018-02-21 22:01:04,899 INFO Anthony shoots Barth
+2018-02-21 22:01:04,899 INFO Barth command: dodge
+2018-02-21 22:01:04,899 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,900 INFO Killing Anthony
+2018-02-21 22:01:04,900 INFO Barth command: dodge
+2018-02-21 22:01:04,900 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,900 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,900 INFO Turn 27 begins
+2018-02-21 22:01:04,900 INFO Anthony exit code: None
+2018-02-21 22:01:04,901 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,901 INFO Killing Barth
+2018-02-21 22:01:04,901 INFO Turn 24 begins
+2018-02-21 22:01:04,901 INFO Anthony command: dodge
+2018-02-21 22:01:04,901 INFO Barth exit code: None
+2018-02-21 22:01:04,902 INFO Anthony command: shoot
+2018-02-21 22:01:04,902 INFO Barth shot but without bullets
+2018-02-21 22:01:04,903 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,903 INFO Barth shot but without bullets
+2018-02-21 22:01:04,903 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,904 INFO Anthony shoots Barth
+2018-02-21 22:01:04,904 INFO Turn 28 begins
+2018-02-21 22:01:04,904 INFO Anthony command: shoot
+2018-02-21 22:01:04,904 INFO Killing Anthony
+2018-02-21 22:01:04,905 INFO Anthony exit code: None
+2018-02-21 22:01:04,906 INFO Killing Barth
+2018-02-21 22:01:04,906 INFO Barth command: dodge
+2018-02-21 22:01:04,906 INFO Barth exit code: None
+2018-02-21 22:01:04,906 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,907 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,907 INFO Turn 29 begins
+2018-02-21 22:01:04,908 INFO Anthony command: dodge
+2018-02-21 22:01:04,908 INFO Barth shot but without bullets
+2018-02-21 22:01:04,909 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,909 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,910 INFO Turn 30 begins
+2018-02-21 22:01:04,911 INFO Anthony command: dodge
+2018-02-21 22:01:04,911 INFO Barth command: dodge
+2018-02-21 22:01:04,912 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,912 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,913 INFO Turn 31 begins
+2018-02-21 22:01:04,914 INFO Anthony command: dodge
+2018-02-21 22:01:04,914 INFO Barth command: dodge
+2018-02-21 22:01:04,915 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,915 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,916 INFO Turn 32 begins
+2018-02-21 22:01:04,916 INFO Anthony command: dodge
+2018-02-21 22:01:04,917 INFO Barth command: dodge
+2018-02-21 22:01:04,918 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,918 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,919 INFO Turn 33 begins
+2018-02-21 22:01:04,919 INFO Anthony command: dodge
+2018-02-21 22:01:04,920 INFO Barth command: dodge
+2018-02-21 22:01:04,920 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,921 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,921 INFO Turn 34 begins
+2018-02-21 22:01:04,922 INFO Anthony command: reload
+2018-02-21 22:01:04,922 INFO Barth command: dodge
+2018-02-21 22:01:04,923 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,923 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,924 INFO Turn 35 begins
+2018-02-21 22:01:04,924 INFO Anthony command: shoot
+2018-02-21 22:01:04,925 INFO Barth command: dodge
+2018-02-21 22:01:04,926 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,926 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,926 INFO Turn 36 begins
+2018-02-21 22:01:04,927 INFO Anthony command: dodge
+2018-02-21 22:01:04,928 INFO Barth shot but without bullets
+2018-02-21 22:01:04,928 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,929 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,929 INFO Turn 37 begins
+2018-02-21 22:01:04,930 INFO Anthony command: dodge
+2018-02-21 22:01:04,930 INFO Barth command: dodge
+2018-02-21 22:01:04,931 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,931 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,932 INFO Turn 38 begins
+2018-02-21 22:01:04,932 INFO Anthony command: reload
+2018-02-21 22:01:04,933 INFO Barth command: dodge
+2018-02-21 22:01:04,933 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,934 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,934 INFO Turn 39 begins
+2018-02-21 22:01:04,935 INFO Anthony command: reload
+2018-02-21 22:01:04,936 INFO Barth command: dodge
+2018-02-21 22:01:04,936 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,937 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,937 INFO Turn 40 begins
+2018-02-21 22:01:04,938 INFO Anthony command: dodge
+2018-02-21 22:01:04,938 INFO Barth command: dodge
+2018-02-21 22:01:04,939 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,939 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,940 INFO Turn 41 begins
+2018-02-21 22:01:04,940 INFO Anthony command: shoot
+2018-02-21 22:01:04,941 INFO Barth command: dodge
+2018-02-21 22:01:04,941 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,942 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,942 INFO Turn 42 begins
+2018-02-21 22:01:04,944 INFO Anthony command: reload
+2018-02-21 22:01:04,945 INFO Barth shot but without bullets
+2018-02-21 22:01:04,946 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:04,946 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,946 INFO Turn 43 begins
+2018-02-21 22:01:04,947 INFO Anthony command: dodge
+2018-02-21 22:01:04,948 INFO Barth command: dodge
+2018-02-21 22:01:04,948 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,949 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,949 INFO Turn 44 begins
+2018-02-21 22:01:04,953 INFO Anthony command: reload
+2018-02-21 22:01:04,953 INFO Barth command: dodge
+2018-02-21 22:01:04,954 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,954 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:04,955 INFO Turn 45 begins
+2018-02-21 22:01:04,955 INFO Anthony command: dodge
+2018-02-21 22:01:04,956 INFO Barth command: dodge
+2018-02-21 22:01:04,956 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,957 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:04,958 INFO Turn 46 begins
+2018-02-21 22:01:04,958 INFO Anthony command: shoot
+2018-02-21 22:01:04,959 INFO Barth command: dodge
+2018-02-21 22:01:04,959 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:04,959 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:04,960 INFO Turn 47 begins
+2018-02-21 22:01:04,961 INFO Anthony command: shoot
+2018-02-21 22:01:04,961 INFO Barth shot but without bullets
+2018-02-21 22:01:04,962 INFO Anthony shoots Barth
+2018-02-21 22:01:04,962 INFO Killing Anthony
+2018-02-21 22:01:04,969 INFO Anthony exit code: 1
+2018-02-21 22:01:04,970 INFO Killing Barth
+2018-02-21 22:01:04,975 INFO Barth exit code: 1
+2018-02-21 22:01:05,137 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,138 INFO Turn 1 begins
+2018-02-21 22:01:05,139 INFO Anthony command: dodge
+2018-02-21 22:01:05,140 INFO Barth command: dodge
+2018-02-21 22:01:05,141 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,141 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,142 INFO Turn 2 begins
+2018-02-21 22:01:05,143 INFO Anthony command: dodge
+2018-02-21 22:01:05,144 INFO Barth command: dodge
+2018-02-21 22:01:05,145 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,146 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,147 INFO Turn 3 begins
+2018-02-21 22:01:05,148 INFO Anthony command: reload
+2018-02-21 22:01:05,149 INFO Barth command: dodge
+2018-02-21 22:01:05,150 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,151 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,152 INFO Turn 4 begins
+2018-02-21 22:01:05,153 INFO Anthony command: reload
+2018-02-21 22:01:05,155 INFO Barth command: dodge
+2018-02-21 22:01:05,156 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,157 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,157 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,158 INFO Turn 5 begins
+2018-02-21 22:01:05,158 INFO Turn 1 begins
+2018-02-21 22:01:05,159 INFO Anthony command: dodge
+2018-02-21 22:01:05,159 INFO Anthony command: reload
+2018-02-21 22:01:05,160 INFO Barth command: dodge
+2018-02-21 22:01:05,161 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,161 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,162 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,162 INFO Turn 6 begins
+2018-02-21 22:01:05,162 INFO Turn 2 begins
+2018-02-21 22:01:05,163 INFO Anthony command: dodge
+2018-02-21 22:01:05,164 INFO Anthony command: dodge
+2018-02-21 22:01:05,164 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,164 INFO Barth command: dodge
+2018-02-21 22:01:05,165 INFO Barth command: dodge
+2018-02-21 22:01:05,165 INFO Turn 1 begins
+2018-02-21 22:01:05,165 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,166 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,167 INFO Turn 7 begins
+2018-02-21 22:01:05,166 INFO Anthony command: reload
+2018-02-21 22:01:05,168 INFO Anthony command: dodge
+2018-02-21 22:01:05,167 INFO Turn 3 begins
+2018-02-21 22:01:05,168 INFO Barth command: dodge
+2018-02-21 22:01:05,169 INFO Barth command: dodge
+2018-02-21 22:01:05,169 INFO Anthony command: reload
+2018-02-21 22:01:05,169 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,170 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,170 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,170 INFO Barth command: dodge
+2018-02-21 22:01:05,171 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,171 INFO Turn 2 begins
+2018-02-21 22:01:05,171 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,171 INFO Turn 8 begins
+2018-02-21 22:01:05,172 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,172 INFO Anthony command: reload
+2018-02-21 22:01:05,173 INFO Anthony command: dodge
+2018-02-21 22:01:05,173 INFO Barth command: dodge
+2018-02-21 22:01:05,173 INFO Turn 4 begins
+2018-02-21 22:01:05,174 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,174 INFO Anthony command: dodge
+2018-02-21 22:01:05,175 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,174 INFO Barth command: dodge
+2018-02-21 22:01:05,176 INFO Turn 9 begins
+2018-02-21 22:01:05,176 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,177 INFO Anthony command: dodge
+2018-02-21 22:01:05,177 INFO Barth command: dodge
+2018-02-21 22:01:05,178 INFO Barth command: dodge
+2018-02-21 22:01:05,178 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,179 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,179 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,179 INFO Turn 5 begins
+2018-02-21 22:01:05,180 INFO Turn 10 begins
+2018-02-21 22:01:05,180 INFO Turn 3 begins
+2018-02-21 22:01:05,181 INFO Anthony command: reload
+2018-02-21 22:01:05,181 INFO Anthony command: shoot
+2018-02-21 22:01:05,182 INFO Barth command: dodge
+2018-02-21 22:01:05,183 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,184 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,184 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,185 INFO Turn 11 begins
+2018-02-21 22:01:05,185 INFO Anthony command: dodge
+2018-02-21 22:01:05,185 INFO Turn 6 begins
+2018-02-21 22:01:05,186 INFO Anthony command: dodge
+2018-02-21 22:01:05,186 INFO Barth command: dodge
+2018-02-21 22:01:05,186 INFO Anthony command: shoot
+2018-02-21 22:01:05,187 INFO Barth command: shoot
+2018-02-21 22:01:05,187 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,187 INFO Barth command: dodge
+2018-02-21 22:01:05,187 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,188 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,188 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,188 INFO Turn 4 begins
+2018-02-21 22:01:05,189 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,189 INFO Turn 12 begins
+2018-02-21 22:01:05,189 INFO Anthony command: shoot
+2018-02-21 22:01:05,190 INFO Turn 7 begins
+2018-02-21 22:01:05,190 INFO Anthony command: reload
+2018-02-21 22:01:05,190 INFO Barth command: dodge
+2018-02-21 22:01:05,191 INFO Anthony command: shoot
+2018-02-21 22:01:05,191 INFO Barth command: dodge
+2018-02-21 22:01:05,191 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,192 INFO Barth command: shoot
+2018-02-21 22:01:05,192 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,192 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,192 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,193 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,193 INFO Turn 5 begins
+2018-02-21 22:01:05,193 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,194 INFO Turn 13 begins
+2018-02-21 22:01:05,194 INFO Turn 8 begins
+2018-02-21 22:01:05,194 INFO Anthony command: dodge
+2018-02-21 22:01:05,195 INFO Anthony command: dodge
+2018-02-21 22:01:05,195 INFO Barth command: shoot
+2018-02-21 22:01:05,195 INFO Barth command: dodge
+2018-02-21 22:01:05,196 INFO Barth shot but without bullets
+2018-02-21 22:01:05,196 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,196 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,197 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,197 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,197 INFO Turn 6 begins
+2018-02-21 22:01:05,198 INFO Turn 14 begins
+2018-02-21 22:01:05,198 INFO Turn 9 begins
+2018-02-21 22:01:05,199 INFO Anthony command: reload
+2018-02-21 22:01:05,199 INFO Anthony command: dodge
+2018-02-21 22:01:05,199 INFO Anthony command: shoot
+2018-02-21 22:01:05,200 INFO Barth command: dodge
+2018-02-21 22:01:05,200 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,201 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,202 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,202 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,202 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,202 INFO Turn 10 begins
+2018-02-21 22:01:05,202 INFO Turn 7 begins
+2018-02-21 22:01:05,203 INFO Turn 15 begins
+2018-02-21 22:01:05,203 INFO Anthony command: reload
+2018-02-21 22:01:05,204 INFO Anthony command: reload
+2018-02-21 22:01:05,204 INFO Anthony command: dodge
+2018-02-21 22:01:05,204 INFO Barth shot but without bullets
+2018-02-21 22:01:05,204 INFO Barth command: dodge
+2018-02-21 22:01:05,205 INFO Barth command: dodge
+2018-02-21 22:01:05,205 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,205 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,206 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,206 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,207 INFO Turn 11 begins
+2018-02-21 22:01:05,207 INFO Turn 8 begins
+2018-02-21 22:01:05,207 INFO Turn 16 begins
+2018-02-21 22:01:05,208 INFO Anthony command: dodge
+2018-02-21 22:01:05,209 INFO Barth command: dodge
+2018-02-21 22:01:05,210 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,210 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,211 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,211 INFO Turn 12 begins
+2018-02-21 22:01:05,211 INFO Turn 17 begins
+2018-02-21 22:01:05,212 INFO Turn 9 begins
+2018-02-21 22:01:05,212 INFO Anthony command: shoot
+2018-02-21 22:01:05,213 INFO Anthony command: dodge
+2018-02-21 22:01:05,213 INFO Barth command: dodge
+2018-02-21 22:01:05,214 INFO Barth command: dodge
+2018-02-21 22:01:05,214 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,215 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,215 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,215 INFO Turn 13 begins
+2018-02-21 22:01:05,216 INFO Turn 18 begins
+2018-02-21 22:01:05,216 INFO Turn 10 begins
+2018-02-21 22:01:05,216 INFO Anthony command: dodge
+2018-02-21 22:01:05,217 INFO Anthony command: dodge
+2018-02-21 22:01:05,217 INFO Barth shot but without bullets
+2018-02-21 22:01:05,218 INFO Barth command: dodge
+2018-02-21 22:01:05,218 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,218 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,219 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,220 INFO Turn 14 begins
+2018-02-21 22:01:05,220 INFO Turn 19 begins
+2018-02-21 22:01:05,220 INFO Turn 11 begins
+2018-02-21 22:01:05,220 INFO Anthony command: dodge
+2018-02-21 22:01:05,221 INFO Anthony command: shoot
+2018-02-21 22:01:05,221 INFO Anthony command: dodge
+2018-02-21 22:01:05,221 INFO Barth command: dodge
+2018-02-21 22:01:05,222 INFO Barth command: dodge
+2018-02-21 22:01:05,222 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,223 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,223 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,223 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,224 INFO Turn 12 begins
+2018-02-21 22:01:05,224 INFO Turn 15 begins
+2018-02-21 22:01:05,224 INFO Turn 20 begins
+2018-02-21 22:01:05,225 INFO Anthony command: dodge
+2018-02-21 22:01:05,225 INFO Anthony command: reload
+2018-02-21 22:01:05,226 INFO Barth command: dodge
+2018-02-21 22:01:05,226 INFO Barth shot but without bullets
+2018-02-21 22:01:05,226 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,227 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,227 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,227 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,227 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,228 INFO Turn 21 begins
+2018-02-21 22:01:05,228 INFO Turn 16 begins
+2018-02-21 22:01:05,228 INFO Turn 13 begins
+2018-02-21 22:01:05,229 INFO Anthony command: dodge
+2018-02-21 22:01:05,229 INFO Anthony command: shoot
+2018-02-21 22:01:05,229 INFO Barth command: dodge
+2018-02-21 22:01:05,230 INFO Barth command: dodge
+2018-02-21 22:01:05,230 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,230 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,231 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,231 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,231 INFO Turn 1 begins
+2018-02-21 22:01:05,231 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,232 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,232 INFO Turn 17 begins
+2018-02-21 22:01:05,232 INFO Anthony command: reload
+2018-02-21 22:01:05,232 INFO Turn 22 begins
+2018-02-21 22:01:05,232 INFO Turn 14 begins
+2018-02-21 22:01:05,233 INFO Anthony command: dodge
+2018-02-21 22:01:05,233 INFO Barth command: dodge
+2018-02-21 22:01:05,233 INFO Anthony command: reload
+2018-02-21 22:01:05,234 INFO Barth command: dodge
+2018-02-21 22:01:05,234 INFO Barth shot but without bullets
+2018-02-21 22:01:05,234 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,235 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,235 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,235 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,235 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,236 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,236 INFO Turn 2 begins
+2018-02-21 22:01:05,236 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,236 INFO Turn 18 begins
+2018-02-21 22:01:05,237 INFO Turn 23 begins
+2018-02-21 22:01:05,237 INFO Turn 15 begins
+2018-02-21 22:01:05,237 INFO Anthony command: reload
+2018-02-21 22:01:05,237 INFO Anthony command: shoot
+2018-02-21 22:01:05,238 INFO Anthony command: shoot
+2018-02-21 22:01:05,238 INFO Anthony command: dodge
+2018-02-21 22:01:05,238 INFO Barth command: dodge
+2018-02-21 22:01:05,239 INFO Barth command: dodge
+2018-02-21 22:01:05,239 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,240 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,240 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,240 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,241 INFO Turn 16 begins
+2018-02-21 22:01:05,241 INFO Turn 24 begins
+2018-02-21 22:01:05,241 INFO Turn 3 begins
+2018-02-21 22:01:05,241 INFO Turn 19 begins
+2018-02-21 22:01:05,242 INFO Anthony command: shoot
+2018-02-21 22:01:05,242 INFO Anthony command: reload
+2018-02-21 22:01:05,242 INFO Anthony command: dodge
+2018-02-21 22:01:05,243 INFO Barth shot but without bullets
+2018-02-21 22:01:05,243 INFO Barth command: dodge
+2018-02-21 22:01:05,244 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,244 INFO Barth command: shoot
+2018-02-21 22:01:05,244 INFO Anthony shoots Barth
+2018-02-21 22:01:05,244 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,245 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,245 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,245 INFO Anthony shoots Barth
+2018-02-21 22:01:05,245 INFO Turn 17 begins
+2018-02-21 22:01:05,245 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,246 INFO Turn 20 begins
+2018-02-21 22:01:05,246 INFO Killing Anthony
+2018-02-21 22:01:05,246 INFO Turn 4 begins
+2018-02-21 22:01:05,246 INFO Anthony command: dodge
+2018-02-21 22:01:05,246 INFO Anthony exit code: None
+2018-02-21 22:01:05,247 INFO Barth shot but without bullets
+2018-02-21 22:01:05,247 INFO Anthony command: dodge
+2018-02-21 22:01:05,247 INFO Killing Barth
+2018-02-21 22:01:05,248 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,248 INFO Barth command: dodge
+2018-02-21 22:01:05,248 INFO Barth exit code: None
+2018-02-21 22:01:05,248 INFO Anthony command: dodge
+2018-02-21 22:01:05,249 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,249 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,249 INFO Barth command: dodge
+2018-02-21 22:01:05,250 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,250 INFO Turn 21 begins
+2018-02-21 22:01:05,250 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,251 INFO Turn 18 begins
+2018-02-21 22:01:05,251 INFO Anthony command: shoot
+2018-02-21 22:01:05,251 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,252 INFO Barth command: dodge
+2018-02-21 22:01:05,252 INFO Anthony command: dodge
+2018-02-21 22:01:05,253 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,252 INFO Turn 5 begins
+2018-02-21 22:01:05,253 INFO Barth command: dodge
+2018-02-21 22:01:05,254 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,254 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,254 INFO Anthony command: dodge
+2018-02-21 22:01:05,255 INFO Turn 22 begins
+2018-02-21 22:01:05,255 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,256 INFO Turn 19 begins
+2018-02-21 22:01:05,256 INFO Anthony command: dodge
+2018-02-21 22:01:05,256 INFO Barth command: dodge
+2018-02-21 22:01:05,257 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,257 INFO Barth shot but without bullets
+2018-02-21 22:01:05,257 INFO Anthony command: shoot
+2018-02-21 22:01:05,258 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,258 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,258 INFO Barth command: dodge
+2018-02-21 22:01:05,258 INFO Turn 6 begins
+2018-02-21 22:01:05,259 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,259 INFO Turn 23 begins
+2018-02-21 22:01:05,259 INFO Anthony command: dodge
+2018-02-21 22:01:05,260 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,260 INFO Anthony command: dodge
+2018-02-21 22:01:05,260 INFO Barth command: dodge
+2018-02-21 22:01:05,260 INFO Turn 20 begins
+2018-02-21 22:01:05,261 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,261 INFO Barth command: dodge
+2018-02-21 22:01:05,262 INFO Anthony command: dodge
+2018-02-21 22:01:05,262 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,262 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,262 INFO Barth shot but without bullets
+2018-02-21 22:01:05,263 INFO Turn 7 begins
+2018-02-21 22:01:05,263 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,263 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,264 INFO Turn 24 begins
+2018-02-21 22:01:05,264 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,264 INFO Anthony command: dodge
+2018-02-21 22:01:05,265 INFO Anthony command: dodge
+2018-02-21 22:01:05,265 INFO Turn 21 begins
+2018-02-21 22:01:05,265 INFO Barth command: dodge
+2018-02-21 22:01:05,266 INFO Anthony command: reload
+2018-02-21 22:01:05,266 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,267 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,267 INFO Barth command: dodge
+2018-02-21 22:01:05,268 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,268 INFO Turn 8 begins
+2018-02-21 22:01:05,268 INFO Turn 25 begins
+2018-02-21 22:01:05,268 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,269 INFO Anthony command: dodge
+2018-02-21 22:01:05,269 INFO Turn 22 begins
+2018-02-21 22:01:05,270 INFO Barth command: dodge
+2018-02-21 22:01:05,270 INFO Anthony command: dodge
+2018-02-21 22:01:05,270 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,271 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,271 INFO Barth command: dodge
+2018-02-21 22:01:05,271 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,272 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,272 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,272 INFO Turn 26 begins
+2018-02-21 22:01:05,272 INFO Turn 9 begins
+2018-02-21 22:01:05,273 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,273 INFO Anthony command: dodge
+2018-02-21 22:01:05,274 INFO Anthony command: dodge
+2018-02-21 22:01:05,274 INFO Turn 23 begins
+2018-02-21 22:01:05,274 INFO Barth command: dodge
+2018-02-21 22:01:05,275 INFO Barth command: dodge
+2018-02-21 22:01:05,275 INFO Anthony command: shoot
+2018-02-21 22:01:05,275 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,276 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,276 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,277 INFO Turn 27 begins
+2018-02-21 22:01:05,277 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,277 INFO Turn 10 begins
+2018-02-21 22:01:05,278 INFO Anthony command: dodge
+2018-02-21 22:01:05,278 INFO Turn 24 begins
+2018-02-21 22:01:05,278 INFO Barth command: dodge
+2018-02-21 22:01:05,279 INFO Anthony command: reload
+2018-02-21 22:01:05,279 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,280 INFO Barth command: dodge
+2018-02-21 22:01:05,280 INFO Barth shot but without bullets
+2018-02-21 22:01:05,280 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,281 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,281 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,281 INFO Turn 28 begins
+2018-02-21 22:01:05,281 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,282 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,282 INFO Anthony command: dodge
+2018-02-21 22:01:05,282 INFO Turn 11 begins
+2018-02-21 22:01:05,282 INFO Turn 25 begins
+2018-02-21 22:01:05,283 INFO Barth command: dodge
+2018-02-21 22:01:05,283 INFO Anthony command: shoot
+2018-02-21 22:01:05,284 INFO Barth command: dodge
+2018-02-21 22:01:05,284 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,285 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,285 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,286 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,286 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,287 INFO Turn 29 begins
+2018-02-21 22:01:05,287 INFO Turn 26 begins
+2018-02-21 22:01:05,289 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,289 INFO Anthony command: reload
+2018-02-21 22:01:05,290 INFO Anthony command: dodge
+2018-02-21 22:01:05,290 INFO Turn 12 begins
+2018-02-21 22:01:05,290 INFO Barth command: dodge
+2018-02-21 22:01:05,291 INFO Barth shot but without bullets
+2018-02-21 22:01:05,291 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,291 INFO Anthony command: dodge
+2018-02-21 22:01:05,292 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,292 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,292 INFO Barth shot but without bullets
+2018-02-21 22:01:05,292 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,293 INFO Turn 30 begins
+2018-02-21 22:01:05,293 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,293 INFO Turn 27 begins
+2018-02-21 22:01:05,294 INFO Anthony command: dodge
+2018-02-21 22:01:05,294 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,295 INFO Anthony command: dodge
+2018-02-21 22:01:05,295 INFO Barth command: dodge
+2018-02-21 22:01:05,295 INFO Turn 13 begins
+2018-02-21 22:01:05,296 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,296 INFO Anthony command: dodge
+2018-02-21 22:01:05,296 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,297 INFO Barth command: dodge
+2018-02-21 22:01:05,297 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,297 INFO Turn 31 begins
+2018-02-21 22:01:05,298 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,298 INFO Turn 28 begins
+2018-02-21 22:01:05,298 INFO Anthony command: shoot
+2018-02-21 22:01:05,299 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,299 INFO Barth command: dodge
+2018-02-21 22:01:05,299 INFO Anthony command: dodge
+2018-02-21 22:01:05,299 INFO Turn 14 begins
+2018-02-21 22:01:05,300 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,300 INFO Barth command: dodge
+2018-02-21 22:01:05,301 INFO Anthony command: reload
+2018-02-21 22:01:05,301 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,301 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,301 INFO Turn 32 begins
+2018-02-21 22:01:05,302 INFO Barth command: dodge
+2018-02-21 22:01:05,302 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,302 INFO Anthony command: dodge
+2018-02-21 22:01:05,302 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,303 INFO Turn 29 begins
+2018-02-21 22:01:05,303 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,303 INFO Barth shot but without bullets
+2018-02-21 22:01:05,304 INFO Anthony command: dodge
+2018-02-21 22:01:05,304 INFO Turn 15 begins
+2018-02-21 22:01:05,304 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,305 INFO Barth command: dodge
+2018-02-21 22:01:05,305 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,305 INFO Anthony command: reload
+2018-02-21 22:01:05,305 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,306 INFO Turn 33 begins
+2018-02-21 22:01:05,306 INFO Barth command: dodge
+2018-02-21 22:01:05,306 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,307 INFO Anthony command: dodge
+2018-02-21 22:01:05,307 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,307 INFO Turn 30 begins
+2018-02-21 22:01:05,308 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,308 INFO Barth command: dodge
+2018-02-21 22:01:05,308 INFO Anthony command: reload
+2018-02-21 22:01:05,309 INFO Turn 16 begins
+2018-02-21 22:01:05,309 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,309 INFO Barth command: dodge
+2018-02-21 22:01:05,310 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,310 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,310 INFO Anthony command: reload
+2018-02-21 22:01:05,310 INFO Turn 34 begins
+2018-02-21 22:01:05,311 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,311 INFO Barth command: dodge
+2018-02-21 22:01:05,311 INFO Anthony command: dodge
+2018-02-21 22:01:05,311 INFO Turn 31 begins
+2018-02-21 22:01:05,312 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,312 INFO Barth command: dodge
+2018-02-21 22:01:05,312 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,313 INFO Anthony command: dodge
+2018-02-21 22:01:05,313 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,313 INFO Turn 17 begins
+2018-02-21 22:01:05,313 INFO Barth command: dodge
+2018-02-21 22:01:05,314 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,314 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,315 INFO Anthony command: dodge
+2018-02-21 22:01:05,315 INFO Turn 35 begins
+2018-02-21 22:01:05,315 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,315 INFO Barth command: dodge
+2018-02-21 22:01:05,316 INFO Anthony command: dodge
+2018-02-21 22:01:05,316 INFO Turn 32 begins
+2018-02-21 22:01:05,316 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,316 INFO Barth command: dodge
+2018-02-21 22:01:05,317 INFO Anthony command: dodge
+2018-02-21 22:01:05,317 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,317 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,318 INFO Barth command: dodge
+2018-02-21 22:01:05,318 INFO Turn 18 begins
+2018-02-21 22:01:05,318 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,319 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,319 INFO Turn 36 begins
+2018-02-21 22:01:05,319 INFO Anthony command: shoot
+2018-02-21 22:01:05,319 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,320 INFO Anthony command: reload
+2018-02-21 22:01:05,320 INFO Turn 33 begins
+2018-02-21 22:01:05,320 INFO Barth command: dodge
+2018-02-21 22:01:05,321 INFO Barth command: dodge
+2018-02-21 22:01:05,321 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,322 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,322 INFO Anthony command: shoot
+2018-02-21 22:01:05,322 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,323 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,323 INFO Barth command: dodge
+2018-02-21 22:01:05,323 INFO Turn 19 begins
+2018-02-21 22:01:05,323 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,323 INFO Turn 37 begins
+2018-02-21 22:01:05,324 INFO Anthony command: reload
+2018-02-21 22:01:05,324 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,324 INFO Anthony command: dodge
+2018-02-21 22:01:05,325 INFO Barth shot but without bullets
+2018-02-21 22:01:05,325 INFO Turn 34 begins
+2018-02-21 22:01:05,325 INFO Barth command: dodge
+2018-02-21 22:01:05,326 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,326 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,326 INFO Anthony command: dodge
+2018-02-21 22:01:05,327 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,327 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,327 INFO Barth shot but without bullets
+2018-02-21 22:01:05,328 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,328 INFO Turn 20 begins
+2018-02-21 22:01:05,328 INFO Turn 38 begins
+2018-02-21 22:01:05,329 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,329 INFO Anthony command: shoot
+2018-02-21 22:01:05,329 INFO Turn 35 begins
+2018-02-21 22:01:05,330 INFO Barth command: dodge
+2018-02-21 22:01:05,330 INFO Anthony command: dodge
+2018-02-21 22:01:05,331 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,331 INFO Barth command: dodge
+2018-02-21 22:01:05,331 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,332 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,332 INFO Turn 21 begins
+2018-02-21 22:01:05,332 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,333 INFO Turn 39 begins
+2018-02-21 22:01:05,333 INFO Anthony command: dodge
+2018-02-21 22:01:05,333 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,334 INFO Anthony command: dodge
+2018-02-21 22:01:05,334 INFO Barth shot but without bullets
+2018-02-21 22:01:05,334 INFO Turn 36 begins
+2018-02-21 22:01:05,335 INFO Barth shot but without bullets
+2018-02-21 22:01:05,335 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,335 INFO Anthony command: dodge
+2018-02-21 22:01:05,336 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,336 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,336 INFO Barth command: dodge
+2018-02-21 22:01:05,336 INFO Turn 22 begins
+2018-02-21 22:01:05,337 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,337 INFO Anthony command: dodge
+2018-02-21 22:01:05,338 INFO Turn 40 begins
+2018-02-21 22:01:05,338 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,338 INFO Barth command: dodge
+2018-02-21 22:01:05,338 INFO Anthony command: dodge
+2018-02-21 22:01:05,339 INFO Turn 37 begins
+2018-02-21 22:01:05,339 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,339 INFO Barth command: dodge
+2018-02-21 22:01:05,340 INFO Anthony command: dodge
+2018-02-21 22:01:05,340 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,340 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,341 INFO Turn 23 begins
+2018-02-21 22:01:05,341 INFO Barth command: dodge
+2018-02-21 22:01:05,341 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,342 INFO Anthony command: dodge
+2018-02-21 22:01:05,342 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,342 INFO Turn 41 begins
+2018-02-21 22:01:05,343 INFO Barth command: dodge
+2018-02-21 22:01:05,343 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,343 INFO Anthony command: dodge
+2018-02-21 22:01:05,344 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,344 INFO Turn 38 begins
+2018-02-21 22:01:05,344 INFO Barth command: dodge
+2018-02-21 22:01:05,344 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,345 INFO Anthony command: dodge
+2018-02-21 22:01:05,345 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,345 INFO Turn 24 begins
+2018-02-21 22:01:05,346 INFO Barth command: dodge
+2018-02-21 22:01:05,346 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,346 INFO Anthony command: dodge
+2018-02-21 22:01:05,346 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,347 INFO Turn 42 begins
+2018-02-21 22:01:05,347 INFO Barth command: dodge
+2018-02-21 22:01:05,348 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,348 INFO Anthony command: reload
+2018-02-21 22:01:05,349 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,349 INFO Barth command: dodge
+2018-02-21 22:01:05,349 INFO Turn 25 begins
+2018-02-21 22:01:05,348 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,350 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,350 INFO Anthony command: dodge
+2018-02-21 22:01:05,351 INFO Turn 39 begins
+2018-02-21 22:01:05,351 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,351 INFO Barth command: dodge
+2018-02-21 22:01:05,352 INFO Anthony command: dodge
+2018-02-21 22:01:05,352 INFO Turn 43 begins
+2018-02-21 22:01:05,352 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,353 INFO Barth command: dodge
+2018-02-21 22:01:05,353 INFO Anthony command: reload
+2018-02-21 22:01:05,353 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,354 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,354 INFO Barth command: dodge
+2018-02-21 22:01:05,354 INFO Turn 26 begins
+2018-02-21 22:01:05,354 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,355 INFO Anthony command: dodge
+2018-02-21 22:01:05,355 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,356 INFO Barth command: dodge
+2018-02-21 22:01:05,355 INFO Turn 40 begins
+2018-02-21 22:01:05,356 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,356 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,357 INFO Anthony command: reload
+2018-02-21 22:01:05,357 INFO Turn 44 begins
+2018-02-21 22:01:05,357 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,358 INFO Barth command: dodge
+2018-02-21 22:01:05,358 INFO Turn 27 begins
+2018-02-21 22:01:05,358 INFO Anthony command: reload
+2018-02-21 22:01:05,359 INFO Anthony command: shoot
+2018-02-21 22:01:05,359 INFO Barth command: dodge
+2018-02-21 22:01:05,359 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,360 INFO Barth command: dodge
+2018-02-21 22:01:05,360 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,360 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,361 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,361 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,361 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,361 INFO Turn 41 begins
+2018-02-21 22:01:05,362 INFO Turn 45 begins
+2018-02-21 22:01:05,362 INFO Turn 28 begins
+2018-02-21 22:01:05,362 INFO Anthony command: dodge
+2018-02-21 22:01:05,363 INFO Anthony command: shoot
+2018-02-21 22:01:05,363 INFO Barth command: dodge
+2018-02-21 22:01:05,364 INFO Barth command: dodge
+2018-02-21 22:01:05,364 INFO Barth shot but without bullets
+2018-02-21 22:01:05,364 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,365 INFO Anthony shoots Barth
+2018-02-21 22:01:05,365 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,365 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,366 INFO Anthony shoots Barth
+2018-02-21 22:01:05,366 INFO Turn 42 begins
+2018-02-21 22:01:05,367 INFO Killing Anthony
+2018-02-21 22:01:05,366 INFO Turn 46 begins
+2018-02-21 22:01:05,368 INFO Anthony exit code: None
+2018-02-21 22:01:05,368 INFO Anthony command: shoot
+2018-02-21 22:01:05,368 INFO Killing Barth
+2018-02-21 22:01:05,369 INFO Barth shot but without bullets
+2018-02-21 22:01:05,367 INFO Anthony command: shoot
+2018-02-21 22:01:05,369 INFO Barth exit code: None
+2018-02-21 22:01:05,370 INFO Barth command: dodge
+2018-02-21 22:01:05,371 INFO Anthony shoots Barth
+2018-02-21 22:01:05,371 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,372 INFO Anthony shoots Barth
+2018-02-21 22:01:05,372 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,372 INFO Killing Anthony
+2018-02-21 22:01:05,373 INFO Turn 43 begins
+2018-02-21 22:01:05,376 INFO Anthony command: reload
+2018-02-21 22:01:05,376 INFO Barth shot but without bullets
+2018-02-21 22:01:05,377 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,378 INFO Anthony exit code: None
+2018-02-21 22:01:05,379 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,379 INFO Killing Barth
+2018-02-21 22:01:05,381 INFO Turn 44 begins
+2018-02-21 22:01:05,382 INFO Anthony command: dodge
+2018-02-21 22:01:05,383 INFO Barth command: dodge
+2018-02-21 22:01:05,384 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,385 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,386 INFO Turn 45 begins
+2018-02-21 22:01:05,386 INFO Barth exit code: 1
+2018-02-21 22:01:05,387 INFO Anthony command: dodge
+2018-02-21 22:01:05,388 INFO Barth command: dodge
+2018-02-21 22:01:05,389 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,390 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,391 INFO Turn 46 begins
+2018-02-21 22:01:05,393 INFO Anthony command: dodge
+2018-02-21 22:01:05,395 INFO Barth command: dodge
+2018-02-21 22:01:05,396 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,396 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,398 INFO Turn 47 begins
+2018-02-21 22:01:05,398 INFO Anthony command: shoot
+2018-02-21 22:01:05,399 INFO Barth command: dodge
+2018-02-21 22:01:05,400 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,401 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,402 INFO Turn 48 begins
+2018-02-21 22:01:05,403 INFO Anthony command: dodge
+2018-02-21 22:01:05,404 INFO Barth shot but without bullets
+2018-02-21 22:01:05,405 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,406 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,407 INFO Turn 49 begins
+2018-02-21 22:01:05,408 INFO Anthony command: dodge
+2018-02-21 22:01:05,409 INFO Barth command: dodge
+2018-02-21 22:01:05,410 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,410 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,411 INFO Turn 50 begins
+2018-02-21 22:01:05,413 INFO Anthony command: reload
+2018-02-21 22:01:05,413 INFO Barth command: dodge
+2018-02-21 22:01:05,414 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,415 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,416 INFO Turn 51 begins
+2018-02-21 22:01:05,417 INFO Anthony command: shoot
+2018-02-21 22:01:05,418 INFO Barth command: dodge
+2018-02-21 22:01:05,419 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,419 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,420 INFO Turn 52 begins
+2018-02-21 22:01:05,422 INFO Anthony command: dodge
+2018-02-21 22:01:05,423 INFO Barth shot but without bullets
+2018-02-21 22:01:05,424 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,425 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,425 INFO Turn 53 begins
+2018-02-21 22:01:05,427 INFO Anthony command: reload
+2018-02-21 22:01:05,427 INFO Barth command: dodge
+2018-02-21 22:01:05,428 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,429 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,430 INFO Turn 54 begins
+2018-02-21 22:01:05,431 INFO Anthony command: shoot
+2018-02-21 22:01:05,432 INFO Barth command: dodge
+2018-02-21 22:01:05,433 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,434 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,434 INFO Turn 55 begins
+2018-02-21 22:01:05,437 INFO Anthony command: reload
+2018-02-21 22:01:05,438 INFO Barth shot but without bullets
+2018-02-21 22:01:05,439 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,440 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,441 INFO Turn 56 begins
+2018-02-21 22:01:05,442 INFO Anthony command: shoot
+2018-02-21 22:01:05,443 INFO Barth command: dodge
+2018-02-21 22:01:05,444 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,445 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,445 INFO Turn 57 begins
+2018-02-21 22:01:05,446 INFO Anthony command: dodge
+2018-02-21 22:01:05,448 INFO Barth shot but without bullets
+2018-02-21 22:01:05,448 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,449 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,450 INFO Turn 58 begins
+2018-02-21 22:01:05,451 INFO Anthony command: dodge
+2018-02-21 22:01:05,452 INFO Barth command: dodge
+2018-02-21 22:01:05,453 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,455 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,456 INFO Turn 59 begins
+2018-02-21 22:01:05,457 INFO Anthony command: dodge
+2018-02-21 22:01:05,458 INFO Barth command: dodge
+2018-02-21 22:01:05,459 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,459 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,460 INFO Turn 60 begins
+2018-02-21 22:01:05,461 INFO Anthony command: dodge
+2018-02-21 22:01:05,462 INFO Barth command: dodge
+2018-02-21 22:01:05,463 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,464 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,465 INFO Turn 61 begins
+2018-02-21 22:01:05,466 INFO Anthony command: dodge
+2018-02-21 22:01:05,467 INFO Barth command: dodge
+2018-02-21 22:01:05,467 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,468 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,469 INFO Turn 62 begins
+2018-02-21 22:01:05,470 INFO Anthony command: reload
+2018-02-21 22:01:05,471 INFO Barth command: dodge
+2018-02-21 22:01:05,472 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,473 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,474 INFO Turn 63 begins
+2018-02-21 22:01:05,475 INFO Anthony command: dodge
+2018-02-21 22:01:05,475 INFO Barth command: dodge
+2018-02-21 22:01:05,476 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,477 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,478 INFO Turn 64 begins
+2018-02-21 22:01:05,479 INFO Anthony command: shoot
+2018-02-21 22:01:05,479 INFO Barth command: dodge
+2018-02-21 22:01:05,480 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,480 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,481 INFO Turn 65 begins
+2018-02-21 22:01:05,482 INFO Anthony command: dodge
+2018-02-21 22:01:05,483 INFO Barth shot but without bullets
+2018-02-21 22:01:05,484 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,484 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,485 INFO Turn 66 begins
+2018-02-21 22:01:05,486 INFO Anthony command: reload
+2018-02-21 22:01:05,486 INFO Barth command: dodge
+2018-02-21 22:01:05,487 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,487 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,488 INFO Turn 67 begins
+2018-02-21 22:01:05,489 INFO Anthony command: shoot
+2018-02-21 22:01:05,489 INFO Barth command: dodge
+2018-02-21 22:01:05,490 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,491 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,491 INFO Turn 68 begins
+2018-02-21 22:01:05,492 INFO Anthony command: dodge
+2018-02-21 22:01:05,493 INFO Barth shot but without bullets
+2018-02-21 22:01:05,494 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,496 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,496 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,497 INFO Turn 1 begins
+2018-02-21 22:01:05,497 INFO Turn 69 begins
+2018-02-21 22:01:05,498 INFO Anthony command: dodge
+2018-02-21 22:01:05,499 INFO Anthony command: dodge
+2018-02-21 22:01:05,499 INFO Barth command: dodge
+2018-02-21 22:01:05,500 INFO Barth command: dodge
+2018-02-21 22:01:05,500 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,501 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,501 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,502 INFO Turn 70 begins
+2018-02-21 22:01:05,502 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,503 INFO Anthony command: reload
+2018-02-21 22:01:05,503 INFO Turn 2 begins
+2018-02-21 22:01:05,504 INFO Barth command: dodge
+2018-02-21 22:01:05,504 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,505 INFO Anthony command: reload
+2018-02-21 22:01:05,505 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,506 INFO Barth command: dodge
+2018-02-21 22:01:05,506 INFO Turn 71 begins
+2018-02-21 22:01:05,507 INFO Anthony command: dodge
+2018-02-21 22:01:05,507 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,508 INFO Barth command: dodge
+2018-02-21 22:01:05,508 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,509 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,510 INFO Turn 3 begins
+2018-02-21 22:01:05,510 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,511 INFO Turn 72 begins
+2018-02-21 22:01:05,511 INFO Anthony command: shoot
+2018-02-21 22:01:05,512 INFO Barth command: dodge
+2018-02-21 22:01:05,512 INFO Anthony command: reload
+2018-02-21 22:01:05,514 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,514 INFO Barth command: dodge
+2018-02-21 22:01:05,515 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,515 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,516 INFO Turn 4 begins
+2018-02-21 22:01:05,516 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,517 INFO Turn 73 begins
+2018-02-21 22:01:05,517 INFO Anthony command: dodge
+2018-02-21 22:01:05,518 INFO Anthony command: shoot
+2018-02-21 22:01:05,519 INFO Barth command: shoot
+2018-02-21 22:01:05,519 INFO Barth command: dodge
+2018-02-21 22:01:05,520 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,520 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,521 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,521 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,521 INFO Turn 74 begins
+2018-02-21 22:01:05,522 INFO Turn 5 begins
+2018-02-21 22:01:05,523 INFO Anthony command: dodge
+2018-02-21 22:01:05,524 INFO Anthony command: reload
+2018-02-21 22:01:05,524 INFO Barth shot but without bullets
+2018-02-21 22:01:05,525 INFO Barth command: dodge
+2018-02-21 22:01:05,525 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,526 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,526 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,527 INFO Turn 75 begins
+2018-02-21 22:01:05,527 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,528 INFO Anthony command: dodge
+2018-02-21 22:01:05,529 INFO Turn 6 begins
+2018-02-21 22:01:05,529 INFO Barth command: dodge
+2018-02-21 22:01:05,530 INFO Anthony command: reload
+2018-02-21 22:01:05,530 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,531 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,531 INFO Barth command: dodge
+2018-02-21 22:01:05,532 INFO Turn 76 begins
+2018-02-21 22:01:05,532 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,533 INFO Anthony command: dodge
+2018-02-21 22:01:05,534 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,534 INFO Barth command: dodge
+2018-02-21 22:01:05,535 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,535 INFO Turn 7 begins
+2018-02-21 22:01:05,535 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,536 INFO Anthony command: dodge
+2018-02-21 22:01:05,536 INFO Turn 77 begins
+2018-02-21 22:01:05,538 INFO Barth command: dodge
+2018-02-21 22:01:05,539 INFO Anthony command: shoot
+2018-02-21 22:01:05,539 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,539 INFO Barth command: dodge
+2018-02-21 22:01:05,540 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,540 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,541 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,541 INFO Turn 8 begins
+2018-02-21 22:01:05,542 INFO Turn 78 begins
+2018-02-21 22:01:05,543 INFO Anthony command: reload
+2018-02-21 22:01:05,543 INFO Anthony command: dodge
+2018-02-21 22:01:05,544 INFO Barth shot but without bullets
+2018-02-21 22:01:05,544 INFO Barth command: dodge
+2018-02-21 22:01:05,545 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,545 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,546 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,547 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,547 INFO Turn 79 begins
+2018-02-21 22:01:05,548 INFO Anthony command: reload
+2018-02-21 22:01:05,548 INFO Turn 9 begins
+2018-02-21 22:01:05,549 INFO Barth command: dodge
+2018-02-21 22:01:05,549 INFO Anthony command: dodge
+2018-02-21 22:01:05,550 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,551 INFO Barth command: dodge
+2018-02-21 22:01:05,551 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,552 INFO Turn 80 begins
+2018-02-21 22:01:05,552 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,552 INFO Anthony command: shoot
+2018-02-21 22:01:05,553 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,553 INFO Barth command: dodge
+2018-02-21 22:01:05,554 INFO Turn 10 begins
+2018-02-21 22:01:05,554 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,555 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,556 INFO Anthony command: reload
+2018-02-21 22:01:05,557 INFO Turn 81 begins
+2018-02-21 22:01:05,557 INFO Barth command: dodge
+2018-02-21 22:01:05,558 INFO Anthony command: dodge
+2018-02-21 22:01:05,558 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,559 INFO Barth shot but without bullets
+2018-02-21 22:01:05,559 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,560 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,561 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,561 INFO Turn 11 begins
+2018-02-21 22:01:05,562 INFO Turn 82 begins
+2018-02-21 22:01:05,562 INFO Anthony command: dodge
+2018-02-21 22:01:05,562 INFO Anthony command: reload
+2018-02-21 22:01:05,563 INFO Barth command: dodge
+2018-02-21 22:01:05,564 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,565 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,565 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,566 INFO Turn 83 begins
+2018-02-21 22:01:05,566 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,567 INFO Anthony command: shoot
+2018-02-21 22:01:05,567 INFO Turn 12 begins
+2018-02-21 22:01:05,568 INFO Barth command: dodge
+2018-02-21 22:01:05,569 INFO Anthony command: shoot
+2018-02-21 22:01:05,569 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,570 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,570 INFO Barth command: dodge
+2018-02-21 22:01:05,571 INFO Turn 84 begins
+2018-02-21 22:01:05,571 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,572 INFO Anthony command: reload
+2018-02-21 22:01:05,573 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,573 INFO Barth shot but without bullets
+2018-02-21 22:01:05,574 INFO Turn 13 begins
+2018-02-21 22:01:05,574 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,575 INFO Anthony command: shoot
+2018-02-21 22:01:05,575 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,576 INFO Turn 85 begins
+2018-02-21 22:01:05,577 INFO Barth shot but without bullets
+2018-02-21 22:01:05,577 INFO Anthony command: dodge
+2018-02-21 22:01:05,578 INFO Anthony shoots Barth
+2018-02-21 22:01:05,578 INFO Barth command: dodge
+2018-02-21 22:01:05,579 INFO Anthony shoots Barth
+2018-02-21 22:01:05,579 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,580 INFO Killing Anthony
+2018-02-21 22:01:05,582 INFO Anthony exit code: None
+2018-02-21 22:01:05,583 INFO Killing Barth
+2018-02-21 22:01:05,584 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,585 INFO Barth exit code: None
+2018-02-21 22:01:05,586 INFO Turn 86 begins
+2018-02-21 22:01:05,587 INFO Anthony command: dodge
+2018-02-21 22:01:05,588 INFO Barth command: dodge
+2018-02-21 22:01:05,590 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,593 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,594 INFO Turn 87 begins
+2018-02-21 22:01:05,594 INFO Anthony command: dodge
+2018-02-21 22:01:05,595 INFO Barth command: dodge
+2018-02-21 22:01:05,596 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,596 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,597 INFO Turn 88 begins
+2018-02-21 22:01:05,597 INFO Anthony command: dodge
+2018-02-21 22:01:05,598 INFO Barth command: dodge
+2018-02-21 22:01:05,598 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,599 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,600 INFO Turn 89 begins
+2018-02-21 22:01:05,600 INFO Anthony command: shoot
+2018-02-21 22:01:05,601 INFO Barth command: dodge
+2018-02-21 22:01:05,602 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,603 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,603 INFO Turn 90 begins
+2018-02-21 22:01:05,604 INFO Anthony command: dodge
+2018-02-21 22:01:05,604 INFO Barth shot but without bullets
+2018-02-21 22:01:05,605 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,606 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,606 INFO Turn 91 begins
+2018-02-21 22:01:05,607 INFO Anthony command: dodge
+2018-02-21 22:01:05,607 INFO Barth command: dodge
+2018-02-21 22:01:05,608 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,608 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,609 INFO Turn 92 begins
+2018-02-21 22:01:05,609 INFO Anthony command: dodge
+2018-02-21 22:01:05,610 INFO Barth command: dodge
+2018-02-21 22:01:05,611 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,611 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,612 INFO Turn 93 begins
+2018-02-21 22:01:05,613 INFO Anthony command: dodge
+2018-02-21 22:01:05,613 INFO Barth command: dodge
+2018-02-21 22:01:05,614 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,615 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,615 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,616 INFO Turn 94 begins
+2018-02-21 22:01:05,616 INFO Anthony command: reload
+2018-02-21 22:01:05,617 INFO Turn 1 begins
+2018-02-21 22:01:05,617 INFO Barth command: dodge
+2018-02-21 22:01:05,618 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,618 INFO Anthony command: reload
+2018-02-21 22:01:05,619 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,620 INFO Barth command: dodge
+2018-02-21 22:01:05,620 INFO Turn 95 begins
+2018-02-21 22:01:05,621 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,621 INFO Anthony command: dodge
+2018-02-21 22:01:05,622 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,623 INFO Barth command: dodge
+2018-02-21 22:01:05,623 INFO Turn 2 begins
+2018-02-21 22:01:05,623 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,624 INFO Anthony command: dodge
+2018-02-21 22:01:05,624 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,625 INFO Barth command: dodge
+2018-02-21 22:01:05,625 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,625 INFO Turn 96 begins
+2018-02-21 22:01:05,627 INFO Anthony command: dodge
+2018-02-21 22:01:05,627 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,627 INFO Barth command: dodge
+2018-02-21 22:01:05,628 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,628 INFO Turn 3 begins
+2018-02-21 22:01:05,628 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,629 INFO Anthony command: shoot
+2018-02-21 22:01:05,629 INFO Turn 97 begins
+2018-02-21 22:01:05,630 INFO Barth command: dodge
+2018-02-21 22:01:05,630 INFO Anthony command: shoot
+2018-02-21 22:01:05,630 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,631 INFO Barth command: dodge
+2018-02-21 22:01:05,632 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,632 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,633 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,633 INFO Turn 4 begins
+2018-02-21 22:01:05,633 INFO Turn 98 begins
+2018-02-21 22:01:05,634 INFO Anthony command: dodge
+2018-02-21 22:01:05,635 INFO Barth shot but without bullets
+2018-02-21 22:01:05,635 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,635 INFO Barth command: shoot
+2018-02-21 22:01:05,636 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,636 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:05,636 INFO Turn 99 begins
+2018-02-21 22:01:05,637 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,637 INFO Anthony command: dodge
+2018-02-21 22:01:05,638 INFO Turn 5 begins
+2018-02-21 22:01:05,638 INFO Barth command: dodge
+2018-02-21 22:01:05,639 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:05,639 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,640 INFO Anthony command: reload
+2018-02-21 22:01:05,640 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,641 INFO Turn 1 begins
+2018-02-21 22:01:05,641 INFO Barth command: dodge
+2018-02-21 22:01:05,641 INFO Turn 100 begins
+2018-02-21 22:01:05,642 INFO Anthony command: dodge
+2018-02-21 22:01:05,642 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,643 INFO Barth command: dodge
+2018-02-21 22:01:05,643 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,644 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,645 INFO Turn 6 begins
+2018-02-21 22:01:05,645 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,646 INFO Anthony command: reload
+2018-02-21 22:01:05,646 INFO Anthony dodged 64 times
+2018-02-21 22:01:05,647 INFO Turn 2 begins
+2018-02-21 22:01:05,647 INFO Barth command: dodge
+2018-02-21 22:01:05,647 INFO Barth dodged 82 times
+2018-02-21 22:01:05,648 INFO Killing Anthony
+2018-02-21 22:01:05,648 INFO Anthony command: reload
+2018-02-21 22:01:05,648 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,649 INFO Barth command: dodge
+2018-02-21 22:01:05,650 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,651 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,651 INFO Turn 7 begins
+2018-02-21 22:01:05,652 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,652 INFO Anthony command: dodge
+2018-02-21 22:01:05,653 INFO Turn 3 begins
+2018-02-21 22:01:05,653 INFO Barth command: dodge
+2018-02-21 22:01:05,655 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,655 INFO Anthony command: dodge
+2018-02-21 22:01:05,656 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,656 INFO Barth command: dodge
+2018-02-21 22:01:05,656 INFO Anthony exit code: 1
+2018-02-21 22:01:05,657 INFO Turn 8 begins
+2018-02-21 22:01:05,657 INFO Killing Barth
+2018-02-21 22:01:05,657 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,658 INFO Anthony command: reload
+2018-02-21 22:01:05,658 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,660 INFO Barth command: dodge
+2018-02-21 22:01:05,660 INFO Turn 4 begins
+2018-02-21 22:01:05,661 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,661 INFO Anthony command: reload
+2018-02-21 22:01:05,662 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,662 INFO Barth command: dodge
+2018-02-21 22:01:05,663 INFO Barth exit code: 1
+2018-02-21 22:01:05,663 INFO Turn 9 begins
+2018-02-21 22:01:05,664 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,665 INFO Anthony command: shoot
+2018-02-21 22:01:05,665 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,666 INFO Barth command: dodge
+2018-02-21 22:01:05,666 INFO Turn 5 begins
+2018-02-21 22:01:05,667 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,668 INFO Anthony command: dodge
+2018-02-21 22:01:05,668 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,669 INFO Barth command: dodge
+2018-02-21 22:01:05,670 INFO Turn 10 begins
+2018-02-21 22:01:05,670 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,671 INFO Anthony command: dodge
+2018-02-21 22:01:05,671 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,672 INFO Barth shot but without bullets
+2018-02-21 22:01:05,673 INFO Turn 6 begins
+2018-02-21 22:01:05,674 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:05,674 INFO Anthony command: dodge
+2018-02-21 22:01:05,675 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,675 INFO Barth command: dodge
+2018-02-21 22:01:05,676 INFO Turn 11 begins
+2018-02-21 22:01:05,676 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,677 INFO Anthony command: dodge
+2018-02-21 22:01:05,677 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,678 INFO Barth command: dodge
+2018-02-21 22:01:05,678 INFO Turn 7 begins
+2018-02-21 22:01:05,679 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,680 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,680 INFO Anthony command: reload
+2018-02-21 22:01:05,681 INFO Turn 12 begins
+2018-02-21 22:01:05,681 INFO Barth command: dodge
+2018-02-21 22:01:05,682 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,682 INFO Anthony command: dodge
+2018-02-21 22:01:05,682 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,683 INFO Barth command: dodge
+2018-02-21 22:01:05,684 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,684 INFO Turn 8 begins
+2018-02-21 22:01:05,685 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,685 INFO Anthony command: reload
+2018-02-21 22:01:05,686 INFO Turn 13 begins
+2018-02-21 22:01:05,686 INFO Barth command: dodge
+2018-02-21 22:01:05,687 INFO Anthony command: reload
+2018-02-21 22:01:05,687 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,688 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,689 INFO Barth command: dodge
+2018-02-21 22:01:05,689 INFO Turn 9 begins
+2018-02-21 22:01:05,690 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,690 INFO Anthony command: shoot
+2018-02-21 22:01:05,691 INFO Barth command: dodge
+2018-02-21 22:01:05,691 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:05,692 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,693 INFO Turn 14 begins
+2018-02-21 22:01:05,693 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:05,694 INFO Anthony command: dodge
+2018-02-21 22:01:05,694 INFO Turn 10 begins
+2018-02-21 22:01:05,695 INFO Anthony command: reload
+2018-02-21 22:01:05,695 INFO Barth command: dodge
+2018-02-21 22:01:05,696 INFO Barth command: shoot
+2018-02-21 22:01:05,696 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:05,697 INFO Barth shoots Anthony
+2018-02-21 22:01:05,698 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:05,699 INFO Turn 15 begins
+2018-02-21 22:01:05,699 INFO Killing Anthony
+2018-02-21 22:01:05,700 INFO Anthony command: dodge
+2018-02-21 22:01:37,906 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:37,908 INFO Turn 1 begins
+2018-02-21 22:01:37,909 INFO Anthony command: reload
+2018-02-21 22:01:37,909 INFO Barth command: dodge
+2018-02-21 22:01:37,909 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,909 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,909 INFO Turn 2 begins
+2018-02-21 22:01:37,911 INFO Anthony command: dodge
+2018-02-21 22:01:37,911 INFO Barth command: dodge
+2018-02-21 22:01:37,911 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,911 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,912 INFO Turn 3 begins
+2018-02-21 22:01:37,912 INFO Anthony command: reload
+2018-02-21 22:01:37,912 INFO Barth command: dodge
+2018-02-21 22:01:37,913 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,913 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,913 INFO Turn 4 begins
+2018-02-21 22:01:37,914 INFO Anthony command: dodge
+2018-02-21 22:01:37,914 INFO Barth command: dodge
+2018-02-21 22:01:37,914 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,914 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,914 INFO Turn 5 begins
+2018-02-21 22:01:37,914 INFO Anthony command: shoot
+2018-02-21 22:01:37,915 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:37,915 INFO Turn 6 begins
+2018-02-21 22:01:37,915 INFO Anthony command: dodge
+2018-02-21 22:01:37,915 INFO Barth command: shoot
+2018-02-21 22:01:37,915 DEBUG Telling Anthony that opponent did: shoot
+2018-02-21 22:01:37,915 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,915 INFO Turn 7 begins
+2018-02-21 22:01:37,915 INFO Anthony command: shoot
+2018-02-21 22:01:37,916 INFO Barth command: dodge
+2018-02-21 22:01:37,916 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,916 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:37,916 INFO Turn 8 begins
+2018-02-21 22:01:37,916 INFO Anthony command: dodge
+2018-02-21 22:01:37,916 INFO Barth shot but without bullets
+2018-02-21 22:01:37,916 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:37,916 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,917 INFO Turn 9 begins
+2018-02-21 22:01:37,917 INFO Anthony command: dodge
+2018-02-21 22:01:37,917 INFO Barth command: dodge
+2018-02-21 22:01:37,917 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,917 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,917 INFO Turn 10 begins
+2018-02-21 22:01:37,918 INFO Barth command: dodge
+2018-02-21 22:01:37,918 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,918 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,918 INFO Turn 11 begins
+2018-02-21 22:01:37,918 INFO Anthony command: reload
+2018-02-21 22:01:37,918 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,918 INFO Turn 12 begins
+2018-02-21 22:01:37,919 INFO Anthony command: shoot
+2018-02-21 22:01:37,919 INFO Barth command: dodge
+2018-02-21 22:01:37,919 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,919 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:37,919 INFO Turn 13 begins
+2018-02-21 22:01:37,919 INFO Anthony command: dodge
+2018-02-21 22:01:37,919 INFO Barth shot but without bullets
+2018-02-21 22:01:37,919 DEBUG Telling Anthony that opponent did: shoot_no_bullet
+2018-02-21 22:01:37,919 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,920 INFO Turn 14 begins
+2018-02-21 22:01:37,920 INFO Anthony command: reload
+2018-02-21 22:01:37,920 INFO Barth command: dodge
+2018-02-21 22:01:37,920 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,920 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,920 INFO Turn 15 begins
+2018-02-21 22:01:37,921 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,921 INFO Turn 16 begins
+2018-02-21 22:01:37,921 INFO Anthony command: dodge
+2018-02-21 22:01:37,921 INFO Barth command: dodge
+2018-02-21 22:01:37,921 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,921 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,921 INFO Turn 17 begins
+2018-02-21 22:01:37,922 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,922 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:37,922 INFO Turn 18 begins
+2018-02-21 22:01:37,922 INFO Anthony command: reload
+2018-02-21 22:01:37,922 INFO Barth command: dodge
+2018-02-21 22:01:37,922 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:37,922 INFO Turn 19 begins
+2018-02-21 22:01:37,922 INFO Anthony command: shoot
+2018-02-21 22:01:37,923 INFO Barth command: dodge
+2018-02-21 22:01:37,923 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:37,923 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:37,923 INFO Turn 20 begins
+2018-02-21 22:01:37,923 INFO Anthony command: shoot
+2018-02-21 22:01:37,923 INFO Barth shot but without bullets
+2018-02-21 22:01:37,923 INFO Anthony shoots Barth
+2018-02-21 22:01:37,923 INFO Killing Anthony
+2018-02-21 22:01:37,924 INFO Anthony exit code: None
+2018-02-21 22:01:37,924 INFO Killing Barth
+2018-02-21 22:01:37,924 INFO Barth exit code: None
+2018-02-21 22:01:46,994 INFO Starting new showdown: Anthony vs Barth
+2018-02-21 22:01:46,996 INFO Turn 1 begins
+2018-02-21 22:01:46,997 INFO Anthony command: dodge
+2018-02-21 22:01:46,997 INFO Barth command: dodge
+2018-02-21 22:01:46,997 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:46,997 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:46,997 INFO Turn 2 begins
+2018-02-21 22:01:46,998 INFO Anthony command: dodge
+2018-02-21 22:01:46,998 INFO Barth command: dodge
+2018-02-21 22:01:46,998 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:46,998 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:46,999 INFO Turn 3 begins
+2018-02-21 22:01:46,999 INFO Anthony command: dodge
+2018-02-21 22:01:46,999 INFO Barth command: dodge
+2018-02-21 22:01:46,999 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:46,999 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:46,999 INFO Turn 4 begins
+2018-02-21 22:01:47,000 INFO Barth command: dodge
+2018-02-21 22:01:47,000 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:47,000 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:47,000 INFO Turn 5 begins
+2018-02-21 22:01:47,000 INFO Anthony command: dodge
+2018-02-21 22:01:47,000 INFO Turn 6 begins
+2018-02-21 22:01:47,001 INFO Anthony command: reload
+2018-02-21 22:01:47,001 INFO Barth command: dodge
+2018-02-21 22:01:47,001 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:47,001 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:01:47,001 INFO Turn 7 begins
+2018-02-21 22:01:47,001 INFO Anthony command: dodge
+2018-02-21 22:01:47,002 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 22:01:47,002 INFO Turn 8 begins
+2018-02-21 22:01:47,002 INFO Anthony command: shoot
+2018-02-21 22:01:47,002 INFO Barth command: dodge
+2018-02-21 22:01:47,002 DEBUG Telling Anthony that opponent did: dodge
+2018-02-21 22:01:47,002 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:01:47,002 INFO Turn 9 begins
+2018-02-21 22:01:47,003 INFO Anthony command: reload
+2018-02-21 22:01:47,003 INFO Barth command: shoot
+2018-02-21 22:01:47,003 INFO Barth shoots Anthony
+2018-02-21 22:01:47,003 INFO Killing Anthony
+2018-02-21 22:01:47,003 INFO Anthony exit code: None
+2018-02-21 22:01:47,003 INFO Killing Barth
+2018-02-21 22:01:47,004 INFO Barth exit code: None

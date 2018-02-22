@@ -1,0 +1,2697 @@
+2018-02-21 21:47:26,526 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,527 INFO Turn 1 begins
+2018-02-21 21:47:26,528 INFO flibidi command: shoot
+2018-02-21 21:47:26,528 INFO Thibault command: shoot
+2018-02-21 21:47:26,529 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,529 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,530 INFO Turn 2 begins
+2018-02-21 21:47:26,531 INFO flibidi command: dodge
+2018-02-21 21:47:26,531 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,531 INFO Thibault command: reload
+2018-02-21 21:47:26,532 INFO Turn 1 begins
+2018-02-21 21:47:26,532 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,532 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,533 INFO Turn 3 begins
+2018-02-21 21:47:26,532 INFO flibidi command: shoot
+2018-02-21 21:47:26,532 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,533 INFO flibidi command: reload
+2018-02-21 21:47:26,533 INFO Turn 1 begins
+2018-02-21 21:47:26,533 INFO Thibault command: shoot
+2018-02-21 21:47:26,534 INFO Thibault command: shoot
+2018-02-21 21:47:26,534 INFO flibidi command: shoot
+2018-02-21 21:47:26,534 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,534 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,535 INFO Thibault command: shoot
+2018-02-21 21:47:26,535 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,535 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,535 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,535 INFO Turn 2 begins
+2018-02-21 21:47:26,535 INFO Killing flibidi
+2018-02-21 21:47:26,536 INFO flibidi command: dodge
+2018-02-21 21:47:26,536 INFO flibidi exit code: None
+2018-02-21 21:47:26,536 INFO Turn 2 begins
+2018-02-21 21:47:26,536 INFO Killing Thibault
+2018-02-21 21:47:26,536 INFO Thibault command: reload
+2018-02-21 21:47:26,537 INFO Thibault exit code: None
+2018-02-21 21:47:26,537 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,537 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,538 INFO Turn 3 begins
+2018-02-21 21:47:26,538 INFO flibidi command: reload
+2018-02-21 21:47:26,539 INFO Thibault command: reload
+2018-02-21 21:47:26,539 INFO Thibault command: shoot
+2018-02-21 21:47:26,539 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,539 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,540 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,540 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,541 INFO Turn 3 begins
+2018-02-21 21:47:26,541 INFO Killing flibidi
+2018-02-21 21:47:26,541 INFO flibidi command: dodge
+2018-02-21 21:47:26,541 INFO flibidi exit code: None
+2018-02-21 21:47:26,542 INFO Killing Thibault
+2018-02-21 21:47:26,542 INFO Thibault command: shoot
+2018-02-21 21:47:26,542 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,542 INFO Thibault exit code: None
+2018-02-21 21:47:26,543 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,543 INFO Turn 4 begins
+2018-02-21 21:47:26,544 INFO flibidi command: reload
+2018-02-21 21:47:26,545 INFO Thibault command: reload
+2018-02-21 21:47:26,545 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,546 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,546 INFO Turn 5 begins
+2018-02-21 21:47:26,547 INFO flibidi command: reload
+2018-02-21 21:47:26,548 INFO Thibault command: shoot
+2018-02-21 21:47:26,548 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,549 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,549 INFO Killing flibidi
+2018-02-21 21:47:26,550 INFO flibidi exit code: None
+2018-02-21 21:47:26,550 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,550 INFO Killing Thibault
+2018-02-21 21:47:26,551 INFO Turn 1 begins
+2018-02-21 21:47:26,551 INFO Thibault exit code: None
+2018-02-21 21:47:26,551 INFO flibidi command: shoot
+2018-02-21 21:47:26,552 INFO Thibault command: shoot
+2018-02-21 21:47:26,552 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,553 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,553 INFO Turn 2 begins
+2018-02-21 21:47:26,556 INFO flibidi command: dodge
+2018-02-21 21:47:26,575 INFO Thibault command: reload
+2018-02-21 21:47:26,575 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,576 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,576 INFO Turn 3 begins
+2018-02-21 21:47:26,577 INFO flibidi command: dodge
+2018-02-21 21:47:26,577 INFO Thibault command: shoot
+2018-02-21 21:47:26,578 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,578 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,579 INFO Turn 4 begins
+2018-02-21 21:47:26,579 INFO flibidi command: dodge
+2018-02-21 21:47:26,580 INFO Thibault command: reload
+2018-02-21 21:47:26,580 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,581 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,581 INFO Turn 5 begins
+2018-02-21 21:47:26,582 INFO flibidi command: reload
+2018-02-21 21:47:26,583 INFO Thibault command: shoot
+2018-02-21 21:47:26,583 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,584 INFO Killing flibidi
+2018-02-21 21:47:26,585 INFO flibidi exit code: None
+2018-02-21 21:47:26,585 INFO Killing Thibault
+2018-02-21 21:47:26,586 INFO Thibault exit code: None
+2018-02-21 21:47:26,832 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,833 INFO Turn 1 begins
+2018-02-21 21:47:26,834 INFO flibidi command: shoot
+2018-02-21 21:47:26,835 INFO Thibault command: shoot
+2018-02-21 21:47:26,836 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,837 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,838 INFO Turn 2 begins
+2018-02-21 21:47:26,839 INFO flibidi command: reload
+2018-02-21 21:47:26,840 INFO Thibault command: reload
+2018-02-21 21:47:26,841 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,842 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,843 INFO Turn 3 begins
+2018-02-21 21:47:26,844 INFO flibidi command: reload
+2018-02-21 21:47:26,845 INFO Thibault command: shoot
+2018-02-21 21:47:26,845 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,846 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,847 INFO Killing flibidi
+2018-02-21 21:47:26,848 INFO flibidi exit code: None
+2018-02-21 21:47:26,849 INFO Killing Thibault
+2018-02-21 21:47:26,850 INFO Thibault exit code: None
+2018-02-21 21:47:26,855 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,856 INFO Turn 1 begins
+2018-02-21 21:47:26,857 INFO flibidi command: shoot
+2018-02-21 21:47:26,857 INFO Thibault command: shoot
+2018-02-21 21:47:26,858 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,858 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,859 INFO Turn 1 begins
+2018-02-21 21:47:26,859 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,859 INFO flibidi command: shoot
+2018-02-21 21:47:26,860 INFO Turn 2 begins
+2018-02-21 21:47:26,860 INFO Thibault command: shoot
+2018-02-21 21:47:26,860 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,861 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,861 INFO Turn 2 begins
+2018-02-21 21:47:26,862 INFO flibidi command: reload
+2018-02-21 21:47:26,863 INFO Thibault command: reload
+2018-02-21 21:47:26,864 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,865 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,865 INFO Turn 3 begins
+2018-02-21 21:47:26,866 INFO Turn 3 begins
+2018-02-21 21:47:26,866 INFO flibidi command: reload
+2018-02-21 21:47:26,867 INFO flibidi command: reload
+2018-02-21 21:47:26,867 INFO Thibault command: shoot
+2018-02-21 21:47:26,868 INFO Thibault command: shoot
+2018-02-21 21:47:26,868 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,869 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,870 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,870 INFO Killing flibidi
+2018-02-21 21:47:26,871 INFO flibidi exit code: None
+2018-02-21 21:47:26,872 INFO Killing Thibault
+2018-02-21 21:47:26,872 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:26,873 INFO Thibault exit code: None
+2018-02-21 21:47:26,875 INFO Turn 1 begins
+2018-02-21 21:47:26,876 INFO flibidi command: shoot
+2018-02-21 21:47:26,877 INFO Thibault command: shoot
+2018-02-21 21:47:26,880 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,881 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,882 INFO Turn 2 begins
+2018-02-21 21:47:26,883 INFO flibidi command: dodge
+2018-02-21 21:47:26,884 INFO Thibault command: reload
+2018-02-21 21:47:26,885 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,885 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,886 INFO Turn 3 begins
+2018-02-21 21:47:26,889 INFO flibidi command: dodge
+2018-02-21 21:47:26,890 INFO Thibault command: shoot
+2018-02-21 21:47:26,891 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,891 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,892 INFO Turn 4 begins
+2018-02-21 21:47:26,894 INFO flibidi command: dodge
+2018-02-21 21:47:26,895 INFO Thibault command: reload
+2018-02-21 21:47:26,895 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,896 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,897 INFO Turn 5 begins
+2018-02-21 21:47:26,898 INFO flibidi command: dodge
+2018-02-21 21:47:26,899 INFO Thibault command: shoot
+2018-02-21 21:47:26,900 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,901 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,902 INFO Turn 6 begins
+2018-02-21 21:47:26,903 INFO flibidi command: reload
+2018-02-21 21:47:26,904 INFO Thibault command: reload
+2018-02-21 21:47:26,905 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,906 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,907 INFO Turn 7 begins
+2018-02-21 21:47:26,908 INFO flibidi command: dodge
+2018-02-21 21:47:26,909 INFO Thibault command: shoot
+2018-02-21 21:47:26,910 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,910 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:26,911 INFO Turn 8 begins
+2018-02-21 21:47:26,912 INFO flibidi command: reload
+2018-02-21 21:47:26,913 INFO Thibault command: reload
+2018-02-21 21:47:26,914 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,915 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,916 INFO Turn 9 begins
+2018-02-21 21:47:26,917 INFO flibidi command: shoot
+2018-02-21 21:47:26,918 INFO Thibault command: shoot
+2018-02-21 21:47:26,919 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:26,920 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:26,920 INFO Turn 10 begins
+2018-02-21 21:47:26,921 INFO flibidi command: reload
+2018-02-21 21:47:26,923 INFO Thibault command: reload
+2018-02-21 21:47:26,923 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:26,924 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:26,925 INFO Turn 11 begins
+2018-02-21 21:47:26,928 INFO flibidi command: reload
+2018-02-21 21:47:26,929 INFO Thibault command: shoot
+2018-02-21 21:47:26,929 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,930 INFO Thibault shoots flibidi
+2018-02-21 21:47:26,931 INFO Killing flibidi
+2018-02-21 21:47:26,932 INFO flibidi exit code: None
+2018-02-21 21:47:26,933 INFO Killing Thibault
+2018-02-21 21:47:26,934 INFO Thibault exit code: None
+2018-02-21 21:47:27,162 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,163 INFO Turn 1 begins
+2018-02-21 21:47:27,165 INFO flibidi command: shoot
+2018-02-21 21:47:27,166 INFO Thibault command: shoot
+2018-02-21 21:47:27,168 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,168 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,169 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,170 INFO Turn 1 begins
+2018-02-21 21:47:27,170 INFO Turn 2 begins
+2018-02-21 21:47:27,171 INFO flibidi command: shoot
+2018-02-21 21:47:27,171 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,173 INFO Thibault command: shoot
+2018-02-21 21:47:27,173 INFO flibidi command: reload
+2018-02-21 21:47:27,173 INFO Turn 1 begins
+2018-02-21 21:47:27,174 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,174 INFO Thibault command: reload
+2018-02-21 21:47:27,175 INFO flibidi command: shoot
+2018-02-21 21:47:27,175 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,175 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,176 INFO Thibault command: shoot
+2018-02-21 21:47:27,176 INFO Turn 2 begins
+2018-02-21 21:47:27,177 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,177 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,178 INFO flibidi command: dodge
+2018-02-21 21:47:27,178 INFO Turn 3 begins
+2018-02-21 21:47:27,178 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,179 INFO flibidi command: dodge
+2018-02-21 21:47:27,179 INFO Thibault command: reload
+2018-02-21 21:47:27,180 INFO Turn 2 begins
+2018-02-21 21:47:27,181 INFO Thibault command: shoot
+2018-02-21 21:47:27,180 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,181 INFO flibidi command: dodge
+2018-02-21 21:47:27,182 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,182 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,182 INFO Thibault command: reload
+2018-02-21 21:47:27,183 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,183 INFO Turn 3 begins
+2018-02-21 21:47:27,184 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,185 INFO Turn 4 begins
+2018-02-21 21:47:27,185 INFO flibidi command: reload
+2018-02-21 21:47:27,185 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,186 INFO flibidi command: dodge
+2018-02-21 21:47:27,186 INFO Thibault command: shoot
+2018-02-21 21:47:27,186 INFO Turn 3 begins
+2018-02-21 21:47:27,187 INFO Thibault command: reload
+2018-02-21 21:47:27,188 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,188 INFO flibidi command: dodge
+2018-02-21 21:47:27,189 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,189 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,189 INFO Thibault command: shoot
+2018-02-21 21:47:27,190 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,190 INFO Killing flibidi
+2018-02-21 21:47:27,190 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,191 INFO Turn 5 begins
+2018-02-21 21:47:27,191 INFO flibidi exit code: None
+2018-02-21 21:47:27,191 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,192 INFO flibidi command: dodge
+2018-02-21 21:47:27,192 INFO Killing Thibault
+2018-02-21 21:47:27,193 INFO Turn 4 begins
+2018-02-21 21:47:27,194 INFO Thibault command: shoot
+2018-02-21 21:47:27,194 INFO Thibault exit code: None
+2018-02-21 21:47:27,194 INFO flibidi command: dodge
+
+2018-02-21 21:47:27,195 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,196 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,197 INFO Thibault command: reload
+2018-02-21 21:47:27,197 INFO Turn 6 begins
+2018-02-21 21:47:27,198 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,199 INFO flibidi command: reload
+2018-02-21 21:47:27,199 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,200 INFO Thibault command: reload
+2018-02-21 21:47:27,201 INFO Turn 5 begins
+2018-02-21 21:47:27,201 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,202 INFO flibidi command: reload
+2018-02-21 21:47:27,202 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,203 INFO Thibault command: shoot
+2018-02-21 21:47:27,203 INFO Turn 7 begins
+2018-02-21 21:47:27,204 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,205 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,205 INFO flibidi command: reload
+2018-02-21 21:47:27,206 INFO Killing flibidi
+2018-02-21 21:47:27,206 INFO Thibault command: shoot
+2018-02-21 21:47:27,207 INFO flibidi exit code: None
+2018-02-21 21:47:27,207 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,208 INFO Killing Thibault
+2018-02-21 21:47:27,208 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,209 INFO Thibault exit code: None
+2018-02-21 21:47:27,210 INFO Killing flibidi
+2018-02-21 21:47:27,212 INFO flibidi exit code: None
+2018-02-21 21:47:27,213 INFO Killing Thibault
+2018-02-21 21:47:27,214 INFO Thibault exit code: None
+2018-02-21 21:47:27,256 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,258 INFO Turn 1 begins
+2018-02-21 21:47:27,259 INFO flibidi command: shoot
+2018-02-21 21:47:27,260 INFO Thibault command: shoot
+2018-02-21 21:47:27,261 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,263 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,264 INFO Turn 2 begins
+2018-02-21 21:47:27,265 INFO flibidi command: reload
+2018-02-21 21:47:27,267 INFO Thibault command: reload
+2018-02-21 21:47:27,268 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,269 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,270 INFO Turn 3 begins
+2018-02-21 21:47:27,272 INFO flibidi command: reload
+2018-02-21 21:47:27,273 INFO Thibault command: shoot
+2018-02-21 21:47:27,274 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,276 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,277 INFO Killing flibidi
+2018-02-21 21:47:27,278 INFO flibidi exit code: None
+2018-02-21 21:47:27,279 INFO Killing Thibault
+2018-02-21 21:47:27,281 INFO Thibault exit code: None
+2018-02-21 21:47:27,496 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,497 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,498 INFO Turn 1 begins
+2018-02-21 21:47:27,499 INFO flibidi command: shoot
+2018-02-21 21:47:27,499 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,501 INFO Thibault command: shoot
+2018-02-21 21:47:27,501 INFO Turn 1 begins
+2018-02-21 21:47:27,502 INFO flibidi command: shoot
+2018-02-21 21:47:27,502 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,503 INFO flibidi command: shoot
+2018-02-21 21:47:27,503 INFO Thibault command: shoot
+2018-02-21 21:47:27,504 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,504 INFO Thibault command: shoot
+2018-02-21 21:47:27,505 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,505 INFO Turn 2 begins
+2018-02-21 21:47:27,506 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,506 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,507 INFO flibidi command: dodge
+2018-02-21 21:47:27,508 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,508 INFO Turn 2 begins
+2018-02-21 21:47:27,509 INFO Turn 2 begins
+2018-02-21 21:47:27,509 INFO Thibault command: reload
+2018-02-21 21:47:27,510 INFO flibidi command: dodge
+2018-02-21 21:47:27,511 INFO flibidi command: reload
+2018-02-21 21:47:27,511 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,512 INFO Thibault command: reload
+2018-02-21 21:47:27,513 INFO Thibault command: reload
+2018-02-21 21:47:27,513 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,513 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,515 INFO Turn 3 begins
+2018-02-21 21:47:27,515 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,516 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,517 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,518 INFO flibidi command: dodge
+2018-02-21 21:47:27,518 INFO Turn 3 begins
+2018-02-21 21:47:27,519 INFO Turn 3 begins
+2018-02-21 21:47:27,519 INFO Thibault command: shoot
+2018-02-21 21:47:27,520 INFO flibidi command: reload
+2018-02-21 21:47:27,521 INFO flibidi command: reload
+2018-02-21 21:47:27,521 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,522 INFO Thibault command: shoot
+2018-02-21 21:47:27,523 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,523 INFO Thibault command: shoot
+2018-02-21 21:47:27,523 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,524 INFO Turn 4 begins
+2018-02-21 21:47:27,524 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,525 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,526 INFO flibidi command: dodge
+2018-02-21 21:47:27,526 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,526 INFO Killing flibidi
+2018-02-21 21:47:27,528 INFO Killing flibidi
+2018-02-21 21:47:27,528 INFO Thibault command: reload
+2018-02-21 21:47:27,528 INFO flibidi exit code: None
+2018-02-21 21:47:27,530 INFO flibidi exit code: None
+2018-02-21 21:47:27,530 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,530 INFO Killing Thibault
+2018-02-21 21:47:27,531 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,532 INFO Thibault exit code: None
+2018-02-21 21:47:27,531 INFO Killing Thibault
+2018-02-21 21:47:27,533 INFO Turn 5 begins
+2018-02-21 21:47:27,533 INFO Thibault exit code: None
+2018-02-21 21:47:27,535 INFO flibidi command: reload
+2018-02-21 21:47:27,537 INFO Thibault command: shoot
+2018-02-21 21:47:27,538 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,540 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,541 INFO Killing flibidi
+2018-02-21 21:47:27,543 INFO flibidi exit code: None
+2018-02-21 21:47:27,545 INFO Killing Thibault
+2018-02-21 21:47:27,546 INFO Thibault exit code: None
+2018-02-21 21:47:27,593 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,595 INFO Turn 1 begins
+2018-02-21 21:47:27,597 INFO flibidi command: shoot
+2018-02-21 21:47:27,599 INFO Thibault command: shoot
+2018-02-21 21:47:27,600 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,602 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,604 INFO Turn 2 begins
+2018-02-21 21:47:27,605 INFO flibidi command: dodge
+2018-02-21 21:47:27,607 INFO Thibault command: reload
+2018-02-21 21:47:27,608 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,610 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,612 INFO Turn 3 begins
+2018-02-21 21:47:27,613 INFO flibidi command: reload
+2018-02-21 21:47:27,615 INFO Thibault command: shoot
+2018-02-21 21:47:27,617 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,618 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,620 INFO Killing flibidi
+2018-02-21 21:47:27,622 INFO flibidi exit code: None
+2018-02-21 21:47:27,623 INFO Killing Thibault
+2018-02-21 21:47:27,625 INFO Thibault exit code: None
+2018-02-21 21:47:27,834 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,838 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,838 INFO Turn 1 begins
+2018-02-21 21:47:27,839 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,840 INFO Turn 1 begins
+2018-02-21 21:47:27,841 INFO flibidi command: shoot
+2018-02-21 21:47:27,841 INFO Turn 1 begins
+2018-02-21 21:47:27,842 INFO flibidi command: shoot
+2018-02-21 21:47:27,843 INFO Thibault command: shoot
+2018-02-21 21:47:27,843 INFO flibidi command: shoot
+2018-02-21 21:47:27,844 INFO Thibault command: shoot
+2018-02-21 21:47:27,845 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,845 INFO Thibault command: shoot
+2018-02-21 21:47:27,846 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,847 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,847 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,848 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,849 INFO Turn 2 begins
+2018-02-21 21:47:27,849 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,850 INFO Turn 2 begins
+2018-02-21 21:47:27,851 INFO flibidi command: reload
+2018-02-21 21:47:27,851 INFO Turn 2 begins
+2018-02-21 21:47:27,852 INFO flibidi command: dodge
+2018-02-21 21:47:27,853 INFO Thibault command: reload
+2018-02-21 21:47:27,854 INFO flibidi command: dodge
+2018-02-21 21:47:27,854 INFO Thibault command: reload
+2018-02-21 21:47:27,855 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,856 INFO Thibault command: reload
+2018-02-21 21:47:27,856 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,857 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,858 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,860 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,860 INFO Turn 3 begins
+2018-02-21 21:47:27,861 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,862 INFO Turn 3 begins
+2018-02-21 21:47:27,862 INFO flibidi command: reload
+2018-02-21 21:47:27,864 INFO Turn 3 begins
+2018-02-21 21:47:27,864 INFO flibidi command: dodge
+2018-02-21 21:47:27,865 INFO Thibault command: shoot
+2018-02-21 21:47:27,866 INFO flibidi command: reload
+2018-02-21 21:47:27,866 INFO Thibault command: shoot
+2018-02-21 21:47:27,867 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,868 INFO Thibault command: shoot
+2018-02-21 21:47:27,868 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,869 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,870 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,870 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,871 INFO Killing flibidi
+2018-02-21 21:47:27,872 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,872 INFO Turn 4 begins
+2018-02-21 21:47:27,873 INFO flibidi exit code: None
+2018-02-21 21:47:27,874 INFO Killing flibidi
+2018-02-21 21:47:27,874 INFO flibidi command: reload
+2018-02-21 21:47:27,875 INFO Killing Thibault
+2018-02-21 21:47:27,876 INFO flibidi exit code: None
+2018-02-21 21:47:27,877 INFO Thibault command: reload
+2018-02-21 21:47:27,877 INFO Thibault exit code: None
+2018-02-21 21:47:27,878 INFO Killing Thibault
+2018-02-21 21:47:27,879 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,880 INFO Thibault exit code: None
+2018-02-21 21:47:27,881 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,883 INFO Turn 5 begins
+2018-02-21 21:47:27,885 INFO flibidi command: dodge
+2018-02-21 21:47:27,887 INFO Thibault command: shoot
+2018-02-21 21:47:27,889 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,892 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,894 INFO Turn 6 begins
+2018-02-21 21:47:27,896 INFO flibidi command: dodge
+2018-02-21 21:47:27,898 INFO Thibault command: reload
+2018-02-21 21:47:27,900 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,902 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:27,904 INFO Turn 7 begins
+2018-02-21 21:47:27,906 INFO flibidi command: reload
+2018-02-21 21:47:27,908 INFO Thibault command: shoot
+2018-02-21 21:47:27,910 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,912 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,914 INFO Killing flibidi
+2018-02-21 21:47:27,917 INFO flibidi exit code: None
+2018-02-21 21:47:27,919 INFO Killing Thibault
+2018-02-21 21:47:27,921 INFO Thibault exit code: None
+2018-02-21 21:47:27,936 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:27,939 INFO Turn 1 begins
+2018-02-21 21:47:27,941 INFO flibidi command: shoot
+2018-02-21 21:47:27,943 INFO Thibault command: shoot
+2018-02-21 21:47:27,945 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:27,947 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:27,949 INFO Turn 2 begins
+2018-02-21 21:47:27,951 INFO flibidi command: reload
+2018-02-21 21:47:27,953 INFO Thibault command: reload
+2018-02-21 21:47:27,955 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:27,957 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:27,959 INFO Turn 3 begins
+2018-02-21 21:47:27,961 INFO flibidi command: reload
+2018-02-21 21:47:27,965 INFO Thibault command: shoot
+2018-02-21 21:47:27,967 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,969 INFO Thibault shoots flibidi
+2018-02-21 21:47:27,971 INFO Killing flibidi
+2018-02-21 21:47:27,973 INFO flibidi exit code: None
+2018-02-21 21:47:27,975 INFO Killing Thibault
+2018-02-21 21:47:27,978 INFO Thibault exit code: None
+2018-02-21 21:47:28,174 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,176 INFO Turn 1 begins
+2018-02-21 21:47:28,178 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,179 INFO flibidi command: shoot
+2018-02-21 21:47:28,181 INFO Turn 1 begins
+2018-02-21 21:47:28,181 INFO Thibault command: shoot
+2018-02-21 21:47:28,183 INFO flibidi command: shoot
+2018-02-21 21:47:28,185 INFO Thibault command: shoot
+2018-02-21 21:47:28,186 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,189 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,191 INFO Turn 2 begins
+2018-02-21 21:47:28,194 INFO flibidi command: dodge
+2018-02-21 21:47:28,197 INFO Thibault command: reload
+2018-02-21 21:47:28,199 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,200 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,203 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,205 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,206 INFO Turn 3 begins
+2018-02-21 21:47:28,208 INFO Turn 3 begins
+2018-02-21 21:47:28,208 INFO flibidi command: reload
+2018-02-21 21:47:28,211 INFO flibidi command: reload
+2018-02-21 21:47:28,213 INFO Thibault command: shoot
+2018-02-21 21:47:28,214 INFO Thibault command: shoot
+2018-02-21 21:47:28,216 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,218 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,219 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,221 INFO Killing flibidi
+2018-02-21 21:47:28,223 INFO flibidi exit code: None
+2018-02-21 21:47:28,224 INFO flibidi exit code: None
+2018-02-21 21:47:28,226 INFO Killing Thibault
+2018-02-21 21:47:28,228 INFO Thibault exit code: None
+2018-02-21 21:47:28,230 INFO Thibault exit code: None
+2018-02-21 21:47:28,246 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,248 INFO Turn 1 begins
+2018-02-21 21:47:28,251 INFO flibidi command: shoot
+2018-02-21 21:47:28,253 INFO Thibault command: shoot
+2018-02-21 21:47:28,256 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,258 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,260 INFO Turn 2 begins
+2018-02-21 21:47:28,263 INFO flibidi command: reload
+2018-02-21 21:47:28,266 INFO Thibault command: reload
+2018-02-21 21:47:28,269 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,271 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,274 INFO Turn 3 begins
+2018-02-21 21:47:28,276 INFO flibidi command: reload
+2018-02-21 21:47:28,279 INFO Thibault command: shoot
+2018-02-21 21:47:28,282 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,282 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,284 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,284 INFO Turn 1 begins
+2018-02-21 21:47:28,286 INFO Killing flibidi
+2018-02-21 21:47:28,287 INFO flibidi command: shoot
+2018-02-21 21:47:28,289 INFO flibidi exit code: None
+2018-02-21 21:47:28,291 INFO Thibault command: shoot
+2018-02-21 21:47:28,291 INFO Killing Thibault
+2018-02-21 21:47:28,293 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,294 INFO Thibault exit code: None
+2018-02-21 21:47:28,295 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,298 INFO Turn 2 begins
+2018-02-21 21:47:28,300 INFO flibidi command: dodge
+2018-02-21 21:47:28,303 INFO Thibault command: reload
+2018-02-21 21:47:28,305 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,307 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,310 INFO Turn 3 begins
+2018-02-21 21:47:28,312 INFO flibidi command: dodge
+2018-02-21 21:47:28,315 INFO Thibault command: shoot
+2018-02-21 21:47:28,317 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,319 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,322 INFO Turn 4 begins
+2018-02-21 21:47:28,324 INFO flibidi command: dodge
+2018-02-21 21:47:28,329 INFO Thibault command: reload
+2018-02-21 21:47:28,331 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,334 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,336 INFO Turn 5 begins
+2018-02-21 21:47:28,339 INFO flibidi command: dodge
+2018-02-21 21:47:28,341 INFO Thibault command: shoot
+2018-02-21 21:47:28,344 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,346 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,349 INFO Turn 6 begins
+2018-02-21 21:47:28,351 INFO flibidi command: dodge
+2018-02-21 21:47:28,354 INFO Thibault command: reload
+2018-02-21 21:47:28,356 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,358 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,361 INFO Turn 7 begins
+2018-02-21 21:47:28,363 INFO flibidi command: reload
+2018-02-21 21:47:28,366 INFO Thibault command: shoot
+2018-02-21 21:47:28,368 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,370 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,373 INFO Killing flibidi
+2018-02-21 21:47:28,375 INFO flibidi exit code: None
+2018-02-21 21:47:28,378 INFO Killing Thibault
+2018-02-21 21:47:28,389 INFO Thibault exit code: None
+2018-02-21 21:47:28,521 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,524 INFO Turn 1 begins
+2018-02-21 21:47:28,527 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,528 INFO flibidi command: shoot
+2018-02-21 21:47:28,530 INFO Turn 1 begins
+2018-02-21 21:47:28,531 INFO Thibault command: shoot
+2018-02-21 21:47:28,535 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,535 INFO flibidi command: shoot
+2018-02-21 21:47:28,538 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,538 INFO Thibault command: shoot
+2018-02-21 21:47:28,540 INFO Turn 2 begins
+2018-02-21 21:47:28,541 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,543 INFO flibidi command: dodge
+2018-02-21 21:47:28,544 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,546 INFO Thibault command: reload
+2018-02-21 21:47:28,547 INFO Turn 2 begins
+2018-02-21 21:47:28,549 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,550 INFO flibidi command: reload
+2018-02-21 21:47:28,552 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,552 INFO Thibault command: reload
+2018-02-21 21:47:28,555 INFO Turn 3 begins
+2018-02-21 21:47:28,555 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,558 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,560 INFO flibidi command: dodge
+2018-02-21 21:47:28,562 INFO Turn 3 begins
+2018-02-21 21:47:28,563 INFO Thibault command: shoot
+2018-02-21 21:47:28,565 INFO flibidi command: reload
+2018-02-21 21:47:28,566 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,568 INFO Thibault command: shoot
+2018-02-21 21:47:28,569 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,571 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,572 INFO Turn 4 begins
+2018-02-21 21:47:28,573 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,575 INFO flibidi command: reload
+2018-02-21 21:47:28,576 INFO Killing flibidi
+2018-02-21 21:47:28,577 INFO Thibault command: reload
+2018-02-21 21:47:28,579 INFO flibidi exit code: None
+2018-02-21 21:47:28,580 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,582 INFO Killing Thibault
+2018-02-21 21:47:28,583 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,584 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,586 INFO Turn 5 begins
+2018-02-21 21:47:28,587 INFO Thibault exit code: None
+2018-02-21 21:47:28,588 INFO Turn 1 begins
+2018-02-21 21:47:28,589 INFO flibidi command: reload
+2018-02-21 21:47:28,591 INFO flibidi command: shoot
+2018-02-21 21:47:28,592 INFO Thibault command: shoot
+2018-02-21 21:47:28,593 INFO Thibault command: shoot
+2018-02-21 21:47:28,595 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,596 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,597 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,600 INFO Killing flibidi
+2018-02-21 21:47:28,600 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,603 INFO Turn 2 begins
+2018-02-21 21:47:28,606 INFO flibidi command: reload
+2018-02-21 21:47:28,609 INFO Thibault command: reload
+2018-02-21 21:47:28,609 INFO flibidi exit code: 1
+2018-02-21 21:47:28,612 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,612 INFO Killing Thibault
+2018-02-21 21:47:28,614 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,617 INFO Turn 3 begins
+2018-02-21 21:47:28,620 INFO flibidi command: reload
+2018-02-21 21:47:28,621 INFO Thibault exit code: None
+2018-02-21 21:47:28,623 INFO Thibault command: shoot
+2018-02-21 21:47:28,626 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,629 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,631 INFO Killing flibidi
+2018-02-21 21:47:28,634 INFO flibidi exit code: None
+2018-02-21 21:47:28,637 INFO Killing Thibault
+2018-02-21 21:47:28,640 INFO Thibault exit code: None
+2018-02-21 21:47:28,696 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,699 INFO Turn 1 begins
+2018-02-21 21:47:28,702 INFO flibidi command: shoot
+2018-02-21 21:47:28,705 INFO Thibault command: shoot
+2018-02-21 21:47:28,708 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,710 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,713 INFO Turn 2 begins
+2018-02-21 21:47:28,716 INFO flibidi command: dodge
+2018-02-21 21:47:28,719 INFO Thibault command: reload
+2018-02-21 21:47:28,721 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,724 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,727 INFO Turn 3 begins
+2018-02-21 21:47:28,730 INFO flibidi command: reload
+2018-02-21 21:47:28,733 INFO Thibault command: shoot
+2018-02-21 21:47:28,735 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,738 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,741 INFO Killing flibidi
+2018-02-21 21:47:28,744 INFO flibidi exit code: None
+2018-02-21 21:47:28,749 INFO Killing Thibault
+2018-02-21 21:47:28,752 INFO Thibault exit code: None
+2018-02-21 21:47:28,884 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,887 INFO Turn 1 begins
+2018-02-21 21:47:28,890 INFO flibidi command: shoot
+2018-02-21 21:47:28,893 INFO Thibault command: shoot
+2018-02-21 21:47:28,897 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,900 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,903 INFO Turn 2 begins
+2018-02-21 21:47:28,907 INFO flibidi command: reload
+2018-02-21 21:47:28,910 INFO Thibault command: reload
+2018-02-21 21:47:28,913 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,916 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,917 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,919 INFO Turn 3 begins
+2018-02-21 21:47:28,920 INFO Turn 1 begins
+2018-02-21 21:47:28,922 INFO flibidi command: reload
+2018-02-21 21:47:28,924 INFO flibidi command: shoot
+2018-02-21 21:47:28,926 INFO Thibault command: shoot
+2018-02-21 21:47:28,927 INFO Thibault command: shoot
+2018-02-21 21:47:28,929 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,930 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,932 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,933 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,935 INFO Killing flibidi
+2018-02-21 21:47:28,936 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:28,936 INFO Turn 2 begins
+2018-02-21 21:47:28,938 INFO flibidi exit code: None
+2018-02-21 21:47:28,939 INFO Turn 1 begins
+2018-02-21 21:47:28,939 INFO flibidi command: dodge
+2018-02-21 21:47:28,942 INFO Killing Thibault
+2018-02-21 21:47:28,942 INFO flibidi command: shoot
+2018-02-21 21:47:28,943 INFO Thibault command: reload
+2018-02-21 21:47:28,945 INFO Thibault exit code: None
+2018-02-21 21:47:28,945 INFO Thibault command: shoot
+2018-02-21 21:47:28,948 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,948 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,951 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,951 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:28,954 INFO Turn 3 begins
+2018-02-21 21:47:28,954 INFO Turn 2 begins
+2018-02-21 21:47:28,958 INFO flibidi command: reload
+2018-02-21 21:47:28,961 INFO Thibault command: shoot
+2018-02-21 21:47:28,962 INFO Thibault command: reload
+2018-02-21 21:47:28,965 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,965 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:28,968 INFO Thibault shoots flibidi
+2018-02-21 21:47:28,969 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:28,971 INFO Killing flibidi
+2018-02-21 21:47:28,972 INFO Turn 3 begins
+2018-02-21 21:47:28,974 INFO flibidi exit code: None
+2018-02-21 21:47:28,975 INFO flibidi command: dodge
+2018-02-21 21:47:28,977 INFO Killing Thibault
+2018-02-21 21:47:28,978 INFO Thibault command: shoot
+2018-02-21 21:47:28,980 INFO Thibault exit code: None
+2018-02-21 21:47:28,982 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:28,986 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:28,989 INFO Turn 4 begins
+2018-02-21 21:47:28,992 INFO flibidi command: reload
+2018-02-21 21:47:28,996 INFO Thibault command: reload
+2018-02-21 21:47:29,000 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,004 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,007 INFO Turn 5 begins
+2018-02-21 21:47:29,010 INFO flibidi command: reload
+2018-02-21 21:47:29,013 INFO Thibault command: shoot
+2018-02-21 21:47:29,016 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,021 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,024 INFO Killing flibidi
+2018-02-21 21:47:29,035 INFO flibidi exit code: 1
+2018-02-21 21:47:29,039 INFO Killing Thibault
+2018-02-21 21:47:29,048 INFO Thibault exit code: None
+2018-02-21 21:47:29,051 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,054 INFO Turn 1 begins
+2018-02-21 21:47:29,057 INFO flibidi command: shoot
+2018-02-21 21:47:29,061 INFO Thibault command: shoot
+2018-02-21 21:47:29,064 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,067 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,070 INFO Turn 2 begins
+2018-02-21 21:47:29,073 INFO flibidi command: reload
+2018-02-21 21:47:29,077 INFO Thibault command: reload
+2018-02-21 21:47:29,080 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,083 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,086 INFO Turn 3 begins
+2018-02-21 21:47:29,090 INFO flibidi command: dodge
+2018-02-21 21:47:29,093 INFO Thibault command: shoot
+2018-02-21 21:47:29,096 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,099 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,102 INFO Turn 4 begins
+2018-02-21 21:47:29,106 INFO flibidi command: dodge
+2018-02-21 21:47:29,109 INFO Thibault command: reload
+2018-02-21 21:47:29,112 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,115 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,118 INFO Turn 5 begins
+2018-02-21 21:47:29,122 INFO flibidi command: reload
+2018-02-21 21:47:29,125 INFO Thibault command: shoot
+2018-02-21 21:47:29,128 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,131 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,135 INFO Killing flibidi
+2018-02-21 21:47:29,146 INFO flibidi exit code: 1
+2018-02-21 21:47:29,149 INFO Killing Thibault
+2018-02-21 21:47:29,156 INFO Thibault exit code: None
+2018-02-21 21:47:29,249 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,253 INFO Turn 1 begins
+2018-02-21 21:47:29,256 INFO flibidi command: shoot
+2018-02-21 21:47:29,260 INFO Thibault command: shoot
+2018-02-21 21:47:29,263 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,267 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,270 INFO Turn 2 begins
+2018-02-21 21:47:29,273 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,274 INFO flibidi command: reload
+2018-02-21 21:47:29,276 INFO Turn 1 begins
+2018-02-21 21:47:29,278 INFO Thibault command: reload
+2018-02-21 21:47:29,280 INFO flibidi command: shoot
+2018-02-21 21:47:29,281 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,284 INFO Thibault command: shoot
+2018-02-21 21:47:29,284 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,287 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,288 INFO Turn 3 begins
+2018-02-21 21:47:29,290 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,293 INFO Turn 2 begins
+2018-02-21 21:47:29,293 INFO flibidi command: dodge
+2018-02-21 21:47:29,296 INFO flibidi command: dodge
+2018-02-21 21:47:29,297 INFO Thibault command: shoot
+2018-02-21 21:47:29,300 INFO Thibault command: reload
+2018-02-21 21:47:29,300 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,303 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,304 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,307 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,309 INFO Turn 4 begins
+2018-02-21 21:47:29,310 INFO Turn 3 begins
+2018-02-21 21:47:29,312 INFO flibidi command: reload
+2018-02-21 21:47:29,314 INFO flibidi command: reload
+2018-02-21 21:47:29,316 INFO Thibault command: reload
+2018-02-21 21:47:29,318 INFO Thibault command: shoot
+2018-02-21 21:47:29,320 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,321 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,323 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,324 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,327 INFO Turn 5 begins
+2018-02-21 21:47:29,327 INFO Killing flibidi
+2018-02-21 21:47:29,331 INFO flibidi command: dodge
+2018-02-21 21:47:29,331 INFO flibidi exit code: None
+2018-02-21 21:47:29,335 INFO Killing Thibault
+2018-02-21 21:47:29,335 INFO Thibault command: shoot
+2018-02-21 21:47:29,338 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,339 INFO Thibault exit code: None
+2018-02-21 21:47:29,342 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,344 INFO Turn 6 begins
+2018-02-21 21:47:29,348 INFO flibidi command: shoot
+2018-02-21 21:47:29,352 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,352 INFO Thibault command: reload
+2018-02-21 21:47:29,355 INFO Turn 1 begins
+2018-02-21 21:47:29,356 INFO flibidi shoots Thibault
+2018-02-21 21:47:29,359 INFO flibidi command: shoot
+2018-02-21 21:47:29,359 INFO flibidi shoots Thibault
+2018-02-21 21:47:29,361 INFO Thibault command: shoot
+2018-02-21 21:47:29,363 INFO Killing flibidi
+2018-02-21 21:47:29,363 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,367 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,371 INFO Turn 2 begins
+2018-02-21 21:47:29,372 INFO flibidi exit code: None
+2018-02-21 21:47:29,374 INFO flibidi command: reload
+2018-02-21 21:47:29,376 INFO Killing Thibault
+2018-02-21 21:47:29,378 INFO Thibault command: reload
+2018-02-21 21:47:29,381 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,385 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,387 INFO Thibault exit code: 1
+2018-02-21 21:47:29,388 INFO Turn 3 begins
+2018-02-21 21:47:29,392 INFO flibidi command: dodge
+2018-02-21 21:47:29,396 INFO Thibault command: shoot
+2018-02-21 21:47:29,400 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,403 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,407 INFO Turn 4 begins
+2018-02-21 21:47:29,410 INFO flibidi command: dodge
+2018-02-21 21:47:29,416 INFO Thibault command: reload
+2018-02-21 21:47:29,420 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,424 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,428 INFO Turn 5 begins
+2018-02-21 21:47:29,432 INFO flibidi command: reload
+2018-02-21 21:47:29,436 INFO Thibault command: shoot
+2018-02-21 21:47:29,439 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,443 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,446 INFO Killing flibidi
+2018-02-21 21:47:29,454 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,456 INFO flibidi exit code: None
+2018-02-21 21:47:29,458 INFO Turn 1 begins
+2018-02-21 21:47:29,460 INFO Killing Thibault
+2018-02-21 21:47:29,461 INFO flibidi command: shoot
+2018-02-21 21:47:29,465 INFO Thibault command: shoot
+2018-02-21 21:47:29,468 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,470 INFO Thibault exit code: None
+2018-02-21 21:47:29,471 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,475 INFO Turn 2 begins
+2018-02-21 21:47:29,479 INFO flibidi command: dodge
+2018-02-21 21:47:29,484 INFO Thibault command: reload
+2018-02-21 21:47:29,486 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,489 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,493 INFO Turn 3 begins
+2018-02-21 21:47:29,496 INFO flibidi command: reload
+2018-02-21 21:47:29,500 INFO Thibault command: shoot
+2018-02-21 21:47:29,504 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,507 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,515 INFO Killing flibidi
+2018-02-21 21:47:29,521 INFO flibidi exit code: None
+2018-02-21 21:47:29,526 INFO Killing Thibault
+2018-02-21 21:47:29,530 INFO Thibault exit code: None
+2018-02-21 21:47:29,635 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,639 INFO Turn 1 begins
+2018-02-21 21:47:29,643 INFO flibidi command: shoot
+2018-02-21 21:47:29,647 INFO Thibault command: shoot
+2018-02-21 21:47:29,651 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,655 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,659 INFO Turn 2 begins
+2018-02-21 21:47:29,663 INFO flibidi command: dodge
+2018-02-21 21:47:29,667 INFO Thibault command: reload
+2018-02-21 21:47:29,671 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,674 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,678 INFO Turn 3 begins
+2018-02-21 21:47:29,683 INFO flibidi command: reload
+2018-02-21 21:47:29,686 INFO Thibault command: shoot
+2018-02-21 21:47:29,686 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,690 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,690 INFO Turn 1 begins
+2018-02-21 21:47:29,694 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,695 INFO flibidi command: shoot
+2018-02-21 21:47:29,698 INFO Killing flibidi
+2018-02-21 21:47:29,698 INFO Thibault command: shoot
+2018-02-21 21:47:29,702 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,706 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,709 INFO flibidi exit code: 1
+2018-02-21 21:47:29,710 INFO Turn 2 begins
+2018-02-21 21:47:29,713 INFO Killing Thibault
+2018-02-21 21:47:29,714 INFO flibidi command: dodge
+2018-02-21 21:47:29,718 INFO Thibault exit code: None
+2018-02-21 21:47:29,720 INFO Thibault command: reload
+2018-02-21 21:47:29,724 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,728 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,732 INFO Turn 3 begins
+2018-02-21 21:47:29,736 INFO flibidi command: reload
+2018-02-21 21:47:29,741 INFO Thibault command: shoot
+2018-02-21 21:47:29,745 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,748 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,753 INFO Killing flibidi
+2018-02-21 21:47:29,759 INFO flibidi exit code: None
+2018-02-21 21:47:29,765 INFO Killing Thibault
+2018-02-21 21:47:29,769 INFO Thibault exit code: None
+2018-02-21 21:47:29,784 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,788 INFO Turn 1 begins
+2018-02-21 21:47:29,792 INFO flibidi command: shoot
+2018-02-21 21:47:29,796 INFO Thibault command: shoot
+2018-02-21 21:47:29,800 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,804 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,808 INFO Turn 2 begins
+2018-02-21 21:47:29,812 INFO flibidi command: dodge
+2018-02-21 21:47:29,816 INFO Thibault command: reload
+2018-02-21 21:47:29,820 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,821 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:29,824 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:29,825 INFO Turn 1 begins
+2018-02-21 21:47:29,828 INFO Turn 3 begins
+2018-02-21 21:47:29,829 INFO flibidi command: shoot
+2018-02-21 21:47:29,832 INFO flibidi command: reload
+2018-02-21 21:47:29,833 INFO Thibault command: shoot
+2018-02-21 21:47:29,837 INFO Thibault command: shoot
+2018-02-21 21:47:29,837 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:29,840 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,841 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:29,844 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,845 INFO Turn 2 begins
+2018-02-21 21:47:29,849 INFO Killing flibidi
+2018-02-21 21:47:29,849 INFO flibidi command: reload
+2018-02-21 21:47:29,853 INFO Thibault command: reload
+2018-02-21 21:47:29,853 INFO flibidi exit code: None
+2018-02-21 21:47:29,857 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:29,857 INFO Killing Thibault
+2018-02-21 21:47:29,861 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:29,862 INFO Thibault exit code: None
+2018-02-21 21:47:29,865 INFO Turn 3 begins
+2018-02-21 21:47:29,869 INFO flibidi command: reload
+2018-02-21 21:47:29,873 INFO Thibault command: shoot
+2018-02-21 21:47:29,877 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,881 INFO Thibault shoots flibidi
+2018-02-21 21:47:29,885 INFO Killing flibidi
+2018-02-21 21:47:29,890 INFO flibidi exit code: None
+2018-02-21 21:47:29,894 INFO Killing Thibault
+2018-02-21 21:47:29,899 INFO Thibault exit code: None
+2018-02-21 21:47:30,016 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,021 INFO Turn 1 begins
+2018-02-21 21:47:30,025 INFO flibidi command: shoot
+2018-02-21 21:47:30,029 INFO Thibault command: shoot
+2018-02-21 21:47:30,034 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,040 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,045 INFO Turn 2 begins
+2018-02-21 21:47:30,049 INFO flibidi command: dodge
+2018-02-21 21:47:30,053 INFO Thibault command: reload
+2018-02-21 21:47:30,059 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,063 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,067 INFO Turn 3 begins
+2018-02-21 21:47:30,071 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,072 INFO flibidi command: reload
+2018-02-21 21:47:30,076 INFO Turn 1 begins
+2018-02-21 21:47:30,076 INFO Thibault command: shoot
+2018-02-21 21:47:30,080 INFO flibidi command: shoot
+2018-02-21 21:47:30,080 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,085 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,085 INFO Thibault command: shoot
+2018-02-21 21:47:30,089 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,089 INFO Killing flibidi
+2018-02-21 21:47:30,093 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,097 INFO Turn 2 begins
+2018-02-21 21:47:30,100 INFO flibidi exit code: 1
+2018-02-21 21:47:30,102 INFO flibidi command: reload
+2018-02-21 21:47:30,104 INFO Killing Thibault
+2018-02-21 21:47:30,106 INFO Thibault command: reload
+2018-02-21 21:47:30,108 INFO Thibault exit code: None
+2018-02-21 21:47:30,110 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,114 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,118 INFO Turn 3 begins
+2018-02-21 21:47:30,123 INFO flibidi command: dodge
+2018-02-21 21:47:30,127 INFO Thibault command: shoot
+2018-02-21 21:47:30,131 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,136 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,140 INFO Turn 4 begins
+2018-02-21 21:47:30,144 INFO flibidi command: reload
+2018-02-21 21:47:30,149 INFO Thibault command: reload
+2018-02-21 21:47:30,153 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,156 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,157 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,161 INFO Turn 1 begins
+2018-02-21 21:47:30,161 INFO Turn 5 begins
+2018-02-21 21:47:30,165 INFO flibidi command: shoot
+2018-02-21 21:47:30,166 INFO flibidi command: dodge
+2018-02-21 21:47:30,169 INFO Thibault command: shoot
+2018-02-21 21:47:30,170 INFO Thibault command: shoot
+2018-02-21 21:47:30,174 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,175 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,178 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,179 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,183 INFO Turn 2 begins
+2018-02-21 21:47:30,183 INFO Turn 6 begins
+2018-02-21 21:47:30,185 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,187 INFO flibidi command: dodge
+2018-02-21 21:47:30,188 INFO flibidi command: shoot
+2018-02-21 21:47:30,190 INFO Turn 1 begins
+2018-02-21 21:47:30,192 INFO Thibault command: reload
+2018-02-21 21:47:30,194 INFO flibidi command: shoot
+2018-02-21 21:47:30,196 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,196 INFO flibidi shoots Thibault
+2018-02-21 21:47:30,199 INFO Thibault command: shoot
+2018-02-21 21:47:30,200 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,201 INFO flibidi shoots Thibault
+2018-02-21 21:47:30,203 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,204 INFO Turn 3 begins
+2018-02-21 21:47:30,206 INFO Killing flibidi
+2018-02-21 21:47:30,207 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,209 INFO flibidi command: reload
+2018-02-21 21:47:30,212 INFO Turn 2 begins
+2018-02-21 21:47:30,213 INFO Thibault command: shoot
+2018-02-21 21:47:30,216 INFO flibidi command: dodge
+2018-02-21 21:47:30,217 INFO flibidi exit code: 1
+2018-02-21 21:47:30,217 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,220 INFO Thibault command: reload
+2018-02-21 21:47:30,221 INFO Killing Thibault
+2018-02-21 21:47:30,221 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,225 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,226 INFO Killing flibidi
+2018-02-21 21:47:30,229 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,231 INFO Thibault exit code: -9
+2018-02-21 21:47:30,231 INFO flibidi exit code: None
+2018-02-21 21:47:30,233 INFO Turn 3 begins
+2018-02-21 21:47:30,235 INFO Killing Thibault
+2018-02-21 21:47:30,237 INFO flibidi command: dodge
+2018-02-21 21:47:30,240 INFO Thibault exit code: None
+2018-02-21 21:47:30,242 INFO Thibault command: shoot
+2018-02-21 21:47:30,246 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,250 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,259 INFO Turn 4 begins
+2018-02-21 21:47:30,265 INFO flibidi command: reload
+2018-02-21 21:47:30,270 INFO Thibault command: reload
+2018-02-21 21:47:30,277 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,284 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,289 INFO Turn 5 begins
+2018-02-21 21:47:30,293 INFO flibidi command: dodge
+2018-02-21 21:47:30,298 INFO Thibault command: shoot
+2018-02-21 21:47:30,304 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,308 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,313 INFO Turn 6 begins
+2018-02-21 21:47:30,317 INFO flibidi command: reload
+2018-02-21 21:47:30,322 INFO Thibault command: reload
+2018-02-21 21:47:30,326 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,333 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,337 INFO Turn 7 begins
+2018-02-21 21:47:30,342 INFO flibidi command: shoot
+2018-02-21 21:47:30,346 INFO Thibault command: shoot
+2018-02-21 21:47:30,351 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,356 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,360 INFO Turn 8 begins
+2018-02-21 21:47:30,365 INFO flibidi command: reload
+2018-02-21 21:47:30,369 INFO Thibault command: reload
+2018-02-21 21:47:30,373 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,378 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,384 INFO Turn 9 begins
+2018-02-21 21:47:30,388 INFO flibidi command: shoot
+2018-02-21 21:47:30,395 INFO Thibault command: shoot
+2018-02-21 21:47:30,396 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,399 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,400 INFO Turn 1 begins
+2018-02-21 21:47:30,403 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,405 INFO flibidi command: shoot
+2018-02-21 21:47:30,408 INFO Turn 10 begins
+2018-02-21 21:47:30,410 INFO Thibault command: shoot
+2018-02-21 21:47:30,412 INFO flibidi command: reload
+2018-02-21 21:47:30,414 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,419 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,420 INFO Thibault command: reload
+2018-02-21 21:47:30,424 INFO Turn 2 begins
+2018-02-21 21:47:30,424 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,429 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,429 INFO flibidi command: dodge
+2018-02-21 21:47:30,434 INFO Turn 11 begins
+2018-02-21 21:47:30,434 INFO Thibault command: reload
+2018-02-21 21:47:30,438 INFO flibidi command: shoot
+2018-02-21 21:47:30,438 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,444 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,445 INFO Thibault command: shoot
+2018-02-21 21:47:30,450 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,454 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,457 INFO Turn 3 begins
+2018-02-21 21:47:30,458 INFO Turn 12 begins
+2018-02-21 21:47:30,462 INFO flibidi command: dodge
+2018-02-21 21:47:30,463 INFO flibidi command: reload
+2018-02-21 21:47:30,468 INFO Thibault command: reload
+2018-02-21 21:47:30,469 INFO Thibault command: shoot
+2018-02-21 21:47:30,472 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,474 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,476 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,478 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,481 INFO Turn 13 begins
+2018-02-21 21:47:30,485 INFO Turn 4 begins
+2018-02-21 21:47:30,485 INFO flibidi command: shoot
+2018-02-21 21:47:30,490 INFO flibidi command: reload
+2018-02-21 21:47:30,490 INFO Thibault command: shoot
+2018-02-21 21:47:30,494 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,495 INFO Thibault command: reload
+2018-02-21 21:47:30,499 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,499 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,504 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,504 INFO Turn 14 begins
+2018-02-21 21:47:30,510 INFO Turn 5 begins
+2018-02-21 21:47:30,511 INFO flibidi command: reload
+2018-02-21 21:47:30,514 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,516 INFO Thibault command: reload
+2018-02-21 21:47:30,517 INFO Turn 1 begins
+2018-02-21 21:47:30,515 INFO flibidi command: dodge
+2018-02-21 21:47:30,520 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,521 INFO flibidi command: shoot
+2018-02-21 21:47:30,524 INFO Thibault command: shoot
+2018-02-21 21:47:30,524 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,525 INFO Thibault command: shoot
+2018-02-21 21:47:30,528 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,530 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,532 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,533 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,536 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,537 INFO Turn 1 begins
+2018-02-21 21:47:30,535 INFO Turn 15 begins
+2018-02-21 21:47:30,538 INFO Turn 6 begins
+2018-02-21 21:47:30,541 INFO flibidi command: shoot
+2018-02-21 21:47:30,542 INFO flibidi command: reload
+2018-02-21 21:47:30,543 INFO Turn 2 begins
+2018-02-21 21:47:30,543 INFO flibidi command: dodge
+2018-02-21 21:47:30,545 INFO Thibault command: shoot
+2018-02-21 21:47:30,547 INFO Thibault command: shoot
+2018-02-21 21:47:30,548 INFO flibidi command: dodge
+2018-02-21 21:47:30,548 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,550 INFO Thibault command: reload
+2018-02-21 21:47:30,551 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,553 INFO Thibault command: reload
+2018-02-21 21:47:30,553 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,555 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,556 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,557 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,557 INFO Turn 2 begins
+2018-02-21 21:47:30,561 INFO Killing flibidi
+2018-02-21 21:47:30,561 INFO flibidi command: dodge
+2018-02-21 21:47:30,562 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,566 INFO Thibault command: reload
+2018-02-21 21:47:30,566 INFO Turn 3 begins
+2018-02-21 21:47:30,567 INFO Turn 7 begins
+2018-02-21 21:47:30,570 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,571 INFO flibidi command: reload
+2018-02-21 21:47:30,572 INFO flibidi exit code: 1
+2018-02-21 21:47:30,572 INFO flibidi command: reload
+2018-02-21 21:47:30,574 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,576 INFO Killing Thibault
+2018-02-21 21:47:30,577 INFO Thibault command: shoot
+2018-02-21 21:47:30,579 INFO Turn 3 begins
+2018-02-21 21:47:30,581 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,582 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,584 INFO flibidi command: dodge
+2018-02-21 21:47:30,586 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,587 INFO Thibault exit code: 1
+2018-02-21 21:47:30,587 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,588 INFO Thibault command: shoot
+2018-02-21 21:47:30,591 INFO Killing flibidi
+2018-02-21 21:47:30,593 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,597 INFO flibidi exit code: None
+pponent did: dodge
+2018-02-21 21:47:30,599 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,600 INFO flibidi exit code: None
+2018-02-21 21:47:30,603 INFO Killing Thibault
+2018-02-21 21:47:30,605 INFO Turn 4 begins
+2018-02-21 21:47:30,605 INFO Killing Thibault
+2018-02-21 21:47:30,609 INFO flibidi command: reload
+2018-02-21 21:47:30,610 INFO Thibault exit code: None
+2018-02-21 21:47:30,614 INFO Thibault command: reload
+2018-02-21 21:47:30,617 INFO Thibault exit code: None
+2018-02-21 21:47:30,619 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,624 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,632 INFO Turn 5 begins
+2018-02-21 21:47:30,637 INFO flibidi command: dodge
+2018-02-21 21:47:30,642 INFO Thibault command: shoot
+2018-02-21 21:47:30,648 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,653 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,658 INFO Turn 6 begins
+2018-02-21 21:47:30,667 INFO flibidi command: dodge
+2018-02-21 21:47:30,671 INFO Thibault command: reload
+2018-02-21 21:47:30,679 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,684 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,688 INFO Turn 7 begins
+2018-02-21 21:47:30,693 INFO flibidi command: dodge
+2018-02-21 21:47:30,698 INFO Thibault command: shoot
+2018-02-21 21:47:30,703 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,708 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,713 INFO Turn 8 begins
+2018-02-21 21:47:30,718 INFO flibidi command: dodge
+2018-02-21 21:47:30,723 INFO Thibault command: reload
+2018-02-21 21:47:30,728 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,733 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,741 INFO Turn 9 begins
+2018-02-21 21:47:30,745 INFO flibidi command: dodge
+2018-02-21 21:47:30,750 INFO Thibault command: shoot
+2018-02-21 21:47:30,755 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,761 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,766 INFO Turn 10 begins
+2018-02-21 21:47:30,773 INFO flibidi command: dodge
+2018-02-21 21:47:30,777 INFO Thibault command: reload
+2018-02-21 21:47:30,782 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,787 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,792 INFO Turn 11 begins
+2018-02-21 21:47:30,797 INFO flibidi command: reload
+2018-02-21 21:47:30,802 INFO Thibault command: shoot
+2018-02-21 21:47:30,807 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,811 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,816 INFO Killing flibidi
+2018-02-21 21:47:30,827 INFO flibidi exit code: 1
+2018-02-21 21:47:30,832 INFO Killing Thibault
+2018-02-21 21:47:30,839 INFO Thibault exit code: None
+2018-02-21 21:47:30,879 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,884 INFO Turn 1 begins
+2018-02-21 21:47:30,889 INFO flibidi command: shoot
+2018-02-21 21:47:30,894 INFO Thibault command: shoot
+2018-02-21 21:47:30,898 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,903 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:30,903 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,908 INFO Turn 1 begins
+2018-02-21 21:47:30,908 INFO Turn 2 begins
+2018-02-21 21:47:30,909 INFO Turn 1 begins
+2018-02-21 21:47:30,913 INFO flibidi command: dodge
+2018-02-21 21:47:30,913 INFO flibidi command: shoot
+2018-02-21 21:47:30,914 INFO flibidi command: shoot
+2018-02-21 21:47:30,917 INFO Thibault command: shoot
+2018-02-21 21:47:30,919 INFO Thibault command: reload
+2018-02-21 21:47:30,921 INFO Thibault command: shoot
+2018-02-21 21:47:30,922 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,923 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,926 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,926 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,928 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,931 INFO Turn 2 begins
+2018-02-21 21:47:30,933 INFO Turn 3 begins
+2018-02-21 21:47:30,933 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:30,936 INFO flibidi command: reload
+2018-02-21 21:47:30,938 INFO flibidi command: reload
+2018-02-21 21:47:30,938 INFO Turn 2 begins
+2018-02-21 21:47:30,941 INFO Thibault command: reload
+2018-02-21 21:47:30,943 INFO flibidi command: dodge
+2018-02-21 21:47:30,945 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,945 INFO Thibault command: shoot
+ponent did: reload
+2018-02-21 21:47:30,948 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:30,949 INFO Thibault command: reload
+2018-02-21 21:47:30,952 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,953 INFO Turn 3 begins
+2018-02-21 21:47:30,955 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,957 INFO Thibault shoots flibidi
+2018-02-21 21:47:30,959 INFO flibidi command: dodge
+2018-02-21 21:47:30,959 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,961 INFO Killing flibidi
+2018-02-21 21:47:30,964 INFO Thibault command: shoot
+2018-02-21 21:47:30,964 INFO Turn 3 begins
+2018-02-21 21:47:30,969 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:30,970 INFO flibidi command: dodge
+2018-02-21 21:47:30,973 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,974 INFO flibidi exit code: 1
+2018-02-21 21:47:30,975 INFO Thibault command: shoot
+2018-02-21 21:47:30,978 INFO Turn 4 begins
+2018-02-21 21:47:30,978 INFO Killing Thibault
+2018-02-21 21:47:30,980 DEBUG Telling flibidi that opponent did: shoot
+lt
+2018-02-21 21:47:30,983 INFO flibidi command: dodge
+2018-02-21 21:47:30,983 INFO Thibault exit code: None
+2018-02-21 21:47:30,985 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:30,988 INFO Thibault command: reload
+2018-02-21 21:47:30,989 INFO Turn 4 begins
+2018-02-21 21:47:30,993 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:30,994 INFO flibidi command: dodge
+2018-02-21 21:47:30,999 INFO Thibault command: reload
+2018-02-21 21:47:30,999 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,004 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,005 INFO Turn 5 begins
+2018-02-21 21:47:31,009 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,010 INFO flibidi command: dodge
+2018-02-21 21:47:31,014 INFO Turn 5 begins
+2018-02-21 21:47:31,015 INFO Thibault command: shoot
+2018-02-21 21:47:31,019 INFO flibidi command: reload
+2018-02-21 21:47:31,020 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,025 INFO Thibault command: shoot
+2018-02-21 21:47:31,030 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,029 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,036 INFO Turn 6 begins
+2018-02-21 21:47:31,040 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,042 INFO flibidi command: dodge
+2018-02-21 21:47:31,045 INFO Killing flibidi
+2018-02-21 21:47:31,047 INFO Thibault command: reload
+2018-02-21 21:47:31,053 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,056 INFO flibidi exit code: 1
+2018-02-21 21:47:31,060 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,061 INFO Killing Thibault
+2018-02-21 21:47:31,065 INFO Turn 7 begins
+2018-02-21 21:47:31,070 INFO flibidi command: reload
+2018-02-21 21:47:31,072 INFO Thibault exit code: None
+2018-02-21 21:47:31,075 INFO Thibault command: shoot
+2018-02-21 21:47:31,080 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,086 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,092 INFO Killing flibidi
+2018-02-21 21:47:31,109 INFO flibidi exit code: 1
+2018-02-21 21:47:31,115 INFO Killing Thibault
+2018-02-21 21:47:31,127 INFO Thibault exit code: None
+2018-02-21 21:47:31,128 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,134 INFO Turn 1 begins
+2018-02-21 21:47:31,139 INFO flibidi command: shoot
+2018-02-21 21:47:31,144 INFO Thibault command: shoot
+2018-02-21 21:47:31,149 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,155 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,161 INFO Turn 2 begins
+2018-02-21 21:47:31,166 INFO flibidi command: dodge
+2018-02-21 21:47:31,173 INFO Thibault command: reload
+2018-02-21 21:47:31,182 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,187 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,192 INFO Turn 3 begins
+2018-02-21 21:47:31,197 INFO flibidi command: reload
+2018-02-21 21:47:31,203 INFO Thibault command: shoot
+2018-02-21 21:47:31,208 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,213 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,219 INFO Killing flibidi
+2018-02-21 21:47:31,232 INFO flibidi exit code: 1
+2018-02-21 21:47:31,238 INFO Killing Thibault
+2018-02-21 21:47:31,249 INFO Thibault exit code: None
+2018-02-21 21:47:31,272 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,278 INFO Turn 1 begins
+2018-02-21 21:47:31,283 INFO flibidi command: shoot
+2018-02-21 21:47:31,289 INFO Thibault command: shoot
+2018-02-21 21:47:31,294 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,299 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,304 INFO Turn 2 begins
+2018-02-21 21:47:31,310 INFO flibidi command: reload
+2018-02-21 21:47:31,315 INFO Thibault command: reload
+2018-02-21 21:47:31,320 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,327 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,332 INFO Turn 3 begins
+2018-02-21 21:47:31,337 INFO flibidi command: reload
+2018-02-21 21:47:31,342 INFO Thibault command: shoot
+2018-02-21 21:47:31,347 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,352 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,357 INFO Killing flibidi
+2018-02-21 21:47:31,362 INFO flibidi exit code: None
+2018-02-21 21:47:31,365 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,367 INFO Killing Thibault
+2018-02-21 21:47:31,371 INFO Turn 1 begins
+2018-02-21 21:47:31,373 INFO Thibault exit code: None
+2018-02-21 21:47:31,378 INFO flibidi command: shoot
+2018-02-21 21:47:31,383 INFO Thibault command: shoot
+2018-02-21 21:47:31,389 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,394 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,401 INFO Turn 2 begins
+2018-02-21 21:47:31,406 INFO flibidi command: dodge
+2018-02-21 21:47:31,412 INFO Thibault command: reload
+2018-02-21 21:47:31,412 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,417 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,424 INFO Turn 1 begins
+2018-02-21 21:47:31,425 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,430 INFO flibidi command: shoot
+2018-02-21 21:47:31,430 INFO Turn 3 begins
+2018-02-21 21:47:31,436 INFO Thibault command: shoot
+2018-02-21 21:47:31,436 INFO flibidi command: reload
+2018-02-21 21:47:31,441 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,441 INFO Thibault command: shoot
+2018-02-21 21:47:31,447 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,447 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,452 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,452 INFO Turn 2 begins
+2018-02-21 21:47:31,457 INFO Killing flibidi
+2018-02-21 21:47:31,458 INFO flibidi command: dodge
+2018-02-21 21:47:31,463 INFO flibidi exit code: None
+2018-02-21 21:47:31,466 INFO Thibault command: reload
+2018-02-21 21:47:31,470 INFO Killing Thibault
+2018-02-21 21:47:31,472 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,478 INFO Thibault exit code: None
+2018-02-21 21:47:31,479 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,485 INFO Turn 3 begins
+2018-02-21 21:47:31,492 INFO flibidi command: dodge
+2018-02-21 21:47:31,497 INFO Thibault command: shoot
+2018-02-21 21:47:31,504 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,509 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,514 INFO Turn 4 begins
+2018-02-21 21:47:31,523 INFO flibidi command: reload
+2018-02-21 21:47:31,532 INFO Thibault command: reload
+2018-02-21 21:47:31,536 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,537 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,542 INFO Turn 1 begins
+2018-02-21 21:47:31,543 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,547 INFO flibidi command: shoot
+2018-02-21 21:47:31,548 INFO Turn 5 begins
+2018-02-21 21:47:31,553 INFO Thibault command: shoot
+2018-02-21 21:47:31,555 INFO flibidi command: reload
+2018-02-21 21:47:31,559 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,561 INFO Thibault command: shoot
+2018-02-21 21:47:31,564 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,569 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,570 INFO Turn 2 begins
+2018-02-21 21:47:31,574 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,576 INFO flibidi command: dodge
+2018-02-21 21:47:31,580 INFO Killing flibidi
+2018-02-21 21:47:31,581 INFO Thibault command: reload
+2018-02-21 21:47:31,586 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,591 INFO flibidi exit code: None
+2018-02-21 21:47:31,592 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,597 INFO Killing Thibault
+2018-02-21 21:47:31,598 INFO Turn 3 begins
+2018-02-21 21:47:31,603 INFO flibidi command: reload
+2018-02-21 21:47:31,608 INFO Thibault command: shoot
+2018-02-21 21:47:31,611 INFO Thibault exit code: None
+2018-02-21 21:47:31,614 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,619 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,626 INFO Killing flibidi
+2018-02-21 21:47:31,639 INFO flibidi exit code: None
+2018-02-21 21:47:31,644 INFO Killing Thibault
+2018-02-21 21:47:31,658 INFO Thibault exit code: 1
+2018-02-21 21:47:31,659 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,665 INFO Turn 1 begins
+2018-02-21 21:47:31,671 INFO flibidi command: shoot
+2018-02-21 21:47:31,677 INFO Thibault command: shoot
+2018-02-21 21:47:31,683 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,688 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,694 INFO Turn 2 begins
+2018-02-21 21:47:31,699 INFO flibidi command: reload
+2018-02-21 21:47:31,705 INFO Thibault command: reload
+2018-02-21 21:47:31,710 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,716 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,722 INFO Turn 3 begins
+2018-02-21 21:47:31,727 INFO flibidi command: dodge
+2018-02-21 21:47:31,733 INFO Thibault command: shoot
+2018-02-21 21:47:31,739 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,745 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,750 INFO Turn 4 begins
+2018-02-21 21:47:31,755 INFO flibidi command: reload
+2018-02-21 21:47:31,759 INFO Thibault command: reload
+2018-02-21 21:47:31,765 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,768 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,772 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,774 INFO Turn 1 begins
+2018-02-21 21:47:31,778 INFO Turn 5 begins
+2018-02-21 21:47:31,780 INFO flibidi command: shoot
+2018-02-21 21:47:31,783 INFO flibidi command: shoot
+2018-02-21 21:47:31,786 INFO Thibault command: shoot
+2018-02-21 21:47:31,789 INFO Thibault command: shoot
+2018-02-21 21:47:31,792 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,795 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,797 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,800 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,803 INFO Turn 2 begins
+2018-02-21 21:47:31,807 INFO flibidi command: reload
+2018-02-21 21:47:31,810 INFO Turn 6 begins
+2018-02-21 21:47:31,812 INFO Thibault command: reload
+2018-02-21 21:47:31,813 INFO flibidi command: dodge
+2018-02-21 21:47:31,817 INFO Thibault command: reload
+2018-02-21 21:47:31,818 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,821 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,823 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,825 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,829 INFO Turn 3 begins
+2018-02-21 21:47:31,830 INFO Turn 7 begins
+2018-02-21 21:47:31,832 INFO flibidi command: dodge
+2018-02-21 21:47:31,834 INFO flibidi command: dodge
+2018-02-21 21:47:31,838 INFO Thibault command: shoot
+2018-02-21 21:47:31,840 INFO Thibault command: shoot
+2018-02-21 21:47:31,844 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,846 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,850 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,852 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,856 INFO Turn 4 begins
+2018-02-21 21:47:31,858 INFO Turn 8 begins
+2018-02-21 21:47:31,861 INFO flibidi command: reload
+2018-02-21 21:47:31,865 INFO flibidi command: dodge
+2018-02-21 21:47:31,869 INFO Thibault command: reload
+2018-02-21 21:47:31,871 INFO Thibault command: reload
+2018-02-21 21:47:31,875 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,877 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,882 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,882 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,888 INFO Turn 9 begins
+2018-02-21 21:47:31,888 INFO Turn 5 begins
+2018-02-21 21:47:31,894 INFO flibidi command: reload
+2018-02-21 21:47:31,895 INFO flibidi command: shoot
+2018-02-21 21:47:31,900 INFO Thibault command: shoot
+2018-02-21 21:47:31,900 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,901 INFO Thibault command: shoot
+2018-02-21 21:47:31,905 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,906 INFO Turn 1 begins
+2018-02-21 21:47:31,907 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,911 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,912 INFO flibidi command: shoot
+2018-02-21 21:47:31,913 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,916 INFO Killing flibidi
+2018-02-21 21:47:31,918 INFO Thibault command: shoot
+2018-02-21 21:47:31,919 INFO Turn 6 begins
+2018-02-21 21:47:31,923 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,926 INFO flibidi command: dodge
+2018-02-21 21:47:31,927 INFO flibidi exit code: None
+2018-02-21 21:47:31,929 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:31,932 INFO Thibault command: reload
+2018-02-21 21:47:31,933 INFO Killing Thibault
+2018-02-21 21:47:31,935 INFO Turn 2 begins
+2018-02-21 21:47:31,938 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,940 INFO flibidi command: reload
+2018-02-21 21:47:31,941 INFO Thibault exit code: None
+2018-02-21 21:47:31,944 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,946 INFO Thibault command: reload
+2018-02-21 21:47:31,951 INFO Turn 7 begins
+2018-02-21 21:47:31,951 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:31,957 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:31,958 INFO flibidi command: reload
+2018-02-21 21:47:31,963 INFO Turn 3 begins
+2018-02-21 21:47:31,963 INFO Thibault command: shoot
+2018-02-21 21:47:31,969 INFO flibidi command: dodge
+2018-02-21 21:47:31,970 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,975 INFO Thibault command: shoot
+2018-02-21 21:47:31,975 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:31,976 INFO Thibault shoots flibidi
+2018-02-21 21:47:31,981 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,981 INFO Turn 1 begins
+2018-02-21 21:47:31,983 INFO Killing flibidi
+2018-02-21 21:47:31,986 INFO flibidi command: shoot
+2018-02-21 21:47:31,989 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:31,991 INFO Thibault command: shoot
+2018-02-21 21:47:31,995 INFO Turn 4 begins
+2018-02-21 21:47:31,997 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:31,998 INFO flibidi exit code: 1
+2018-02-21 21:47:32,001 INFO flibidi command: reload
+2018-02-21 21:47:32,003 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,005 INFO Killing Thibault
+2018-02-21 21:47:32,007 INFO Thibault command: reload
+2018-02-21 21:47:32,009 INFO Turn 2 begins
+2018-02-21 21:47:32,013 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,015 INFO flibidi command: reload
+2018-02-21 21:47:32,017 INFO Thibault exit code: 1
+2018-02-21 21:47:32,018 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,021 INFO Thibault command: reload
+2018-02-21 21:47:32,025 INFO Turn 5 begins
+2018-02-21 21:47:32,026 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,031 INFO flibidi command: shoot
+2018-02-21 21:47:32,032 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,037 INFO Thibault command: shoot
+2018-02-21 21:47:32,038 INFO Turn 3 begins
+2018-02-21 21:47:32,043 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,044 INFO flibidi command: reload
+2018-02-21 21:47:32,049 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,049 INFO Thibault command: shoot
+2018-02-21 21:47:32,055 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,056 INFO Turn 6 begins
+2018-02-21 21:47:32,061 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,066 INFO flibidi command: dodge
+2018-02-21 21:47:32,068 INFO Killing flibidi
+2018-02-21 21:47:32,073 INFO Thibault command: reload
+2018-02-21 21:47:32,074 INFO flibidi exit code: None
+2018-02-21 21:47:32,080 INFO Killing Thibault
+2018-02-21 21:47:32,080 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,086 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,093 INFO Thibault exit code: None
+2018-02-21 21:47:32,097 INFO Turn 7 begins
+2018-02-21 21:47:32,108 INFO flibidi command: dodge
+2018-02-21 21:47:32,114 INFO Thibault command: shoot
+2018-02-21 21:47:32,119 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,125 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,133 INFO Turn 8 begins
+2018-02-21 21:47:32,140 INFO flibidi command: reload
+2018-02-21 21:47:32,146 INFO Thibault command: reload
+2018-02-21 21:47:32,152 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,158 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,164 INFO Turn 9 begins
+2018-02-21 21:47:32,172 INFO flibidi command: dodge
+2018-02-21 21:47:32,178 INFO Thibault command: shoot
+2018-02-21 21:47:32,184 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,190 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,196 INFO Turn 10 begins
+2018-02-21 21:47:32,203 INFO flibidi command: shoot
+2018-02-21 21:47:32,208 INFO Thibault command: reload
+2018-02-21 21:47:32,214 INFO flibidi shoots Thibault
+2018-02-21 21:47:32,220 INFO flibidi shoots Thibault
+2018-02-21 21:47:32,226 INFO Killing flibidi
+2018-02-21 21:47:32,235 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,238 INFO flibidi exit code: 1
+2018-02-21 21:47:32,241 INFO Turn 1 begins
+2018-02-21 21:47:32,246 INFO Killing Thibault
+2018-02-21 21:47:32,247 INFO flibidi command: shoot
+2018-02-21 21:47:32,253 INFO Thibault command: shoot
+2018-02-21 21:47:32,258 INFO Thibault exit code: None
+2018-02-21 21:47:32,258 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,270 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,277 INFO Turn 2 begins
+2018-02-21 21:47:32,284 INFO flibidi command: reload
+2018-02-21 21:47:32,290 INFO Thibault command: reload
+2018-02-21 21:47:32,296 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,302 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,302 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,309 INFO Turn 1 begins
+2018-02-21 21:47:32,310 INFO Turn 3 begins
+2018-02-21 21:47:32,316 INFO flibidi command: shoot
+2018-02-21 21:47:32,319 INFO flibidi command: reload
+2018-02-21 21:47:32,321 INFO Thibault command: shoot
+2018-02-21 21:47:32,325 INFO Thibault command: shoot
+2018-02-21 21:47:32,327 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,331 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,334 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,337 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,341 INFO Turn 2 begins
+2018-02-21 21:47:32,344 INFO Killing flibidi
+2018-02-21 21:47:32,346 INFO flibidi command: dodge
+2018-02-21 21:47:32,353 INFO Thibault command: reload
+2018-02-21 21:47:32,357 INFO flibidi exit code: None
+2018-02-21 21:47:32,358 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,363 INFO Killing Thibault
+2018-02-21 21:47:32,365 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,371 INFO Turn 3 begins
+2018-02-21 21:47:32,378 INFO flibidi command: dodge
+2018-02-21 21:47:32,380 INFO Thibault exit code: 1
+2018-02-21 21:47:32,385 INFO Thibault command: shoot
+2018-02-21 21:47:32,389 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,391 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,398 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,398 INFO Turn 1 begins
+2018-02-21 21:47:32,404 INFO flibidi command: shoot
+2018-02-21 21:47:32,404 INFO Turn 4 begins
+2018-02-21 21:47:32,410 INFO Thibault command: shoot
+2018-02-21 21:47:32,410 INFO flibidi command: dodge
+2018-02-21 21:47:32,416 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,417 INFO Thibault command: reload
+2018-02-21 21:47:32,423 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,426 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,432 INFO Turn 2 begins
+2018-02-21 21:47:32,434 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,439 INFO flibidi command: dodge
+2018-02-21 21:47:32,441 INFO Turn 5 begins
+2018-02-21 21:47:32,445 INFO Thibault command: reload
+2018-02-21 21:47:32,447 INFO flibidi command: dodge
+2018-02-21 21:47:32,452 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,454 INFO Thibault command: shoot
+2018-02-21 21:47:32,458 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,460 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,464 INFO Turn 3 begins
+2018-02-21 21:47:32,466 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,471 INFO flibidi command: reload
+2018-02-21 21:47:32,472 INFO Turn 6 begins
+2018-02-21 21:47:32,477 INFO Thibault command: shoot
+2018-02-21 21:47:32,479 INFO flibidi command: dodge
+2018-02-21 21:47:32,484 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,487 INFO Thibault command: reload
+2018-02-21 21:47:32,490 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,493 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,496 INFO Killing flibidi
+2018-02-21 21:47:32,499 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,515 INFO Turn 7 begins
+2018-02-21 21:47:32,521 INFO flibidi command: reload
+2018-02-21 21:47:32,522 INFO flibidi exit code: None
+2018-02-21 21:47:32,529 INFO Killing Thibault
+2018-02-21 21:47:32,537 INFO Thibault exit code: None
+2018-02-21 21:47:32,549 INFO Thibault command: shoot
+2018-02-21 21:47:32,554 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,556 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,565 INFO Turn 1 begins
+2018-02-21 21:47:32,568 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,572 INFO flibidi command: shoot
+2018-02-21 21:47:32,574 INFO Killing flibidi
+2018-02-21 21:47:32,578 INFO Thibault command: shoot
+2018-02-21 21:47:32,585 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,587 INFO flibidi exit code: 1
+2018-02-21 21:47:32,591 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,593 INFO Killing Thibault
+2018-02-21 21:47:32,597 INFO Turn 2 begins
+2018-02-21 21:47:32,604 INFO flibidi command: reload
+2018-02-21 21:47:32,606 INFO Thibault exit code: 1
+2018-02-21 21:47:32,611 INFO Thibault command: reload
+2018-02-21 21:47:32,618 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,626 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,632 INFO Turn 3 begins
+2018-02-21 21:47:32,639 INFO flibidi command: reload
+2018-02-21 21:47:32,645 INFO Thibault command: shoot
+2018-02-21 21:47:32,655 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,664 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,672 INFO Killing flibidi
+2018-02-21 21:47:32,679 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,684 INFO flibidi exit code: None
+2018-02-21 21:47:32,685 INFO Turn 1 begins
+2018-02-21 21:47:32,690 INFO Killing Thibault
+2018-02-21 21:47:32,691 INFO flibidi command: shoot
+2018-02-21 21:47:32,697 INFO Thibault command: shoot
+2018-02-21 21:47:32,698 INFO Thibault exit code: None
+2018-02-21 21:47:32,703 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,709 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,715 INFO Turn 2 begins
+2018-02-21 21:47:32,722 INFO flibidi command: reload
+2018-02-21 21:47:32,728 INFO Thibault command: reload
+2018-02-21 21:47:32,734 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,740 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,748 INFO Turn 3 begins
+2018-02-21 21:47:32,755 INFO flibidi command: reload
+2018-02-21 21:47:32,761 INFO Thibault command: shoot
+2018-02-21 21:47:32,767 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,775 INFO Thibault shoots flibidi
+2018-02-21 21:47:32,782 INFO Killing flibidi
+2018-02-21 21:47:32,794 INFO flibidi exit code: 1
+2018-02-21 21:47:32,801 INFO Killing Thibault
+2018-02-21 21:47:32,814 INFO Thibault exit code: None
+2018-02-21 21:47:32,840 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,847 INFO Turn 1 begins
+2018-02-21 21:47:32,852 INFO flibidi command: shoot
+2018-02-21 21:47:32,856 INFO Thibault command: shoot
+2018-02-21 21:47:32,864 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,871 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,880 INFO Turn 2 begins
+2018-02-21 21:47:32,886 INFO flibidi command: dodge
+2018-02-21 21:47:32,893 INFO Thibault command: reload
+2018-02-21 21:47:32,899 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,906 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,913 INFO Turn 3 begins
+2018-02-21 21:47:32,916 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,919 INFO flibidi command: dodge
+2018-02-21 21:47:32,923 INFO Turn 1 begins
+2018-02-21 21:47:32,926 INFO Thibault command: shoot
+2018-02-21 21:47:32,930 INFO flibidi command: shoot
+2018-02-21 21:47:32,934 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,936 INFO Thibault command: shoot
+2018-02-21 21:47:32,941 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:32,943 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:32,948 INFO Turn 4 begins
+2018-02-21 21:47:32,949 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:32,954 INFO flibidi command: reload
+2018-02-21 21:47:32,956 INFO Turn 2 begins
+2018-02-21 21:47:32,962 INFO Thibault command: reload
+2018-02-21 21:47:32,963 INFO flibidi command: reload
+2018-02-21 21:47:32,969 INFO Thibault command: reload
+2018-02-21 21:47:32,969 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,976 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,976 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:32,982 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:32,982 INFO Turn 5 begins
+2018-02-21 21:47:32,989 INFO Turn 3 begins
+2018-02-21 21:47:32,989 INFO flibidi command: reload
+2018-02-21 21:47:32,994 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:32,996 INFO flibidi command: dodge
+2018-02-21 21:47:32,996 INFO Thibault command: shoot
+2018-02-21 21:47:33,000 INFO Turn 1 begins
+2018-02-21 21:47:33,002 INFO Thibault command: shoot
+2018-02-21 21:47:33,002 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,007 INFO flibidi command: shoot
+2018-02-21 21:47:33,009 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,009 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,014 INFO Thibault command: shoot
+2018-02-21 21:47:33,015 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,016 INFO Killing flibidi
+2018-02-21 21:47:33,020 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,022 INFO Turn 4 begins
+2018-02-21 21:47:33,024 INFO flibidi exit code: None
+2018-02-21 21:47:33,026 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,030 INFO flibidi command: reload
+2018-02-21 21:47:33,032 INFO Killing Thibault
+2018-02-21 21:47:33,033 INFO Turn 2 begins
+2018-02-21 21:47:33,037 INFO Thibault command: reload
+2018-02-21 21:47:33,038 INFO Thibault exit code: None
+2018-02-21 21:47:33,039 INFO flibidi command: reload
+2018-02-21 21:47:33,045 INFO Thibault command: reload
+2018-02-21 21:47:33,046 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,052 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,056 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,058 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,064 INFO Turn 5 begins
+2018-02-21 21:47:33,067 INFO Turn 3 begins
+2018-02-21 21:47:33,071 INFO flibidi command: dodge
+2018-02-21 21:47:33,073 INFO flibidi command: reload
+2018-02-21 21:47:33,078 INFO Thibault command: shoot
+2018-02-21 21:47:33,080 INFO Thibault command: shoot
+2018-02-21 21:47:33,086 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,086 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,093 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,094 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,100 INFO Turn 6 begins
+2018-02-21 21:47:33,101 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,101 INFO Killing flibidi
+2018-02-21 21:47:33,107 INFO Turn 1 begins
+2018-02-21 21:47:33,108 INFO flibidi exit code: None
+2018-02-21 21:47:33,114 INFO flibidi command: shoot
+2018-02-21 21:47:33,115 INFO Killing Thibault
+2018-02-21 21:47:33,120 INFO Thibault command: shoot
+2018-02-21 21:47:33,120 INFO Thibault command: reload
+2018-02-21 21:47:33,122 INFO Thibault exit code: None
+2018-02-21 21:47:33,126 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,129 INFO flibidi shoots Thibault
+2018-02-21 21:47:33,133 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,139 INFO flibidi shoots Thibault
+2018-02-21 21:47:33,139 INFO Turn 2 begins
+2018-02-21 21:47:33,146 INFO Killing flibidi
+2018-02-21 21:47:33,146 INFO flibidi command: dodge
+2018-02-21 21:47:33,152 INFO Thibault command: reload
+2018-02-21 21:47:33,158 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,159 INFO flibidi exit code: 1
+2018-02-21 21:47:33,165 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,166 INFO Killing Thibault
+2018-02-21 21:47:33,172 INFO Turn 3 begins
+2018-02-21 21:47:33,179 INFO flibidi command: reload
+2018-02-21 21:47:33,181 INFO Thibault exit code: 1
+2018-02-21 21:47:33,185 INFO Thibault command: shoot
+2018-02-21 21:47:33,192 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,200 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,207 INFO Killing flibidi
+2018-02-21 21:47:33,221 INFO flibidi exit code: 1
+2018-02-21 21:47:33,232 INFO Killing Thibault
+2018-02-21 21:47:33,245 INFO Thibault exit code: None
+2018-02-21 21:47:33,332 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,340 INFO Turn 1 begins
+2018-02-21 21:47:33,347 INFO flibidi command: shoot
+2018-02-21 21:47:33,355 INFO Thibault command: shoot
+2018-02-21 21:47:33,362 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,369 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,377 INFO Turn 2 begins
+2018-02-21 21:47:33,384 INFO flibidi command: reload
+2018-02-21 21:47:33,391 INFO Thibault command: reload
+2018-02-21 21:47:33,399 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,406 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,412 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,413 INFO Turn 3 begins
+2018-02-21 21:47:33,419 INFO Turn 1 begins
+2018-02-21 21:47:33,420 INFO flibidi command: reload
+2018-02-21 21:47:33,426 INFO flibidi command: shoot
+2018-02-21 21:47:33,427 INFO Thibault command: shoot
+2018-02-21 21:47:33,435 INFO Thibault command: shoot
+2018-02-21 21:47:33,438 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,443 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,445 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,450 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,452 INFO Killing flibidi
+2018-02-21 21:47:33,457 INFO Turn 2 begins
+2018-02-21 21:47:33,462 INFO flibidi exit code: None
+2018-02-21 21:47:33,463 INFO flibidi command: dodge
+2018-02-21 21:47:33,470 INFO Thibault command: reload
+2018-02-21 21:47:33,474 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,475 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,477 INFO Killing Thibault
+2018-02-21 21:47:33,481 INFO Turn 1 begins
+2018-02-21 21:47:33,484 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,486 INFO flibidi command: shoot
+2018-02-21 21:47:33,490 INFO Thibault exit code: 1
+2018-02-21 21:47:33,491 INFO Turn 3 begins
+2018-02-21 21:47:33,493 INFO Thibault command: shoot
+2018-02-21 21:47:33,497 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,502 INFO flibidi command: reload
+2018-02-21 21:47:33,504 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,509 INFO Thibault command: shoot
+2018-02-21 21:47:33,511 INFO Turn 2 begins
+2018-02-21 21:47:33,516 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,518 INFO flibidi command: reload
+2018-02-21 21:47:33,523 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,525 INFO Thibault command: reload
+2018-02-21 21:47:33,531 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,532 INFO Killing flibidi
+2018-02-21 21:47:33,532 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,538 INFO Turn 1 begins
+2018-02-21 21:47:33,539 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,546 INFO flibidi command: shoot
+2018-02-21 21:47:33,547 INFO flibidi exit code: 1
+2018-02-21 21:47:33,548 INFO Turn 3 begins
+2018-02-21 21:47:33,553 INFO Thibault command: shoot
+2018-02-21 21:47:33,555 INFO flibidi command: dodge
+2018-02-21 21:47:33,556 INFO Killing Thibault
+2018-02-21 21:47:33,561 INFO Thibault command: shoot
+2018-02-21 21:47:33,562 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,568 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,569 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,571 INFO Thibault exit code: None
+2018-02-21 21:47:33,575 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,576 INFO Turn 2 begins
+2018-02-21 21:47:33,583 INFO flibidi command: reload
+2018-02-21 21:47:33,584 INFO Turn 4 begins
+2018-02-21 21:47:33,590 INFO Thibault command: reload
+2018-02-21 21:47:33,592 INFO flibidi command: reload
+2018-02-21 21:47:33,596 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,599 INFO Thibault command: reload
+2018-02-21 21:47:33,606 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,610 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,613 INFO Turn 3 begins
+2018-02-21 21:47:33,619 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,620 INFO flibidi command: reload
+2018-02-21 21:47:33,628 INFO Thibault command: shoot
+2018-02-21 21:47:33,628 INFO Turn 5 begins
+2018-02-21 21:47:33,635 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,636 INFO flibidi command: dodge
+2018-02-21 21:47:33,642 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,645 INFO Thibault command: shoot
+2018-02-21 21:47:33,650 INFO Killing flibidi
+2018-02-21 21:47:33,652 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,659 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,663 INFO flibidi exit code: None
+2018-02-21 21:47:33,666 INFO Turn 6 begins
+2018-02-21 21:47:33,673 INFO flibidi command: dodge
+2018-02-21 21:47:33,675 INFO Killing Thibault
+2018-02-21 21:47:33,680 INFO Thibault command: reload
+2018-02-21 21:47:33,686 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,689 INFO Thibault exit code: 1
+2018-02-21 21:47:33,693 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,701 INFO Turn 7 begins
+2018-02-21 21:47:33,709 INFO flibidi command: shoot
+2018-02-21 21:47:33,716 INFO Thibault command: shoot
+2018-02-21 21:47:33,723 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,732 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,740 INFO Turn 8 begins
+2018-02-21 21:47:33,747 INFO flibidi command: dodge
+2018-02-21 21:47:33,754 INFO Thibault command: reload
+2018-02-21 21:47:33,761 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,768 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,777 INFO Turn 9 begins
+2018-02-21 21:47:33,783 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,785 INFO flibidi command: dodge
+2018-02-21 21:47:33,791 INFO Turn 1 begins
+2018-02-21 21:47:33,792 INFO Thibault command: shoot
+2018-02-21 21:47:33,798 INFO flibidi command: shoot
+2018-02-21 21:47:33,799 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,805 INFO Thibault command: shoot
+2018-02-21 21:47:33,806 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,812 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,813 INFO Turn 10 begins
+2018-02-21 21:47:33,819 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,819 INFO flibidi command: dodge
+2018-02-21 21:47:33,826 INFO Turn 2 begins
+2018-02-21 21:47:33,826 INFO Thibault command: reload
+2018-02-21 21:47:33,833 INFO flibidi command: reload
+2018-02-21 21:47:33,834 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,841 INFO Thibault command: reload
+2018-02-21 21:47:33,843 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,850 INFO Turn 11 begins
+2018-02-21 21:47:33,850 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,857 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,857 INFO flibidi command: reload
+2018-02-21 21:47:33,859 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,864 INFO Thibault command: shoot
+2018-02-21 21:47:33,865 INFO Turn 3 begins
+2018-02-21 21:47:33,867 INFO Turn 1 begins
+2018-02-21 21:47:33,872 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,873 INFO flibidi command: dodge
+2018-02-21 21:47:33,874 INFO flibidi command: shoot
+2018-02-21 21:47:33,880 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,881 INFO Thibault command: shoot
+2018-02-21 21:47:33,882 INFO Thibault command: shoot
+2018-02-21 21:47:33,886 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,887 INFO Killing flibidi
+2018-02-21 21:47:33,894 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:33,894 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,899 INFO flibidi exit code: 1
+2018-02-21 21:47:33,901 INFO Turn 2 begins
+2018-02-21 21:47:33,902 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:33,907 INFO Killing Thibault
+2018-02-21 21:47:33,908 INFO flibidi command: reload
+2018-02-21 21:47:33,909 INFO Turn 4 begins
+2018-02-21 21:47:33,916 INFO Thibault command: reload
+2018-02-21 21:47:33,917 INFO flibidi command: reload
+2018-02-21 21:47:33,917 INFO Thibault exit code: None
+2018-02-21 21:47:33,924 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,924 INFO Thibault command: reload
+2018-02-21 21:47:33,931 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,932 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:33,938 INFO Turn 3 begins
+2018-02-21 21:47:33,943 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:33,946 INFO flibidi command: reload
+2018-02-21 21:47:33,951 INFO Turn 5 begins
+2018-02-21 21:47:33,953 INFO Thibault command: shoot
+2018-02-21 21:47:33,958 INFO flibidi command: reload
+2018-02-21 21:47:33,961 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,965 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:33,967 INFO Thibault command: shoot
+2018-02-21 21:47:33,969 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,973 INFO Turn 1 begins
+2018-02-21 21:47:33,975 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,976 INFO Killing flibidi
+2018-02-21 21:47:33,981 INFO flibidi command: shoot
+2018-02-21 21:47:33,984 INFO Thibault shoots flibidi
+2018-02-21 21:47:33,989 INFO Thibault command: shoot
+2018-02-21 21:47:33,989 INFO flibidi exit code: None
+2018-02-21 21:47:33,991 INFO Killing flibidi
+2018-02-21 21:47:33,996 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:33,997 INFO Killing Thibault
+2018-02-21 21:47:33,999 INFO flibidi exit code: None
+2018-02-21 21:47:34,003 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,007 INFO Killing Thibault
+2018-02-21 21:47:34,011 INFO Turn 2 begins
+2018-02-21 21:47:34,011 INFO Thibault exit code: None
+2018-02-21 21:47:34,015 INFO Thibault exit code: None
+2018-02-21 21:47:34,018 INFO flibidi command: dodge
+2018-02-21 21:47:34,025 INFO Thibault command: reload
+2018-02-21 21:47:34,035 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,043 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,052 INFO Turn 3 begins
+2018-02-21 21:47:34,062 INFO flibidi command: reload
+2018-02-21 21:47:34,067 INFO Thibault command: shoot
+2018-02-21 21:47:34,072 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,087 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,110 INFO Killing flibidi
+2018-02-21 21:47:34,130 INFO flibidi exit code: 1
+2018-02-21 21:47:34,148 INFO Killing Thibault
+2018-02-21 21:47:34,200 INFO Thibault exit code: None
+2018-02-21 21:47:34,236 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,243 INFO Turn 1 begins
+2018-02-21 21:47:34,252 INFO flibidi command: shoot
+2018-02-21 21:47:34,259 INFO Thibault command: shoot
+2018-02-21 21:47:34,269 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,277 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,287 INFO Turn 2 begins
+2018-02-21 21:47:34,294 INFO flibidi command: dodge
+2018-02-21 21:47:34,302 INFO Thibault command: reload
+2018-02-21 21:47:34,310 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,317 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,324 INFO Turn 3 begins
+2018-02-21 21:47:34,332 INFO flibidi command: reload
+2018-02-21 21:47:34,332 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,337 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,340 INFO Thibault command: shoot
+2018-02-21 21:47:34,340 INFO Turn 1 begins
+2018-02-21 21:47:34,345 INFO Turn 1 begins
+2018-02-21 21:47:34,348 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,348 INFO flibidi command: shoot
+2018-02-21 21:47:34,352 INFO flibidi command: shoot
+2018-02-21 21:47:34,356 INFO Thibault command: shoot
+2018-02-21 21:47:34,357 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,360 INFO Thibault command: shoot
+2018-02-21 21:47:34,363 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,364 INFO Killing flibidi
+2018-02-21 21:47:34,368 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,371 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,375 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,377 INFO flibidi exit code: 1
+2018-02-21 21:47:34,379 INFO Turn 2 begins
+2018-02-21 21:47:34,383 INFO Turn 2 begins
+2018-02-21 21:47:34,385 INFO Killing Thibault
+2018-02-21 21:47:34,387 INFO flibidi command: dodge
+2018-02-21 21:47:34,395 INFO Thibault command: reload
+2018-02-21 21:47:34,395 INFO Thibault exit code: None
+2018-02-21 21:47:34,396 INFO flibidi command: reload
+2018-02-21 21:47:34,403 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,404 INFO Thibault command: reload
+onent did: reload
+2018-02-21 21:47:34,411 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,412 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,419 INFO Turn 3 begins
+2018-02-21 21:47:34,421 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:34,427 INFO flibidi command: reload
+2018-02-21 21:47:34,428 INFO Turn 3 begins
+2018-02-21 21:47:34,435 INFO Thibault command: shoot
+2018-02-21 21:47:34,438 INFO flibidi command: reload
+2018-02-21 21:47:34,447 INFO Thibault command: shoot
+2018-02-21 21:47:34,448 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,455 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,457 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,463 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,465 INFO Killing flibidi
+2018-02-21 21:47:34,471 INFO Killing flibidi
+2018-02-21 21:47:34,474 INFO flibidi exit code: None
+2018-02-21 21:47:34,481 INFO flibidi exit code: None
+2018-02-21 21:47:34,481 INFO Killing Thibault
+2018-02-21 21:47:34,483 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,488 INFO Killing Thibault
+2018-02-21 21:47:34,490 INFO Thibault exit code: None
+2018-02-21 21:47:34,492 INFO Turn 1 begins
+2018-02-21 21:47:34,497 INFO Thibault exit code: None
+2018-02-21 21:47:34,501 INFO flibidi command: shoot
+2018-02-21 21:47:34,511 INFO Thibault command: shoot
+2018-02-21 21:47:34,518 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,526 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,550 INFO Turn 2 begins
+2018-02-21 21:47:34,559 INFO flibidi command: reload
+2018-02-21 21:47:34,567 INFO Thibault command: reload
+2018-02-21 21:47:34,576 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,584 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:34,591 INFO Turn 3 begins
+2018-02-21 21:47:34,600 INFO flibidi command: reload
+2018-02-21 21:47:34,611 INFO Thibault command: shoot
+2018-02-21 21:47:34,619 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,627 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,635 INFO Killing flibidi
+2018-02-21 21:47:34,649 INFO flibidi exit code: None
+2018-02-21 21:47:34,658 INFO Killing Thibault
+2018-02-21 21:47:34,672 INFO Thibault exit code: 1
+2018-02-21 21:47:34,687 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,695 INFO Turn 1 begins
+2018-02-21 21:47:34,703 INFO flibidi command: shoot
+2018-02-21 21:47:34,710 INFO Thibault command: shoot
+2018-02-21 21:47:34,720 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,728 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,737 INFO Turn 2 begins
+2018-02-21 21:47:34,747 INFO flibidi command: reload
+2018-02-21 21:47:34,755 INFO Thibault command: reload
+2018-02-21 21:47:34,762 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,770 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:34,777 INFO Turn 3 begins
+2018-02-21 21:47:34,785 INFO flibidi command: dodge
+2018-02-21 21:47:34,787 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,793 INFO Thibault command: shoot
+2018-02-21 21:47:34,795 INFO Turn 1 begins
+2018-02-21 21:47:34,796 INFO Turn 1 begins
+2018-02-21 21:47:34,801 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,803 INFO flibidi command: shoot
+2018-02-21 21:47:34,809 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,811 INFO Thibault command: shoot
+2018-02-21 21:47:34,812 INFO Thibault command: shoot
+2018-02-21 21:47:34,817 INFO Turn 4 begins
+2018-02-21 21:47:34,818 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,819 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,824 INFO flibidi command: reload
+2018-02-21 21:47:34,826 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,827 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,834 INFO Thibault command: reload
+2018-02-21 21:47:34,834 INFO Turn 2 begins
+2018-02-21 21:47:34,835 INFO Turn 2 begins
+2018-02-21 21:47:34,843 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,843 INFO flibidi command: dodge
+2018-02-21 21:47:34,845 INFO flibidi command: reload
+2018-02-21 21:47:34,850 INFO Thibault command: reload
+2018-02-21 21:47:34,850 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:34,856 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,853 INFO Thibault command: reload
+2018-02-21 21:47:34,859 INFO Turn 5 begins
+2018-02-21 21:47:34,863 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,866 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,866 INFO flibidi command: dodge
+2018-02-21 21:47:34,871 INFO Turn 3 begins
+2018-02-21 21:47:34,874 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:34,874 INFO Thibault command: shoot
+2018-02-21 21:47:34,879 INFO flibidi command: reload
+2018-02-21 21:47:34,882 INFO Turn 3 begins
+2018-02-21 21:47:34,883 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,887 INFO Thibault command: shoot
+2018-02-21 21:47:34,890 INFO flibidi command: reload
+2018-02-21 21:47:34,891 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,895 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,898 INFO Thibault command: shoot
+2018-02-21 21:47:34,899 INFO Turn 6 begins
+2018-02-21 21:47:34,903 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,906 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,907 INFO flibidi command: dodge
+2018-02-21 21:47:34,912 INFO Killing flibidi
+2018-02-21 21:47:34,914 INFO Thibault shoots flibidi
+2018-02-21 21:47:34,914 INFO Thibault command: reload
+2018-02-21 21:47:34,920 INFO flibidi exit code: None
+2018-02-21 21:47:34,922 INFO Killing flibidi
+2018-02-21 21:47:34,924 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:34,928 INFO Killing Thibault
+2018-02-21 21:47:34,930 INFO flibidi exit code: None
+2018-02-21 21:47:34,934 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:34,937 INFO Thibault exit code: None
+2018-02-21 21:47:34,938 INFO Killing Thibault
+2018-02-21 21:47:34,944 INFO Turn 7 begins
+2018-02-21 21:47:34,947 INFO Thibault exit code: None
+2018-02-21 21:47:34,954 INFO flibidi command: shoot
+2018-02-21 21:47:34,963 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:34,964 INFO Thibault command: shoot
+2018-02-21 21:47:34,971 INFO Turn 1 begins
+2018-02-21 21:47:34,972 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,979 INFO flibidi command: shoot
+2018-02-21 21:47:34,980 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:34,987 INFO Thibault command: shoot
+2018-02-21 21:47:34,988 INFO Turn 8 begins
+2018-02-21 21:47:34,996 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:34,996 INFO flibidi command: dodge
+2018-02-21 21:47:35,004 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,004 INFO Thibault command: reload
+2018-02-21 21:47:35,012 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,012 INFO Turn 2 begins
+2018-02-21 21:47:35,019 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,020 INFO flibidi command: reload
+2018-02-21 21:47:35,027 INFO Turn 9 begins
+2018-02-21 21:47:35,028 INFO Thibault command: reload
+2018-02-21 21:47:35,036 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,037 INFO flibidi command: dodge
+2018-02-21 21:47:35,044 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:35,045 INFO Thibault command: shoot
+2018-02-21 21:47:35,053 INFO Turn 3 begins
+2018-02-21 21:47:35,054 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,062 INFO flibidi command: reload
+2018-02-21 21:47:35,062 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,070 INFO Turn 10 begins
+2018-02-21 21:47:35,074 INFO Thibault command: shoot
+2018-02-21 21:47:35,078 INFO flibidi command: reload
+2018-02-21 21:47:35,085 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,087 INFO Thibault command: reload
+2018-02-21 21:47:35,094 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,095 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,104 INFO Killing flibidi
+2018-02-21 21:47:35,104 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:35,112 INFO flibidi exit code: None
+2018-02-21 21:47:35,112 INFO Turn 11 begins
+2018-02-21 21:47:35,122 INFO Killing Thibault
+2018-02-21 21:47:35,125 INFO flibidi command: reload
+2018-02-21 21:47:35,130 INFO Thibault exit code: None
+2018-02-21 21:47:35,135 INFO Thibault command: shoot
+2018-02-21 21:47:35,144 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,153 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,160 INFO Killing flibidi
+2018-02-21 21:47:35,174 INFO flibidi exit code: 1
+2018-02-21 21:47:35,182 INFO Killing Thibault
+2018-02-21 21:47:35,199 INFO Thibault exit code: None
+2018-02-21 21:47:35,221 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,225 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,230 INFO Turn 1 begins
+2018-02-21 21:47:35,234 INFO Turn 1 begins
+2018-02-21 21:47:35,239 INFO flibidi command: shoot
+2018-02-21 21:47:35,243 INFO flibidi command: shoot
+2018-02-21 21:47:35,248 INFO Thibault command: shoot
+2018-02-21 21:47:35,254 INFO Thibault command: shoot
+2018-02-21 21:47:35,257 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,263 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,266 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,272 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,275 INFO Turn 2 begins
+2018-02-21 21:47:35,281 INFO Turn 2 begins
+2018-02-21 21:47:35,283 INFO flibidi command: dodge
+2018-02-21 21:47:35,289 INFO flibidi command: dodge
+2018-02-21 21:47:35,291 INFO Thibault command: reload
+2018-02-21 21:47:35,298 INFO Thibault command: reload
+2018-02-21 21:47:35,301 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,307 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,309 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,315 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,318 INFO Turn 3 begins
+2018-02-21 21:47:35,324 INFO Turn 3 begins
+2018-02-21 21:47:35,326 INFO flibidi command: reload
+2018-02-21 21:47:35,333 INFO flibidi command: dodge
+2018-02-21 21:47:35,335 INFO Thibault command: shoot
+2018-02-21 21:47:35,341 INFO Thibault command: shoot
+2018-02-21 21:47:35,343 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,349 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,352 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,361 INFO Killing flibidi
+2018-02-21 21:47:35,362 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,370 INFO Turn 4 begins
+2018-02-21 21:47:35,376 INFO flibidi exit code: 1
+2018-02-21 21:47:35,379 INFO flibidi command: dodge
+2018-02-21 21:47:35,385 INFO Killing Thibault
+2018-02-21 21:47:35,388 INFO Thibault command: reload
+2018-02-21 21:47:35,396 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,399 INFO Thibault exit code: None
+2018-02-21 21:47:35,404 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,416 INFO Turn 5 begins
+2018-02-21 21:47:35,424 INFO flibidi command: reload
+2018-02-21 21:47:35,429 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,433 INFO Thibault command: shoot
+2018-02-21 21:47:35,438 INFO Turn 1 begins
+2018-02-21 21:47:35,442 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,447 INFO flibidi command: shoot
+2018-02-21 21:47:35,456 INFO Thibault command: shoot
+2018-02-21 21:47:35,458 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,464 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,465 INFO Killing flibidi
+2018-02-21 21:47:35,473 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,480 INFO flibidi exit code: 1
+2018-02-21 21:47:35,481 INFO Turn 2 begins
+2018-02-21 21:47:35,489 INFO Killing Thibault
+2018-02-21 21:47:35,490 INFO flibidi command: dodge
+2018-02-21 21:47:35,492 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,498 INFO Thibault command: reload
+2018-02-21 21:47:35,501 INFO Turn 1 begins
+2018-02-21 21:47:35,504 INFO Thibault exit code: 1
+2018-02-21 21:47:35,508 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,509 INFO flibidi command: shoot
+2018-02-21 21:47:35,516 INFO Thibault command: shoot
+2018-02-21 21:47:35,518 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,524 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,527 INFO Turn 3 begins
+2018-02-21 21:47:35,532 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,536 INFO flibidi command: dodge
+2018-02-21 21:47:35,540 INFO Turn 2 begins
+2018-02-21 21:47:35,545 INFO Thibault command: shoot
+2018-02-21 21:47:35,551 INFO flibidi command: dodge
+2018-02-21 21:47:35,554 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,559 INFO Thibault command: reload
+2018-02-21 21:47:35,565 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,567 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,573 INFO Turn 4 begins
+2018-02-21 21:47:35,580 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,584 INFO flibidi command: reload
+2018-02-21 21:47:35,588 INFO Turn 3 begins
+2018-02-21 21:47:35,593 INFO Thibault command: reload
+2018-02-21 21:47:35,596 INFO flibidi command: reload
+2018-02-21 21:47:35,601 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,604 INFO Thibault command: shoot
+2018-02-21 21:47:35,611 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:35,615 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,623 INFO Turn 5 begins
+2018-02-21 21:47:35,623 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,631 INFO Killing flibidi
+2018-02-21 21:47:35,631 INFO flibidi command: dodge
+2018-02-21 21:47:35,640 INFO flibidi exit code: None
+2018-02-21 21:47:35,642 INFO Thibault command: shoot
+2018-02-21 21:47:35,648 INFO Killing Thibault
+2018-02-21 21:47:35,651 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,654 INFO Thibault exit code: None
+2018-02-21 21:47:35,663 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,673 INFO Turn 6 begins
+2018-02-21 21:47:35,681 INFO flibidi command: dodge
+2018-02-21 21:47:35,688 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,692 INFO Thibault command: reload
+2018-02-21 21:47:35,701 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,701 INFO Turn 1 begins
+2018-02-21 21:47:35,710 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,711 INFO flibidi command: shoot
+2018-02-21 21:47:35,719 INFO Turn 7 begins
+2018-02-21 21:47:35,719 INFO Thibault command: shoot
+2018-02-21 21:47:35,727 INFO flibidi command: dodge
+2018-02-21 21:47:35,728 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,736 INFO Thibault command: shoot
+2018-02-21 21:47:35,744 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,747 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,752 INFO Turn 2 begins
+2018-02-21 21:47:35,754 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,762 INFO Turn 8 begins
+2018-02-21 21:47:35,766 INFO flibidi command: reload
+2018-02-21 21:47:35,771 INFO flibidi command: reload
+2018-02-21 21:47:35,775 INFO Thibault command: reload
+2018-02-21 21:47:35,780 INFO Thibault command: reload
+2018-02-21 21:47:35,785 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,788 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,790 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,793 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:35,797 INFO Turn 1 begins
+di that opponent did: reload
+2018-02-21 21:47:35,799 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:35,804 INFO Turn 3 begins
+2018-02-21 21:47:35,805 INFO flibidi command: shoot
+2018-02-21 21:47:35,809 INFO Turn 9 begins
+2018-02-21 21:47:35,813 INFO flibidi command: reload
+2018-02-21 21:47:35,814 INFO Thibault command: shoot
+2018-02-21 21:47:35,817 INFO flibidi command: dodge
+2018-02-21 21:47:35,822 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,824 INFO Thibault command: shoot
+2018-02-21 21:47:35,826 INFO Thibault command: shoot
+2018-02-21 21:47:35,831 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,834 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,834 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,838 INFO Turn 2 begins
+2018-02-21 21:47:35,843 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,846 INFO flibidi command: dodge
+2018-02-21 21:47:35,847 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,852 INFO Turn 10 begins
+2018-02-21 21:47:35,855 INFO Thibault command: reload
+2018-02-21 21:47:35,856 INFO Killing flibidi
+2018-02-21 21:47:35,861 INFO flibidi command: dodge
+2018-02-21 21:47:35,861 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,867 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,870 INFO Thibault command: reload
+2018-02-21 21:47:35,874 INFO Turn 3 begins
+2018-02-21 21:47:35,878 INFO flibidi exit code: None
+2018-02-21 21:47:35,879 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:35,882 INFO flibidi command: reload
+2018-02-21 21:47:35,887 INFO Killing Thibault
+2018-02-21 21:47:35,890 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:35,891 INFO Thibault command: shoot
+2018-02-21 21:47:35,899 INFO Turn 11 begins
+2018-02-21 21:47:35,899 INFO Thibault exit code: 1
+2018-02-21 21:47:35,906 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,910 INFO flibidi command: reload
+2018-02-21 21:47:35,915 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,920 INFO Thibault command: shoot
+2018-02-21 21:47:35,926 INFO Killing flibidi
+2018-02-21 21:47:35,928 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,937 INFO Thibault shoots flibidi
+2018-02-21 21:47:35,938 INFO flibidi exit code: None
+2018-02-21 21:47:35,938 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:35,946 INFO Turn 1 begins
+2018-02-21 21:47:35,947 INFO Killing flibidi
+2018-02-21 21:47:35,947 INFO Killing Thibault
+2018-02-21 21:47:35,953 INFO flibidi command: shoot
+2018-02-21 21:47:35,961 INFO Thibault command: shoot
+2018-02-21 21:47:35,966 INFO Thibault exit code: None
+2018-02-21 21:47:35,966 INFO flibidi exit code: 1
+2018-02-21 21:47:35,971 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:35,978 INFO Killing Thibault
+2018-02-21 21:47:35,980 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:35,986 INFO Turn 2 begins
+2018-02-21 21:47:35,993 INFO Thibault exit code: 1
+2018-02-21 21:47:35,995 INFO flibidi command: dodge
+2018-02-21 21:47:36,004 INFO Thibault command: reload
+2018-02-21 21:47:36,015 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,024 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,033 INFO Turn 3 begins
+2018-02-21 21:47:36,043 INFO flibidi command: reload
+2018-02-21 21:47:36,056 INFO Thibault command: shoot
+2018-02-21 21:47:36,065 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,073 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,082 INFO Killing flibidi
+2018-02-21 21:47:36,097 INFO flibidi exit code: 1
+2018-02-21 21:47:36,106 INFO Killing Thibault
+2018-02-21 21:47:36,117 INFO Thibault exit code: None
+2018-02-21 21:47:36,204 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,214 INFO Turn 1 begins
+2018-02-21 21:47:36,223 INFO flibidi command: shoot
+2018-02-21 21:47:36,232 INFO Thibault command: shoot
+2018-02-21 21:47:36,242 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,251 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,262 INFO Turn 2 begins
+2018-02-21 21:47:36,264 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,272 INFO flibidi command: dodge
+2018-02-21 21:47:36,274 INFO Turn 1 begins
+2018-02-21 21:47:36,282 INFO Thibault command: reload
+2018-02-21 21:47:36,283 INFO flibidi command: shoot
+2018-02-21 21:47:36,292 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,292 INFO Thibault command: shoot
+2018-02-21 21:47:36,293 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,301 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,302 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,304 INFO Turn 1 begins
+2018-02-21 21:47:36,310 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,310 INFO Turn 3 begins
+2018-02-21 21:47:36,313 INFO flibidi command: shoot
+2018-02-21 21:47:36,319 INFO Turn 2 begins
+2018-02-21 21:47:36,320 INFO flibidi command: dodge
+2018-02-21 21:47:36,321 INFO Thibault command: shoot
+2018-02-21 21:47:36,329 INFO flibidi command: dodge
+2018-02-21 21:47:36,329 INFO Thibault command: shoot
+2018-02-21 21:47:36,332 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,338 INFO Thibault command: reload
+2018-02-21 21:47:36,339 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,341 DEBUG Telling Thibault that opponent did: shoot
+onent did: shoot
+2018-02-21 21:47:36,348 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,349 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,350 INFO Turn 2 begins
+2018-02-21 21:47:36,355 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,359 INFO Turn 4 begins
+2018-02-21 21:47:36,362 INFO flibidi command: reload
+2018-02-21 21:47:36,367 INFO Turn 3 begins
+2018-02-21 21:47:36,368 INFO flibidi command: dodge
+2018-02-21 21:47:36,368 INFO Thibault command: reload
+2018-02-21 21:47:36,377 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,378 INFO flibidi command: reload
+2018-02-21 21:47:36,378 INFO Thibault command: reload
+2018-02-21 21:47:36,387 INFO Thibault command: shoot
+2018-02-21 21:47:36,388 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:36,388 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,397 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,397 INFO Turn 3 begins
+2018-02-21 21:47:36,398 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,406 INFO flibidi command: reload
+2018-02-21 21:47:36,406 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,407 INFO Turn 5 begins
+2018-02-21 21:47:36,411 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,414 INFO Thibault command: shoot
+2018-02-21 21:47:36,415 INFO Killing flibidi
+2018-02-21 21:47:36,418 INFO flibidi command: dodge
+2018-02-21 21:47:36,420 INFO Turn 1 begins
+2018-02-21 21:47:36,422 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,424 INFO flibidi exit code: None
+2018-02-21 21:47:36,428 INFO Thibault command: shoot
+2018-02-21 21:47:36,431 INFO flibidi command: shoot
+2018-02-21 21:47:36,432 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,433 INFO Killing Thibault
+2018-02-21 21:47:36,438 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,440 INFO Thibault command: shoot
+2018-02-21 21:47:36,440 INFO Killing flibidi
+2018-02-21 21:47:36,443 INFO Thibault exit code: None
+2018-02-21 21:47:36,448 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,449 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,450 INFO flibidi exit code: None
+2018-02-21 21:47:36,459 INFO Killing Thibault
+2018-02-21 21:47:36,459 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,462 INFO Turn 6 begins
+2018-02-21 21:47:36,468 INFO Turn 2 begins
+2018-02-21 21:47:36,468 INFO Thibault exit code: None
+2018-02-21 21:47:36,473 INFO flibidi command: reload
+2018-02-21 21:47:36,477 INFO flibidi command: dodge
+2018-02-21 21:47:36,484 INFO Thibault command: reload
+2018-02-21 21:47:36,485 INFO Thibault command: reload
+2018-02-21 21:47:36,493 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,494 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,502 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:36,503 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,512 INFO Turn 7 begins
+2018-02-21 21:47:36,512 INFO Turn 3 begins
+2018-02-21 21:47:36,521 INFO flibidi command: dodge
+2018-02-21 21:47:36,522 INFO flibidi command: reload
+2018-02-21 21:47:36,532 INFO Thibault command: shoot
+2018-02-21 21:47:36,541 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,541 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,549 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,553 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,557 INFO Killing flibidi
+2018-02-21 21:47:36,562 INFO Turn 8 begins
+2018-02-21 21:47:36,566 INFO flibidi exit code: None
+2018-02-21 21:47:36,572 INFO flibidi command: dodge
+2018-02-21 21:47:36,575 INFO Killing Thibault
+2018-02-21 21:47:36,583 INFO Thibault command: reload
+2018-02-21 21:47:36,589 INFO Thibault exit code: None
+2018-02-21 21:47:36,592 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,604 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,617 INFO Turn 9 begins
+2018-02-21 21:47:36,629 INFO flibidi command: reload
+2018-02-21 21:47:36,637 INFO Thibault command: shoot
+2018-02-21 21:47:36,647 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,656 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,665 INFO Killing flibidi
+2018-02-21 21:47:36,684 INFO flibidi exit code: 1
+2018-02-21 21:47:36,696 INFO Killing Thibault
+2018-02-21 21:47:36,711 INFO Thibault exit code: 1
+2018-02-21 21:47:36,731 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,741 INFO Turn 1 begins
+2018-02-21 21:47:36,751 INFO flibidi command: shoot
+2018-02-21 21:47:36,761 INFO Thibault command: shoot
+2018-02-21 21:47:36,764 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,771 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,774 INFO Turn 1 begins
+2018-02-21 21:47:36,780 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,784 INFO flibidi command: shoot
+2018-02-21 21:47:36,790 INFO Turn 2 begins
+2018-02-21 21:47:36,793 INFO Thibault command: shoot
+2018-02-21 21:47:36,800 INFO flibidi command: reload
+2018-02-21 21:47:36,802 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,809 INFO Thibault command: reload
+2018-02-21 21:47:36,811 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,819 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,820 INFO Turn 2 begins
+2018-02-21 21:47:36,829 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:36,830 INFO flibidi command: dodge
+2018-02-21 21:47:36,839 INFO Turn 3 begins
+2018-02-21 21:47:36,839 INFO Thibault command: reload
+2018-02-21 21:47:36,848 INFO flibidi command: dodge
+2018-02-21 21:47:36,849 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,858 INFO Thibault command: shoot
+2018-02-21 21:47:36,858 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,868 INFO Turn 3 begins
+2018-02-21 21:47:36,868 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,878 INFO flibidi command: reload
+2018-02-21 21:47:36,878 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,879 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,887 INFO Thibault command: shoot
+2018-02-21 21:47:36,889 INFO Turn 4 begins
+2018-02-21 21:47:36,892 INFO Turn 1 begins
+nd: shoot
+2018-02-21 21:47:36,899 INFO flibidi command: dodge
+2018-02-21 21:47:36,899 INFO flibidi command: shoot
+2018-02-21 21:47:36,902 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,907 INFO Thibault command: shoot
+2018-02-21 21:47:36,908 INFO Thibault command: reload
+2018-02-21 21:47:36,911 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,918 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:36,918 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,920 INFO Killing flibidi
+2018-02-21 21:47:36,927 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:36,927 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:36,930 INFO flibidi exit code: None
+2018-02-21 21:47:36,936 INFO Turn 2 begins
+2018-02-21 21:47:36,939 INFO Turn 5 begins
+2018-02-21 21:47:36,940 INFO Killing Thibault
+2018-02-21 21:47:36,945 INFO flibidi command: reload
+2018-02-21 21:47:36,949 INFO flibidi command: reload
+2018-02-21 21:47:36,950 INFO Thibault exit code: None
+2018-02-21 21:47:36,954 INFO Thibault command: reload
+2018-02-21 21:47:36,962 INFO Thibault command: shoot
+2018-02-21 21:47:36,963 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:36,972 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:36,975 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,982 INFO Turn 3 begins
+2018-02-21 21:47:36,986 INFO Thibault shoots flibidi
+2018-02-21 21:47:36,991 INFO flibidi command: dodge
+2018-02-21 21:47:36,994 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:36,995 INFO Killing flibidi
+2018-02-21 21:47:37,000 INFO Thibault command: shoot
+2018-02-21 21:47:37,004 INFO Turn 1 begins
+2018-02-21 21:47:37,009 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,011 INFO flibidi exit code: 1
+2018-02-21 21:47:37,014 INFO flibidi command: shoot
+2018-02-21 21:47:37,021 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,021 INFO Killing Thibault
+2018-02-21 21:47:37,024 INFO Thibault command: shoot
+2018-02-21 21:47:37,030 INFO Turn 4 begins
+2018-02-21 21:47:37,033 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,037 INFO Thibault exit code: 1
+2018-02-21 21:47:37,039 INFO flibidi command: dodge
+2018-02-21 21:47:37,043 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:37,049 INFO Thibault command: reload
+2018-02-21 21:47:37,054 INFO Turn 2 begins
+2018-02-21 21:47:37,059 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,064 INFO flibidi command: dodge
+2018-02-21 21:47:37,068 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,074 INFO Thibault command: reload
+2018-02-21 21:47:37,078 INFO Turn 5 begins
+2018-02-21 21:47:37,086 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,087 INFO flibidi command: reload
+2018-02-21 21:47:37,097 INFO Thibault command: shoot
+2018-02-21 21:47:37,099 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,106 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,110 INFO Turn 3 begins
+2018-02-21 21:47:37,115 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,121 INFO flibidi command: dodge
+2018-02-21 21:47:37,126 INFO Killing flibidi
+2018-02-21 21:47:37,131 INFO Thibault command: shoot
+2018-02-21 21:47:37,140 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,141 INFO flibidi exit code: 1
+2018-02-21 21:47:37,150 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,152 INFO Killing Thibault
+2018-02-21 21:47:37,160 INFO Turn 4 begins
+2018-02-21 21:47:37,168 INFO Thibault exit code: 1
+2018-02-21 21:47:37,170 INFO flibidi command: dodge
+2018-02-21 21:47:37,180 INFO Thibault command: reload
+2018-02-21 21:47:37,189 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,195 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,204 INFO Turn 5 begins
+2018-02-21 21:47:37,211 INFO flibidi command: dodge
+2018-02-21 21:47:37,220 INFO Thibault command: shoot
+2018-02-21 21:47:37,224 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:37,228 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,236 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,236 INFO Turn 1 begins
+2018-02-21 21:47:37,243 INFO flibidi command: shoot
+2018-02-21 21:47:37,246 INFO Turn 6 begins
+2018-02-21 21:47:37,252 INFO flibidi command: dodge
+2018-02-21 21:47:37,254 INFO Thibault command: shoot
+2018-02-21 21:47:37,260 INFO Thibault command: reload
+2018-02-21 21:47:37,263 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,266 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,272 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:37,274 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,280 INFO Turn 2 begins
+2018-02-21 21:47:37,282 INFO Turn 7 begins
+2018-02-21 21:47:37,289 INFO flibidi command: reload
+2018-02-21 21:47:37,290 INFO flibidi command: reload
+2018-02-21 21:47:37,297 INFO Thibault command: shoot
+2018-02-21 21:47:37,298 INFO Thibault command: reload
+2018-02-21 21:47:37,301 INFO Starting new showdown: flibidi vs Thibault
+2018-02-21 21:47:37,306 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,306 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,312 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:37,313 INFO Turn 1 begins
+2018-02-21 21:47:37,314 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,321 INFO Turn 3 begins
+2018-02-21 21:47:37,321 INFO Killing flibidi
+2018-02-21 21:47:37,322 INFO flibidi command: shoot
+2018-02-21 21:47:37,327 INFO flibidi command: dodge
+2018-02-21 21:47:37,328 INFO flibidi exit code: None
+2018-02-21 21:47:37,334 INFO Thibault command: shoot
+2018-02-21 21:47:37,336 INFO Thibault command: shoot
+2018-02-21 21:47:37,337 INFO Killing Thibault
+2018-02-21 21:47:37,341 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,346 INFO Thibault exit code: None
+2018-02-21 21:47:37,346 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:47:37,349 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:47:37,355 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,356 INFO Turn 2 begins
+2018-02-21 21:47:37,361 INFO Turn 4 begins
+2018-02-21 21:47:37,363 INFO flibidi command: reload
+2018-02-21 21:47:37,367 INFO flibidi command: dodge
+2018-02-21 21:47:37,369 INFO Thibault command: reload
+2018-02-21 21:47:37,373 INFO Thibault command: reload
+2018-02-21 21:47:37,375 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,379 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:47:37,381 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:47:37,385 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:47:37,387 INFO Turn 3 begins
+2018-02-21 21:47:37,392 INFO Turn 5 begins
+2018-02-21 21:47:37,395 INFO flibidi command: reload
+2018-02-21 21:47:37,399 INFO flibidi command: reload
+2018-02-21 21:47:37,402 INFO Thibault command: shoot
+2018-02-21 21:47:37,405 INFO Thibault command: shoot
+2018-02-21 21:47:37,408 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,411 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,414 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,417 INFO Thibault shoots flibidi
+2018-02-21 21:47:37,420 INFO Killing flibidi
+2018-02-21 21:47:37,423 INFO Killing flibidi
+2018-02-21 21:47:37,426 INFO flibidi exit code: None
+2018-02-21 21:47:37,430 INFO flibidi exit code: None
+2018-02-21 21:47:37,433 INFO Killing Thibault
+2018-02-21 21:47:37,436 INFO Killing Thibault
+2018-02-21 21:47:37,440 INFO Thibault exit code: None
+2018-02-21 21:47:37,443 INFO Thibault exit code: None

@@ -1,0 +1,1938 @@
+2018-02-21 21:41:09,413 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:09,414 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:09,414 INFO Turn 1 begins
+2018-02-21 21:41:09,415 INFO Turn 1 begins
+2018-02-21 21:41:09,415 INFO Barth command: dodge
+2018-02-21 21:41:09,416 INFO Thibault command: shoot
+2018-02-21 21:41:09,416 INFO Thibault command: reload
+2018-02-21 21:41:09,416 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:09,416 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:09,416 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,417 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,417 INFO Turn 2 begins
+2018-02-21 21:41:09,417 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:09,418 INFO Barth command: reload
+2018-02-21 21:41:09,418 INFO Barth command: dodge
+2018-02-21 21:41:09,418 INFO Turn 1 begins
+2018-02-21 21:41:09,418 INFO Thibault command: dodge
+2018-02-21 21:41:09,419 INFO Barth command: dodge
+2018-02-21 21:41:09,419 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,419 INFO Thibault command: dodge
+2018-02-21 21:41:09,419 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:09,420 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,420 INFO Turn 3 begins
+2018-02-21 21:41:09,420 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,420 INFO Turn 2 begins
+2018-02-21 21:41:09,420 INFO Barth command: dodge
+2018-02-21 21:41:09,421 INFO Turn 2 begins
+2018-02-21 21:41:09,421 INFO Barth command: dodge
+2018-02-21 21:41:09,421 INFO Thibault command: reload
+2018-02-21 21:41:09,421 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:09,421 INFO Thibault command: dodge
+2018-02-21 21:41:09,422 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,422 INFO Thibault command: dodge
+nent did: dodge
+2018-02-21 21:41:09,422 INFO Turn 4 begins
+2018-02-21 21:41:09,422 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,423 INFO Turn 3 begins
+2018-02-21 21:41:09,423 INFO Barth command: dodge
+2018-02-21 21:41:09,423 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,424 INFO Barth command: dodge
+2018-02-21 21:41:09,424 INFO Thibault command: shoot
+2018-02-21 21:41:09,425 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:09,425 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,425 INFO Turn 4 begins
+2018-02-21 21:41:09,426 INFO Turn 4 begins
+2018-02-21 21:41:09,426 INFO Barth command: reload
+2018-02-21 21:41:09,427 INFO Thibault command: reload
+2018-02-21 21:41:09,427 INFO Thibault command: dodge
+2018-02-21 21:41:09,427 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:09,427 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,428 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:09,428 INFO Turn 5 begins
+2018-02-21 21:41:09,429 INFO Barth command: dodge
+2018-02-21 21:41:09,429 INFO Thibault command: dodge
+2018-02-21 21:41:09,430 INFO Thibault command: reload
+2018-02-21 21:41:09,430 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,430 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:09,430 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,431 INFO Turn 6 begins
+2018-02-21 21:41:09,431 INFO Barth command: dodge
+2018-02-21 21:41:09,432 INFO Thibault command: dodge
+2018-02-21 21:41:09,432 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,433 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,433 INFO Turn 7 begins
+2018-02-21 21:41:09,434 INFO Barth command: dodge
+2018-02-21 21:41:09,434 INFO Thibault command: shoot
+2018-02-21 21:41:09,435 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:09,435 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,435 INFO Turn 8 begins
+2018-02-21 21:41:09,436 INFO Barth command: reload
+2018-02-21 21:41:09,437 INFO Thibault command: dodge
+2018-02-21 21:41:09,437 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,437 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:09,438 INFO Turn 9 begins
+2018-02-21 21:41:09,438 INFO Barth command: dodge
+2018-02-21 21:41:09,438 INFO Thibault command: dodge
+2018-02-21 21:41:09,439 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:09,439 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,439 INFO Turn 10 begins
+2018-02-21 21:41:09,440 INFO Barth command: dodge
+2018-02-21 21:41:09,440 INFO Thibault command: reload
+2018-02-21 21:41:09,440 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:09,441 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:09,441 INFO Turn 11 begins
+2018-02-21 21:41:09,442 INFO Barth command: dodge
+2018-02-21 21:41:10,419 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:10,420 INFO Thibault takes too long to answer.
+2018-02-21 21:41:10,421 INFO Thibault takes too long to answer.
+2018-02-21 21:41:10,421 INFO Killing Barth
+2018-02-21 21:41:10,422 INFO Barth exit code: None
+2018-02-21 21:41:10,422 INFO Killing Thibault
+2018-02-21 21:41:10,423 INFO Thibault exit code: 0
+2018-02-21 21:41:10,424 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:10,425 INFO Thibault takes too long to answer.
+2018-02-21 21:41:10,426 INFO Killing Barth
+2018-02-21 21:41:10,427 INFO Barth exit code: None
+2018-02-21 21:41:10,427 INFO Killing Thibault
+2018-02-21 21:41:10,428 INFO Thibault exit code: 0
+2018-02-21 21:41:10,433 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:10,434 INFO Thibault takes too long to answer.
+2018-02-21 21:41:10,435 INFO Killing Barth
+2018-02-21 21:41:10,435 INFO Barth exit code: None
+2018-02-21 21:41:10,436 INFO Killing Thibault
+2018-02-21 21:41:10,436 INFO Thibault exit code: 0
+2018-02-21 21:41:10,443 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:10,444 INFO Thibault takes too long to answer.
+2018-02-21 21:41:10,445 INFO Killing Barth
+2018-02-21 21:41:10,445 INFO Barth exit code: None
+2018-02-21 21:41:10,446 INFO Killing Thibault
+2018-02-21 21:41:10,446 INFO Thibault exit code: 0
+2018-02-21 21:41:10,663 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:10,664 INFO Turn 1 begins
+2018-02-21 21:41:10,665 INFO Barth command: dodge
+2018-02-21 21:41:10,666 INFO Thibault command: reload
+2018-02-21 21:41:10,667 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,668 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,669 INFO Turn 2 begins
+2018-02-21 21:41:10,670 INFO Barth command: dodge
+2018-02-21 21:41:10,673 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:10,674 INFO Turn 1 begins
+2018-02-21 21:41:10,675 INFO Barth command: dodge
+2018-02-21 21:41:10,676 INFO Thibault command: dodge
+2018-02-21 21:41:10,677 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,678 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,679 INFO Turn 2 begins
+2018-02-21 21:41:10,679 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:10,680 INFO Barth command: dodge
+2018-02-21 21:41:10,680 INFO Turn 1 begins
+2018-02-21 21:41:10,680 INFO Thibault command: shoot
+2018-02-21 21:41:10,681 INFO Barth command: dodge
+2018-02-21 21:41:10,681 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:10,682 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,682 INFO Thibault command: reload
+2018-02-21 21:41:10,683 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,683 INFO Turn 3 begins
+2018-02-21 21:41:10,683 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,684 INFO Barth command: reload
+2018-02-21 21:41:10,684 INFO Turn 2 begins
+2018-02-21 21:41:10,685 INFO Thibault command: reload
+2018-02-21 21:41:10,685 INFO Barth command: dodge
+2018-02-21 21:41:10,685 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,686 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:10,687 INFO Turn 4 begins
+2018-02-21 21:41:10,688 INFO Barth command: dodge
+2018-02-21 21:41:10,689 INFO Thibault command: dodge
+2018-02-21 21:41:10,690 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,690 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,691 INFO Turn 5 begins
+2018-02-21 21:41:10,692 INFO Barth command: dodge
+2018-02-21 21:41:10,692 INFO Thibault command: dodge
+2018-02-21 21:41:10,693 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,693 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,694 INFO Turn 6 begins
+2018-02-21 21:41:10,695 INFO Barth command: dodge
+2018-02-21 21:41:10,695 INFO Thibault command: dodge
+2018-02-21 21:41:10,696 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,696 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,697 INFO Turn 7 begins
+2018-02-21 21:41:10,698 INFO Barth command: dodge
+2018-02-21 21:41:10,698 INFO Thibault command: dodge
+2018-02-21 21:41:10,699 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,699 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:10,699 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,699 INFO Turn 1 begins
+2018-02-21 21:41:10,700 INFO Turn 8 begins
+2018-02-21 21:41:10,700 INFO Barth command: dodge
+2018-02-21 21:41:10,701 INFO Thibault command: shoot
+2018-02-21 21:41:10,701 INFO Thibault command: dodge
+2018-02-21 21:41:10,701 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:10,701 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,702 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,702 INFO Turn 2 begins
+2018-02-21 21:41:10,703 INFO Turn 9 begins
+2018-02-21 21:41:10,703 INFO Barth command: reload
+2018-02-21 21:41:10,703 INFO Barth command: dodge
+2018-02-21 21:41:10,704 INFO Thibault command: dodge
+2018-02-21 21:41:10,704 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,705 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:10,705 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,705 INFO Turn 3 begins
+2018-02-21 21:41:10,706 INFO Turn 10 begins
+2018-02-21 21:41:10,706 INFO Barth command: dodge
+2018-02-21 21:41:10,707 INFO Thibault command: dodge
+2018-02-21 21:41:10,707 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:10,708 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,708 INFO Turn 4 begins
+2018-02-21 21:41:10,709 INFO Turn 11 begins
+2018-02-21 21:41:10,709 INFO Barth command: dodge
+2018-02-21 21:41:10,710 INFO Thibault command: reload
+2018-02-21 21:41:10,710 INFO Thibault command: shoot
+2018-02-21 21:41:10,710 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,710 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:10,711 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,711 INFO Turn 5 begins
+2018-02-21 21:41:10,712 INFO Turn 12 begins
+2018-02-21 21:41:10,712 INFO Barth command: dodge
+2018-02-21 21:41:10,712 INFO Barth command: reload
+2018-02-21 21:41:10,713 INFO Thibault command: reload
+2018-02-21 21:41:10,714 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,714 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:10,715 INFO Turn 13 begins
+2018-02-21 21:41:10,715 INFO Barth command: dodge
+2018-02-21 21:41:10,716 INFO Thibault command: reload
+2018-02-21 21:41:10,716 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:10,717 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:10,718 INFO Turn 14 begins
+2018-02-21 21:41:10,718 INFO Barth command: dodge
+2018-02-21 21:41:11,672 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:11,673 INFO Thibault takes too long to answer.
+2018-02-21 21:41:11,674 INFO Thibault takes too long to answer.
+2018-02-21 21:41:11,674 INFO Killing Barth
+2018-02-21 21:41:11,675 INFO Barth exit code: None
+2018-02-21 21:41:11,676 INFO Killing Thibault
+2018-02-21 21:41:11,676 INFO Thibault exit code: 0
+2018-02-21 21:41:11,686 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:11,687 INFO Thibault takes too long to answer.
+2018-02-21 21:41:11,688 INFO Killing Barth
+2018-02-21 21:41:11,689 INFO Barth exit code: None
+2018-02-21 21:41:11,689 INFO Killing Thibault
+2018-02-21 21:41:11,690 INFO Thibault exit code: 0
+2018-02-21 21:41:11,713 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:11,714 INFO Thibault takes too long to answer.
+2018-02-21 21:41:11,715 INFO Killing Barth
+2018-02-21 21:41:11,715 INFO Barth exit code: None
+2018-02-21 21:41:11,716 INFO Killing Thibault
+2018-02-21 21:41:11,717 INFO Thibault exit code: 0
+2018-02-21 21:41:11,720 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:11,721 INFO Thibault takes too long to answer.
+2018-02-21 21:41:11,722 INFO Killing Barth
+2018-02-21 21:41:11,723 INFO Barth exit code: None
+2018-02-21 21:41:11,725 INFO Killing Thibault
+2018-02-21 21:41:11,726 INFO Thibault exit code: 0
+2018-02-21 21:41:11,898 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:11,900 INFO Turn 1 begins
+2018-02-21 21:41:11,901 INFO Barth command: dodge
+2018-02-21 21:41:11,902 INFO Thibault command: shoot
+2018-02-21 21:41:11,903 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:11,905 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,906 INFO Turn 2 begins
+2018-02-21 21:41:11,907 INFO Barth command: reload
+2018-02-21 21:41:11,909 INFO Thibault command: reload
+2018-02-21 21:41:11,910 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,911 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:11,913 INFO Turn 3 begins
+2018-02-21 21:41:11,914 INFO Barth command: dodge
+2018-02-21 21:41:11,915 INFO Thibault command: dodge
+2018-02-21 21:41:11,917 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,918 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,919 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:11,919 INFO Turn 4 begins
+2018-02-21 21:41:11,920 INFO Turn 1 begins
+2018-02-21 21:41:11,920 INFO Barth command: dodge
+2018-02-21 21:41:11,921 INFO Barth command: dodge
+2018-02-21 21:41:11,922 INFO Thibault command: dodge
+2018-02-21 21:41:11,923 INFO Thibault command: reload
+2018-02-21 21:41:11,923 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,924 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,925 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,926 INFO Turn 2 begins
+2018-02-21 21:41:11,928 INFO Barth command: dodge
+2018-02-21 21:41:11,927 INFO Turn 5 begins
+2018-02-21 21:41:11,930 INFO Barth command: dodge
+2018-02-21 21:41:11,932 INFO Thibault command: reload
+2018-02-21 21:41:11,933 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,934 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,935 INFO Turn 6 begins
+2018-02-21 21:41:11,937 INFO Barth command: dodge
+2018-02-21 21:41:11,952 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:11,953 INFO Turn 1 begins
+2018-02-21 21:41:11,954 INFO Barth command: dodge
+2018-02-21 21:41:11,954 INFO Thibault command: dodge
+2018-02-21 21:41:11,955 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,956 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,957 INFO Turn 2 begins
+2018-02-21 21:41:11,958 INFO Barth command: dodge
+2018-02-21 21:41:11,958 INFO Thibault command: shoot
+2018-02-21 21:41:11,959 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:11,960 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,961 INFO Turn 3 begins
+2018-02-21 21:41:11,962 INFO Barth command: reload
+2018-02-21 21:41:11,962 INFO Thibault command: reload
+2018-02-21 21:41:11,963 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,964 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:11,965 INFO Turn 4 begins
+2018-02-21 21:41:11,966 INFO Barth command: dodge
+2018-02-21 21:41:11,967 INFO Thibault command: dodge
+2018-02-21 21:41:11,967 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:11,967 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,968 INFO Turn 1 begins
+2018-02-21 21:41:11,968 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,969 INFO Barth command: dodge
+2018-02-21 21:41:11,969 INFO Turn 5 begins
+2018-02-21 21:41:11,970 INFO Thibault command: shoot
+2018-02-21 21:41:11,970 INFO Barth command: dodge
+2018-02-21 21:41:11,970 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:11,971 INFO Thibault command: dodge
+2018-02-21 21:41:11,971 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,971 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,972 INFO Turn 2 begins
+2018-02-21 21:41:11,972 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,973 INFO Barth command: reload
+2018-02-21 21:41:11,973 INFO Turn 6 begins
+2018-02-21 21:41:11,974 INFO Thibault command: dodge
+2018-02-21 21:41:11,974 INFO Barth command: dodge
+2018-02-21 21:41:11,975 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:11,975 INFO Thibault command: dodge
+2018-02-21 21:41:11,975 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:11,976 INFO Turn 3 begins
+2018-02-21 21:41:11,976 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,977 INFO Barth command: dodge
+2018-02-21 21:41:11,977 INFO Turn 7 begins
+2018-02-21 21:41:11,978 INFO Thibault command: reload
+2018-02-21 21:41:11,978 INFO Barth command: dodge
+2018-02-21 21:41:11,979 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,979 INFO Thibault command: reload
+2018-02-21 21:41:11,979 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,980 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:11,980 INFO Turn 4 begins
+2018-02-21 21:41:11,980 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:11,981 INFO Barth command: dodge
+2018-02-21 21:41:11,981 INFO Turn 8 begins
+2018-02-21 21:41:11,983 INFO Barth command: dodge
+2018-02-21 21:41:12,930 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:12,932 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,933 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,934 INFO Killing Barth
+2018-02-21 21:41:12,935 INFO Barth exit code: None
+2018-02-21 21:41:12,936 INFO Killing Thibault
+2018-02-21 21:41:12,937 INFO Thibault exit code: 0
+2018-02-21 21:41:12,939 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:12,940 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,941 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,942 INFO Killing Barth
+2018-02-21 21:41:12,943 INFO Barth exit code: None
+2018-02-21 21:41:12,944 INFO Killing Thibault
+2018-02-21 21:41:12,945 INFO Thibault exit code: 0
+2018-02-21 21:41:12,983 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:12,985 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,985 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:12,986 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,987 INFO Killing Barth
+2018-02-21 21:41:12,987 INFO Thibault takes too long to answer.
+2018-02-21 21:41:12,989 INFO Killing Barth
+2018-02-21 21:41:12,990 INFO Barth exit code: None
+2018-02-21 21:41:12,991 INFO Barth exit code: None
+2018-02-21 21:41:12,992 INFO Killing Thibault
+2018-02-21 21:41:12,993 INFO Killing Thibault
+2018-02-21 21:41:12,993 INFO Thibault exit code: 0
+2018-02-21 21:41:12,994 INFO Thibault exit code: 0
+2018-02-21 21:41:13,153 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:13,155 INFO Turn 1 begins
+2018-02-21 21:41:13,157 INFO Barth command: dodge
+2018-02-21 21:41:13,158 INFO Thibault command: dodge
+2018-02-21 21:41:13,160 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,162 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,162 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:13,164 INFO Turn 2 begins
+2018-02-21 21:41:13,164 INFO Turn 1 begins
+2018-02-21 21:41:13,165 INFO Barth command: dodge
+2018-02-21 21:41:13,167 INFO Thibault command: reload
+2018-02-21 21:41:13,168 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:13,170 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,172 INFO Turn 3 begins
+2018-02-21 21:41:13,172 INFO Turn 2 begins
+2018-02-21 21:41:13,173 INFO Barth command: dodge
+2018-02-21 21:41:13,174 INFO Barth command: dodge
+2018-02-21 21:41:13,220 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:13,221 INFO Turn 1 begins
+2018-02-21 21:41:13,222 INFO Turn 1 begins
+2018-02-21 21:41:13,222 INFO Barth command: dodge
+2018-02-21 21:41:13,223 INFO Thibault command: dodge
+2018-02-21 21:41:13,224 INFO Barth command: dodge
+2018-02-21 21:41:13,224 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,225 INFO Thibault command: reload
+2018-02-21 21:41:13,225 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,226 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:13,226 INFO Turn 2 begins
+2018-02-21 21:41:13,227 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,228 INFO Barth command: dodge
+2018-02-21 21:41:13,228 INFO Turn 2 begins
+2018-02-21 21:41:13,229 INFO Thibault command: dodge
+2018-02-21 21:41:13,229 INFO Barth command: dodge
+2018-02-21 21:41:13,230 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,231 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,232 INFO Turn 3 begins
+2018-02-21 21:41:13,233 INFO Barth command: dodge
+2018-02-21 21:41:13,234 INFO Thibault command: shoot
+2018-02-21 21:41:13,235 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:13,236 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,237 INFO Turn 4 begins
+2018-02-21 21:41:13,238 INFO Barth command: reload
+2018-02-21 21:41:13,239 INFO Thibault command: reload
+2018-02-21 21:41:13,240 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:13,241 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:13,242 INFO Turn 5 begins
+2018-02-21 21:41:13,243 INFO Barth command: dodge
+2018-02-21 21:41:13,244 INFO Thibault command: shoot
+2018-02-21 21:41:13,245 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:13,246 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,247 INFO Turn 6 begins
+2018-02-21 21:41:13,248 INFO Barth command: reload
+2018-02-21 21:41:13,249 INFO Thibault command: dodge
+2018-02-21 21:41:13,250 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,251 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:13,252 INFO Turn 7 begins
+2018-02-21 21:41:13,253 INFO Barth command: dodge
+2018-02-21 21:41:13,254 INFO Thibault command: dodge
+2018-02-21 21:41:13,255 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,256 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,257 INFO Turn 8 begins
+2018-02-21 21:41:13,258 INFO Barth command: dodge
+2018-02-21 21:41:13,259 INFO Thibault command: dodge
+2018-02-21 21:41:13,260 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,261 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,262 INFO Turn 9 begins
+2018-02-21 21:41:13,263 INFO Barth command: dodge
+2018-02-21 21:41:13,264 INFO Thibault command: dodge
+2018-02-21 21:41:13,265 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,266 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,267 INFO Turn 10 begins
+2018-02-21 21:41:13,268 INFO Barth command: dodge
+2018-02-21 21:41:13,269 INFO Thibault command: dodge
+2018-02-21 21:41:13,270 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:13,271 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,272 INFO Turn 11 begins
+2018-02-21 21:41:13,273 INFO Barth command: dodge
+2018-02-21 21:41:13,274 INFO Thibault command: reload
+2018-02-21 21:41:13,275 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:13,276 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:13,277 INFO Turn 12 begins
+2018-02-21 21:41:13,278 INFO Barth command: dodge
+2018-02-21 21:41:14,176 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:14,177 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:14,178 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,180 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,181 INFO Killing Barth
+2018-02-21 21:41:14,182 INFO Barth exit code: None
+2018-02-21 21:41:14,184 INFO Killing Thibault
+2018-02-21 21:41:14,185 INFO Thibault exit code: 0
+2018-02-21 21:41:14,233 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:14,236 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,237 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,238 INFO Killing Barth
+2018-02-21 21:41:14,239 INFO Barth exit code: None
+2018-02-21 21:41:14,240 INFO Killing Thibault
+2018-02-21 21:41:14,241 INFO Thibault exit code: 0
+2018-02-21 21:41:14,280 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:14,281 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,282 INFO Thibault takes too long to answer.
+2018-02-21 21:41:14,283 INFO Killing Barth
+2018-02-21 21:41:14,284 INFO Barth exit code: None
+2018-02-21 21:41:14,285 INFO Killing Thibault
+2018-02-21 21:41:14,286 INFO Thibault exit code: 0
+2018-02-21 21:41:14,413 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:14,415 INFO Turn 1 begins
+2018-02-21 21:41:14,417 INFO Barth command: dodge
+2018-02-21 21:41:14,419 INFO Thibault command: reload
+2018-02-21 21:41:14,419 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:14,421 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:14,421 INFO Turn 1 begins
+2018-02-21 21:41:14,423 INFO Barth command: dodge
+2018-02-21 21:41:14,424 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,425 INFO Turn 2 begins
+2018-02-21 21:41:14,425 INFO Thibault command: reload
+2018-02-21 21:41:14,428 INFO Barth command: dodge
+2018-02-21 21:41:14,430 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:14,432 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,434 INFO Turn 2 begins
+2018-02-21 21:41:14,436 INFO Barth command: dodge
+2018-02-21 21:41:14,464 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:14,466 INFO Turn 1 begins
+2018-02-21 21:41:14,467 INFO Barth command: dodge
+2018-02-21 21:41:14,468 INFO Thibault command: shoot
+2018-02-21 21:41:14,469 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:14,470 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,472 INFO Turn 2 begins
+2018-02-21 21:41:14,473 INFO Barth command: reload
+2018-02-21 21:41:14,474 INFO Thibault command: reload
+2018-02-21 21:41:14,476 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:14,477 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:14,478 INFO Turn 3 begins
+2018-02-21 21:41:14,479 INFO Barth command: dodge
+2018-02-21 21:41:14,481 INFO Thibault command: dodge
+2018-02-21 21:41:14,482 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:14,483 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,484 INFO Turn 4 begins
+2018-02-21 21:41:14,486 INFO Barth command: dodge
+2018-02-21 21:41:14,487 INFO Thibault command: reload
+2018-02-21 21:41:14,488 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:14,489 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,491 INFO Turn 5 begins
+2018-02-21 21:41:14,492 INFO Barth command: dodge
+2018-02-21 21:41:14,501 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:14,503 INFO Turn 1 begins
+2018-02-21 21:41:14,504 INFO Barth command: dodge
+2018-02-21 21:41:14,505 INFO Thibault command: shoot
+2018-02-21 21:41:14,506 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:14,507 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,509 INFO Turn 2 begins
+2018-02-21 21:41:14,510 INFO Barth command: reload
+2018-02-21 21:41:14,511 INFO Thibault command: dodge
+2018-02-21 21:41:14,512 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:14,514 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:14,515 INFO Turn 3 begins
+2018-02-21 21:41:14,517 INFO Barth command: dodge
+2018-02-21 21:41:14,519 INFO Thibault command: dodge
+2018-02-21 21:41:14,520 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:14,522 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,523 INFO Turn 4 begins
+2018-02-21 21:41:14,525 INFO Barth command: dodge
+2018-02-21 21:41:14,526 INFO Thibault command: dodge
+2018-02-21 21:41:14,528 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:14,529 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,530 INFO Turn 5 begins
+2018-02-21 21:41:14,531 INFO Barth command: dodge
+2018-02-21 21:41:14,533 INFO Thibault command: reload
+2018-02-21 21:41:14,534 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:14,535 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:14,536 INFO Turn 6 begins
+2018-02-21 21:41:14,537 INFO Barth command: dodge
+2018-02-21 21:41:15,430 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:15,433 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,434 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,436 INFO Killing Barth
+2018-02-21 21:41:15,437 INFO Barth exit code: None
+2018-02-21 21:41:15,439 INFO Killing Thibault
+2018-02-21 21:41:15,439 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:15,440 INFO Thibault exit code: 0
+2018-02-21 21:41:15,441 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,442 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,444 INFO Killing Barth
+2018-02-21 21:41:15,445 INFO Barth exit code: None
+2018-02-21 21:41:15,447 INFO Killing Thibault
+2018-02-21 21:41:15,448 INFO Thibault exit code: 0
+2018-02-21 21:41:15,495 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:15,497 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,498 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,499 INFO Killing Barth
+2018-02-21 21:41:15,501 INFO Barth exit code: None
+2018-02-21 21:41:15,502 INFO Killing Thibault
+2018-02-21 21:41:15,504 INFO Thibault exit code: 0
+2018-02-21 21:41:15,540 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:15,542 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,544 INFO Thibault takes too long to answer.
+2018-02-21 21:41:15,545 INFO Killing Barth
+2018-02-21 21:41:15,547 INFO Barth exit code: None
+2018-02-21 21:41:15,550 INFO Killing Thibault
+2018-02-21 21:41:15,551 INFO Thibault exit code: 0
+2018-02-21 21:41:15,675 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:15,678 INFO Turn 1 begins
+2018-02-21 21:41:15,680 INFO Barth command: dodge
+2018-02-21 21:41:15,683 INFO Thibault command: dodge
+2018-02-21 21:41:15,685 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:15,685 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:15,688 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,688 INFO Turn 1 begins
+2018-02-21 21:41:15,690 INFO Turn 2 begins
+2018-02-21 21:41:15,691 INFO Barth command: dodge
+2018-02-21 21:41:15,693 INFO Barth command: dodge
+2018-02-21 21:41:15,693 INFO Thibault command: shoot
+2018-02-21 21:41:15,695 INFO Thibault command: reload
+2018-02-21 21:41:15,695 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:15,698 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:15,698 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,700 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,701 INFO Turn 2 begins
+2018-02-21 21:41:15,703 INFO Turn 3 begins
+2018-02-21 21:41:15,705 INFO Barth command: dodge
+2018-02-21 21:41:15,705 INFO Barth command: reload
+2018-02-21 21:41:15,708 INFO Thibault command: dodge
+2018-02-21 21:41:15,710 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:15,713 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:15,715 INFO Turn 3 begins
+2018-02-21 21:41:15,717 INFO Barth command: dodge
+2018-02-21 21:41:15,718 INFO Thibault command: dodge
+2018-02-21 21:41:15,720 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:15,722 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,724 INFO Turn 4 begins
+2018-02-21 21:41:15,726 INFO Barth command: dodge
+2018-02-21 21:41:15,729 INFO Thibault command: reload
+2018-02-21 21:41:15,731 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:15,733 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,735 INFO Turn 5 begins
+2018-02-21 21:41:15,738 INFO Barth command: dodge
+2018-02-21 21:41:15,740 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:15,742 INFO Turn 1 begins
+2018-02-21 21:41:15,744 INFO Barth command: dodge
+2018-02-21 21:41:15,745 INFO Thibault command: dodge
+2018-02-21 21:41:15,747 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:15,748 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,749 INFO Turn 2 begins
+2018-02-21 21:41:15,751 INFO Barth command: dodge
+2018-02-21 21:41:15,753 INFO Thibault command: reload
+2018-02-21 21:41:15,754 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:15,756 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,757 INFO Turn 3 begins
+2018-02-21 21:41:15,759 INFO Barth command: dodge
+2018-02-21 21:41:15,777 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:15,779 INFO Turn 1 begins
+2018-02-21 21:41:15,781 INFO Barth command: dodge
+2018-02-21 21:41:15,783 INFO Thibault command: reload
+2018-02-21 21:41:15,785 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:15,786 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:15,789 INFO Turn 2 begins
+2018-02-21 21:41:15,790 INFO Barth command: dodge
+2018-02-21 21:41:16,709 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:16,711 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,713 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,715 INFO Killing Barth
+2018-02-21 21:41:16,717 INFO Barth exit code: None
+2018-02-21 21:41:16,719 INFO Killing Thibault
+2018-02-21 21:41:16,720 INFO Thibault exit code: 0
+2018-02-21 21:41:16,741 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:16,743 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,744 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,746 INFO Killing Barth
+2018-02-21 21:41:16,747 INFO Barth exit code: None
+2018-02-21 21:41:16,749 INFO Killing Thibault
+2018-02-21 21:41:16,751 INFO Thibault exit code: 0
+2018-02-21 21:41:16,762 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:16,765 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,767 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,769 INFO Killing Barth
+2018-02-21 21:41:16,772 INFO Barth exit code: None
+2018-02-21 21:41:16,775 INFO Killing Thibault
+2018-02-21 21:41:16,777 INFO Thibault exit code: 0
+2018-02-21 21:41:16,793 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:16,795 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,797 INFO Thibault takes too long to answer.
+2018-02-21 21:41:16,800 INFO Killing Barth
+2018-02-21 21:41:16,802 INFO Barth exit code: None
+2018-02-21 21:41:16,804 INFO Killing Thibault
+2018-02-21 21:41:16,807 INFO Thibault exit code: 0
+2018-02-21 21:41:16,958 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:16,960 INFO Turn 1 begins
+2018-02-21 21:41:16,963 INFO Barth command: dodge
+2018-02-21 21:41:16,966 INFO Thibault command: shoot
+2018-02-21 21:41:16,969 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:16,971 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:16,974 INFO Turn 2 begins
+2018-02-21 21:41:16,977 INFO Barth command: reload
+2018-02-21 21:41:16,978 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:16,980 INFO Thibault command: reload
+2018-02-21 21:41:16,981 INFO Turn 1 begins
+2018-02-21 21:41:16,982 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:16,984 INFO Barth command: dodge
+2018-02-21 21:41:16,985 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:16,986 INFO Thibault command: dodge
+2018-02-21 21:41:16,988 INFO Turn 3 begins
+2018-02-21 21:41:16,989 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:16,991 INFO Barth command: dodge
+2018-02-21 21:41:16,992 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:16,994 INFO Thibault command: reload
+2018-02-21 21:41:16,995 INFO Turn 2 begins
+2018-02-21 21:41:16,996 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:16,997 INFO Barth command: dodge
+2018-02-21 21:41:16,999 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,000 INFO Thibault command: shoot
+2018-02-21 21:41:17,004 INFO Turn 4 begins
+2018-02-21 21:41:17,005 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:17,007 INFO Barth command: dodge
+2018-02-21 21:41:17,008 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,010 INFO Turn 3 begins
+2018-02-21 21:41:17,013 INFO Barth command: reload
+2018-02-21 21:41:17,016 INFO Thibault command: dodge
+2018-02-21 21:41:17,019 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,021 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:17,023 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:17,024 INFO Turn 4 begins
+2018-02-21 21:41:17,026 INFO Turn 1 begins
+2018-02-21 21:41:17,027 INFO Barth command: dodge
+2018-02-21 21:41:17,030 INFO Thibault command: reload
+2018-02-21 21:41:17,030 INFO Thibault command: shoot
+2018-02-21 21:41:17,031 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:17,032 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:17,033 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,035 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,036 INFO Turn 5 begins
+2018-02-21 21:41:17,037 INFO Turn 2 begins
+2018-02-21 21:41:17,039 INFO Barth command: dodge
+2018-02-21 21:41:17,040 INFO Barth command: reload
+2018-02-21 21:41:17,043 INFO Thibault command: dodge
+2018-02-21 21:41:17,044 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,046 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:17,046 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:17,048 INFO Turn 3 begins
+2018-02-21 21:41:17,048 INFO Turn 1 begins
+2018-02-21 21:41:17,050 INFO Barth command: dodge
+2018-02-21 21:41:17,052 INFO Thibault command: dodge
+2018-02-21 21:41:17,052 INFO Thibault command: reload
+2018-02-21 21:41:17,053 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,053 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:17,055 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,057 INFO Turn 4 begins
+2018-02-21 21:41:17,057 INFO Turn 2 begins
+2018-02-21 21:41:17,059 INFO Barth command: dodge
+2018-02-21 21:41:17,060 INFO Barth command: dodge
+2018-02-21 21:41:17,060 INFO Thibault command: dodge
+2018-02-21 21:41:17,063 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,064 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,066 INFO Turn 5 begins
+2018-02-21 21:41:17,068 INFO Barth command: dodge
+2018-02-21 21:41:17,070 INFO Thibault command: dodge
+2018-02-21 21:41:17,071 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,073 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,075 INFO Turn 6 begins
+2018-02-21 21:41:17,076 INFO Barth command: dodge
+2018-02-21 21:41:17,078 INFO Thibault command: dodge
+2018-02-21 21:41:17,079 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:17,081 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,083 INFO Turn 7 begins
+2018-02-21 21:41:17,085 INFO Barth command: dodge
+2018-02-21 21:41:17,086 INFO Thibault command: reload
+2018-02-21 21:41:17,088 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:17,089 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:17,091 INFO Turn 8 begins
+2018-02-21 21:41:17,093 INFO Barth command: dodge
+2018-02-21 21:41:18,010 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:18,013 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,015 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,017 INFO Killing Barth
+2018-02-21 21:41:18,019 INFO Barth exit code: None
+2018-02-21 21:41:18,021 INFO Killing Thibault
+2018-02-21 21:41:18,023 INFO Thibault exit code: 0
+2018-02-21 21:41:18,042 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:18,044 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,046 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,048 INFO Killing Barth
+2018-02-21 21:41:18,049 INFO Barth exit code: None
+2018-02-21 21:41:18,051 INFO Killing Thibault
+2018-02-21 21:41:18,053 INFO Thibault exit code: 0
+2018-02-21 21:41:18,063 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:18,066 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,068 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,071 INFO Killing Barth
+2018-02-21 21:41:18,074 INFO Barth exit code: None
+2018-02-21 21:41:18,077 INFO Killing Thibault
+2018-02-21 21:41:18,078 INFO Thibault exit code: 0
+2018-02-21 21:41:18,096 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:18,098 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,101 INFO Thibault takes too long to answer.
+2018-02-21 21:41:18,104 INFO Killing Barth
+2018-02-21 21:41:18,107 INFO Barth exit code: None
+2018-02-21 21:41:18,110 INFO Killing Thibault
+2018-02-21 21:41:18,112 INFO Thibault exit code: 0
+2018-02-21 21:41:18,249 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:18,253 INFO Turn 1 begins
+2018-02-21 21:41:18,256 INFO Barth command: dodge
+2018-02-21 21:41:18,259 INFO Thibault command: dodge
+2018-02-21 21:41:18,262 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:18,265 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,268 INFO Turn 2 begins
+2018-02-21 21:41:18,272 INFO Barth command: dodge
+2018-02-21 21:41:18,275 INFO Thibault command: shoot
+2018-02-21 21:41:18,278 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:18,281 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,282 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:18,284 INFO Turn 3 begins
+2018-02-21 21:41:18,286 INFO Turn 1 begins
+2018-02-21 21:41:18,287 INFO Barth command: reload
+2018-02-21 21:41:18,289 INFO Barth command: dodge
+2018-02-21 21:41:18,291 INFO Thibault command: dodge
+2018-02-21 21:41:18,292 INFO Thibault command: reload
+2018-02-21 21:41:18,294 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:18,295 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:18,297 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:18,298 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,300 INFO Turn 4 begins
+2018-02-21 21:41:18,301 INFO Turn 2 begins
+2018-02-21 21:41:18,303 INFO Barth command: dodge
+2018-02-21 21:41:18,305 INFO Barth command: dodge
+2018-02-21 21:41:18,306 INFO Thibault command: dodge
+2018-02-21 21:41:18,310 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:18,313 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,316 INFO Turn 5 begins
+2018-02-21 21:41:18,319 INFO Barth command: dodge
+2018-02-21 21:41:18,321 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:18,322 INFO Thibault command: reload
+2018-02-21 21:41:18,324 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:18,325 INFO Turn 1 begins
+2018-02-21 21:41:18,326 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,328 INFO Barth command: dodge
+2018-02-21 21:41:18,329 INFO Turn 6 begins
+2018-02-21 21:41:18,330 INFO Thibault command: shoot
+2018-02-21 21:41:18,332 INFO Barth command: dodge
+2018-02-21 21:41:18,333 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 21:41:18,335 WARNING Thibault has terminated (0)
+2018-02-21 21:41:18,336 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,338 INFO Turn 2 begins
+2018-02-21 21:41:18,338 DEBUG Telling Barth that opponent did: stand
+2018-02-21 21:41:18,340 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,341 INFO Barth command: reload
+2018-02-21 21:41:18,342 INFO Killing Barth
+2018-02-21 21:41:18,344 INFO Thibault command: reload
+2018-02-21 21:41:18,345 INFO Barth exit code: None
+2018-02-21 21:41:18,346 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:18,348 INFO Killing Thibault
+2018-02-21 21:41:18,348 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:41:18,350 INFO Turn 3 begins
+2018-02-21 21:41:18,351 INFO Thibault exit code: 0
+2018-02-21 21:41:18,352 INFO Barth command: dodge
+2018-02-21 21:41:18,354 INFO Thibault command: dodge
+2018-02-21 21:41:18,357 DEBUG Telling Barth that opponent did: dodge
+2018-02-21 21:41:18,360 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,361 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:18,363 INFO Turn 4 begins
+2018-02-21 21:41:18,364 INFO Turn 1 begins
+2018-02-21 21:41:18,366 INFO Barth command: dodge
+2018-02-21 21:41:18,367 INFO Barth command: dodge
+2018-02-21 21:41:18,368 INFO Thibault command: reload
+2018-02-21 21:41:18,370 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:18,370 INFO Thibault command: reload
+2018-02-21 21:41:18,372 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,373 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:18,375 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:18,375 INFO Turn 5 begins
+2018-02-21 21:41:18,378 INFO Turn 2 begins
+2018-02-21 21:41:18,378 INFO Barth command: dodge
+2018-02-21 21:41:18,381 INFO Barth command: dodge
+2018-02-21 21:41:39,430 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 21:41:39,433 INFO Turn 1 begins
+2018-02-21 21:41:39,433 INFO Barth command: dodge
+2018-02-21 21:41:39,433 INFO Thibault command: reload
+2018-02-21 21:41:39,433 DEBUG Telling Barth that opponent did: reload
+2018-02-21 21:41:39,433 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:41:39,434 INFO Turn 2 begins
+2018-02-21 21:41:39,434 INFO Barth command: dodge
+2018-02-21 21:41:40,435 WARNING Thibault took more than 1 seconds to answer.
+2018-02-21 21:41:40,435 INFO Thibault takes too long to answer.
+2018-02-21 21:41:40,436 INFO Thibault takes too long to answer.
+2018-02-21 21:41:40,436 INFO Killing Barth
+2018-02-21 21:41:40,437 INFO Barth exit code: None
+2018-02-21 21:41:40,438 INFO Killing Thibault
+2018-02-21 21:41:40,438 INFO Thibault exit code: 0
+2018-02-21 22:07:52,363 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 22:07:52,365 INFO Turn 1 begins
+2018-02-21 22:07:52,366 INFO Barth command: dodge
+2018-02-21 22:07:52,366 INFO Thibault command: shoot
+2018-02-21 22:07:52,366 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,366 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,366 INFO Turn 2 begins
+2018-02-21 22:07:52,367 INFO Barth command: reload
+2018-02-21 22:07:52,367 INFO Thibault command: reload
+2018-02-21 22:07:52,368 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,368 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,368 INFO Turn 3 begins
+2018-02-21 22:07:52,368 INFO Barth command: dodge
+2018-02-21 22:07:52,368 INFO Thibault command: shoot
+2018-02-21 22:07:52,368 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,368 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,369 INFO Turn 4 begins
+2018-02-21 22:07:52,369 INFO Barth command: reload
+2018-02-21 22:07:52,369 INFO Thibault command: reload
+2018-02-21 22:07:52,369 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,369 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,369 INFO Turn 5 begins
+2018-02-21 22:07:52,369 INFO Barth command: dodge
+2018-02-21 22:07:52,369 INFO Thibault command: shoot
+2018-02-21 22:07:52,370 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,370 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,370 INFO Turn 6 begins
+2018-02-21 22:07:52,370 INFO Barth command: reload
+2018-02-21 22:07:52,370 INFO Thibault command: reload
+2018-02-21 22:07:52,370 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,370 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,371 INFO Turn 7 begins
+2018-02-21 22:07:52,371 INFO Barth command: dodge
+2018-02-21 22:07:52,371 INFO Thibault command: shoot
+2018-02-21 22:07:52,371 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,371 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,371 INFO Turn 8 begins
+2018-02-21 22:07:52,371 INFO Barth command: reload
+2018-02-21 22:07:52,371 INFO Thibault command: reload
+2018-02-21 22:07:52,371 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,372 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,372 INFO Turn 9 begins
+2018-02-21 22:07:52,372 INFO Barth command: dodge
+2018-02-21 22:07:52,372 INFO Thibault command: shoot
+2018-02-21 22:07:52,372 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,372 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,372 INFO Turn 10 begins
+2018-02-21 22:07:52,373 INFO Barth command: reload
+2018-02-21 22:07:52,373 INFO Thibault command: reload
+2018-02-21 22:07:52,373 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,373 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,373 INFO Turn 11 begins
+2018-02-21 22:07:52,373 INFO Barth command: dodge
+2018-02-21 22:07:52,373 INFO Thibault command: shoot
+2018-02-21 22:07:52,374 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,374 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,374 INFO Turn 12 begins
+2018-02-21 22:07:52,374 INFO Barth reloaded but already full
+2018-02-21 22:07:52,374 INFO Barth command: reload
+2018-02-21 22:07:52,374 INFO Thibault command: reload
+2018-02-21 22:07:52,374 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,374 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,375 INFO Turn 13 begins
+2018-02-21 22:07:52,375 INFO Barth command: dodge
+2018-02-21 22:07:52,375 INFO Thibault command: shoot
+2018-02-21 22:07:52,375 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,375 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,375 INFO Turn 14 begins
+2018-02-21 22:07:52,375 INFO Barth reloaded but already full
+2018-02-21 22:07:52,375 INFO Barth command: reload
+2018-02-21 22:07:52,376 INFO Thibault command: reload
+2018-02-21 22:07:52,376 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,376 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,376 INFO Turn 15 begins
+2018-02-21 22:07:52,376 INFO Barth command: dodge
+2018-02-21 22:07:52,376 INFO Thibault command: shoot
+2018-02-21 22:07:52,376 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,376 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,376 INFO Turn 16 begins
+2018-02-21 22:07:52,377 INFO Barth reloaded but already full
+2018-02-21 22:07:52,377 INFO Barth command: reload
+2018-02-21 22:07:52,377 INFO Thibault command: reload
+2018-02-21 22:07:52,377 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,377 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,377 INFO Turn 17 begins
+2018-02-21 22:07:52,377 INFO Barth command: dodge
+2018-02-21 22:07:52,377 INFO Thibault command: shoot
+2018-02-21 22:07:52,378 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,378 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,378 INFO Turn 18 begins
+2018-02-21 22:07:52,378 INFO Barth reloaded but already full
+2018-02-21 22:07:52,378 INFO Barth command: reload
+2018-02-21 22:07:52,378 INFO Thibault command: reload
+2018-02-21 22:07:52,378 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,378 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,378 INFO Turn 19 begins
+2018-02-21 22:07:52,379 INFO Barth command: dodge
+2018-02-21 22:07:52,379 INFO Thibault command: shoot
+2018-02-21 22:07:52,379 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,379 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,379 INFO Turn 20 begins
+2018-02-21 22:07:52,379 INFO Barth reloaded but already full
+2018-02-21 22:07:52,379 INFO Barth command: reload
+2018-02-21 22:07:52,379 INFO Thibault command: reload
+2018-02-21 22:07:52,379 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,379 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,380 INFO Turn 21 begins
+2018-02-21 22:07:52,380 INFO Barth command: dodge
+2018-02-21 22:07:52,380 INFO Thibault command: shoot
+2018-02-21 22:07:52,380 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,380 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,380 INFO Turn 22 begins
+2018-02-21 22:07:52,380 INFO Barth reloaded but already full
+2018-02-21 22:07:52,380 INFO Barth command: reload
+2018-02-21 22:07:52,381 INFO Thibault command: reload
+2018-02-21 22:07:52,381 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,381 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,381 INFO Turn 23 begins
+2018-02-21 22:07:52,381 INFO Barth command: dodge
+2018-02-21 22:07:52,381 INFO Thibault command: shoot
+2018-02-21 22:07:52,381 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,381 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,381 INFO Turn 24 begins
+2018-02-21 22:07:52,381 INFO Barth reloaded but already full
+2018-02-21 22:07:52,382 INFO Barth command: reload
+2018-02-21 22:07:52,382 INFO Thibault command: reload
+2018-02-21 22:07:52,382 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,382 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,382 INFO Turn 25 begins
+2018-02-21 22:07:52,382 INFO Barth command: dodge
+2018-02-21 22:07:52,382 INFO Thibault command: shoot
+2018-02-21 22:07:52,382 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,382 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,382 INFO Turn 26 begins
+2018-02-21 22:07:52,383 INFO Barth reloaded but already full
+2018-02-21 22:07:52,383 INFO Barth command: reload
+2018-02-21 22:07:52,383 INFO Thibault command: reload
+2018-02-21 22:07:52,383 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,383 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,383 INFO Turn 27 begins
+2018-02-21 22:07:52,383 INFO Barth command: dodge
+2018-02-21 22:07:52,384 INFO Thibault command: shoot
+2018-02-21 22:07:52,384 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,384 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,384 INFO Turn 28 begins
+2018-02-21 22:07:52,384 INFO Barth reloaded but already full
+2018-02-21 22:07:52,384 INFO Barth command: reload
+2018-02-21 22:07:52,384 INFO Thibault command: reload
+2018-02-21 22:07:52,384 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,384 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,384 INFO Turn 29 begins
+2018-02-21 22:07:52,385 INFO Barth command: dodge
+2018-02-21 22:07:52,385 INFO Thibault command: shoot
+2018-02-21 22:07:52,385 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,385 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,385 INFO Turn 30 begins
+2018-02-21 22:07:52,385 INFO Barth reloaded but already full
+2018-02-21 22:07:52,385 INFO Barth command: reload
+2018-02-21 22:07:52,385 INFO Thibault command: reload
+2018-02-21 22:07:52,385 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,385 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,386 INFO Turn 31 begins
+2018-02-21 22:07:52,386 INFO Barth command: dodge
+2018-02-21 22:07:52,386 INFO Thibault command: shoot
+2018-02-21 22:07:52,386 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,386 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,386 INFO Turn 32 begins
+2018-02-21 22:07:52,386 INFO Barth reloaded but already full
+2018-02-21 22:07:52,386 INFO Barth command: reload
+2018-02-21 22:07:52,386 INFO Thibault command: reload
+2018-02-21 22:07:52,387 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,387 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,387 INFO Turn 33 begins
+2018-02-21 22:07:52,387 INFO Barth command: dodge
+2018-02-21 22:07:52,387 INFO Thibault command: shoot
+2018-02-21 22:07:52,387 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,387 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,387 INFO Turn 34 begins
+2018-02-21 22:07:52,388 INFO Barth reloaded but already full
+2018-02-21 22:07:52,388 INFO Barth command: reload
+2018-02-21 22:07:52,388 INFO Thibault command: reload
+2018-02-21 22:07:52,388 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,388 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,388 INFO Turn 35 begins
+2018-02-21 22:07:52,388 INFO Barth command: dodge
+2018-02-21 22:07:52,389 INFO Thibault command: shoot
+2018-02-21 22:07:52,389 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,389 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,389 INFO Turn 36 begins
+2018-02-21 22:07:52,389 INFO Barth reloaded but already full
+2018-02-21 22:07:52,389 INFO Barth command: reload
+2018-02-21 22:07:52,389 INFO Thibault command: reload
+2018-02-21 22:07:52,389 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,389 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,390 INFO Turn 37 begins
+2018-02-21 22:07:52,390 INFO Barth command: dodge
+2018-02-21 22:07:52,390 INFO Thibault command: shoot
+2018-02-21 22:07:52,390 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,390 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,390 INFO Turn 38 begins
+2018-02-21 22:07:52,390 INFO Barth reloaded but already full
+2018-02-21 22:07:52,390 INFO Barth command: reload
+2018-02-21 22:07:52,390 INFO Thibault command: reload
+2018-02-21 22:07:52,390 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,391 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,391 INFO Turn 39 begins
+2018-02-21 22:07:52,391 INFO Barth command: dodge
+2018-02-21 22:07:52,391 INFO Thibault command: shoot
+2018-02-21 22:07:52,391 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,391 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,391 INFO Turn 40 begins
+2018-02-21 22:07:52,391 INFO Barth reloaded but already full
+2018-02-21 22:07:52,392 INFO Barth command: reload
+2018-02-21 22:07:52,392 INFO Thibault command: reload
+2018-02-21 22:07:52,392 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,392 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,392 INFO Turn 41 begins
+2018-02-21 22:07:52,392 INFO Barth command: dodge
+2018-02-21 22:07:52,392 INFO Thibault command: shoot
+2018-02-21 22:07:52,392 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,392 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,392 INFO Turn 42 begins
+2018-02-21 22:07:52,393 INFO Barth reloaded but already full
+2018-02-21 22:07:52,393 INFO Barth command: reload
+2018-02-21 22:07:52,393 INFO Thibault command: reload
+2018-02-21 22:07:52,393 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,393 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,393 INFO Turn 43 begins
+2018-02-21 22:07:52,393 INFO Barth command: dodge
+2018-02-21 22:07:52,393 INFO Thibault command: shoot
+2018-02-21 22:07:52,393 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,393 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,394 INFO Turn 44 begins
+2018-02-21 22:07:52,394 INFO Barth reloaded but already full
+2018-02-21 22:07:52,394 INFO Barth command: reload
+2018-02-21 22:07:52,394 INFO Thibault command: reload
+2018-02-21 22:07:52,394 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,394 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,394 INFO Turn 45 begins
+2018-02-21 22:07:52,394 INFO Barth command: dodge
+2018-02-21 22:07:52,394 INFO Thibault command: shoot
+2018-02-21 22:07:52,395 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,395 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,395 INFO Turn 46 begins
+2018-02-21 22:07:52,395 INFO Barth reloaded but already full
+2018-02-21 22:07:52,395 INFO Barth command: reload
+2018-02-21 22:07:52,395 INFO Thibault command: reload
+2018-02-21 22:07:52,395 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,395 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,395 INFO Turn 47 begins
+2018-02-21 22:07:52,395 INFO Barth command: dodge
+2018-02-21 22:07:52,396 INFO Thibault command: shoot
+2018-02-21 22:07:52,396 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,396 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,396 INFO Turn 48 begins
+2018-02-21 22:07:52,396 INFO Barth reloaded but already full
+2018-02-21 22:07:52,396 INFO Barth command: reload
+2018-02-21 22:07:52,396 INFO Thibault command: reload
+2018-02-21 22:07:52,396 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,396 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,396 INFO Turn 49 begins
+2018-02-21 22:07:52,397 INFO Barth command: dodge
+2018-02-21 22:07:52,397 INFO Thibault command: shoot
+2018-02-21 22:07:52,397 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,397 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,397 INFO Turn 50 begins
+2018-02-21 22:07:52,397 INFO Barth reloaded but already full
+2018-02-21 22:07:52,397 INFO Barth command: reload
+2018-02-21 22:07:52,397 INFO Thibault command: reload
+2018-02-21 22:07:52,397 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,397 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,398 INFO Turn 51 begins
+2018-02-21 22:07:52,398 INFO Barth command: dodge
+2018-02-21 22:07:52,398 INFO Thibault command: shoot
+2018-02-21 22:07:52,398 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,398 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,398 INFO Turn 52 begins
+2018-02-21 22:07:52,398 INFO Barth reloaded but already full
+2018-02-21 22:07:52,398 INFO Barth command: reload
+2018-02-21 22:07:52,398 INFO Thibault command: reload
+2018-02-21 22:07:52,398 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,399 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,399 INFO Turn 53 begins
+2018-02-21 22:07:52,399 INFO Barth command: dodge
+2018-02-21 22:07:52,399 INFO Thibault command: shoot
+2018-02-21 22:07:52,399 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,399 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,399 INFO Turn 54 begins
+2018-02-21 22:07:52,400 INFO Barth reloaded but already full
+2018-02-21 22:07:52,400 INFO Barth command: reload
+2018-02-21 22:07:52,400 INFO Thibault command: reload
+2018-02-21 22:07:52,400 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,400 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,400 INFO Turn 55 begins
+2018-02-21 22:07:52,400 INFO Barth command: dodge
+2018-02-21 22:07:52,400 INFO Thibault command: shoot
+2018-02-21 22:07:52,401 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,401 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,401 INFO Turn 56 begins
+2018-02-21 22:07:52,401 INFO Barth reloaded but already full
+2018-02-21 22:07:52,401 INFO Barth command: reload
+2018-02-21 22:07:52,401 INFO Thibault command: reload
+2018-02-21 22:07:52,401 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,401 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,402 INFO Turn 57 begins
+2018-02-21 22:07:52,402 INFO Barth command: dodge
+2018-02-21 22:07:52,402 INFO Thibault command: shoot
+2018-02-21 22:07:52,403 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,403 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,403 INFO Turn 58 begins
+2018-02-21 22:07:52,403 INFO Barth reloaded but already full
+2018-02-21 22:07:52,403 INFO Barth command: reload
+2018-02-21 22:07:52,404 INFO Thibault command: reload
+2018-02-21 22:07:52,404 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,404 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,404 INFO Turn 59 begins
+2018-02-21 22:07:52,404 INFO Barth command: dodge
+2018-02-21 22:07:52,404 INFO Thibault command: shoot
+2018-02-21 22:07:52,404 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,404 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,404 INFO Turn 60 begins
+2018-02-21 22:07:52,405 INFO Barth reloaded but already full
+2018-02-21 22:07:52,405 INFO Barth command: reload
+2018-02-21 22:07:52,405 INFO Thibault command: reload
+2018-02-21 22:07:52,405 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,405 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,405 INFO Turn 61 begins
+2018-02-21 22:07:52,405 INFO Barth command: dodge
+2018-02-21 22:07:52,405 INFO Thibault command: shoot
+2018-02-21 22:07:52,405 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,405 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,406 INFO Turn 62 begins
+2018-02-21 22:07:52,406 INFO Barth reloaded but already full
+2018-02-21 22:07:52,406 INFO Barth command: reload
+2018-02-21 22:07:52,406 INFO Thibault command: reload
+2018-02-21 22:07:52,406 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,406 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,406 INFO Turn 63 begins
+2018-02-21 22:07:52,406 INFO Barth command: dodge
+2018-02-21 22:07:52,406 INFO Thibault command: shoot
+2018-02-21 22:07:52,407 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,407 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,407 INFO Turn 64 begins
+2018-02-21 22:07:52,407 INFO Barth reloaded but already full
+2018-02-21 22:07:52,407 INFO Barth command: reload
+2018-02-21 22:07:52,407 INFO Thibault command: reload
+2018-02-21 22:07:52,407 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,407 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,407 INFO Turn 65 begins
+2018-02-21 22:07:52,408 INFO Barth command: dodge
+2018-02-21 22:07:52,408 INFO Thibault command: shoot
+2018-02-21 22:07:52,408 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,408 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,408 INFO Turn 66 begins
+2018-02-21 22:07:52,408 INFO Barth reloaded but already full
+2018-02-21 22:07:52,408 INFO Barth command: reload
+2018-02-21 22:07:52,408 INFO Thibault command: reload
+2018-02-21 22:07:52,408 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,408 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,409 INFO Turn 67 begins
+2018-02-21 22:07:52,409 INFO Barth command: dodge
+2018-02-21 22:07:52,409 INFO Thibault command: shoot
+2018-02-21 22:07:52,409 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,409 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,410 INFO Turn 68 begins
+2018-02-21 22:07:52,410 INFO Barth reloaded but already full
+2018-02-21 22:07:52,410 INFO Barth command: reload
+2018-02-21 22:07:52,410 INFO Thibault command: reload
+2018-02-21 22:07:52,410 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,410 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,410 INFO Turn 69 begins
+2018-02-21 22:07:52,411 INFO Barth command: dodge
+2018-02-21 22:07:52,411 INFO Thibault command: shoot
+2018-02-21 22:07:52,411 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,411 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,411 INFO Turn 70 begins
+2018-02-21 22:07:52,411 INFO Barth reloaded but already full
+2018-02-21 22:07:52,411 INFO Barth command: reload
+2018-02-21 22:07:52,411 INFO Thibault command: reload
+2018-02-21 22:07:52,411 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,411 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,412 INFO Turn 71 begins
+2018-02-21 22:07:52,412 INFO Barth command: dodge
+2018-02-21 22:07:52,412 INFO Thibault command: shoot
+2018-02-21 22:07:52,412 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,412 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,412 INFO Turn 72 begins
+2018-02-21 22:07:52,412 INFO Barth reloaded but already full
+2018-02-21 22:07:52,412 INFO Barth command: reload
+2018-02-21 22:07:52,412 INFO Thibault command: reload
+2018-02-21 22:07:52,413 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,413 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,413 INFO Turn 73 begins
+2018-02-21 22:07:52,413 INFO Barth command: dodge
+2018-02-21 22:07:52,413 INFO Thibault command: shoot
+2018-02-21 22:07:52,413 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,413 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,413 INFO Turn 74 begins
+2018-02-21 22:07:52,414 INFO Barth reloaded but already full
+2018-02-21 22:07:52,414 INFO Barth command: reload
+2018-02-21 22:07:52,414 INFO Thibault command: reload
+2018-02-21 22:07:52,414 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,414 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,414 INFO Turn 75 begins
+2018-02-21 22:07:52,414 INFO Barth command: dodge
+2018-02-21 22:07:52,414 INFO Thibault command: shoot
+2018-02-21 22:07:52,414 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,414 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,415 INFO Turn 76 begins
+2018-02-21 22:07:52,415 INFO Barth reloaded but already full
+2018-02-21 22:07:52,415 INFO Barth command: reload
+2018-02-21 22:07:52,415 INFO Thibault command: reload
+2018-02-21 22:07:52,415 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,415 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,415 INFO Turn 77 begins
+2018-02-21 22:07:52,415 INFO Barth command: dodge
+2018-02-21 22:07:52,415 INFO Thibault command: shoot
+2018-02-21 22:07:52,416 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,416 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,416 INFO Turn 78 begins
+2018-02-21 22:07:52,416 INFO Barth reloaded but already full
+2018-02-21 22:07:52,416 INFO Barth command: reload
+2018-02-21 22:07:52,416 INFO Thibault command: reload
+2018-02-21 22:07:52,416 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,416 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,416 INFO Turn 79 begins
+2018-02-21 22:07:52,417 INFO Barth command: dodge
+2018-02-21 22:07:52,417 INFO Thibault command: shoot
+2018-02-21 22:07:52,417 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,417 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,417 INFO Turn 80 begins
+2018-02-21 22:07:52,417 INFO Barth reloaded but already full
+2018-02-21 22:07:52,418 INFO Barth command: reload
+2018-02-21 22:07:52,418 INFO Thibault command: reload
+2018-02-21 22:07:52,418 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,418 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,418 INFO Turn 81 begins
+2018-02-21 22:07:52,418 INFO Barth command: dodge
+2018-02-21 22:07:52,418 INFO Thibault command: shoot
+2018-02-21 22:07:52,419 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,419 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,419 INFO Turn 82 begins
+2018-02-21 22:07:52,419 INFO Barth reloaded but already full
+2018-02-21 22:07:52,419 INFO Barth command: reload
+2018-02-21 22:07:52,419 INFO Thibault command: reload
+2018-02-21 22:07:52,419 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,419 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,419 INFO Turn 83 begins
+2018-02-21 22:07:52,420 INFO Barth command: dodge
+2018-02-21 22:07:52,420 INFO Thibault command: shoot
+2018-02-21 22:07:52,420 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,420 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,420 INFO Turn 84 begins
+2018-02-21 22:07:52,420 INFO Barth reloaded but already full
+2018-02-21 22:07:52,420 INFO Barth command: reload
+2018-02-21 22:07:52,421 INFO Thibault command: reload
+2018-02-21 22:07:52,421 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,421 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,421 INFO Turn 85 begins
+2018-02-21 22:07:52,421 INFO Barth command: dodge
+2018-02-21 22:07:52,421 INFO Thibault command: shoot
+2018-02-21 22:07:52,421 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,421 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,421 INFO Turn 86 begins
+2018-02-21 22:07:52,422 INFO Barth reloaded but already full
+2018-02-21 22:07:52,422 INFO Barth command: reload
+2018-02-21 22:07:52,422 INFO Thibault command: reload
+2018-02-21 22:07:52,422 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,422 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,422 INFO Turn 87 begins
+2018-02-21 22:07:52,422 INFO Barth command: dodge
+2018-02-21 22:07:52,422 INFO Thibault command: shoot
+2018-02-21 22:07:52,422 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,422 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,423 INFO Turn 88 begins
+2018-02-21 22:07:52,423 INFO Barth reloaded but already full
+2018-02-21 22:07:52,423 INFO Barth command: reload
+2018-02-21 22:07:52,423 INFO Thibault command: reload
+2018-02-21 22:07:52,423 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,423 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,423 INFO Turn 89 begins
+2018-02-21 22:07:52,423 INFO Barth command: dodge
+2018-02-21 22:07:52,423 INFO Thibault command: shoot
+2018-02-21 22:07:52,424 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,424 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,424 INFO Turn 90 begins
+2018-02-21 22:07:52,424 INFO Barth reloaded but already full
+2018-02-21 22:07:52,424 INFO Barth command: reload
+2018-02-21 22:07:52,424 INFO Thibault command: reload
+2018-02-21 22:07:52,424 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,424 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,424 INFO Turn 91 begins
+2018-02-21 22:07:52,425 INFO Barth command: dodge
+2018-02-21 22:07:52,425 INFO Thibault command: shoot
+2018-02-21 22:07:52,425 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,425 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,425 INFO Turn 92 begins
+2018-02-21 22:07:52,425 INFO Barth reloaded but already full
+2018-02-21 22:07:52,425 INFO Barth command: reload
+2018-02-21 22:07:52,425 INFO Thibault command: reload
+2018-02-21 22:07:52,425 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,425 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,426 INFO Turn 93 begins
+2018-02-21 22:07:52,426 INFO Barth command: dodge
+2018-02-21 22:07:52,426 INFO Thibault command: shoot
+2018-02-21 22:07:52,426 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,426 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,426 INFO Turn 94 begins
+2018-02-21 22:07:52,426 INFO Barth reloaded but already full
+2018-02-21 22:07:52,426 INFO Barth command: reload
+2018-02-21 22:07:52,427 INFO Thibault command: reload
+2018-02-21 22:07:52,427 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,427 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,427 INFO Turn 95 begins
+2018-02-21 22:07:52,427 INFO Barth command: dodge
+2018-02-21 22:07:52,427 INFO Thibault command: shoot
+2018-02-21 22:07:52,427 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,427 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,427 INFO Turn 96 begins
+2018-02-21 22:07:52,427 INFO Barth reloaded but already full
+2018-02-21 22:07:52,428 INFO Barth command: reload
+2018-02-21 22:07:52,428 INFO Thibault command: reload
+2018-02-21 22:07:52,428 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,428 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,428 INFO Turn 97 begins
+2018-02-21 22:07:52,428 INFO Barth command: dodge
+2018-02-21 22:07:52,428 INFO Thibault command: shoot
+2018-02-21 22:07:52,428 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,428 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,428 INFO Turn 98 begins
+2018-02-21 22:07:52,429 INFO Barth reloaded but already full
+2018-02-21 22:07:52,429 INFO Barth command: reload
+2018-02-21 22:07:52,429 INFO Thibault command: reload
+2018-02-21 22:07:52,429 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,429 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,429 INFO Turn 99 begins
+2018-02-21 22:07:52,429 INFO Barth command: dodge
+2018-02-21 22:07:52,429 INFO Thibault command: shoot
+2018-02-21 22:07:52,429 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:07:52,429 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:07:52,430 INFO Turn 100 begins
+2018-02-21 22:07:52,430 INFO Barth reloaded but already full
+2018-02-21 22:07:52,430 INFO Barth command: reload
+2018-02-21 22:07:52,430 INFO Thibault command: reload
+2018-02-21 22:07:52,430 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:07:52,430 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:07:52,431 INFO Barth dodged 50 times
+2018-02-21 22:07:52,431 INFO Thibault dodged 0 times
+2018-02-21 22:07:52,431 INFO Killing Barth
+2018-02-21 22:07:52,431 INFO Barth exit code: None
+2018-02-21 22:07:52,431 INFO Killing Thibault
+2018-02-21 22:07:52,431 INFO Thibault exit code: None
+2018-02-21 22:08:31,401 INFO Starting new showdown: Barth vs Thibault
+2018-02-21 22:08:31,404 INFO Turn 1 begins
+2018-02-21 22:08:31,404 INFO Barth command: dodge
+2018-02-21 22:08:31,405 INFO Thibault command: shoot
+2018-02-21 22:08:31,405 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,405 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,405 INFO Turn 2 begins
+2018-02-21 22:08:31,406 INFO Barth command: reload
+2018-02-21 22:08:31,406 INFO Thibault command: reload
+2018-02-21 22:08:31,406 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,406 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,407 INFO Turn 3 begins
+2018-02-21 22:08:31,407 INFO Barth command: dodge
+2018-02-21 22:08:31,407 INFO Thibault command: shoot
+2018-02-21 22:08:31,407 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,407 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,408 INFO Turn 4 begins
+2018-02-21 22:08:31,408 INFO Barth command: reload
+2018-02-21 22:08:31,408 INFO Thibault command: reload
+2018-02-21 22:08:31,408 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,408 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,408 INFO Turn 5 begins
+2018-02-21 22:08:31,409 INFO Barth command: dodge
+2018-02-21 22:08:31,409 INFO Thibault command: shoot
+2018-02-21 22:08:31,409 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,409 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,409 INFO Turn 6 begins
+2018-02-21 22:08:31,410 INFO Barth command: reload
+2018-02-21 22:08:31,410 INFO Thibault command: reload
+2018-02-21 22:08:31,410 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,410 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,410 INFO Turn 7 begins
+2018-02-21 22:08:31,410 INFO Barth command: dodge
+2018-02-21 22:08:31,410 INFO Thibault command: shoot
+2018-02-21 22:08:31,411 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,411 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,411 INFO Turn 8 begins
+2018-02-21 22:08:31,411 INFO Barth command: reload
+2018-02-21 22:08:31,411 INFO Thibault command: reload
+2018-02-21 22:08:31,411 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,411 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,412 INFO Turn 9 begins
+2018-02-21 22:08:31,412 INFO Barth command: dodge
+2018-02-21 22:08:31,412 INFO Thibault command: shoot
+2018-02-21 22:08:31,412 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,412 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,412 INFO Turn 10 begins
+2018-02-21 22:08:31,412 INFO Barth command: reload
+2018-02-21 22:08:31,413 INFO Thibault command: reload
+2018-02-21 22:08:31,413 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,413 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,413 INFO Turn 11 begins
+2018-02-21 22:08:31,413 INFO Barth command: dodge
+2018-02-21 22:08:31,413 INFO Thibault command: shoot
+2018-02-21 22:08:31,413 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,413 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,414 INFO Turn 12 begins
+2018-02-21 22:08:31,414 INFO Barth reloaded but already full
+2018-02-21 22:08:31,414 INFO Barth command: reload
+2018-02-21 22:08:31,414 INFO Thibault command: reload
+2018-02-21 22:08:31,414 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,414 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,414 INFO Turn 13 begins
+2018-02-21 22:08:31,415 INFO Barth command: dodge
+2018-02-21 22:08:31,415 INFO Thibault command: shoot
+2018-02-21 22:08:31,415 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,415 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,415 INFO Turn 14 begins
+2018-02-21 22:08:31,415 INFO Barth reloaded but already full
+2018-02-21 22:08:31,415 INFO Barth command: reload
+2018-02-21 22:08:31,415 INFO Thibault command: reload
+2018-02-21 22:08:31,415 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,416 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,416 INFO Turn 15 begins
+2018-02-21 22:08:31,416 INFO Barth command: dodge
+2018-02-21 22:08:31,416 INFO Thibault command: shoot
+2018-02-21 22:08:31,416 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,416 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,416 INFO Turn 16 begins
+2018-02-21 22:08:31,417 INFO Barth reloaded but already full
+2018-02-21 22:08:31,417 INFO Barth command: reload
+2018-02-21 22:08:31,417 INFO Thibault command: reload
+2018-02-21 22:08:31,417 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,417 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,417 INFO Turn 17 begins
+2018-02-21 22:08:31,417 INFO Barth command: dodge
+2018-02-21 22:08:31,417 INFO Thibault command: shoot
+2018-02-21 22:08:31,418 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,418 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,418 INFO Turn 18 begins
+2018-02-21 22:08:31,418 INFO Barth reloaded but already full
+2018-02-21 22:08:31,418 INFO Barth command: reload
+2018-02-21 22:08:31,418 INFO Thibault command: reload
+2018-02-21 22:08:31,418 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,418 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,419 INFO Turn 19 begins
+2018-02-21 22:08:31,419 INFO Barth command: dodge
+2018-02-21 22:08:31,419 INFO Thibault command: shoot
+2018-02-21 22:08:31,419 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,419 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,419 INFO Turn 20 begins
+2018-02-21 22:08:31,420 INFO Barth reloaded but already full
+2018-02-21 22:08:31,420 INFO Barth command: reload
+2018-02-21 22:08:31,420 INFO Thibault command: reload
+2018-02-21 22:08:31,420 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,420 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,420 INFO Turn 21 begins
+2018-02-21 22:08:31,420 INFO Barth command: dodge
+2018-02-21 22:08:31,421 INFO Thibault command: shoot
+2018-02-21 22:08:31,421 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,421 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,421 INFO Turn 22 begins
+2018-02-21 22:08:31,421 INFO Barth reloaded but already full
+2018-02-21 22:08:31,421 INFO Barth command: reload
+2018-02-21 22:08:31,422 INFO Thibault command: reload
+2018-02-21 22:08:31,422 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,422 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,422 INFO Turn 23 begins
+2018-02-21 22:08:31,422 INFO Barth command: dodge
+2018-02-21 22:08:31,422 INFO Thibault command: shoot
+2018-02-21 22:08:31,422 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,422 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,423 INFO Turn 24 begins
+2018-02-21 22:08:31,423 INFO Barth reloaded but already full
+2018-02-21 22:08:31,423 INFO Barth command: reload
+2018-02-21 22:08:31,423 INFO Thibault command: reload
+2018-02-21 22:08:31,423 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,423 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,423 INFO Turn 25 begins
+2018-02-21 22:08:31,423 INFO Barth command: dodge
+2018-02-21 22:08:31,424 INFO Thibault command: shoot
+2018-02-21 22:08:31,424 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,424 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,424 INFO Turn 26 begins
+2018-02-21 22:08:31,424 INFO Barth reloaded but already full
+2018-02-21 22:08:31,424 INFO Barth command: reload
+2018-02-21 22:08:31,424 INFO Thibault command: reload
+2018-02-21 22:08:31,424 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,425 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,425 INFO Turn 27 begins
+2018-02-21 22:08:31,425 INFO Barth command: dodge
+2018-02-21 22:08:31,425 INFO Thibault command: shoot
+2018-02-21 22:08:31,425 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,425 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,425 INFO Turn 28 begins
+2018-02-21 22:08:31,425 INFO Barth reloaded but already full
+2018-02-21 22:08:31,426 INFO Barth command: reload
+2018-02-21 22:08:31,426 INFO Thibault command: reload
+2018-02-21 22:08:31,426 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,426 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,426 INFO Turn 29 begins
+2018-02-21 22:08:31,426 INFO Barth command: dodge
+2018-02-21 22:08:31,426 INFO Thibault command: shoot
+2018-02-21 22:08:31,426 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,426 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,426 INFO Turn 30 begins
+2018-02-21 22:08:31,427 INFO Barth reloaded but already full
+2018-02-21 22:08:31,427 INFO Barth command: reload
+2018-02-21 22:08:31,427 INFO Thibault command: reload
+2018-02-21 22:08:31,427 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,427 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,427 INFO Turn 31 begins
+2018-02-21 22:08:31,427 INFO Barth command: dodge
+2018-02-21 22:08:31,427 INFO Thibault command: shoot
+2018-02-21 22:08:31,427 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,427 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,428 INFO Turn 32 begins
+2018-02-21 22:08:31,428 INFO Barth reloaded but already full
+2018-02-21 22:08:31,428 INFO Barth command: reload
+2018-02-21 22:08:31,428 INFO Thibault command: reload
+2018-02-21 22:08:31,428 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,428 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,428 INFO Turn 33 begins
+2018-02-21 22:08:31,428 INFO Barth command: dodge
+2018-02-21 22:08:31,428 INFO Thibault command: shoot
+2018-02-21 22:08:31,428 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,428 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,429 INFO Turn 34 begins
+2018-02-21 22:08:31,429 INFO Barth reloaded but already full
+2018-02-21 22:08:31,429 INFO Barth command: reload
+2018-02-21 22:08:31,429 INFO Thibault command: reload
+2018-02-21 22:08:31,429 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,430 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,430 INFO Turn 35 begins
+2018-02-21 22:08:31,430 INFO Barth command: dodge
+2018-02-21 22:08:31,430 INFO Thibault command: shoot
+2018-02-21 22:08:31,430 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,430 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,430 INFO Turn 36 begins
+2018-02-21 22:08:31,430 INFO Barth reloaded but already full
+2018-02-21 22:08:31,430 INFO Barth command: reload
+2018-02-21 22:08:31,431 INFO Thibault command: reload
+2018-02-21 22:08:31,431 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,431 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,431 INFO Turn 37 begins
+2018-02-21 22:08:31,431 INFO Barth command: dodge
+2018-02-21 22:08:31,431 INFO Thibault command: shoot
+2018-02-21 22:08:31,431 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,431 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,431 INFO Turn 38 begins
+2018-02-21 22:08:31,432 INFO Barth reloaded but already full
+2018-02-21 22:08:31,432 INFO Barth command: reload
+2018-02-21 22:08:31,432 INFO Thibault command: reload
+2018-02-21 22:08:31,432 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,432 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,432 INFO Turn 39 begins
+2018-02-21 22:08:31,432 INFO Barth command: dodge
+2018-02-21 22:08:31,433 INFO Thibault command: shoot
+2018-02-21 22:08:31,433 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,433 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,433 INFO Turn 40 begins
+2018-02-21 22:08:31,433 INFO Barth reloaded but already full
+2018-02-21 22:08:31,433 INFO Barth command: reload
+2018-02-21 22:08:31,433 INFO Thibault command: reload
+2018-02-21 22:08:31,433 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,433 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,433 INFO Turn 41 begins
+2018-02-21 22:08:31,434 INFO Barth command: dodge
+2018-02-21 22:08:31,434 INFO Thibault command: shoot
+2018-02-21 22:08:31,434 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,434 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,434 INFO Turn 42 begins
+2018-02-21 22:08:31,434 INFO Barth reloaded but already full
+2018-02-21 22:08:31,434 INFO Barth command: reload
+2018-02-21 22:08:31,434 INFO Thibault command: reload
+2018-02-21 22:08:31,434 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,435 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,435 INFO Turn 43 begins
+2018-02-21 22:08:31,435 INFO Barth command: dodge
+2018-02-21 22:08:31,435 INFO Thibault command: shoot
+2018-02-21 22:08:31,435 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,435 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,435 INFO Turn 44 begins
+2018-02-21 22:08:31,435 INFO Barth reloaded but already full
+2018-02-21 22:08:31,435 INFO Barth command: reload
+2018-02-21 22:08:31,436 INFO Thibault command: reload
+2018-02-21 22:08:31,436 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,436 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,436 INFO Turn 45 begins
+2018-02-21 22:08:31,436 INFO Barth command: dodge
+2018-02-21 22:08:31,436 INFO Thibault command: shoot
+2018-02-21 22:08:31,436 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,436 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,436 INFO Turn 46 begins
+2018-02-21 22:08:31,437 INFO Barth reloaded but already full
+2018-02-21 22:08:31,437 INFO Barth command: reload
+2018-02-21 22:08:31,437 INFO Thibault command: reload
+2018-02-21 22:08:31,437 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,437 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,437 INFO Turn 47 begins
+2018-02-21 22:08:31,437 INFO Barth command: dodge
+2018-02-21 22:08:31,437 INFO Thibault command: shoot
+2018-02-21 22:08:31,437 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,438 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,438 INFO Turn 48 begins
+2018-02-21 22:08:31,438 INFO Barth reloaded but already full
+2018-02-21 22:08:31,438 INFO Barth command: reload
+2018-02-21 22:08:31,438 INFO Thibault command: reload
+2018-02-21 22:08:31,438 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,438 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,438 INFO Turn 49 begins
+2018-02-21 22:08:31,439 INFO Barth command: dodge
+2018-02-21 22:08:31,439 INFO Thibault command: shoot
+2018-02-21 22:08:31,439 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,439 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,439 INFO Turn 50 begins
+2018-02-21 22:08:31,439 INFO Barth reloaded but already full
+2018-02-21 22:08:31,440 INFO Barth command: reload
+2018-02-21 22:08:31,440 INFO Thibault command: reload
+2018-02-21 22:08:31,440 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,440 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,440 INFO Turn 51 begins
+2018-02-21 22:08:31,441 INFO Barth command: dodge
+2018-02-21 22:08:31,441 INFO Thibault command: shoot
+2018-02-21 22:08:31,441 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,441 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,442 INFO Turn 52 begins
+2018-02-21 22:08:31,442 INFO Barth reloaded but already full
+2018-02-21 22:08:31,442 INFO Barth command: reload
+2018-02-21 22:08:31,442 INFO Thibault command: reload
+2018-02-21 22:08:31,442 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,442 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,443 INFO Turn 53 begins
+2018-02-21 22:08:31,443 INFO Barth command: dodge
+2018-02-21 22:08:31,443 INFO Thibault command: shoot
+2018-02-21 22:08:31,443 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,443 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,443 INFO Turn 54 begins
+2018-02-21 22:08:31,443 INFO Barth reloaded but already full
+2018-02-21 22:08:31,444 INFO Barth command: reload
+2018-02-21 22:08:31,444 INFO Thibault command: reload
+2018-02-21 22:08:31,444 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,444 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,444 INFO Turn 55 begins
+2018-02-21 22:08:31,444 INFO Barth command: dodge
+2018-02-21 22:08:31,444 INFO Thibault command: shoot
+2018-02-21 22:08:31,445 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,445 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,445 INFO Turn 56 begins
+2018-02-21 22:08:31,445 INFO Barth reloaded but already full
+2018-02-21 22:08:31,445 INFO Barth command: reload
+2018-02-21 22:08:31,445 INFO Thibault command: reload
+2018-02-21 22:08:31,445 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,445 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,445 INFO Turn 57 begins
+2018-02-21 22:08:31,446 INFO Barth command: dodge
+2018-02-21 22:08:31,446 INFO Thibault command: shoot
+2018-02-21 22:08:31,446 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,446 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,446 INFO Turn 58 begins
+2018-02-21 22:08:31,446 INFO Barth reloaded but already full
+2018-02-21 22:08:31,446 INFO Barth command: reload
+2018-02-21 22:08:31,446 INFO Thibault command: reload
+2018-02-21 22:08:31,447 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,447 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,447 INFO Turn 59 begins
+2018-02-21 22:08:31,447 INFO Barth command: dodge
+2018-02-21 22:08:31,447 INFO Thibault command: shoot
+2018-02-21 22:08:31,447 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,447 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,447 INFO Turn 60 begins
+2018-02-21 22:08:31,447 INFO Barth reloaded but already full
+2018-02-21 22:08:31,448 INFO Barth command: reload
+2018-02-21 22:08:31,448 INFO Thibault command: reload
+2018-02-21 22:08:31,448 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,448 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,448 INFO Turn 61 begins
+2018-02-21 22:08:31,448 INFO Barth command: dodge
+2018-02-21 22:08:31,448 INFO Thibault command: shoot
+2018-02-21 22:08:31,448 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,448 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,448 INFO Turn 62 begins
+2018-02-21 22:08:31,449 INFO Barth reloaded but already full
+2018-02-21 22:08:31,449 INFO Barth command: reload
+2018-02-21 22:08:31,449 INFO Thibault command: reload
+2018-02-21 22:08:31,449 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,449 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,449 INFO Turn 63 begins
+2018-02-21 22:08:31,449 INFO Barth command: dodge
+2018-02-21 22:08:31,449 INFO Thibault command: shoot
+2018-02-21 22:08:31,449 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,450 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,450 INFO Turn 64 begins
+2018-02-21 22:08:31,450 INFO Barth reloaded but already full
+2018-02-21 22:08:31,450 INFO Barth command: reload
+2018-02-21 22:08:31,450 INFO Thibault command: reload
+2018-02-21 22:08:31,451 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,451 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,451 INFO Turn 65 begins
+2018-02-21 22:08:31,451 INFO Barth command: dodge
+2018-02-21 22:08:31,451 INFO Thibault command: shoot
+2018-02-21 22:08:31,451 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,451 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,451 INFO Turn 66 begins
+2018-02-21 22:08:31,452 INFO Barth reloaded but already full
+2018-02-21 22:08:31,452 INFO Barth command: reload
+2018-02-21 22:08:31,452 INFO Thibault command: reload
+2018-02-21 22:08:31,452 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,452 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,452 INFO Turn 67 begins
+2018-02-21 22:08:31,452 INFO Barth command: dodge
+2018-02-21 22:08:31,452 INFO Thibault command: shoot
+2018-02-21 22:08:31,452 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,452 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,453 INFO Turn 68 begins
+2018-02-21 22:08:31,453 INFO Barth reloaded but already full
+2018-02-21 22:08:31,453 INFO Barth command: reload
+2018-02-21 22:08:31,453 INFO Thibault command: reload
+2018-02-21 22:08:31,453 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,453 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,453 INFO Turn 69 begins
+2018-02-21 22:08:31,453 INFO Barth command: dodge
+2018-02-21 22:08:31,454 INFO Thibault command: shoot
+2018-02-21 22:08:31,454 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,454 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,454 INFO Turn 70 begins
+2018-02-21 22:08:31,454 INFO Barth reloaded but already full
+2018-02-21 22:08:31,454 INFO Barth command: reload
+2018-02-21 22:08:31,454 INFO Thibault command: reload
+2018-02-21 22:08:31,454 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,454 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,454 INFO Turn 71 begins
+2018-02-21 22:08:31,455 INFO Barth command: dodge
+2018-02-21 22:08:31,455 INFO Thibault command: shoot
+2018-02-21 22:08:31,455 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,455 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,455 INFO Turn 72 begins
+2018-02-21 22:08:31,455 INFO Barth reloaded but already full
+2018-02-21 22:08:31,455 INFO Barth command: reload
+2018-02-21 22:08:31,455 INFO Thibault command: reload
+2018-02-21 22:08:31,455 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,455 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,456 INFO Turn 73 begins
+2018-02-21 22:08:31,456 INFO Barth command: dodge
+2018-02-21 22:08:31,456 INFO Thibault command: shoot
+2018-02-21 22:08:31,456 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,456 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,456 INFO Turn 74 begins
+2018-02-21 22:08:31,456 INFO Barth reloaded but already full
+2018-02-21 22:08:31,456 INFO Barth command: reload
+2018-02-21 22:08:31,456 INFO Thibault command: reload
+2018-02-21 22:08:31,457 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,457 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,457 INFO Turn 75 begins
+2018-02-21 22:08:31,457 INFO Barth command: dodge
+2018-02-21 22:08:31,457 INFO Thibault command: shoot
+2018-02-21 22:08:31,457 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,457 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,457 INFO Turn 76 begins
+2018-02-21 22:08:31,457 INFO Barth reloaded but already full
+2018-02-21 22:08:31,457 INFO Barth command: reload
+2018-02-21 22:08:31,458 INFO Thibault command: reload
+2018-02-21 22:08:31,458 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,458 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,458 INFO Turn 77 begins
+2018-02-21 22:08:31,458 INFO Barth command: dodge
+2018-02-21 22:08:31,458 INFO Thibault command: shoot
+2018-02-21 22:08:31,458 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,458 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,458 INFO Turn 78 begins
+2018-02-21 22:08:31,459 INFO Barth reloaded but already full
+2018-02-21 22:08:31,459 INFO Barth command: reload
+2018-02-21 22:08:31,459 INFO Thibault command: reload
+2018-02-21 22:08:31,459 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,459 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,459 INFO Turn 79 begins
+2018-02-21 22:08:31,459 INFO Barth command: dodge
+2018-02-21 22:08:31,459 INFO Thibault command: shoot
+2018-02-21 22:08:31,459 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,459 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,459 INFO Turn 80 begins
+2018-02-21 22:08:31,460 INFO Barth reloaded but already full
+2018-02-21 22:08:31,460 INFO Barth command: reload
+2018-02-21 22:08:31,460 INFO Thibault command: reload
+2018-02-21 22:08:31,460 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,460 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,460 INFO Turn 81 begins
+2018-02-21 22:08:31,460 INFO Barth command: dodge
+2018-02-21 22:08:31,460 INFO Thibault command: shoot
+2018-02-21 22:08:31,461 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,461 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,461 INFO Turn 82 begins
+2018-02-21 22:08:31,461 INFO Barth reloaded but already full
+2018-02-21 22:08:31,461 INFO Barth command: reload
+2018-02-21 22:08:31,461 INFO Thibault command: reload
+2018-02-21 22:08:31,461 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,461 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,461 INFO Turn 83 begins
+2018-02-21 22:08:31,462 INFO Barth command: dodge
+2018-02-21 22:08:31,462 INFO Thibault command: shoot
+2018-02-21 22:08:31,462 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,462 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,462 INFO Turn 84 begins
+2018-02-21 22:08:31,462 INFO Barth reloaded but already full
+2018-02-21 22:08:31,462 INFO Barth command: reload
+2018-02-21 22:08:31,462 INFO Thibault command: reload
+2018-02-21 22:08:31,462 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,462 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,463 INFO Turn 85 begins
+2018-02-21 22:08:31,463 INFO Barth command: dodge
+2018-02-21 22:08:31,463 INFO Thibault command: shoot
+2018-02-21 22:08:31,463 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,463 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,463 INFO Turn 86 begins
+2018-02-21 22:08:31,463 INFO Barth reloaded but already full
+2018-02-21 22:08:31,463 INFO Barth command: reload
+2018-02-21 22:08:31,463 INFO Thibault command: reload
+2018-02-21 22:08:31,464 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,464 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,464 INFO Turn 87 begins
+2018-02-21 22:08:31,464 INFO Barth command: dodge
+2018-02-21 22:08:31,464 INFO Thibault command: shoot
+2018-02-21 22:08:31,464 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,464 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,464 INFO Turn 88 begins
+2018-02-21 22:08:31,465 INFO Barth reloaded but already full
+2018-02-21 22:08:31,465 INFO Barth command: reload
+2018-02-21 22:08:31,465 INFO Thibault command: reload
+2018-02-21 22:08:31,465 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,465 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,465 INFO Turn 89 begins
+2018-02-21 22:08:31,465 INFO Barth command: dodge
+2018-02-21 22:08:31,465 INFO Thibault command: shoot
+2018-02-21 22:08:31,465 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,465 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,466 INFO Turn 90 begins
+2018-02-21 22:08:31,466 INFO Barth reloaded but already full
+2018-02-21 22:08:31,466 INFO Barth command: reload
+2018-02-21 22:08:31,466 INFO Thibault command: reload
+2018-02-21 22:08:31,466 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,466 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,466 INFO Turn 91 begins
+2018-02-21 22:08:31,466 INFO Barth command: dodge
+2018-02-21 22:08:31,466 INFO Thibault command: shoot
+2018-02-21 22:08:31,467 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,467 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,467 INFO Turn 92 begins
+2018-02-21 22:08:31,467 INFO Barth reloaded but already full
+2018-02-21 22:08:31,467 INFO Barth command: reload
+2018-02-21 22:08:31,467 INFO Thibault command: reload
+2018-02-21 22:08:31,467 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,467 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,467 INFO Turn 93 begins
+2018-02-21 22:08:31,468 INFO Barth command: dodge
+2018-02-21 22:08:31,468 INFO Thibault command: shoot
+2018-02-21 22:08:31,468 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,468 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,468 INFO Turn 94 begins
+2018-02-21 22:08:31,468 INFO Barth reloaded but already full
+2018-02-21 22:08:31,468 INFO Barth command: reload
+2018-02-21 22:08:31,468 INFO Thibault command: reload
+2018-02-21 22:08:31,468 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,468 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,469 INFO Turn 95 begins
+2018-02-21 22:08:31,469 INFO Barth command: dodge
+2018-02-21 22:08:31,469 INFO Thibault command: shoot
+2018-02-21 22:08:31,469 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,469 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,469 INFO Turn 96 begins
+2018-02-21 22:08:31,469 INFO Barth reloaded but already full
+2018-02-21 22:08:31,469 INFO Barth command: reload
+2018-02-21 22:08:31,469 INFO Thibault command: reload
+2018-02-21 22:08:31,469 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,469 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,470 INFO Turn 97 begins
+2018-02-21 22:08:31,470 INFO Barth command: dodge
+2018-02-21 22:08:31,470 INFO Thibault command: shoot
+2018-02-21 22:08:31,470 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,470 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,470 INFO Turn 98 begins
+2018-02-21 22:08:31,470 INFO Barth reloaded but already full
+2018-02-21 22:08:31,470 INFO Barth command: reload
+2018-02-21 22:08:31,470 INFO Thibault command: reload
+2018-02-21 22:08:31,471 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,471 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,471 INFO Turn 99 begins
+2018-02-21 22:08:31,471 INFO Barth command: dodge
+2018-02-21 22:08:31,471 INFO Thibault command: shoot
+2018-02-21 22:08:31,471 DEBUG Telling Barth that opponent did: shoot
+2018-02-21 22:08:31,472 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:08:31,472 INFO Turn 100 begins
+2018-02-21 22:08:31,472 INFO Barth reloaded but already full
+2018-02-21 22:08:31,472 INFO Barth command: reload
+2018-02-21 22:08:31,472 INFO Thibault command: reload
+2018-02-21 22:08:31,472 DEBUG Telling Barth that opponent did: reload
+2018-02-21 22:08:31,472 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:08:31,472 INFO Barth dodged 50 times
+2018-02-21 22:08:31,472 INFO Thibault dodged 0 times
+2018-02-21 22:08:31,473 INFO Killing Barth
+2018-02-21 22:08:31,473 INFO Barth exit code: None
+2018-02-21 22:08:31,473 INFO Killing Thibault
+2018-02-21 22:08:31,473 INFO Thibault exit code: None

@@ -1,0 +1,42 @@
+2018-02-21 21:28:17,218 INFO Starting new showdown: Bobot vs Martin-Bot
+2018-02-21 21:28:17,220 INFO Turn 1 begins
+2018-02-21 21:28:17,221 INFO Bobot command: shoot
+2018-02-21 21:28:17,221 INFO Martin-Bot command: shoot
+2018-02-21 21:28:17,221 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 21:28:17,221 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:28:17,221 INFO Turn 2 begins
+2018-02-21 21:28:17,222 INFO Bobot command: reload
+2018-02-21 21:28:17,222 INFO Martin-Bot command: reload
+2018-02-21 21:28:17,222 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 21:28:17,222 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 21:28:17,222 INFO Turn 3 begins
+2018-02-21 21:28:17,222 INFO Bobot command: dodge
+2018-02-21 21:28:17,223 INFO Martin-Bot command: shoot
+2018-02-21 21:28:17,223 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 21:28:17,223 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 21:28:17,223 INFO Turn 4 begins
+2018-02-21 21:28:17,223 INFO Bobot command: reload
+2018-02-21 21:28:17,223 INFO Martin-Bot command: dodge
+2018-02-21 21:28:17,223 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 21:28:17,223 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 21:28:17,224 INFO Turn 5 begins
+2018-02-21 21:28:17,224 INFO Bobot command: shoot
+2018-02-21 21:28:17,224 INFO Martin-Bot command: dodge
+2018-02-21 21:28:17,224 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 21:28:17,224 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:28:17,224 INFO Turn 6 begins
+2018-02-21 21:28:17,225 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 21:28:17,225 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:28:17,225 INFO Turn 7 begins
+2018-02-21 21:28:17,225 INFO Bobot shot but without bullets
+2018-02-21 21:28:17,225 INFO Martin-Bot command: reload
+2018-02-21 21:28:17,225 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 21:28:17,225 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 21:28:17,225 INFO Turn 8 begins
+2018-02-21 21:28:17,226 INFO Bobot command: reload
+2018-02-21 21:28:17,226 INFO Martin-Bot command: shoot
+2018-02-21 21:28:17,226 INFO Martin-Bot shoots Bobot
+2018-02-21 21:28:17,226 INFO Killing Bobot
+2018-02-21 21:28:17,226 INFO Bobot exit code: None
+2018-02-21 21:28:17,226 INFO Killing Martin-Bot
+2018-02-21 21:28:17,227 INFO Martin-Bot exit code: None

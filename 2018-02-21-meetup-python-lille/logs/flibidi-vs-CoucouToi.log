@@ -1,0 +1,968 @@
+2018-02-21 21:19:04,617 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:04,618 INFO Turn 1 begins
+2018-02-21 21:19:04,619 INFO flibidi command: shoot
+2018-02-21 21:19:04,620 INFO CoucouToi command: reload
+2018-02-21 21:19:04,620 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:04,621 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:04,621 INFO Killing flibidi
+2018-02-21 21:19:04,622 INFO flibidi exit code: None
+2018-02-21 21:19:04,622 INFO Killing CoucouToi
+2018-02-21 21:19:04,623 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,671 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,672 INFO Turn 1 begins
+2018-02-21 21:19:11,673 INFO flibidi command: shoot
+2018-02-21 21:19:11,673 INFO CoucouToi command: reload
+2018-02-21 21:19:11,674 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,674 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,675 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,675 INFO Turn 1 begins
+2018-02-21 21:19:11,675 INFO Killing flibidi
+2018-02-21 21:19:11,675 INFO flibidi command: shoot
+2018-02-21 21:19:11,676 INFO flibidi exit code: None
+2018-02-21 21:19:11,676 INFO flibidi command: shoot
+2018-02-21 21:19:11,676 INFO CoucouToi command: reload
+2018-02-21 21:19:11,676 INFO Killing CoucouToi
+2018-02-21 21:19:11,677 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,677 INFO CoucouToi command: reload
+2018-02-21 21:19:11,677 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,678 INFO Killing flibidi
+2018-02-21 21:19:11,678 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,679 INFO Killing flibidi
+2018-02-21 21:19:11,679 INFO flibidi exit code: None
+2018-02-21 21:19:11,679 INFO Killing CoucouToi
+2018-02-21 21:19:11,680 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,680 INFO Killing CoucouToi
+2018-02-21 21:19:11,681 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,683 INFO Turn 1 begins
+2018-02-21 21:19:11,683 INFO flibidi command: shoot
+2018-02-21 21:19:11,684 INFO CoucouToi command: reload
+2018-02-21 21:19:11,685 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,686 INFO Killing flibidi
+2018-02-21 21:19:11,687 INFO flibidi exit code: None
+2018-02-21 21:19:11,687 INFO Killing CoucouToi
+2018-02-21 21:19:11,688 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,927 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,928 INFO Turn 1 begins
+2018-02-21 21:19:11,928 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,929 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,929 INFO Turn 1 begins
+2018-02-21 21:19:11,929 INFO flibidi command: shoot
+2018-02-21 21:19:11,930 INFO Turn 1 begins
+2018-02-21 21:19:11,930 INFO flibidi command: shoot
+2018-02-21 21:19:11,931 INFO flibidi command: shoot
+2018-02-21 21:19:11,930 INFO CoucouToi command: reload
+2018-02-21 21:19:11,931 INFO CoucouToi command: reload
+2018-02-21 21:19:11,931 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,932 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,933 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,933 INFO Killing flibidi
+2018-02-21 21:19:11,934 INFO Killing flibidi
+2018-02-21 21:19:11,934 INFO flibidi exit code: None
+2018-02-21 21:19:11,935 INFO Killing CoucouToi
+2018-02-21 21:19:11,935 INFO flibidi exit code: None
+2018-02-21 21:19:11,936 INFO Killing CoucouToi
+2018-02-21 21:19:11,936 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,937 INFO CoucouToi exit code: None
+2018-02-21 21:19:11,949 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:11,950 INFO Turn 1 begins
+2018-02-21 21:19:11,951 INFO flibidi command: shoot
+2018-02-21 21:19:11,952 INFO CoucouToi command: reload
+2018-02-21 21:19:11,953 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,954 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:11,954 INFO Killing flibidi
+2018-02-21 21:19:11,955 INFO flibidi exit code: None
+2018-02-21 21:19:11,956 INFO Killing CoucouToi
+2018-02-21 21:19:11,957 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,184 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,186 INFO Turn 1 begins
+2018-02-21 21:19:12,188 INFO flibidi command: shoot
+2018-02-21 21:19:12,189 INFO CoucouToi command: reload
+2018-02-21 21:19:12,190 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,190 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,191 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,192 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,192 INFO Killing flibidi
+2018-02-21 21:19:12,192 INFO Turn 1 begins
+2018-02-21 21:19:12,193 INFO flibidi exit code: None
+2018-02-21 21:19:12,193 INFO Killing flibidi
+2018-02-21 21:19:12,193 INFO flibidi command: shoot
+2018-02-21 21:19:12,194 INFO Killing CoucouToi
+2018-02-21 21:19:12,194 INFO flibidi exit code: None
+2018-02-21 21:19:12,195 INFO CoucouToi command: reload
+2018-02-21 21:19:12,196 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,196 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,196 INFO Killing CoucouToi
+2018-02-21 21:19:12,197 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,197 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,199 INFO Killing flibidi
+2018-02-21 21:19:12,200 INFO flibidi exit code: None
+2018-02-21 21:19:12,201 INFO Killing CoucouToi
+2018-02-21 21:19:12,203 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,214 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,215 INFO Turn 1 begins
+2018-02-21 21:19:12,216 INFO flibidi command: shoot
+2018-02-21 21:19:12,218 INFO CoucouToi command: reload
+2018-02-21 21:19:12,219 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,220 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,221 INFO Killing flibidi
+2018-02-21 21:19:12,223 INFO flibidi exit code: None
+2018-02-21 21:19:12,224 INFO Killing CoucouToi
+2018-02-21 21:19:12,226 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,447 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,448 INFO Turn 1 begins
+2018-02-21 21:19:12,449 INFO flibidi command: shoot
+2018-02-21 21:19:12,451 INFO CoucouToi command: reload
+2018-02-21 21:19:12,452 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,453 INFO Killing flibidi
+2018-02-21 21:19:12,454 INFO Killing flibidi
+2018-02-21 21:19:12,454 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,455 INFO flibidi exit code: None
+2018-02-21 21:19:12,456 INFO Turn 1 begins
+2018-02-21 21:19:12,456 INFO Killing CoucouToi
+2018-02-21 21:19:12,457 INFO Killing CoucouToi
+2018-02-21 21:19:12,458 INFO flibidi command: shoot
+2018-02-21 21:19:12,458 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,459 INFO CoucouToi command: reload
+2018-02-21 21:19:12,459 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,461 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,462 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,465 INFO Killing flibidi
+2018-02-21 21:19:12,466 INFO flibidi exit code: None
+2018-02-21 21:19:12,468 INFO Killing CoucouToi
+2018-02-21 21:19:12,470 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,482 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,484 INFO Turn 1 begins
+2018-02-21 21:19:12,486 INFO flibidi command: shoot
+2018-02-21 21:19:12,487 INFO CoucouToi command: reload
+2018-02-21 21:19:12,489 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,490 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,492 INFO Killing flibidi
+2018-02-21 21:19:12,494 INFO flibidi exit code: None
+2018-02-21 21:19:12,498 INFO Killing CoucouToi
+2018-02-21 21:19:12,499 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,705 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,707 INFO Turn 1 begins
+2018-02-21 21:19:12,708 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,709 INFO flibidi command: shoot
+2018-02-21 21:19:12,710 INFO Turn 1 begins
+2018-02-21 21:19:12,711 INFO CoucouToi command: reload
+2018-02-21 21:19:12,712 INFO flibidi command: shoot
+2018-02-21 21:19:12,712 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,713 INFO CoucouToi command: reload
+2018-02-21 21:19:12,714 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,715 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,715 INFO Killing flibidi
+2018-02-21 21:19:12,716 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,716 INFO flibidi exit code: None
+2018-02-21 21:19:12,718 INFO Killing flibidi
+2018-02-21 21:19:12,718 INFO Killing CoucouToi
+2018-02-21 21:19:12,719 INFO flibidi exit code: None
+2018-02-21 21:19:12,719 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,721 INFO Killing CoucouToi
+2018-02-21 21:19:12,722 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,723 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,725 INFO Turn 1 begins
+2018-02-21 21:19:12,726 INFO flibidi command: shoot
+2018-02-21 21:19:12,729 INFO CoucouToi command: reload
+2018-02-21 21:19:12,731 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,733 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,734 INFO Killing flibidi
+2018-02-21 21:19:12,737 INFO flibidi exit code: None
+2018-02-21 21:19:12,739 INFO Killing CoucouToi
+2018-02-21 21:19:12,741 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,756 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,758 INFO Turn 1 begins
+2018-02-21 21:19:12,760 INFO flibidi command: shoot
+2018-02-21 21:19:12,762 INFO CoucouToi command: reload
+2018-02-21 21:19:12,766 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,768 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,770 INFO Killing flibidi
+2018-02-21 21:19:12,772 INFO flibidi exit code: None
+2018-02-21 21:19:12,774 INFO Killing CoucouToi
+2018-02-21 21:19:12,777 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,967 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,968 INFO Turn 1 begins
+2018-02-21 21:19:12,970 INFO flibidi command: shoot
+2018-02-21 21:19:12,970 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,972 INFO CoucouToi command: reload
+2018-02-21 21:19:12,972 INFO Turn 1 begins
+2018-02-21 21:19:12,974 INFO flibidi command: shoot
+2018-02-21 21:19:12,974 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,975 INFO CoucouToi command: reload
+2018-02-21 21:19:12,976 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,977 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,978 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:12,979 INFO Killing flibidi
+2018-02-21 21:19:12,981 INFO Killing flibidi
+2018-02-21 21:19:12,981 INFO flibidi exit code: None
+2018-02-21 21:19:12,983 INFO flibidi exit code: None
+2018-02-21 21:19:12,983 INFO Killing CoucouToi
+2018-02-21 21:19:12,985 INFO Killing CoucouToi
+2018-02-21 21:19:12,986 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,988 INFO CoucouToi exit code: None
+2018-02-21 21:19:12,990 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:12,993 INFO Turn 1 begins
+2018-02-21 21:19:12,995 INFO flibidi command: shoot
+2018-02-21 21:19:12,996 INFO CoucouToi command: reload
+2018-02-21 21:19:12,998 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,001 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,003 INFO Killing flibidi
+2018-02-21 21:19:13,006 INFO flibidi exit code: None
+2018-02-21 21:19:13,008 INFO Killing CoucouToi
+2018-02-21 21:19:13,010 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,034 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,036 INFO Turn 1 begins
+2018-02-21 21:19:13,039 INFO flibidi command: shoot
+2018-02-21 21:19:13,041 INFO CoucouToi command: reload
+2018-02-21 21:19:13,044 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,046 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,048 INFO Killing flibidi
+2018-02-21 21:19:13,051 INFO flibidi exit code: None
+2018-02-21 21:19:13,054 INFO Killing CoucouToi
+2018-02-21 21:19:13,056 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,227 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,229 INFO Turn 1 begins
+2018-02-21 21:19:13,231 INFO flibidi command: shoot
+2018-02-21 21:19:13,233 INFO CoucouToi command: reload
+2018-02-21 21:19:13,234 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,236 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,236 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,238 INFO Turn 1 begins
+2018-02-21 21:19:13,239 INFO Killing flibidi
+2018-02-21 21:19:13,240 INFO flibidi command: shoot
+2018-02-21 21:19:13,242 INFO CoucouToi command: reload
+2018-02-21 21:19:13,242 INFO flibidi exit code: None
+2018-02-21 21:19:13,244 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,245 INFO Killing CoucouToi
+2018-02-21 21:19:13,246 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,247 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,248 INFO Killing flibidi
+2018-02-21 21:19:13,251 INFO flibidi exit code: None
+2018-02-21 21:19:13,254 INFO Killing CoucouToi
+2018-02-21 21:19:13,256 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,265 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,269 INFO Turn 1 begins
+2018-02-21 21:19:13,271 INFO flibidi command: shoot
+2018-02-21 21:19:13,274 INFO CoucouToi command: reload
+2018-02-21 21:19:13,276 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,277 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,279 INFO Killing flibidi
+2018-02-21 21:19:13,281 INFO flibidi exit code: None
+2018-02-21 21:19:13,283 INFO Killing CoucouToi
+2018-02-21 21:19:13,286 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,314 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,317 INFO Turn 1 begins
+2018-02-21 21:19:13,319 INFO flibidi command: shoot
+2018-02-21 21:19:13,322 INFO CoucouToi command: reload
+2018-02-21 21:19:13,325 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,328 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,330 INFO Killing flibidi
+2018-02-21 21:19:13,334 INFO flibidi exit code: None
+2018-02-21 21:19:13,336 INFO Killing CoucouToi
+2018-02-21 21:19:13,339 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,506 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,508 INFO Turn 1 begins
+2018-02-21 21:19:13,510 INFO flibidi command: shoot
+2018-02-21 21:19:13,512 INFO CoucouToi command: reload
+2018-02-21 21:19:13,514 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,515 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,517 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,518 INFO Turn 1 begins
+2018-02-21 21:19:13,520 INFO Killing flibidi
+2018-02-21 21:19:13,521 INFO flibidi command: shoot
+2018-02-21 21:19:13,523 INFO flibidi exit code: None
+2018-02-21 21:19:13,525 INFO CoucouToi command: reload
+2018-02-21 21:19:13,525 INFO Killing CoucouToi
+2018-02-21 21:19:13,527 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,528 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,530 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,531 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,533 INFO Killing flibidi
+2018-02-21 21:19:13,536 INFO Turn 1 begins
+2018-02-21 21:19:13,537 INFO flibidi exit code: None
+2018-02-21 21:19:13,539 INFO flibidi command: shoot
+2018-02-21 21:19:13,540 INFO Killing CoucouToi
+2018-02-21 21:19:13,543 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,543 INFO CoucouToi command: reload
+2018-02-21 21:19:13,546 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,549 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,552 INFO Killing flibidi
+2018-02-21 21:19:13,555 INFO flibidi exit code: None
+2018-02-21 21:19:13,558 INFO Killing CoucouToi
+2018-02-21 21:19:13,562 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,586 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,592 INFO Turn 1 begins
+2018-02-21 21:19:13,596 INFO flibidi command: shoot
+2018-02-21 21:19:13,599 INFO CoucouToi command: reload
+2018-02-21 21:19:13,602 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,605 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,608 INFO Killing flibidi
+2018-02-21 21:19:13,612 INFO flibidi exit code: None
+2018-02-21 21:19:13,615 INFO Killing CoucouToi
+2018-02-21 21:19:13,623 INFO CoucouToi exit code: 1
+2018-02-21 21:19:13,774 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,777 INFO Turn 1 begins
+2018-02-21 21:19:13,779 INFO flibidi command: shoot
+2018-02-21 21:19:13,781 INFO CoucouToi command: reload
+2018-02-21 21:19:13,784 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,786 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,788 INFO Killing flibidi
+2018-02-21 21:19:13,791 INFO flibidi exit code: None
+2018-02-21 21:19:13,793 INFO Killing CoucouToi
+2018-02-21 21:19:13,796 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,798 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,802 INFO Turn 1 begins
+2018-02-21 21:19:13,804 INFO flibidi command: shoot
+2018-02-21 21:19:13,807 INFO CoucouToi command: reload
+2018-02-21 21:19:13,810 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,814 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,817 INFO Killing flibidi
+2018-02-21 21:19:13,821 INFO flibidi exit code: None
+2018-02-21 21:19:13,823 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,825 INFO Killing CoucouToi
+2018-02-21 21:19:13,827 INFO Turn 1 begins
+2018-02-21 21:19:13,829 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,831 INFO flibidi command: shoot
+2018-02-21 21:19:13,836 INFO CoucouToi command: reload
+2018-02-21 21:19:13,853 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,857 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,861 INFO Killing flibidi
+2018-02-21 21:19:13,868 INFO flibidi exit code: None
+2018-02-21 21:19:13,871 INFO Killing CoucouToi
+2018-02-21 21:19:13,876 INFO CoucouToi exit code: None
+2018-02-21 21:19:13,889 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:13,893 INFO Turn 1 begins
+2018-02-21 21:19:13,896 INFO flibidi command: shoot
+2018-02-21 21:19:13,900 INFO CoucouToi command: reload
+2018-02-21 21:19:13,903 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,907 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:13,910 INFO Killing flibidi
+2018-02-21 21:19:13,914 INFO flibidi exit code: None
+2018-02-21 21:19:13,918 INFO Killing CoucouToi
+2018-02-21 21:19:13,922 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,047 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,051 INFO Turn 1 begins
+2018-02-21 21:19:14,055 INFO flibidi command: shoot
+2018-02-21 21:19:14,058 INFO CoucouToi command: reload
+2018-02-21 21:19:14,061 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,065 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,068 INFO Killing flibidi
+2018-02-21 21:19:14,073 INFO flibidi exit code: None
+2018-02-21 21:19:14,076 INFO Killing CoucouToi
+2018-02-21 21:19:14,078 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,112 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,116 INFO Turn 1 begins
+2018-02-21 21:19:14,120 INFO flibidi command: shoot
+2018-02-21 21:19:14,124 INFO CoucouToi command: reload
+2018-02-21 21:19:14,128 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,130 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,131 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,134 INFO Killing flibidi
+2018-02-21 21:19:14,135 INFO Turn 1 begins
+2018-02-21 21:19:14,138 INFO flibidi command: shoot
+2018-02-21 21:19:14,139 INFO flibidi exit code: None
+2018-02-21 21:19:14,141 INFO CoucouToi command: reload
+2018-02-21 21:19:14,143 INFO Killing CoucouToi
+2018-02-21 21:19:14,145 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,147 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,149 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,152 INFO Killing flibidi
+2018-02-21 21:19:14,156 INFO flibidi exit code: None
+2018-02-21 21:19:14,158 INFO Killing CoucouToi
+2018-02-21 21:19:14,161 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,172 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,176 INFO Turn 1 begins
+2018-02-21 21:19:14,180 INFO flibidi command: shoot
+2018-02-21 21:19:14,184 INFO CoucouToi command: reload
+2018-02-21 21:19:14,188 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,192 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,196 INFO Killing flibidi
+2018-02-21 21:19:14,200 INFO flibidi exit code: None
+2018-02-21 21:19:14,204 INFO Killing CoucouToi
+2018-02-21 21:19:14,208 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,319 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,323 INFO Turn 1 begins
+2018-02-21 21:19:14,327 INFO flibidi command: shoot
+2018-02-21 21:19:14,332 INFO CoucouToi command: reload
+2018-02-21 21:19:14,335 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,339 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,343 INFO Killing flibidi
+2018-02-21 21:19:14,348 INFO flibidi exit code: None
+2018-02-21 21:19:14,353 INFO Killing CoucouToi
+2018-02-21 21:19:14,359 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,401 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,406 INFO Turn 1 begins
+2018-02-21 21:19:14,406 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,411 INFO Turn 1 begins
+2018-02-21 21:19:14,412 INFO flibidi command: shoot
+2018-02-21 21:19:14,415 INFO flibidi command: shoot
+2018-02-21 21:19:14,417 INFO CoucouToi command: reload
+2018-02-21 21:19:14,418 INFO CoucouToi command: reload
+2018-02-21 21:19:14,421 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,424 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,425 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,426 INFO Killing flibidi
+2018-02-21 21:19:14,428 INFO Killing flibidi
+2018-02-21 21:19:14,431 INFO flibidi exit code: None
+2018-02-21 21:19:14,433 INFO flibidi exit code: None
+2018-02-21 21:19:14,435 INFO Killing CoucouToi
+2018-02-21 21:19:14,436 INFO Killing CoucouToi
+2018-02-21 21:19:14,439 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,440 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,452 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,456 INFO Turn 1 begins
+2018-02-21 21:19:14,461 INFO flibidi command: shoot
+2018-02-21 21:19:14,465 INFO CoucouToi command: reload
+2018-02-21 21:19:14,469 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,474 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,480 INFO Killing flibidi
+2018-02-21 21:19:14,486 INFO flibidi exit code: None
+2018-02-21 21:19:14,492 INFO Killing CoucouToi
+2018-02-21 21:19:14,498 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,598 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,603 INFO Turn 1 begins
+2018-02-21 21:19:14,607 INFO flibidi command: shoot
+2018-02-21 21:19:14,612 INFO CoucouToi command: reload
+2018-02-21 21:19:14,617 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,621 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,626 INFO Killing flibidi
+2018-02-21 21:19:14,631 INFO flibidi exit code: None
+2018-02-21 21:19:14,635 INFO Killing CoucouToi
+2018-02-21 21:19:14,641 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,684 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,689 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,689 INFO Turn 1 begins
+2018-02-21 21:19:14,694 INFO Turn 1 begins
+2018-02-21 21:19:14,694 INFO flibidi command: shoot
+2018-02-21 21:19:14,698 INFO flibidi command: shoot
+2018-02-21 21:19:14,699 INFO CoucouToi command: reload
+2018-02-21 21:19:14,703 INFO CoucouToi command: reload
+2018-02-21 21:19:14,703 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,708 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,713 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,713 INFO Killing flibidi
+2018-02-21 21:19:14,716 INFO Killing flibidi
+2018-02-21 21:19:14,718 INFO flibidi exit code: None
+2018-02-21 21:19:14,720 INFO flibidi exit code: None
+2018-02-21 21:19:14,722 INFO Killing CoucouToi
+2018-02-21 21:19:14,724 INFO Killing CoucouToi
+2018-02-21 21:19:14,727 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,749 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,754 INFO Turn 1 begins
+2018-02-21 21:19:14,758 INFO flibidi command: shoot
+2018-02-21 21:19:14,763 INFO CoucouToi command: reload
+2018-02-21 21:19:14,768 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,773 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,778 INFO Killing flibidi
+2018-02-21 21:19:14,784 INFO flibidi exit code: None
+2018-02-21 21:19:14,788 INFO Killing CoucouToi
+2018-02-21 21:19:14,793 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,886 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,893 INFO Turn 1 begins
+2018-02-21 21:19:14,898 INFO flibidi command: shoot
+2018-02-21 21:19:14,903 INFO CoucouToi command: reload
+2018-02-21 21:19:14,909 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,913 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:14,918 INFO Killing flibidi
+2018-02-21 21:19:14,923 INFO flibidi exit code: None
+2018-02-21 21:19:14,929 INFO Killing CoucouToi
+2018-02-21 21:19:14,934 INFO CoucouToi exit code: None
+2018-02-21 21:19:14,975 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,979 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:14,981 INFO Turn 1 begins
+2018-02-21 21:19:14,984 INFO Turn 1 begins
+2018-02-21 21:19:14,989 INFO flibidi command: shoot
+2018-02-21 21:19:14,992 INFO flibidi command: shoot
+2018-02-21 21:19:14,996 INFO CoucouToi command: reload
+2018-02-21 21:19:15,001 INFO CoucouToi command: reload
+2018-02-21 21:19:15,002 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,006 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,007 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,010 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,014 INFO Killing flibidi
+2018-02-21 21:19:15,018 INFO flibidi exit code: None
+2018-02-21 21:19:15,019 INFO flibidi exit code: None
+2018-02-21 21:19:15,023 INFO Killing CoucouToi
+2018-02-21 21:19:15,025 INFO Killing CoucouToi
+2018-02-21 21:19:15,027 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,029 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,051 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,058 INFO Turn 1 begins
+2018-02-21 21:19:15,063 INFO flibidi command: shoot
+2018-02-21 21:19:15,069 INFO CoucouToi command: reload
+2018-02-21 21:19:15,074 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,079 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,084 INFO Killing flibidi
+2018-02-21 21:19:15,092 INFO flibidi exit code: None
+2018-02-21 21:19:15,098 INFO Killing CoucouToi
+2018-02-21 21:19:15,107 INFO CoucouToi exit code: 1
+2018-02-21 21:19:15,159 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,164 INFO Turn 1 begins
+2018-02-21 21:19:15,170 INFO flibidi command: shoot
+2018-02-21 21:19:15,175 INFO CoucouToi command: reload
+2018-02-21 21:19:15,181 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,186 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,191 INFO Killing flibidi
+2018-02-21 21:19:15,197 INFO flibidi exit code: None
+2018-02-21 21:19:15,203 INFO Killing CoucouToi
+2018-02-21 21:19:15,208 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,274 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,279 INFO Turn 1 begins
+2018-02-21 21:19:15,283 INFO flibidi command: shoot
+2018-02-21 21:19:15,288 INFO CoucouToi command: reload
+2018-02-21 21:19:15,292 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,296 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,301 INFO Killing flibidi
+2018-02-21 21:19:15,306 INFO flibidi exit code: None
+2018-02-21 21:19:15,312 INFO Killing CoucouToi
+2018-02-21 21:19:15,316 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,319 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,324 INFO Turn 1 begins
+2018-02-21 21:19:15,329 INFO flibidi command: shoot
+2018-02-21 21:19:15,334 INFO CoucouToi command: reload
+2018-02-21 21:19:15,337 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,341 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,345 INFO Killing flibidi
+2018-02-21 21:19:15,349 INFO flibidi exit code: None
+2018-02-21 21:19:15,353 INFO Killing CoucouToi
+2018-02-21 21:19:15,359 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,359 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,364 INFO Turn 1 begins
+2018-02-21 21:19:15,370 INFO flibidi command: shoot
+2018-02-21 21:19:15,377 INFO CoucouToi command: reload
+2018-02-21 21:19:15,383 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,388 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,393 INFO Killing flibidi
+2018-02-21 21:19:15,399 INFO flibidi exit code: None
+2018-02-21 21:19:15,404 INFO Killing CoucouToi
+2018-02-21 21:19:15,414 INFO CoucouToi exit code: 1
+2018-02-21 21:19:15,443 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,449 INFO Turn 1 begins
+2018-02-21 21:19:15,455 INFO flibidi command: shoot
+2018-02-21 21:19:15,461 INFO CoucouToi command: reload
+2018-02-21 21:19:15,466 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,472 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,478 INFO Killing flibidi
+2018-02-21 21:19:15,486 INFO flibidi exit code: None
+2018-02-21 21:19:15,492 INFO Killing CoucouToi
+2018-02-21 21:19:15,498 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,564 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,571 INFO Turn 1 begins
+2018-02-21 21:19:15,576 INFO flibidi command: shoot
+2018-02-21 21:19:15,582 INFO CoucouToi command: reload
+2018-02-21 21:19:15,589 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,595 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,599 INFO Killing flibidi
+2018-02-21 21:19:15,603 INFO flibidi exit code: None
+2018-02-21 21:19:15,608 INFO Killing CoucouToi
+2018-02-21 21:19:15,613 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,618 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,624 INFO Turn 1 begins
+2018-02-21 21:19:15,630 INFO flibidi command: shoot
+2018-02-21 21:19:15,636 INFO CoucouToi command: reload
+2018-02-21 21:19:15,642 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,647 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,653 INFO Killing flibidi
+2018-02-21 21:19:15,659 INFO flibidi exit code: None
+2018-02-21 21:19:15,663 INFO Killing CoucouToi
+2018-02-21 21:19:15,668 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,694 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,701 INFO Turn 1 begins
+2018-02-21 21:19:15,708 INFO flibidi command: shoot
+2018-02-21 21:19:15,713 INFO CoucouToi command: reload
+2018-02-21 21:19:15,717 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,720 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,727 INFO Killing flibidi
+2018-02-21 21:19:15,732 INFO flibidi exit code: None
+2018-02-21 21:19:15,738 INFO Killing CoucouToi
+2018-02-21 21:19:15,738 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,744 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,746 INFO Turn 1 begins
+2018-02-21 21:19:15,756 INFO flibidi command: shoot
+2018-02-21 21:19:15,763 INFO CoucouToi command: reload
+2018-02-21 21:19:15,769 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,775 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,781 INFO Killing flibidi
+2018-02-21 21:19:15,797 INFO flibidi exit code: 1
+2018-02-21 21:19:15,803 INFO Killing CoucouToi
+2018-02-21 21:19:15,814 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,850 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,854 INFO Turn 1 begins
+2018-02-21 21:19:15,861 INFO flibidi command: shoot
+2018-02-21 21:19:15,867 INFO CoucouToi command: reload
+2018-02-21 21:19:15,873 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,879 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,885 INFO Killing flibidi
+2018-02-21 21:19:15,893 INFO flibidi exit code: None
+2018-02-21 21:19:15,898 INFO Killing CoucouToi
+2018-02-21 21:19:15,905 INFO CoucouToi exit code: None
+2018-02-21 21:19:15,911 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:15,917 INFO Turn 1 begins
+2018-02-21 21:19:15,924 INFO flibidi command: shoot
+2018-02-21 21:19:15,930 INFO CoucouToi command: reload
+2018-02-21 21:19:15,936 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,942 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:15,948 INFO Killing flibidi
+2018-02-21 21:19:15,954 INFO flibidi exit code: None
+2018-02-21 21:19:15,961 INFO Killing CoucouToi
+2018-02-21 21:19:15,967 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,001 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,007 INFO Turn 1 begins
+2018-02-21 21:19:16,014 INFO flibidi command: shoot
+2018-02-21 21:19:16,022 INFO CoucouToi command: reload
+2018-02-21 21:19:16,029 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,036 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,042 INFO Killing flibidi
+2018-02-21 21:19:16,050 INFO flibidi exit code: None
+2018-02-21 21:19:16,056 INFO Killing CoucouToi
+2018-02-21 21:19:16,063 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,075 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,082 INFO Turn 1 begins
+2018-02-21 21:19:16,088 INFO flibidi command: shoot
+2018-02-21 21:19:16,095 INFO CoucouToi command: reload
+2018-02-21 21:19:16,102 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,108 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,116 INFO Killing flibidi
+2018-02-21 21:19:16,123 INFO flibidi exit code: None
+2018-02-21 21:19:16,130 INFO Killing CoucouToi
+2018-02-21 21:19:16,135 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,147 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,154 INFO Turn 1 begins
+2018-02-21 21:19:16,161 INFO flibidi command: shoot
+2018-02-21 21:19:16,168 INFO CoucouToi command: reload
+2018-02-21 21:19:16,175 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,181 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,185 INFO Killing flibidi
+2018-02-21 21:19:16,191 INFO flibidi exit code: None
+2018-02-21 21:19:16,196 INFO Killing CoucouToi
+2018-02-21 21:19:16,202 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,210 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,217 INFO Turn 1 begins
+2018-02-21 21:19:16,225 INFO flibidi command: shoot
+2018-02-21 21:19:16,232 INFO CoucouToi command: reload
+2018-02-21 21:19:16,238 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,247 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,256 INFO Killing flibidi
+2018-02-21 21:19:16,269 INFO flibidi exit code: 1
+2018-02-21 21:19:16,277 INFO Killing CoucouToi
+2018-02-21 21:19:16,289 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,348 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,355 INFO Turn 1 begins
+2018-02-21 21:19:16,366 INFO flibidi command: shoot
+2018-02-21 21:19:16,373 INFO CoucouToi command: reload
+2018-02-21 21:19:16,377 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,382 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,387 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,387 INFO Turn 1 begins
+2018-02-21 21:19:16,393 INFO Killing flibidi
+2018-02-21 21:19:16,394 INFO flibidi command: shoot
+2018-02-21 21:19:16,401 INFO CoucouToi command: reload
+2018-02-21 21:19:16,407 INFO flibidi exit code: None
+2018-02-21 21:19:16,407 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,413 INFO Killing CoucouToi
+2018-02-21 21:19:16,414 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,420 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,421 INFO Killing flibidi
+2018-02-21 21:19:16,428 INFO flibidi exit code: None
+2018-02-21 21:19:16,435 INFO Killing CoucouToi
+2018-02-21 21:19:16,441 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,447 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,455 INFO Turn 1 begins
+2018-02-21 21:19:16,463 INFO flibidi command: shoot
+2018-02-21 21:19:16,471 INFO CoucouToi command: reload
+2018-02-21 21:19:16,479 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,486 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,492 INFO Killing flibidi
+2018-02-21 21:19:16,500 INFO flibidi exit code: None
+2018-02-21 21:19:16,507 INFO Killing CoucouToi
+2018-02-21 21:19:16,514 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,524 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,531 INFO Turn 1 begins
+2018-02-21 21:19:16,538 INFO flibidi command: shoot
+2018-02-21 21:19:16,545 INFO CoucouToi command: reload
+2018-02-21 21:19:16,553 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,560 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,567 INFO Killing flibidi
+2018-02-21 21:19:16,575 INFO flibidi exit code: None
+2018-02-21 21:19:16,582 INFO Killing CoucouToi
+2018-02-21 21:19:16,589 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,790 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,796 INFO Turn 1 begins
+2018-02-21 21:19:16,798 INFO Turn 1 begins
+2018-02-21 21:19:16,806 INFO flibidi command: shoot
+2018-02-21 21:19:16,809 INFO flibidi command: shoot
+2018-02-21 21:19:16,814 INFO CoucouToi command: reload
+2018-02-21 21:19:16,817 INFO CoucouToi command: reload
+2018-02-21 21:19:16,824 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,826 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,810 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,831 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,837 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,842 INFO Killing flibidi
+2018-02-21 21:19:16,851 INFO Killing flibidi
+2018-02-21 21:19:16,854 INFO flibidi exit code: None
+2018-02-21 21:19:16,860 INFO flibidi exit code: None
+2018-02-21 21:19:16,863 INFO Killing CoucouToi
+2018-02-21 21:19:16,864 INFO Turn 1 begins
+2018-02-21 21:19:16,868 INFO Killing CoucouToi
+2018-02-21 21:19:16,871 INFO CoucouToi exit code: None
+ code: None
+2018-02-21 21:19:16,875 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,891 INFO flibidi command: shoot
+2018-02-21 21:19:16,891 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:16,904 INFO Turn 1 begins
+2018-02-21 21:19:16,907 INFO CoucouToi command: reload
+2018-02-21 21:19:16,917 INFO flibidi command: shoot
+2018-02-21 21:19:16,923 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,927 INFO CoucouToi command: reload
+2018-02-21 21:19:16,932 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,935 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,940 INFO Killing flibidi
+2018-02-21 21:19:16,943 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:16,950 INFO Killing flibidi
+2018-02-21 21:19:16,954 INFO flibidi exit code: None
+2018-02-21 21:19:16,958 INFO flibidi exit code: None
+2018-02-21 21:19:16,965 INFO Killing CoucouToi
+2018-02-21 21:19:16,973 INFO CoucouToi exit code: None
+2018-02-21 21:19:16,978 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,167 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,169 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,179 INFO Turn 1 begins
+2018-02-21 21:19:17,186 INFO flibidi command: shoot
+2018-02-21 21:19:17,196 INFO CoucouToi command: reload
+2018-02-21 21:19:17,199 INFO flibidi command: shoot
+2018-02-21 21:19:17,207 INFO CoucouToi command: reload
+2018-02-21 21:19:17,207 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,214 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,215 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,221 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,222 INFO Killing flibidi
+2018-02-21 21:19:17,228 INFO Killing flibidi
+2018-02-21 21:19:17,228 INFO flibidi exit code: None
+2018-02-21 21:19:17,234 INFO flibidi exit code: None
+2018-02-21 21:19:17,234 INFO Killing CoucouToi
+2018-02-21 21:19:17,239 INFO Killing CoucouToi
+2018-02-21 21:19:17,239 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,243 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,246 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,249 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,256 INFO Turn 1 begins
+2018-02-21 21:19:17,259 INFO Turn 1 begins
+2018-02-21 21:19:17,265 INFO flibidi command: shoot
+2018-02-21 21:19:17,267 INFO flibidi command: shoot
+2018-02-21 21:19:17,273 INFO CoucouToi command: reload
+2018-02-21 21:19:17,275 INFO CoucouToi command: reload
+2018-02-21 21:19:17,280 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,283 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,291 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,293 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,299 INFO Killing flibidi
+2018-02-21 21:19:17,300 INFO Killing flibidi
+2018-02-21 21:19:17,307 INFO flibidi exit code: None
+2018-02-21 21:19:17,308 INFO flibidi exit code: None
+2018-02-21 21:19:17,315 INFO Killing CoucouToi
+2018-02-21 21:19:17,322 INFO Killing CoucouToi
+2018-02-21 21:19:17,327 INFO CoucouToi exit code: 1
+2018-02-21 21:19:17,334 INFO CoucouToi exit code: 120
+2018-02-21 21:19:17,509 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,512 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,519 INFO Turn 1 begins
+2018-02-21 21:19:17,520 INFO Turn 1 begins
+2018-02-21 21:19:17,527 INFO flibidi command: shoot
+2018-02-21 21:19:17,535 INFO CoucouToi command: reload
+2018-02-21 21:19:17,536 INFO CoucouToi command: reload
+2018-02-21 21:19:17,543 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,544 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,551 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,557 INFO Killing flibidi
+2018-02-21 21:19:17,559 INFO Killing flibidi
+2018-02-21 21:19:17,563 INFO flibidi exit code: None
+2018-02-21 21:19:17,564 INFO flibidi exit code: None
+2018-02-21 21:19:17,569 INFO Killing CoucouToi
+2018-02-21 21:19:17,570 INFO Killing CoucouToi
+2018-02-21 21:19:17,574 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,575 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,582 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,591 INFO Turn 1 begins
+2018-02-21 21:19:17,593 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,599 INFO flibidi command: shoot
+2018-02-21 21:19:17,601 INFO Turn 1 begins
+2018-02-21 21:19:17,607 INFO CoucouToi command: reload
+2018-02-21 21:19:17,610 INFO flibidi command: shoot
+2018-02-21 21:19:17,616 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,620 INFO CoucouToi command: reload
+2018-02-21 21:19:17,624 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,628 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,632 INFO Killing flibidi
+2018-02-21 21:19:17,636 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,643 INFO Killing flibidi
+2018-02-21 21:19:17,647 INFO flibidi exit code: None
+2018-02-21 21:19:17,653 INFO flibidi exit code: None
+2018-02-21 21:19:17,664 INFO Killing CoucouToi
+2018-02-21 21:19:17,668 INFO Killing CoucouToi
+2018-02-21 21:19:17,678 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,677 INFO CoucouToi exit code: 1
+2018-02-21 21:19:17,844 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,846 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,854 INFO Turn 1 begins
+2018-02-21 21:19:17,856 INFO Turn 1 begins
+2018-02-21 21:19:17,862 INFO flibidi command: shoot
+2018-02-21 21:19:17,864 INFO flibidi command: shoot
+2018-02-21 21:19:17,874 INFO CoucouToi command: reload
+2018-02-21 21:19:17,875 INFO CoucouToi command: reload
+2018-02-21 21:19:17,883 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,893 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,899 INFO Killing flibidi
+2018-02-21 21:19:17,904 INFO flibidi exit code: None
+2018-02-21 21:19:17,905 INFO flibidi exit code: None
+2018-02-21 21:19:17,910 INFO Killing CoucouToi
+2018-02-21 21:19:17,916 INFO CoucouToi exit code: None
+2018-02-21 21:19:17,926 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,930 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:17,940 INFO Turn 1 begins
+2018-02-21 21:19:17,949 INFO flibidi command: shoot
+2018-02-21 21:19:17,957 INFO CoucouToi command: reload
+2018-02-21 21:19:17,958 INFO CoucouToi command: reload
+2018-02-21 21:19:17,966 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,968 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,977 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,978 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:17,986 INFO Killing flibidi
+2018-02-21 21:19:17,990 INFO Killing flibidi
+2018-02-21 21:19:17,995 INFO flibidi exit code: None
+2018-02-21 21:19:18,002 INFO flibidi exit code: None
+2018-02-21 21:19:18,004 INFO Killing CoucouToi
+2018-02-21 21:19:18,012 INFO Killing CoucouToi
+2018-02-21 21:19:18,016 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,029 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,169 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,171 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,178 INFO Turn 1 begins
+2018-02-21 21:19:18,180 INFO Turn 1 begins
+2018-02-21 21:19:18,187 INFO flibidi command: shoot
+2018-02-21 21:19:18,189 INFO flibidi command: shoot
+2018-02-21 21:19:18,197 INFO CoucouToi command: reload
+2018-02-21 21:19:18,199 INFO CoucouToi command: reload
+2018-02-21 21:19:18,206 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,208 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,215 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,217 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,223 INFO Killing flibidi
+2018-02-21 21:19:18,226 INFO Killing flibidi
+2018-02-21 21:19:18,232 INFO flibidi exit code: None
+2018-02-21 21:19:18,240 INFO Killing CoucouToi
+2018-02-21 21:19:18,242 INFO flibidi exit code: None
+2018-02-21 21:19:18,251 INFO Killing CoucouToi
+2018-02-21 21:19:18,253 INFO CoucouToi exit code: 1
+2018-02-21 21:19:18,264 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,295 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,299 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,306 INFO Turn 1 begins
+2018-02-21 21:19:18,312 INFO Turn 1 begins
+2018-02-21 21:19:18,315 INFO flibidi command: shoot
+2018-02-21 21:19:18,321 INFO flibidi command: shoot
+2018-02-21 21:19:18,323 INFO CoucouToi command: reload
+2018-02-21 21:19:18,330 INFO CoucouToi command: reload
+2018-02-21 21:19:18,332 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,341 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,345 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,351 INFO Killing flibidi
+2018-02-21 21:19:18,356 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,360 INFO flibidi exit code: None
+2018-02-21 21:19:18,365 INFO Killing flibidi
+2018-02-21 21:19:18,369 INFO Killing CoucouToi
+2018-02-21 21:19:18,374 INFO flibidi exit code: None
+2018-02-21 21:19:18,378 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,383 INFO Killing CoucouToi
+2018-02-21 21:19:18,394 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,511 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,520 INFO Turn 1 begins
+2018-02-21 21:19:18,522 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,529 INFO flibidi command: shoot
+2018-02-21 21:19:18,531 INFO Turn 1 begins
+2018-02-21 21:19:18,538 INFO CoucouToi command: reload
+and: reload
+2018-02-21 21:19:18,541 INFO flibidi command: shoot
+2018-02-21 21:19:18,547 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,550 INFO CoucouToi command: reload
+2018-02-21 21:19:18,557 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,560 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,566 INFO Killing flibidi
+2018-02-21 21:19:18,569 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,579 INFO Killing flibidi
+2018-02-21 21:19:18,581 INFO flibidi exit code: 1
+2018-02-21 21:19:18,590 INFO Killing CoucouToi
+2018-02-21 21:19:18,591 INFO flibidi exit code: None
+2018-02-21 21:19:18,602 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,608 INFO Killing CoucouToi
+2018-02-21 21:19:18,617 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,629 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,639 INFO Turn 1 begins
+2018-02-21 21:19:18,646 INFO flibidi command: shoot
+2018-02-21 21:19:18,655 INFO CoucouToi command: reload
+2018-02-21 21:19:18,655 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,664 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,665 INFO Turn 1 begins
+2018-02-21 21:19:18,673 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,674 INFO flibidi command: shoot
+2018-02-21 21:19:18,682 INFO Killing flibidi
+2018-02-21 21:19:18,684 INFO CoucouToi command: reload
+2018-02-21 21:19:18,692 INFO flibidi exit code: None
+2018-02-21 21:19:18,696 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,701 INFO Killing CoucouToi
+2018-02-21 21:19:18,705 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,711 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,715 INFO Killing flibidi
+2018-02-21 21:19:18,726 INFO flibidi exit code: None
+2018-02-21 21:19:18,735 INFO Killing CoucouToi
+2018-02-21 21:19:18,744 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,890 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,901 INFO Turn 1 begins
+2018-02-21 21:19:18,906 INFO flibidi command: shoot
+2018-02-21 21:19:18,912 INFO CoucouToi command: reload
+2018-02-21 21:19:18,914 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,923 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,924 INFO Turn 1 begins
+2018-02-21 21:19:18,932 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,934 INFO flibidi command: shoot
+2018-02-21 21:19:18,942 INFO CoucouToi command: reload
+2018-02-21 21:19:18,942 INFO Killing flibidi
+2018-02-21 21:19:18,950 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,950 INFO flibidi exit code: None
+2018-02-21 21:19:18,958 INFO Killing CoucouToi
+2018-02-21 21:19:18,958 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:18,965 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,967 INFO Killing flibidi
+2018-02-21 21:19:18,970 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:18,976 INFO flibidi exit code: None
+2018-02-21 21:19:18,979 INFO Turn 1 begins
+2018-02-21 21:19:18,984 INFO Killing CoucouToi
+2018-02-21 21:19:18,990 INFO CoucouToi exit code: None
+2018-02-21 21:19:18,992 INFO flibidi command: shoot
+2018-02-21 21:19:18,994 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:19,001 INFO CoucouToi command: reload
+2018-02-21 21:19:19,004 INFO Turn 1 begins
+2018-02-21 21:19:19,010 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,014 INFO flibidi command: shoot
+2018-02-21 21:19:19,016 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,023 INFO CoucouToi command: reload
+2018-02-21 21:19:19,026 INFO Killing flibidi
+2018-02-21 21:19:19,033 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,035 INFO flibidi exit code: None
+2018-02-21 21:19:19,042 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,043 INFO Killing CoucouToi
+2018-02-21 21:19:19,049 INFO Killing flibidi
+2018-02-21 21:19:19,052 INFO CoucouToi exit code: None
+2018-02-21 21:19:19,057 INFO flibidi exit code: None
+2018-02-21 21:19:19,064 INFO Killing CoucouToi
+2018-02-21 21:19:19,070 INFO CoucouToi exit code: None
+2018-02-21 21:19:19,190 INFO Starting new showdown: flibidi vs CoucouToi
+2018-02-21 21:19:19,198 INFO Turn 1 begins
+2018-02-21 21:19:19,204 INFO flibidi command: shoot
+2018-02-21 21:19:19,210 INFO CoucouToi command: reload
+2018-02-21 21:19:19,216 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,221 INFO flibidi shoots CoucouToi
+2018-02-21 21:19:19,227 INFO Killing flibidi
+2018-02-21 21:19:19,232 INFO flibidi exit code: None
+2018-02-21 21:19:19,240 INFO Killing CoucouToi
+2018-02-21 21:19:19,247 INFO CoucouToi exit code: None

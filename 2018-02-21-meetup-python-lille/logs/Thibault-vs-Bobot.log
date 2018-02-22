@@ -1,0 +1,2558 @@
+2018-02-21 22:12:30,464 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,465 INFO Turn 1 begins
+2018-02-21 22:12:30,465 INFO Thibault command: shoot
+2018-02-21 22:12:30,465 INFO Bobot command: shoot
+2018-02-21 22:12:30,466 INFO Bobot command: shoot
+2018-02-21 22:12:30,466 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,466 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,467 INFO Turn 2 begins
+2018-02-21 22:12:30,467 INFO Thibault command: reload
+2018-02-21 22:12:30,468 INFO Bobot command: reload
+2018-02-21 22:12:30,468 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,469 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,469 INFO Turn 1 begins
+2018-02-21 22:12:30,469 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,470 INFO Turn 3 begins
+2018-02-21 22:12:30,470 INFO Thibault command: dodge
+2018-02-21 22:12:30,470 INFO Bobot command: shoot
+2018-02-21 22:12:30,471 INFO Thibault command: reload
+2018-02-21 22:12:30,471 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,471 INFO Bobot command: dodge
+2018-02-21 22:12:30,471 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,471 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,472 INFO Turn 2 begins
+2018-02-21 22:12:30,472 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,472 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,472 INFO Turn 4 begins
+2018-02-21 22:12:30,472 INFO Thibault command: reload
+2018-02-21 22:12:30,472 INFO Thibault command: shoot
+2018-02-21 22:12:30,473 INFO Bobot shot but without bullets
+2018-02-21 22:12:30,473 INFO Thibault command: reload
+2018-02-21 22:12:30,473 INFO Thibault command: shoot
+2018-02-21 22:12:30,474 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:30,474 INFO Bobot shot but without bullets
+2018-02-21 22:12:30,474 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,474 INFO Bobot command: dodge
+2018-02-21 22:12:30,474 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,475 INFO Turn 3 begins
+2018-02-21 22:12:30,475 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,475 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,475 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,475 INFO Killing Thibault
+2018-02-21 22:12:30,475 INFO Bobot command: shoot
+2018-02-21 22:12:30,476 INFO Turn 5 begins
+2018-02-21 22:12:30,476 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,476 INFO Thibault exit code: None
+2018-02-21 22:12:30,476 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,477 INFO Killing Bobot
+2018-02-21 22:12:30,477 INFO Turn 5 begins
+2018-02-21 22:12:30,477 INFO Thibault command: shoot
+2018-02-21 22:12:30,477 INFO Bobot exit code: None
+2018-02-21 22:12:30,478 INFO Thibault command: shoot
+2018-02-21 22:12:30,478 INFO Bobot command: reload
+2018-02-21 22:12:30,478 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,478 INFO Bobot command: dodge
+2018-02-21 22:12:30,479 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,479 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,479 INFO Killing Thibault
+2018-02-21 22:12:30,479 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,480 INFO Turn 6 begins
+2018-02-21 22:12:30,480 INFO Thibault exit code: None
+2018-02-21 22:12:30,480 INFO Killing Bobot
+2018-02-21 22:12:30,480 INFO Thibault command: reload
+2018-02-21 22:12:30,481 INFO Bobot exit code: None
+2018-02-21 22:12:30,482 INFO Bobot command: reload
+2018-02-21 22:12:30,482 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,483 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,483 INFO Turn 6 begins
+2018-02-21 22:12:30,483 INFO Thibault command: dodge
+2018-02-21 22:12:30,484 INFO Bobot command: reload
+2018-02-21 22:12:30,484 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,485 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,485 INFO Turn 7 begins
+2018-02-21 22:12:30,486 INFO Thibault command: dodge
+2018-02-21 22:12:30,487 INFO Thibault command: dodge
+2018-02-21 22:12:30,487 INFO Bobot command: dodge
+2018-02-21 22:12:30,487 INFO Bobot command: shoot
+2018-02-21 22:12:30,487 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,488 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,488 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,488 INFO Turn 7 begins
+2018-02-21 22:12:30,489 INFO Turn 8 begins
+2018-02-21 22:12:30,489 INFO Thibault command: reload
+2018-02-21 22:12:30,491 INFO Thibault command: dodge
+2018-02-21 22:12:30,492 INFO Bobot command: shoot
+2018-02-21 22:12:30,492 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,493 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,493 INFO Turn 8 begins
+2018-02-21 22:12:30,495 INFO Bobot command: shoot
+2018-02-21 22:12:30,496 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,497 INFO Killing Thibault
+2018-02-21 22:12:30,497 INFO Thibault exit code: None
+2018-02-21 22:12:30,498 INFO Killing Bobot
+2018-02-21 22:12:30,499 INFO Bobot exit code: None
+2018-02-21 22:12:30,501 INFO Thibault command: reload
+2018-02-21 22:12:30,502 INFO Bobot shot but without bullets
+2018-02-21 22:12:30,503 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:30,503 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,503 INFO Turn 9 begins
+2018-02-21 22:12:30,505 INFO Thibault command: shoot
+2018-02-21 22:12:30,510 INFO Bobot command: reload
+2018-02-21 22:12:30,511 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,512 INFO Killing Thibault
+2018-02-21 22:12:30,512 INFO Thibault exit code: None
+2018-02-21 22:12:30,513 INFO Killing Bobot
+2018-02-21 22:12:30,513 INFO Bobot exit code: None
+2018-02-21 22:12:30,741 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,742 INFO Turn 1 begins
+2018-02-21 22:12:30,742 INFO Thibault command: reload
+2018-02-21 22:12:30,743 INFO Bobot command: shoot
+2018-02-21 22:12:30,743 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,744 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,744 INFO Killing Thibault
+2018-02-21 22:12:30,745 INFO Thibault exit code: None
+2018-02-21 22:12:30,746 INFO Killing Bobot
+2018-02-21 22:12:30,747 INFO Bobot exit code: None
+2018-02-21 22:12:30,748 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,749 INFO Turn 1 begins
+2018-02-21 22:12:30,750 INFO Thibault command: dodge
+2018-02-21 22:12:30,750 INFO Bobot command: shoot
+2018-02-21 22:12:30,751 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,751 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,752 INFO Turn 2 begins
+2018-02-21 22:12:30,753 INFO Thibault command: shoot
+2018-02-21 22:12:30,755 INFO Bobot shot but without bullets
+2018-02-21 22:12:30,755 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,756 INFO Thibault shoots Bobot
+2018-02-21 22:12:30,756 INFO Turn 1 begins
+2018-02-21 22:12:30,757 INFO Thibault command: shoot
+2018-02-21 22:12:30,757 INFO Killing Thibault
+2018-02-21 22:12:30,758 INFO Bobot command: shoot
+2018-02-21 22:12:30,758 INFO Thibault exit code: None
+2018-02-21 22:12:30,759 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,759 INFO Killing Bobot
+2018-02-21 22:12:30,759 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,760 INFO Bobot exit code: None
+2018-02-21 22:12:30,761 INFO Turn 2 begins
+2018-02-21 22:12:30,762 INFO Thibault command: reload
+2018-02-21 22:12:30,763 INFO Bobot command: reload
+2018-02-21 22:12:30,765 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,766 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,766 INFO Turn 3 begins
+2018-02-21 22:12:30,768 INFO Thibault command: reload
+2018-02-21 22:12:30,769 INFO Bobot command: dodge
+2018-02-21 22:12:30,770 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,770 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,771 INFO Turn 4 begins
+2018-02-21 22:12:30,772 INFO Thibault command: dodge
+2018-02-21 22:12:30,773 INFO Bobot command: dodge
+2018-02-21 22:12:30,774 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,775 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,776 INFO Turn 5 begins
+2018-02-21 22:12:30,777 INFO Thibault command: shoot
+2018-02-21 22:12:30,778 INFO Bobot command: shoot
+2018-02-21 22:12:30,778 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,779 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,780 INFO Turn 6 begins
+2018-02-21 22:12:30,780 INFO Thibault command: reload
+2018-02-21 22:12:30,781 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:30,781 INFO Bobot command: reload
+2018-02-21 22:12:30,782 INFO Turn 1 begins
+2018-02-21 22:12:30,782 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,783 INFO Thibault command: shoot
+2018-02-21 22:12:30,783 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,784 INFO Turn 7 begins
+2018-02-21 22:12:30,784 INFO Bobot command: shoot
+2018-02-21 22:12:30,785 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,785 INFO Thibault command: reload
+2018-02-21 22:12:30,786 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,786 INFO Bobot command: dodge
+2018-02-21 22:12:30,787 INFO Turn 2 begins
+2018-02-21 22:12:30,787 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,788 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,788 INFO Thibault command: reload
+2018-02-21 22:12:30,789 INFO Turn 8 begins
+2018-02-21 22:12:30,789 INFO Bobot command: reload
+2018-02-21 22:12:30,790 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,790 INFO Thibault command: reload
+2018-02-21 22:12:30,791 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,791 INFO Bobot command: dodge
+2018-02-21 22:12:30,792 INFO Turn 3 begins
+2018-02-21 22:12:30,792 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,793 INFO Thibault command: dodge
+2018-02-21 22:12:30,793 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:30,794 INFO Bobot command: dodge
+2018-02-21 22:12:30,794 INFO Turn 9 begins
+2018-02-21 22:12:30,794 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,795 INFO Thibault command: shoot
+2018-02-21 22:12:30,795 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,796 INFO Bobot command: dodge
+2018-02-21 22:12:30,796 INFO Turn 4 begins
+2018-02-21 22:12:30,797 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:30,797 INFO Thibault command: reload
+2018-02-21 22:12:30,797 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:30,798 INFO Bobot command: shoot
+2018-02-21 22:12:30,798 INFO Turn 10 begins
+2018-02-21 22:12:30,799 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,799 INFO Thibault command: dodge
+2018-02-21 22:12:30,800 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,800 INFO Bobot command: reload
+2018-02-21 22:12:30,800 INFO Killing Thibault
+2018-02-21 22:12:30,801 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:30,802 INFO Thibault exit code: None
+2018-02-21 22:12:30,802 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,802 INFO Killing Bobot
+2018-02-21 22:12:30,803 INFO Turn 11 begins
+2018-02-21 22:12:30,803 INFO Bobot exit code: None
+2018-02-21 22:12:30,804 INFO Thibault command: dodge
+2018-02-21 22:12:30,804 INFO Bobot command: shoot
+2018-02-21 22:12:30,805 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:30,806 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:30,807 INFO Turn 12 begins
+2018-02-21 22:12:30,808 INFO Thibault command: reload
+2018-02-21 22:12:30,809 INFO Bobot command: shoot
+2018-02-21 22:12:30,810 INFO Bobot shoots Thibault
+2018-02-21 22:12:30,811 INFO Killing Thibault
+2018-02-21 22:12:30,812 INFO Thibault exit code: None
+2018-02-21 22:12:30,813 INFO Killing Bobot
+2018-02-21 22:12:30,814 INFO Bobot exit code: None
+2018-02-21 22:12:31,007 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,008 INFO Turn 1 begins
+2018-02-21 22:12:31,010 INFO Thibault command: dodge
+2018-02-21 22:12:31,011 INFO Bobot command: shoot
+2018-02-21 22:12:31,012 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,013 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,015 INFO Turn 2 begins
+2018-02-21 22:12:31,016 INFO Thibault command: reload
+2018-02-21 22:12:31,016 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,017 INFO Bobot shot but without bullets
+2018-02-21 22:12:31,018 INFO Turn 1 begins
+2018-02-21 22:12:31,018 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:31,019 INFO Thibault command: reload
+2018-02-21 22:12:31,020 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,020 INFO Bobot command: shoot
+2018-02-21 22:12:31,021 INFO Turn 3 begins
+2018-02-21 22:12:31,021 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,023 INFO Thibault command: shoot
+2018-02-21 22:12:31,023 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,026 INFO Bobot command: reload
+2018-02-21 22:12:31,026 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,027 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,028 INFO Killing Thibault
+2018-02-21 22:12:31,029 INFO Thibault exit code: None
+2018-02-21 22:12:31,029 INFO Killing Thibault
+2018-02-21 22:12:31,030 INFO Killing Bobot
+2018-02-21 22:12:31,030 INFO Thibault exit code: None
+2018-02-21 22:12:31,031 INFO Bobot exit code: None
+2018-02-21 22:12:31,032 INFO Killing Bobot
+2018-02-21 22:12:31,033 INFO Bobot exit code: None
+2018-02-21 22:12:31,060 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,061 INFO Turn 1 begins
+2018-02-21 22:12:31,062 INFO Thibault command: shoot
+2018-02-21 22:12:31,064 INFO Bobot command: shoot
+2018-02-21 22:12:31,065 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,066 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,067 INFO Turn 2 begins
+2018-02-21 22:12:31,069 INFO Thibault command: reload
+2018-02-21 22:12:31,070 INFO Bobot command: reload
+2018-02-21 22:12:31,071 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,072 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,073 INFO Turn 3 begins
+2018-02-21 22:12:31,074 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,075 INFO Thibault command: reload
+2018-02-21 22:12:31,075 INFO Turn 1 begins
+2018-02-21 22:12:31,076 INFO Bobot command: dodge
+2018-02-21 22:12:31,076 INFO Thibault command: reload
+2018-02-21 22:12:31,077 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,078 INFO Bobot command: shoot
+2018-02-21 22:12:31,078 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,079 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,079 INFO Turn 4 begins
+2018-02-21 22:12:31,080 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,081 INFO Thibault command: shoot
+2018-02-21 22:12:31,081 INFO Killing Thibault
+2018-02-21 22:12:31,082 INFO Bobot command: dodge
+2018-02-21 22:12:31,083 INFO Thibault exit code: None
+2018-02-21 22:12:31,083 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,084 INFO Killing Bobot
+2018-02-21 22:12:31,085 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,086 INFO Turn 5 begins
+2018-02-21 22:12:31,085 INFO Bobot exit code: None
+2018-02-21 22:12:31,088 INFO Thibault command: dodge
+2018-02-21 22:12:31,090 INFO Bobot command: reload
+2018-02-21 22:12:31,091 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,092 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,093 INFO Turn 6 begins
+2018-02-21 22:12:31,095 INFO Thibault command: reload
+2018-02-21 22:12:31,096 INFO Bobot command: shoot
+2018-02-21 22:12:31,097 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,099 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,100 INFO Killing Thibault
+2018-02-21 22:12:31,101 INFO Thibault exit code: None
+2018-02-21 22:12:31,103 INFO Killing Bobot
+2018-02-21 22:12:31,104 INFO Bobot exit code: None
+2018-02-21 22:12:31,275 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,277 INFO Turn 1 begins
+2018-02-21 22:12:31,279 INFO Thibault command: reload
+2018-02-21 22:12:31,280 INFO Bobot command: shoot
+2018-02-21 22:12:31,281 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,282 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,283 INFO Turn 1 begins
+2018-02-21 22:12:31,284 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,285 INFO Thibault command: shoot
+2018-02-21 22:12:31,285 INFO Killing Thibault
+2018-02-21 22:12:31,286 INFO Bobot command: shoot
+2018-02-21 22:12:31,287 INFO Thibault exit code: None
+2018-02-21 22:12:31,288 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,289 INFO Killing Bobot
+2018-02-21 22:12:31,289 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,290 INFO Bobot exit code: None
+2018-02-21 22:12:31,292 INFO Turn 2 begins
+2018-02-21 22:12:31,294 INFO Thibault command: reload
+2018-02-21 22:12:31,295 INFO Bobot command: reload
+2018-02-21 22:12:31,297 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,298 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,300 INFO Turn 3 begins
+2018-02-21 22:12:31,302 INFO Thibault command: reload
+2018-02-21 22:12:31,304 INFO Bobot command: dodge
+2018-02-21 22:12:31,305 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,307 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,309 INFO Turn 4 begins
+2018-02-21 22:12:31,310 INFO Thibault command: reload
+2018-02-21 22:12:31,311 INFO Bobot command: dodge
+2018-02-21 22:12:31,312 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,313 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,315 INFO Turn 5 begins
+2018-02-21 22:12:31,316 INFO Thibault command: shoot
+2018-02-21 22:12:31,317 INFO Bobot command: dodge
+2018-02-21 22:12:31,318 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,319 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,320 INFO Turn 6 begins
+2018-02-21 22:12:31,322 INFO Thibault command: dodge
+2018-02-21 22:12:31,323 INFO Bobot command: reload
+2018-02-21 22:12:31,324 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,325 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,326 INFO Turn 7 begins
+2018-02-21 22:12:31,327 INFO Thibault command: dodge
+2018-02-21 22:12:31,328 INFO Bobot command: shoot
+2018-02-21 22:12:31,329 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,330 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,331 INFO Turn 8 begins
+2018-02-21 22:12:31,332 INFO Thibault command: reload
+2018-02-21 22:12:31,333 INFO Bobot command: shoot
+2018-02-21 22:12:31,334 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,335 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,336 INFO Killing Thibault
+2018-02-21 22:12:31,337 INFO Thibault exit code: None
+2018-02-21 22:12:31,339 INFO Killing Bobot
+2018-02-21 22:12:31,340 INFO Bobot exit code: None
+2018-02-21 22:12:31,341 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,343 INFO Turn 1 begins
+2018-02-21 22:12:31,344 INFO Thibault command: shoot
+2018-02-21 22:12:31,346 INFO Bobot command: shoot
+2018-02-21 22:12:31,347 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,348 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,349 INFO Turn 2 begins
+2018-02-21 22:12:31,350 INFO Thibault command: reload
+2018-02-21 22:12:31,351 INFO Bobot command: reload
+2018-02-21 22:12:31,353 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,355 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,356 INFO Turn 3 begins
+2018-02-21 22:12:31,358 INFO Thibault command: reload
+2018-02-21 22:12:31,358 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,359 INFO Bobot command: dodge
+2018-02-21 22:12:31,360 INFO Turn 1 begins
+2018-02-21 22:12:31,361 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,362 INFO Thibault command: dodge
+2018-02-21 22:12:31,362 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,364 INFO Bobot command: shoot
+2018-02-21 22:12:31,364 INFO Turn 4 begins
+2018-02-21 22:12:31,365 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,366 INFO Thibault command: reload
+2018-02-21 22:12:31,367 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,368 INFO Bobot command: dodge
+2018-02-21 22:12:31,368 INFO Turn 2 begins
+2018-02-21 22:12:31,369 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,370 INFO Thibault command: shoot
+2018-02-21 22:12:31,371 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,372 INFO Bobot shot but without bullets
+2018-02-21 22:12:31,372 INFO Turn 5 begins
+2018-02-21 22:12:31,374 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,374 INFO Thibault command: shoot
+2018-02-21 22:12:31,375 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,375 INFO Bobot command: dodge
+2018-02-21 22:12:31,377 INFO Killing Thibault
+2018-02-21 22:12:31,377 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,379 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,379 INFO Thibault exit code: None
+2018-02-21 22:12:31,380 INFO Turn 6 begins
+2018-02-21 22:12:31,381 INFO Killing Bobot
+2018-02-21 22:12:31,382 INFO Thibault command: reload
+2018-02-21 22:12:31,382 INFO Bobot exit code: None
+2018-02-21 22:12:31,384 INFO Bobot command: reload
+2018-02-21 22:12:31,385 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,387 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,389 INFO Turn 7 begins
+2018-02-21 22:12:31,391 INFO Thibault command: dodge
+2018-02-21 22:12:31,392 INFO Bobot command: dodge
+2018-02-21 22:12:31,394 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,395 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,397 INFO Turn 8 begins
+2018-02-21 22:12:31,399 INFO Thibault command: dodge
+2018-02-21 22:12:31,401 INFO Bobot command: shoot
+2018-02-21 22:12:31,402 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,404 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,406 INFO Turn 9 begins
+2018-02-21 22:12:31,408 INFO Thibault command: shoot
+2018-02-21 22:12:31,409 INFO Bobot command: shoot
+2018-02-21 22:12:31,411 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,412 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,414 INFO Turn 10 begins
+2018-02-21 22:12:31,416 INFO Thibault command: reload
+2018-02-21 22:12:31,418 INFO Bobot command: reload
+2018-02-21 22:12:31,419 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,421 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,423 INFO Turn 11 begins
+2018-02-21 22:12:31,425 INFO Thibault command: shoot
+2018-02-21 22:12:31,426 INFO Bobot command: dodge
+2018-02-21 22:12:31,428 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,430 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,431 INFO Turn 12 begins
+2018-02-21 22:12:31,433 INFO Thibault command: reload
+2018-02-21 22:12:31,435 INFO Bobot command: reload
+2018-02-21 22:12:31,437 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,438 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,440 INFO Turn 13 begins
+2018-02-21 22:12:31,442 INFO Thibault command: shoot
+2018-02-21 22:12:31,443 INFO Bobot command: dodge
+2018-02-21 22:12:31,445 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,446 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,448 INFO Turn 14 begins
+2018-02-21 22:12:31,450 INFO Thibault command: dodge
+2018-02-21 22:12:31,452 INFO Bobot command: reload
+2018-02-21 22:12:31,453 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,455 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,456 INFO Turn 15 begins
+2018-02-21 22:12:31,458 INFO Thibault command: dodge
+2018-02-21 22:12:31,460 INFO Bobot command: shoot
+2018-02-21 22:12:31,461 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,463 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,465 INFO Turn 16 begins
+2018-02-21 22:12:31,467 INFO Thibault command: reload
+2018-02-21 22:12:31,468 INFO Bobot command: shoot
+2018-02-21 22:12:31,470 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,472 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,473 INFO Killing Thibault
+2018-02-21 22:12:31,475 INFO Thibault exit code: None
+2018-02-21 22:12:31,477 INFO Killing Bobot
+2018-02-21 22:12:31,479 INFO Bobot exit code: None
+2018-02-21 22:12:31,529 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,531 INFO Turn 1 begins
+2018-02-21 22:12:31,533 INFO Thibault command: dodge
+2018-02-21 22:12:31,536 INFO Bobot command: shoot
+2018-02-21 22:12:31,537 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,540 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,541 INFO Turn 2 begins
+2018-02-21 22:12:31,544 INFO Thibault command: reload
+2018-02-21 22:12:31,546 INFO Bobot shot but without bullets
+2018-02-21 22:12:31,548 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:31,550 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,551 INFO Turn 3 begins
+2018-02-21 22:12:31,554 INFO Thibault command: reload
+2018-02-21 22:12:31,556 INFO Bobot command: reload
+2018-02-21 22:12:31,558 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,560 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,562 INFO Turn 4 begins
+2018-02-21 22:12:31,563 INFO Thibault command: shoot
+2018-02-21 22:12:31,564 INFO Bobot command: dodge
+2018-02-21 22:12:31,566 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,567 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,569 INFO Turn 5 begins
+2018-02-21 22:12:31,571 INFO Thibault command: dodge
+2018-02-21 22:12:31,573 INFO Bobot command: reload
+2018-02-21 22:12:31,575 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,577 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,579 INFO Turn 6 begins
+2018-02-21 22:12:31,581 INFO Thibault command: reload
+2018-02-21 22:12:31,583 INFO Bobot command: shoot
+2018-02-21 22:12:31,585 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,585 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,587 INFO Turn 1 begins
+2018-02-21 22:12:31,587 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,589 INFO Thibault command: shoot
+2018-02-21 22:12:31,589 INFO Killing Thibault
+2018-02-21 22:12:31,591 INFO Bobot command: shoot
+2018-02-21 22:12:31,591 INFO Thibault exit code: None
+2018-02-21 22:12:31,593 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,595 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,593 INFO Killing Bobot
+2018-02-21 22:12:31,597 INFO Turn 2 begins
+2018-02-21 22:12:31,597 INFO Bobot exit code: None
+2018-02-21 22:12:31,599 INFO Thibault command: reload
+2018-02-21 22:12:31,601 INFO Bobot command: reload
+2018-02-21 22:12:31,603 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,605 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,607 INFO Turn 3 begins
+2018-02-21 22:12:31,609 INFO Thibault command: dodge
+2018-02-21 22:12:31,611 INFO Bobot command: dodge
+2018-02-21 22:12:31,613 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,615 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,616 INFO Turn 4 begins
+2018-02-21 22:12:31,618 INFO Thibault command: reload
+2018-02-21 22:12:31,619 INFO Bobot command: shoot
+2018-02-21 22:12:31,620 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,621 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,623 INFO Killing Thibault
+2018-02-21 22:12:31,625 INFO Thibault exit code: None
+2018-02-21 22:12:31,627 INFO Killing Bobot
+2018-02-21 22:12:31,629 INFO Bobot exit code: None
+2018-02-21 22:12:31,633 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,639 INFO Turn 1 begins
+2018-02-21 22:12:31,642 INFO Thibault command: reload
+2018-02-21 22:12:31,644 INFO Bobot command: shoot
+2018-02-21 22:12:31,646 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,648 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,650 INFO Killing Thibault
+2018-02-21 22:12:31,652 INFO Thibault exit code: None
+2018-02-21 22:12:31,654 INFO Killing Bobot
+2018-02-21 22:12:31,657 INFO Bobot exit code: None
+2018-02-21 22:12:31,731 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,733 INFO Turn 1 begins
+2018-02-21 22:12:31,735 INFO Thibault command: shoot
+2018-02-21 22:12:31,737 INFO Bobot command: shoot
+2018-02-21 22:12:31,741 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,743 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,745 INFO Turn 2 begins
+2018-02-21 22:12:31,748 INFO Thibault command: reload
+2018-02-21 22:12:31,750 INFO Bobot command: reload
+2018-02-21 22:12:31,752 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,754 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,756 INFO Turn 3 begins
+2018-02-21 22:12:31,758 INFO Thibault command: dodge
+2018-02-21 22:12:31,760 INFO Bobot command: dodge
+2018-02-21 22:12:31,762 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,764 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,766 INFO Turn 4 begins
+2018-02-21 22:12:31,768 INFO Thibault command: dodge
+2018-02-21 22:12:31,770 INFO Bobot command: shoot
+2018-02-21 22:12:31,772 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,775 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,779 INFO Turn 5 begins
+2018-02-21 22:12:31,781 INFO Thibault command: reload
+2018-02-21 22:12:31,783 INFO Bobot shot but without bullets
+2018-02-21 22:12:31,785 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:31,787 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,789 INFO Turn 6 begins
+2018-02-21 22:12:31,791 INFO Thibault command: reload
+2018-02-21 22:12:31,793 INFO Bobot command: reload
+2018-02-21 22:12:31,795 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,797 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,799 INFO Turn 7 begins
+2018-02-21 22:12:31,802 INFO Thibault command: reload
+2018-02-21 22:12:31,804 INFO Bobot command: dodge
+2018-02-21 22:12:31,806 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,808 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,810 INFO Turn 8 begins
+2018-02-21 22:12:31,813 INFO Thibault command: shoot
+2018-02-21 22:12:31,816 INFO Bobot command: dodge
+2018-02-21 22:12:31,818 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,820 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,823 INFO Turn 9 begins
+2018-02-21 22:12:31,825 INFO Thibault command: reload
+2018-02-21 22:12:31,827 INFO Bobot command: reload
+2018-02-21 22:12:31,828 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,830 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,832 INFO Turn 10 begins
+2018-02-21 22:12:31,834 INFO Thibault command: dodge
+2018-02-21 22:12:31,836 INFO Bobot command: dodge
+2018-02-21 22:12:31,838 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,840 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,842 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,843 INFO Turn 11 begins
+2018-02-21 22:12:31,845 INFO Turn 1 begins
+2018-02-21 22:12:31,845 INFO Thibault command: dodge
+2018-02-21 22:12:31,847 INFO Bobot command: shoot
+2018-02-21 22:12:31,848 INFO Thibault command: dodge
+2018-02-21 22:12:31,850 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,850 INFO Bobot command: shoot
+2018-02-21 22:12:31,852 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,853 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,854 INFO Turn 12 begins
+2018-02-21 22:12:31,854 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:31,856 INFO Thibault command: reload
+2018-02-21 22:12:31,857 INFO Turn 2 begins
+2018-02-21 22:12:31,857 INFO Bobot command: shoot
+2018-02-21 22:12:31,859 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,859 INFO Thibault command: shoot
+2018-02-21 22:12:31,860 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,861 INFO Killing Thibault
+2018-02-21 22:12:31,861 INFO Bobot shot but without bullets
+2018-02-21 22:12:31,863 INFO Thibault exit code: None
+2018-02-21 22:12:31,863 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,865 INFO Killing Bobot
+2018-02-21 22:12:31,866 INFO Thibault shoots Bobot
+2018-02-21 22:12:31,867 INFO Killing Thibault
+2018-02-21 22:12:31,867 INFO Bobot exit code: None
+2018-02-21 22:12:31,869 INFO Thibault exit code: None
+2018-02-21 22:12:31,872 INFO Killing Bobot
+2018-02-21 22:12:31,874 INFO Bobot exit code: None
+2018-02-21 22:12:31,879 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,882 INFO Turn 1 begins
+2018-02-21 22:12:31,884 INFO Thibault command: reload
+2018-02-21 22:12:31,887 INFO Bobot command: shoot
+2018-02-21 22:12:31,890 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,892 INFO Bobot shoots Thibault
+2018-02-21 22:12:31,893 INFO Killing Thibault
+2018-02-21 22:12:31,895 INFO Thibault exit code: None
+2018-02-21 22:12:31,897 INFO Killing Bobot
+2018-02-21 22:12:31,900 INFO Bobot exit code: None
+2018-02-21 22:12:31,921 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:31,924 INFO Turn 1 begins
+2018-02-21 22:12:31,926 INFO Thibault command: shoot
+2018-02-21 22:12:31,928 INFO Bobot command: shoot
+2018-02-21 22:12:31,931 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:31,933 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:31,936 INFO Turn 2 begins
+2018-02-21 22:12:31,938 INFO Thibault command: reload
+2018-02-21 22:12:31,941 INFO Bobot command: reload
+2018-02-21 22:12:31,943 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:31,945 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,948 INFO Turn 3 begins
+2018-02-21 22:12:31,950 INFO Thibault command: reload
+2018-02-21 22:12:31,953 INFO Bobot command: dodge
+2018-02-21 22:12:31,955 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,958 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,960 INFO Turn 4 begins
+2018-02-21 22:12:31,962 INFO Thibault command: reload
+2018-02-21 22:12:31,965 INFO Bobot command: dodge
+2018-02-21 22:12:31,967 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,969 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,972 INFO Turn 5 begins
+2018-02-21 22:12:31,974 INFO Thibault command: reload
+2018-02-21 22:12:31,977 INFO Bobot command: dodge
+2018-02-21 22:12:31,979 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,981 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,984 INFO Turn 6 begins
+2018-02-21 22:12:31,986 INFO Thibault command: reload
+2018-02-21 22:12:31,989 INFO Bobot command: dodge
+2018-02-21 22:12:31,991 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:31,995 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:31,997 INFO Turn 7 begins
+2018-02-21 22:12:32,000 INFO Thibault command: shoot
+2018-02-21 22:12:32,002 INFO Bobot command: dodge
+2018-02-21 22:12:32,006 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,008 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,011 INFO Turn 8 begins
+2018-02-21 22:12:32,014 INFO Thibault command: reload
+2018-02-21 22:12:32,016 INFO Bobot command: reload
+2018-02-21 22:12:32,018 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,021 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,024 INFO Turn 9 begins
+2018-02-21 22:12:32,026 INFO Thibault command: reload
+2018-02-21 22:12:32,029 INFO Bobot command: dodge
+2018-02-21 22:12:32,031 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,034 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,036 INFO Turn 10 begins
+2018-02-21 22:12:32,039 INFO Thibault reloaded but already full
+2018-02-21 22:12:32,041 INFO Thibault command: reload
+2018-02-21 22:12:32,043 INFO Bobot command: dodge
+2018-02-21 22:12:32,046 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,048 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,051 INFO Turn 11 begins
+2018-02-21 22:12:32,055 INFO Thibault reloaded but already full
+2018-02-21 22:12:32,057 INFO Thibault command: reload
+2018-02-21 22:12:32,060 INFO Bobot command: dodge
+2018-02-21 22:12:32,062 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,065 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,068 INFO Turn 12 begins
+2018-02-21 22:12:32,070 INFO Thibault command: shoot
+2018-02-21 22:12:32,077 INFO Bobot command: dodge
+2018-02-21 22:12:32,080 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,082 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,085 INFO Turn 13 begins
+2018-02-21 22:12:32,088 INFO Thibault command: dodge
+2018-02-21 22:12:32,090 INFO Bobot command: reload
+2018-02-21 22:12:32,092 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,095 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,097 INFO Turn 14 begins
+2018-02-21 22:12:32,100 INFO Thibault command: dodge
+2018-02-21 22:12:32,102 INFO Bobot command: shoot
+2018-02-21 22:12:32,105 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,108 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,110 INFO Turn 15 begins
+2018-02-21 22:12:32,111 INFO Thibault command: reload
+2018-02-21 22:12:32,113 INFO Bobot command: shoot
+2018-02-21 22:12:32,116 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,119 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,121 INFO Killing Thibault
+2018-02-21 22:12:32,122 INFO Thibault exit code: None
+2018-02-21 22:12:32,125 INFO Killing Bobot
+2018-02-21 22:12:32,127 INFO Bobot exit code: None
+2018-02-21 22:12:32,133 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,135 INFO Turn 1 begins
+2018-02-21 22:12:32,136 INFO Thibault command: reload
+2018-02-21 22:12:32,138 INFO Bobot command: shoot
+2018-02-21 22:12:32,139 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,141 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,142 INFO Killing Thibault
+2018-02-21 22:12:32,144 INFO Thibault exit code: None
+2018-02-21 22:12:32,146 INFO Killing Bobot
+2018-02-21 22:12:32,147 INFO Bobot exit code: None
+2018-02-21 22:12:32,148 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,151 INFO Turn 1 begins
+2018-02-21 22:12:32,153 INFO Thibault command: dodge
+2018-02-21 22:12:32,156 INFO Bobot command: shoot
+2018-02-21 22:12:32,156 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,158 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,159 INFO Turn 1 begins
+2018-02-21 22:12:32,161 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,161 INFO Thibault command: dodge
+2018-02-21 22:12:32,164 INFO Turn 2 begins
+2018-02-21 22:12:32,164 INFO Bobot command: shoot
+2018-02-21 22:12:32,167 INFO Thibault command: shoot
+2018-02-21 22:12:32,167 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,170 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,170 INFO Bobot shot but without bullets
+2018-02-21 22:12:32,173 INFO Turn 2 begins
+2018-02-21 22:12:32,174 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,176 INFO Thibault command: reload
+2018-02-21 22:12:32,177 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,179 INFO Bobot shot but without bullets
+2018-02-21 22:12:32,180 INFO Killing Thibault
+2018-02-21 22:12:32,182 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:32,183 INFO Thibault exit code: None
+2018-02-21 22:12:32,184 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,187 INFO Killing Bobot
+2018-02-21 22:12:32,187 INFO Turn 3 begins
+2018-02-21 22:12:32,190 INFO Bobot exit code: None
+2018-02-21 22:12:32,192 INFO Thibault command: shoot
+2018-02-21 22:12:32,195 INFO Bobot command: reload
+2018-02-21 22:12:32,198 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,201 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,203 INFO Killing Thibault
+2018-02-21 22:12:32,206 INFO Thibault exit code: None
+2018-02-21 22:12:32,209 INFO Killing Bobot
+2018-02-21 22:12:32,212 INFO Bobot exit code: None
+2018-02-21 22:12:32,379 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,382 INFO Turn 1 begins
+2018-02-21 22:12:32,385 INFO Thibault command: reload
+2018-02-21 22:12:32,388 INFO Bobot command: shoot
+2018-02-21 22:12:32,390 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,393 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,396 INFO Killing Thibault
+2018-02-21 22:12:32,399 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,402 INFO Thibault exit code: None
+2018-02-21 22:12:32,404 INFO Turn 1 begins
+2018-02-21 22:12:32,405 INFO Killing Bobot
+2018-02-21 22:12:32,407 INFO Bobot exit code: None
+2018-02-21 22:12:32,407 INFO Thibault command: dodge
+2018-02-21 22:12:32,409 INFO Bobot command: shoot
+2018-02-21 22:12:32,411 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,414 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,416 INFO Turn 2 begins
+2018-02-21 22:12:32,418 INFO Thibault command: shoot
+2018-02-21 22:12:32,420 INFO Bobot shot but without bullets
+2018-02-21 22:12:32,422 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,425 INFO Thibault shoots Bobot
+2018-02-21 22:12:32,426 INFO Killing Thibault
+2018-02-21 22:12:32,428 INFO Thibault exit code: None
+2018-02-21 22:12:32,430 INFO Killing Bobot
+2018-02-21 22:12:32,432 INFO Bobot exit code: None
+2018-02-21 22:12:32,443 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,447 INFO Turn 1 begins
+2018-02-21 22:12:32,450 INFO Thibault command: reload
+2018-02-21 22:12:32,453 INFO Bobot command: shoot
+2018-02-21 22:12:32,457 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,460 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,460 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,463 INFO Killing Thibault
+2018-02-21 22:12:32,463 INFO Turn 1 begins
+2018-02-21 22:12:32,466 INFO Thibault exit code: None
+2018-02-21 22:12:32,467 INFO Thibault command: shoot
+2018-02-21 22:12:32,469 INFO Killing Bobot
+2018-02-21 22:12:32,471 INFO Bobot command: shoot
+2018-02-21 22:12:32,473 INFO Bobot exit code: None
+2018-02-21 22:12:32,474 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,477 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,480 INFO Turn 2 begins
+2018-02-21 22:12:32,484 INFO Thibault command: reload
+2018-02-21 22:12:32,487 INFO Bobot command: reload
+2018-02-21 22:12:32,490 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,493 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,496 INFO Turn 3 begins
+2018-02-21 22:12:32,499 INFO Thibault command: dodge
+2018-02-21 22:12:32,502 INFO Bobot command: dodge
+2018-02-21 22:12:32,507 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,510 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,513 INFO Turn 4 begins
+2018-02-21 22:12:32,517 INFO Thibault command: shoot
+2018-02-21 22:12:32,520 INFO Bobot command: shoot
+2018-02-21 22:12:32,524 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,527 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,530 INFO Turn 5 begins
+2018-02-21 22:12:32,534 INFO Thibault command: reload
+2018-02-21 22:12:32,537 INFO Bobot command: reload
+2018-02-21 22:12:32,540 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,543 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,548 INFO Turn 6 begins
+2018-02-21 22:12:32,551 INFO Thibault command: dodge
+2018-02-21 22:12:32,555 INFO Bobot command: dodge
+2018-02-21 22:12:32,558 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,561 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,564 INFO Turn 7 begins
+2018-02-21 22:12:32,569 INFO Thibault command: reload
+2018-02-21 22:12:32,575 INFO Bobot command: shoot
+2018-02-21 22:12:32,579 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,583 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,586 INFO Killing Thibault
+2018-02-21 22:12:32,596 INFO Thibault exit code: 1
+2018-02-21 22:12:32,599 INFO Killing Bobot
+2018-02-21 22:12:32,607 INFO Bobot exit code: None
+2018-02-21 22:12:32,649 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,652 INFO Turn 1 begins
+2018-02-21 22:12:32,656 INFO Thibault command: reload
+2018-02-21 22:12:32,659 INFO Bobot command: shoot
+2018-02-21 22:12:32,661 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,663 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,666 INFO Killing Thibault
+2018-02-21 22:12:32,670 INFO Thibault exit code: None
+2018-02-21 22:12:32,672 INFO Killing Bobot
+2018-02-21 22:12:32,674 INFO Bobot exit code: None
+2018-02-21 22:12:32,682 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,685 INFO Turn 1 begins
+2018-02-21 22:12:32,689 INFO Thibault command: reload
+2018-02-21 22:12:32,692 INFO Bobot command: shoot
+2018-02-21 22:12:32,695 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,698 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,702 INFO Killing Thibault
+2018-02-21 22:12:32,705 INFO Thibault exit code: None
+2018-02-21 22:12:32,708 INFO Killing Bobot
+2018-02-21 22:12:32,711 INFO Bobot exit code: None
+2018-02-21 22:12:32,728 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,732 INFO Turn 1 begins
+2018-02-21 22:12:32,736 INFO Thibault command: shoot
+2018-02-21 22:12:32,739 INFO Bobot command: shoot
+2018-02-21 22:12:32,743 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,746 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,753 INFO Turn 2 begins
+2018-02-21 22:12:32,757 INFO Thibault command: reload
+2018-02-21 22:12:32,761 INFO Bobot command: reload
+2018-02-21 22:12:32,764 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,768 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,771 INFO Turn 3 begins
+2018-02-21 22:12:32,775 INFO Thibault command: shoot
+2018-02-21 22:12:32,779 INFO Bobot command: dodge
+2018-02-21 22:12:32,782 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,786 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,789 INFO Turn 4 begins
+2018-02-21 22:12:32,793 INFO Thibault command: dodge
+2018-02-21 22:12:32,797 INFO Bobot command: reload
+2018-02-21 22:12:32,801 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,804 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,808 INFO Turn 5 begins
+2018-02-21 22:12:32,811 INFO Thibault command: dodge
+2018-02-21 22:12:32,815 INFO Bobot command: shoot
+2018-02-21 22:12:32,819 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,823 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,827 INFO Turn 6 begins
+2018-02-21 22:12:32,830 INFO Thibault command: reload
+2018-02-21 22:12:32,834 INFO Bobot command: shoot
+2018-02-21 22:12:32,837 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,840 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,844 INFO Killing Thibault
+2018-02-21 22:12:32,849 INFO Thibault exit code: None
+2018-02-21 22:12:32,853 INFO Killing Bobot
+2018-02-21 22:12:32,854 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,857 INFO Bobot exit code: None
+2018-02-21 22:12:32,859 INFO Turn 1 begins
+2018-02-21 22:12:32,865 INFO Thibault command: reload
+2018-02-21 22:12:32,869 INFO Bobot command: shoot
+2018-02-21 22:12:32,873 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,877 INFO Bobot shoots Thibault
+2018-02-21 22:12:32,880 INFO Killing Thibault
+2018-02-21 22:12:32,885 INFO Thibault exit code: None
+2018-02-21 22:12:32,889 INFO Killing Bobot
+2018-02-21 22:12:32,896 INFO Bobot exit code: 1
+2018-02-21 22:12:32,927 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,931 INFO Turn 1 begins
+2018-02-21 22:12:32,935 INFO Thibault command: shoot
+2018-02-21 22:12:32,938 INFO Bobot command: shoot
+2018-02-21 22:12:32,943 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,946 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,949 INFO Turn 2 begins
+2018-02-21 22:12:32,950 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:32,952 INFO Thibault command: reload
+2018-02-21 22:12:32,954 INFO Turn 1 begins
+2018-02-21 22:12:32,956 INFO Bobot command: reload
+2018-02-21 22:12:32,957 INFO Thibault command: shoot
+2018-02-21 22:12:32,959 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,961 INFO Bobot command: shoot
+2018-02-21 22:12:32,963 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,965 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:32,967 INFO Turn 3 begins
+2018-02-21 22:12:32,968 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:32,970 INFO Thibault command: dodge
+2018-02-21 22:12:32,972 INFO Turn 2 begins
+2018-02-21 22:12:32,974 INFO Bobot command: dodge
+2018-02-21 22:12:32,976 INFO Thibault command: reload
+2018-02-21 22:12:32,978 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:32,979 INFO Bobot command: reload
+2018-02-21 22:12:32,982 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:32,983 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:32,985 INFO Turn 4 begins
+2018-02-21 22:12:32,986 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:32,989 INFO Thibault command: shoot
+2018-02-21 22:12:32,990 INFO Turn 3 begins
+2018-02-21 22:12:32,994 INFO Thibault command: shoot
+2018-02-21 22:12:32,993 INFO Bobot command: shoot
+2018-02-21 22:12:32,997 INFO Bobot command: dodge
+2018-02-21 22:12:32,998 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,001 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,002 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,004 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,005 INFO Turn 5 begins
+2018-02-21 22:12:33,008 INFO Turn 4 begins
+2018-02-21 22:12:33,010 INFO Thibault command: reload
+2018-02-21 22:12:33,013 INFO Thibault command: dodge
+2018-02-21 22:12:33,014 INFO Bobot command: reload
+2018-02-21 22:12:33,017 INFO Bobot command: reload
+2018-02-21 22:12:33,017 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,020 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,021 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,023 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,025 INFO Turn 6 begins
+2018-02-21 22:12:33,027 INFO Turn 5 begins
+2018-02-21 22:12:33,030 INFO Thibault command: reload
+2018-02-21 22:12:33,030 INFO Thibault command: dodge
+2018-02-21 22:12:33,033 INFO Bobot command: dodge
+2018-02-21 22:12:33,034 INFO Bobot command: shoot
+2018-02-21 22:12:33,037 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,037 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,042 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,042 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,045 INFO Turn 6 begins
+2018-02-21 22:12:33,046 INFO Turn 7 begins
+2018-02-21 22:12:33,049 INFO Thibault command: reload
+2018-02-21 22:12:33,050 INFO Thibault command: shoot
+2018-02-21 22:12:33,053 INFO Bobot command: shoot
+2018-02-21 22:12:33,053 INFO Bobot command: dodge
+2018-02-21 22:12:33,056 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,057 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,060 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,060 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,064 INFO Turn 8 begins
+2018-02-21 22:12:33,068 INFO Thibault command: reload
+2018-02-21 22:12:33,068 INFO Killing Thibault
+2018-02-21 22:12:33,071 INFO Bobot command: reload
+2018-02-21 22:12:33,072 INFO Thibault exit code: None
+2018-02-21 22:12:33,075 INFO Killing Bobot
+2018-02-21 22:12:33,078 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,079 INFO Bobot exit code: None
+2018-02-21 22:12:33,081 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,085 INFO Turn 9 begins
+2018-02-21 22:12:33,087 INFO Thibault command: dodge
+2018-02-21 22:12:33,090 INFO Bobot command: dodge
+2018-02-21 22:12:33,094 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,096 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,100 INFO Turn 1 begins
+2018-02-21 22:12:33,102 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,104 INFO Thibault command: dodge
+2018-02-21 22:12:33,106 INFO Turn 10 begins
+2018-02-21 22:12:33,108 INFO Thibault command: reload
+2018-02-21 22:12:33,108 INFO Bobot command: shoot
+2018-02-21 22:12:33,112 INFO Bobot command: shoot
+2018-02-21 22:12:33,112 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,115 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,116 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,122 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,123 INFO Turn 2 begins
+2018-02-21 22:12:33,126 INFO Killing Thibault
+2018-02-21 22:12:33,129 INFO Thibault command: shoot
+2018-02-21 22:12:33,130 INFO Thibault exit code: None
+2018-02-21 22:12:33,132 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,133 INFO Killing Bobot
+2018-02-21 22:12:33,136 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,136 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,140 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,140 INFO Turn 1 begins
+2018-02-21 22:12:33,139 INFO Bobot exit code: -9
+2018-02-21 22:12:33,143 INFO Killing Thibault
+2018-02-21 22:12:33,144 INFO Thibault command: dodge
+2018-02-21 22:12:33,147 INFO Thibault exit code: None
+2018-02-21 22:12:33,148 INFO Bobot command: shoot
+2018-02-21 22:12:33,151 INFO Killing Bobot
+2018-02-21 22:12:33,152 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,156 INFO Bobot exit code: None
+2018-02-21 22:12:33,156 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,160 INFO Turn 2 begins
+2018-02-21 22:12:33,164 INFO Thibault command: shoot
+2018-02-21 22:12:33,168 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,172 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,175 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,179 INFO Killing Thibault
+2018-02-21 22:12:33,183 INFO Thibault exit code: None
+2018-02-21 22:12:33,187 INFO Killing Bobot
+2018-02-21 22:12:33,193 INFO Bobot exit code: None
+2018-02-21 22:12:33,356 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,360 INFO Turn 1 begins
+2018-02-21 22:12:33,364 INFO Thibault command: reload
+2018-02-21 22:12:33,368 INFO Bobot command: shoot
+2018-02-21 22:12:33,372 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,375 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,379 INFO Killing Thibault
+2018-02-21 22:12:33,381 INFO Thibault exit code: None
+2018-02-21 22:12:33,384 INFO Killing Bobot
+2018-02-21 22:12:33,387 INFO Bobot exit code: None
+2018-02-21 22:12:33,403 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,405 INFO Turn 1 begins
+2018-02-21 22:12:33,408 INFO Thibault command: reload
+2018-02-21 22:12:33,410 INFO Bobot command: shoot
+2018-02-21 22:12:33,413 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,415 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,417 INFO Killing Thibault
+2018-02-21 22:12:33,420 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,420 INFO Thibault exit code: None
+2018-02-21 22:12:33,424 INFO Turn 1 begins
+2018-02-21 22:12:33,426 INFO Killing Bobot
+2018-02-21 22:12:33,428 INFO Thibault command: reload
+2018-02-21 22:12:33,430 INFO Bobot exit code: None
+2018-02-21 22:12:33,432 INFO Bobot command: shoot
+2018-02-21 22:12:33,434 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,439 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,443 INFO Killing Thibault
+2018-02-21 22:12:33,447 INFO Thibault exit code: None
+2018-02-21 22:12:33,451 INFO Killing Bobot
+2018-02-21 22:12:33,451 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,456 INFO Turn 1 begins
+2018-02-21 22:12:33,460 INFO Thibault command: shoot
+2018-02-21 22:12:33,460 INFO Bobot exit code: None
+2018-02-21 22:12:33,465 INFO Bobot command: shoot
+2018-02-21 22:12:33,469 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,474 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,478 INFO Turn 2 begins
+2018-02-21 22:12:33,483 INFO Thibault command: reload
+2018-02-21 22:12:33,487 INFO Bobot command: reload
+2018-02-21 22:12:33,491 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,496 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,500 INFO Turn 3 begins
+2018-02-21 22:12:33,504 INFO Thibault command: shoot
+2018-02-21 22:12:33,509 INFO Bobot command: dodge
+2018-02-21 22:12:33,513 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,517 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,521 INFO Turn 4 begins
+2018-02-21 22:12:33,526 INFO Thibault command: dodge
+2018-02-21 22:12:33,531 INFO Bobot command: reload
+2018-02-21 22:12:33,536 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,540 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,545 INFO Turn 5 begins
+2018-02-21 22:12:33,549 INFO Thibault command: reload
+2018-02-21 22:12:33,556 INFO Bobot command: shoot
+2018-02-21 22:12:33,560 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,568 INFO Bobot shoots Thibault
+2018-02-21 22:12:33,572 INFO Killing Thibault
+2018-02-21 22:12:33,584 INFO Thibault exit code: 1
+2018-02-21 22:12:33,589 INFO Killing Bobot
+2018-02-21 22:12:33,598 INFO Bobot exit code: None
+2018-02-21 22:12:33,630 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,634 INFO Turn 1 begins
+2018-02-21 22:12:33,639 INFO Thibault command: dodge
+2018-02-21 22:12:33,643 INFO Bobot command: shoot
+2018-02-21 22:12:33,648 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,652 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,656 INFO Turn 2 begins
+2018-02-21 22:12:33,659 INFO Thibault command: reload
+2018-02-21 22:12:33,662 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,666 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:33,670 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,674 INFO Turn 3 begins
+2018-02-21 22:12:33,679 INFO Thibault command: shoot
+2018-02-21 22:12:33,680 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,682 INFO Bobot command: reload
+2018-02-21 22:12:33,684 INFO Turn 1 begins
+2018-02-21 22:12:33,685 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,687 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,689 INFO Thibault command: dodge
+2018-02-21 22:12:33,690 INFO Killing Thibault
+2018-02-21 22:12:33,692 INFO Bobot command: shoot
+2018-02-21 22:12:33,694 INFO Thibault exit code: None
+2018-02-21 22:12:33,695 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,698 INFO Killing Bobot
+2018-02-21 22:12:33,700 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,703 INFO Bobot exit code: None
+2018-02-21 22:12:33,705 INFO Turn 2 begins
+2018-02-21 22:12:33,710 INFO Thibault command: reload
+2018-02-21 22:12:33,712 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,714 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,716 INFO Turn 1 begins
+2018-02-21 22:12:33,718 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:33,721 INFO Thibault command: dodge
+2018-02-21 22:12:33,723 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,727 INFO Turn 3 begins
+2018-02-21 22:12:33,730 INFO Bobot command: shoot
+2018-02-21 22:12:33,731 INFO Thibault command: shoot
+2018-02-21 22:12:33,734 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,736 INFO Bobot command: reload
+2018-02-21 22:12:33,739 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,741 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,745 INFO Turn 2 begins
+2018-02-21 22:12:33,747 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,750 INFO Thibault command: shoot
+2018-02-21 22:12:33,751 INFO Killing Thibault
+2018-02-21 22:12:33,755 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,760 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,764 INFO Thibault exit code: 1
+2018-02-21 22:12:33,764 INFO Thibault shoots Bobot
+2018-02-21 22:12:33,768 INFO Killing Bobot
+2018-02-21 22:12:33,769 INFO Killing Thibault
+2018-02-21 22:12:33,777 INFO Bobot exit code: None
+2018-02-21 22:12:33,782 INFO Thibault exit code: None
+2018-02-21 22:12:33,788 INFO Killing Bobot
+2018-02-21 22:12:33,796 INFO Bobot exit code: -9
+2018-02-21 22:12:33,841 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,846 INFO Turn 1 begins
+2018-02-21 22:12:33,851 INFO Thibault command: shoot
+2018-02-21 22:12:33,856 INFO Bobot command: shoot
+2018-02-21 22:12:33,862 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,867 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,872 INFO Turn 2 begins
+2018-02-21 22:12:33,877 INFO Thibault command: reload
+2018-02-21 22:12:33,883 INFO Bobot command: reload
+2018-02-21 22:12:33,888 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,893 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,897 INFO Turn 3 begins
+2018-02-21 22:12:33,902 INFO Thibault command: dodge
+2018-02-21 22:12:33,907 INFO Bobot command: dodge
+2018-02-21 22:12:33,912 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,915 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,920 INFO Turn 4 begins
+2018-02-21 22:12:33,925 INFO Thibault command: shoot
+2018-02-21 22:12:33,931 INFO Bobot command: shoot
+2018-02-21 22:12:33,936 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,940 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:33,943 INFO Turn 5 begins
+2018-02-21 22:12:33,946 INFO Thibault command: reload
+2018-02-21 22:12:33,949 INFO Bobot command: reload
+2018-02-21 22:12:33,952 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:33,956 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:33,959 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:33,960 INFO Turn 6 begins
+2018-02-21 22:12:33,964 INFO Turn 1 begins
+2018-02-21 22:12:33,965 INFO Thibault command: dodge
+2018-02-21 22:12:33,969 INFO Thibault command: dodge
+2018-02-21 22:12:33,970 INFO Bobot command: dodge
+2018-02-21 22:12:33,973 INFO Bobot command: shoot
+2018-02-21 22:12:33,974 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:33,978 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:33,979 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,983 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:33,985 INFO Turn 7 begins
+2018-02-21 22:12:33,987 INFO Turn 2 begins
+2018-02-21 22:12:33,989 INFO Thibault command: shoot
+2018-02-21 22:12:33,992 INFO Thibault command: reload
+2018-02-21 22:12:33,994 INFO Bobot command: shoot
+2018-02-21 22:12:33,996 INFO Bobot shot but without bullets
+2018-02-21 22:12:33,998 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,001 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,002 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:34,004 INFO Turn 8 begins
+2018-02-21 22:12:34,006 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,007 INFO Thibault command: reload
+2018-02-21 22:12:34,011 INFO Turn 3 begins
+2018-02-21 22:12:34,012 INFO Bobot command: reload
+2018-02-21 22:12:34,014 INFO Thibault command: shoot
+2018-02-21 22:12:34,016 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,018 INFO Bobot command: reload
+2018-02-21 22:12:34,019 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,021 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,022 INFO Turn 9 begins
+2018-02-21 22:12:34,024 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,025 INFO Thibault command: shoot
+2018-02-21 22:12:34,027 INFO Killing Thibault
+2018-02-21 22:12:34,029 INFO Bobot command: dodge
+2018-02-21 22:12:34,029 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,030 INFO Thibault exit code: None
+2018-02-21 22:12:34,033 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,034 INFO Turn 1 begins
+2018-02-21 22:12:34,035 INFO Killing Bobot
+2018-02-21 22:12:34,037 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,037 INFO Thibault command: shoot
+2018-02-21 22:12:34,040 INFO Bobot exit code: None
+2018-02-21 22:12:34,040 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,042 INFO Turn 10 begins
+2018-02-21 22:12:34,042 INFO Bobot command: shoot
+2018-02-21 22:12:34,045 INFO Turn 1 begins
+2018-02-21 22:12:34,047 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,047 INFO Thibault command: reload
+2018-02-21 22:12:34,050 INFO Thibault command: dodge
+2018-02-21 22:12:34,053 INFO Bobot command: reload
+2018-02-21 22:12:34,054 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,055 INFO Bobot command: shoot
+2018-02-21 22:12:34,058 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,059 INFO Turn 2 begins
+2018-02-21 22:12:34,060 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,063 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,064 INFO Thibault command: reload
+2018-02-21 22:12:34,065 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,068 INFO Turn 11 begins
+2018-02-21 22:12:34,068 INFO Bobot command: reload
+2018-02-21 22:12:34,070 INFO Turn 2 begins
+2018-02-21 22:12:34,073 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,073 INFO Thibault command: reload
+2018-02-21 22:12:34,075 INFO Thibault command: shoot
+2018-02-21 22:12:34,078 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,078 INFO Bobot command: dodge
+nent did: reload
+2018-02-21 22:12:34,082 INFO Bobot shot but without bullets
+2018-02-21 22:12:34,083 INFO Turn 3 begins
+2018-02-21 22:12:34,087 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,088 INFO Thibault command: shoot
+2018-02-21 22:12:34,089 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,091 INFO Bobot command: dodge
+2018-02-21 22:12:34,092 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,096 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,099 INFO Killing Thibault
+2018-02-21 22:12:34,102 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,108 INFO Thibault exit code: None
+2018-02-21 22:12:34,113 INFO Turn 4 begins
+2018-02-21 22:12:34,117 INFO Killing Bobot
+2018-02-21 22:12:34,126 INFO Thibault command: reload
+2018-02-21 22:12:34,128 INFO Bobot exit code: None
+2018-02-21 22:12:34,142 INFO Bobot command: reload
+2018-02-21 22:12:34,150 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,157 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,163 INFO Turn 5 begins
+2018-02-21 22:12:34,169 INFO Thibault command: dodge
+2018-02-21 22:12:34,142 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,176 INFO Bobot command: dodge
+2018-02-21 22:12:34,179 INFO Turn 12 begins
+2018-02-21 22:12:34,181 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,184 INFO Thibault command: dodge
+2018-02-21 22:12:34,186 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,188 INFO Bobot command: dodge
+2018-02-21 22:12:34,193 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,197 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,199 INFO Turn 6 begins
+2018-02-21 22:12:34,202 INFO Turn 13 begins
+2018-02-21 22:12:34,203 INFO Thibault command: reload
+2018-02-21 22:12:34,207 INFO Thibault command: reload
+2018-02-21 22:12:34,208 INFO Bobot command: shoot
+2018-02-21 22:12:34,213 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,213 INFO Bobot command: shoot
+2018-02-21 22:12:34,218 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,222 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,223 INFO Killing Thibault
+2018-02-21 22:12:34,225 INFO Killing Thibault
+2018-02-21 22:12:34,229 INFO Thibault exit code: None
+2018-02-21 22:12:34,235 INFO Killing Bobot
+2018-02-21 22:12:34,238 INFO Thibault exit code: 1
+2018-02-21 22:12:34,240 INFO Bobot exit code: None
+2018-02-21 22:12:34,245 INFO Killing Bobot
+2018-02-21 22:12:34,256 INFO Bobot exit code: None
+2018-02-21 22:12:34,312 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,318 INFO Turn 1 begins
+2018-02-21 22:12:34,323 INFO Thibault command: dodge
+2018-02-21 22:12:34,328 INFO Bobot command: shoot
+2018-02-21 22:12:34,333 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,339 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,344 INFO Turn 2 begins
+2018-02-21 22:12:34,349 INFO Thibault command: reload
+2018-02-21 22:12:34,354 INFO Bobot shot but without bullets
+2018-02-21 22:12:34,359 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:34,364 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,367 INFO Turn 3 begins
+2018-02-21 22:12:34,370 INFO Thibault command: shoot
+2018-02-21 22:12:34,373 INFO Bobot command: reload
+2018-02-21 22:12:34,376 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,380 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,384 INFO Killing Thibault
+2018-02-21 22:12:34,389 INFO Thibault exit code: None
+2018-02-21 22:12:34,393 INFO Killing Bobot
+2018-02-21 22:12:34,393 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,399 INFO Turn 1 begins
+2018-02-21 22:12:34,403 INFO Bobot exit code: None
+2018-02-21 22:12:34,404 INFO Thibault command: shoot
+2018-02-21 22:12:34,410 INFO Bobot command: shoot
+2018-02-21 22:12:34,415 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,421 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,426 INFO Turn 2 begins
+2018-02-21 22:12:34,432 INFO Thibault command: reload
+2018-02-21 22:12:34,438 INFO Bobot command: reload
+2018-02-21 22:12:34,443 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,449 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,457 INFO Turn 3 begins
+2018-02-21 22:12:34,463 INFO Thibault command: reload
+2018-02-21 22:12:34,466 INFO Bobot command: dodge
+2018-02-21 22:12:34,470 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,473 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,477 INFO Turn 4 begins
+2018-02-21 22:12:34,480 INFO Thibault command: reload
+2018-02-21 22:12:34,483 INFO Bobot command: dodge
+2018-02-21 22:12:34,487 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,488 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,492 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,493 INFO Turn 1 begins
+2018-02-21 22:12:34,497 INFO Thibault command: reload
+2018-02-21 22:12:34,498 INFO Turn 5 begins
+2018-02-21 22:12:34,501 INFO Thibault command: shoot
+2018-02-21 22:12:34,502 INFO Bobot command: shoot
+2018-02-21 22:12:34,505 INFO Bobot command: dodge
+2018-02-21 22:12:34,507 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,510 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,512 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,512 INFO Starting new showdown: Thibault vs Bobot
+ponent did: shoot
+2018-02-21 22:12:34,516 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,517 INFO Killing Thibault
+2018-02-21 22:12:34,517 INFO Turn 1 begins
+2018-02-21 22:12:34,521 INFO Turn 6 begins
+2018-02-21 22:12:34,522 INFO Thibault exit code: None
+2018-02-21 22:12:34,523 INFO Thibault command: reload
+2018-02-21 22:12:34,527 INFO Killing Bobot
+2018-02-21 22:12:34,528 INFO Thibault command: dodge
+2018-02-21 22:12:34,528 INFO Bobot command: shoot
+2018-02-21 22:12:34,533 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,534 INFO Bobot command: reload
+2018-02-21 22:12:34,536 INFO Bobot exit code: None
+2018-02-21 22:12:34,538 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,539 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,543 INFO Killing Thibault
+2018-02-21 22:12:34,546 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,548 INFO Thibault exit code: None
+2018-02-21 22:12:34,553 INFO Turn 7 begins
+2018-02-21 22:12:34,554 INFO Killing Bobot
+2018-02-21 22:12:34,559 INFO Bobot exit code: None
+2018-02-21 22:12:34,560 INFO Thibault command: dodge
+2018-02-21 22:12:34,568 INFO Bobot command: shoot
+2018-02-21 22:12:34,573 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,583 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,588 INFO Turn 8 begins
+2018-02-21 22:12:34,592 INFO Thibault command: reload
+2018-02-21 22:12:34,598 INFO Bobot command: shoot
+2018-02-21 22:12:34,604 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,609 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,615 INFO Killing Thibault
+2018-02-21 22:12:34,627 INFO Thibault exit code: None
+2018-02-21 22:12:34,632 INFO Killing Bobot
+2018-02-21 22:12:34,639 INFO Bobot exit code: None
+2018-02-21 22:12:34,655 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,660 INFO Turn 1 begins
+2018-02-21 22:12:34,666 INFO Thibault command: reload
+2018-02-21 22:12:34,671 INFO Bobot command: shoot
+2018-02-21 22:12:34,677 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,682 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,688 INFO Killing Thibault
+2018-02-21 22:12:34,695 INFO Thibault exit code: None
+2018-02-21 22:12:34,701 INFO Killing Bobot
+2018-02-21 22:12:34,706 INFO Bobot exit code: None
+2018-02-21 22:12:34,790 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,795 INFO Turn 1 begins
+2018-02-21 22:12:34,799 INFO Thibault command: dodge
+2018-02-21 22:12:34,804 INFO Bobot command: shoot
+2018-02-21 22:12:34,809 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,815 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,820 INFO Turn 2 begins
+2018-02-21 22:12:34,824 INFO Thibault command: reload
+2018-02-21 22:12:34,824 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,829 INFO Bobot shot but without bullets
+2018-02-21 22:12:34,830 INFO Turn 1 begins
+2018-02-21 22:12:34,835 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:34,835 INFO Thibault command: shoot
+2018-02-21 22:12:34,841 INFO Bobot command: shoot
+2018-02-21 22:12:34,844 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,846 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,848 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,852 INFO Turn 3 begins
+2018-02-21 22:12:34,852 INFO Turn 2 begins
+2018-02-21 22:12:34,856 INFO Thibault command: reload
+2018-02-21 22:12:34,858 INFO Thibault command: reload
+2018-02-21 22:12:34,861 INFO Bobot command: reload
+2018-02-21 22:12:34,863 INFO Bobot command: reload
+2018-02-21 22:12:34,864 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,868 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,870 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,872 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,875 INFO Turn 3 begins
+2018-02-21 22:12:34,877 INFO Turn 4 begins
+2018-02-21 22:12:34,880 INFO Thibault command: reload
+2018-02-21 22:12:34,882 INFO Thibault command: shoot
+2018-02-21 22:12:34,884 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,887 INFO Bobot command: dodge
+2018-02-21 22:12:34,888 INFO Bobot command: dodge
+2018-02-21 22:12:34,890 INFO Turn 1 begins
+2018-02-21 22:12:34,893 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,894 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,896 INFO Thibault command: dodge
+2018-02-21 22:12:34,898 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,901 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,902 INFO Bobot command: shoot
+2018-02-21 22:12:34,903 INFO Turn 4 begins
+2018-02-21 22:12:34,906 INFO Turn 5 begins
+2018-02-21 22:12:34,908 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:34,908 INFO Thibault command: reload
+2018-02-21 22:12:34,912 INFO Thibault command: dodge
+2018-02-21 22:12:34,914 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,914 INFO Bobot command: dodge
+2018-02-21 22:12:34,917 INFO Bobot command: reload
+2018-02-21 22:12:34,919 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,920 INFO Turn 2 begins
+2018-02-21 22:12:34,923 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,924 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,925 INFO Thibault command: shoot
+2018-02-21 22:12:34,928 INFO Turn 5 begins
+2018-02-21 22:12:34,928 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:34,930 INFO Bobot shot but without bullets
+2018-02-21 22:12:34,932 INFO Thibault command: shoot
+2018-02-21 22:12:34,934 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,935 INFO Bobot command: dodge
+2018-02-21 22:12:34,936 INFO Turn 6 begins
+2018-02-21 22:12:34,939 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,939 INFO Thibault shoots Bobot
+2018-02-21 22:12:34,941 INFO Thibault command: reload
+ opponent did: dodge
+2018-02-21 22:12:34,943 INFO Killing Thibault
+2018-02-21 22:12:34,944 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,947 INFO Bobot command: shoot
+2018-02-21 22:12:34,947 INFO Turn 6 begins
+2018-02-21 22:12:34,949 INFO Thibault exit code: None
+2018-02-21 22:12:34,951 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,952 INFO Thibault command: reload
+2018-02-21 22:12:34,954 INFO Killing Bobot
+2018-02-21 22:12:34,956 INFO Bobot command: reload
+2018-02-21 22:12:34,957 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,958 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:34,960 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:34,963 INFO Bobot exit code: -9
+2018-02-21 22:12:34,963 INFO Killing Thibault
+2018-02-21 22:12:34,964 INFO Turn 1 begins
+2018-02-21 22:12:34,966 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:34,969 INFO Thibault exit code: None
+2018-02-21 22:12:34,971 INFO Thibault command: reload
+2018-02-21 22:12:34,971 INFO Turn 7 begins
+2018-02-21 22:12:34,974 INFO Killing Bobot
+2018-02-21 22:12:34,976 INFO Bobot command: shoot
+2018-02-21 22:12:34,978 INFO Thibault command: shoot
+2018-02-21 22:12:34,980 INFO Bobot exit code: None
+2018-02-21 22:12:34,982 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,984 INFO Bobot command: dodge
+2018-02-21 22:12:34,988 INFO Bobot shoots Thibault
+2018-02-21 22:12:34,990 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:34,994 INFO Killing Thibault
+2018-02-21 22:12:34,996 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:34,999 INFO Thibault exit code: None
+2018-02-21 22:12:35,005 INFO Killing Bobot
+2018-02-21 22:12:35,006 INFO Turn 8 begins
+2018-02-21 22:12:35,011 INFO Bobot exit code: None
+2018-02-21 22:12:35,013 INFO Thibault command: dodge
+2018-02-21 22:12:35,019 INFO Bobot command: reload
+2018-02-21 22:12:35,027 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,034 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,039 INFO Turn 9 begins
+2018-02-21 22:12:35,045 INFO Thibault command: dodge
+2018-02-21 22:12:35,055 INFO Bobot command: shoot
+2018-02-21 22:12:35,060 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,066 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,076 INFO Turn 10 begins
+2018-02-21 22:12:35,082 INFO Thibault command: reload
+2018-02-21 22:12:35,088 INFO Bobot command: shoot
+2018-02-21 22:12:35,093 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,099 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,104 INFO Killing Thibault
+2018-02-21 22:12:35,115 INFO Thibault exit code: None
+2018-02-21 22:12:35,122 INFO Killing Bobot
+2018-02-21 22:12:35,130 INFO Bobot exit code: None
+2018-02-21 22:12:35,221 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,227 INFO Turn 1 begins
+2018-02-21 22:12:35,231 INFO Thibault command: dodge
+2018-02-21 22:12:35,235 INFO Bobot command: shoot
+2018-02-21 22:12:35,236 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,241 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,242 INFO Turn 1 begins
+2018-02-21 22:12:35,246 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,247 INFO Thibault command: shoot
+2018-02-21 22:12:35,250 INFO Turn 2 begins
+2018-02-21 22:12:35,253 INFO Bobot command: shoot
+2018-02-21 22:12:35,256 INFO Thibault command: reload
+2018-02-21 22:12:35,257 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,260 INFO Bobot shot but without bullets
+2018-02-21 22:12:35,264 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,265 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:35,268 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,269 INFO Turn 2 begins
+2018-02-21 22:12:35,271 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,274 INFO Turn 1 begins
+:35,274 INFO Turn 1 begins
+2018-02-21 22:12:35,275 INFO Thibault command: reload
+2018-02-21 22:12:35,278 INFO Turn 3 begins
+2018-02-21 22:12:35,281 INFO Thibault command: shoot
+2018-02-21 22:12:35,281 INFO Bobot command: reload
+2018-02-21 22:12:35,284 INFO Thibault command: reload
+2018-02-21 22:12:35,287 INFO Bobot command: shoot
+2018-02-21 22:12:35,287 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,290 INFO Bobot command: reload
+2018-02-21 22:12:35,293 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,293 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,296 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,299 INFO Turn 3 begins
+2018-02-21 22:12:35,302 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,302 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,305 INFO Thibault command: shoot
+2018-02-21 22:12:35,308 INFO Turn 2 begins
+2018-02-21 22:12:35,308 INFO Turn 4 begins
+2018-02-21 22:12:35,311 INFO Bobot command: dodge
+2018-02-21 22:12:35,314 INFO Thibault command: reload
+2018-02-21 22:12:35,317 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,318 INFO Bobot command: reload
+2018-02-21 22:12:35,319 INFO Thibault command: shoot
+2018-02-21 22:12:35,323 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,325 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,327 INFO Bobot command: dodge
+2018-02-21 22:12:35,329 INFO Turn 4 begins
+2018-02-21 22:12:35,332 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,334 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,336 INFO Thibault command: reload
+2018-02-21 22:12:35,337 INFO Turn 3 begins
+2018-02-21 22:12:35,339 INFO Bobot command: reload
+2018-02-21 22:12:35,341 INFO Thibault command: shoot
+2018-02-21 22:12:35,343 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,344 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,347 INFO Bobot command: dodge
+2018-02-21 22:12:35,349 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,350 INFO Turn 5 begins
+2018-02-21 22:12:35,352 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,353 INFO Turn 5 begins
+2018-02-21 22:12:35,355 INFO Thibault command: dodge
+2018-02-21 22:12:35,358 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,358 INFO Thibault command: dodge
+2018-02-21 22:12:35,361 INFO Bobot command: reload
+2018-02-21 22:12:35,363 INFO Bobot command: dodge
+2018-02-21 22:12:35,363 INFO Turn 4 begins
+2018-02-21 22:12:35,367 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,367 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,369 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,369 INFO Thibault command: dodge
+2018-02-21 22:12:35,373 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,373 INFO Turn 1 begins
+2018-02-21 22:12:35,375 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,375 INFO Bobot command: reload
+2018-02-21 22:12:35,379 INFO Thibault command: shoot
+2018-02-21 22:12:35,379 INFO Turn 6 begins
+2018-02-21 22:12:35,381 INFO Turn 6 begins
+2018-02-21 22:12:35,381 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,385 INFO Bobot command: shoot
+2018-02-21 22:12:35,385 INFO Thibault command: dodge
+2018-02-21 22:12:35,387 INFO Thibault command: dodge
+2018-02-21 22:12:35,387 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,391 INFO Bobot command: shoot
+2018-02-21 22:12:35,392 INFO Turn 5 begins
+2018-02-21 22:12:35,392 INFO Bobot command: shoot
+2018-02-21 22:12:35,394 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,397 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,398 INFO Thibault command: dodge
+2018-02-21 22:12:35,398 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,400 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,403 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,404 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,404 INFO Bobot command: shoot
+2018-02-21 22:12:35,406 INFO Turn 2 begins
+2018-02-21 22:12:35,410 INFO Turn 7 begins
+2018-02-21 22:12:35,410 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,411 INFO Turn 7 begins
+2018-02-21 22:12:35,412 INFO Thibault command: reload
+2018-02-21 22:12:35,416 INFO Thibault command: reload
+2018-02-21 22:12:35,417 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,417 INFO Thibault command: shoot
+2018-02-21 22:12:35,417 INFO Bobot command: reload
+2018-02-21 22:12:35,422 INFO Bobot command: shoot
+2018-02-21 22:12:35,423 INFO Bobot command: shoot
+2018-02-21 22:12:35,423 INFO Turn 6 begins
+2018-02-21 22:12:35,423 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,428 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,428 INFO Thibault command: reload
+2018-02-21 22:12:35,428 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,430 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,434 INFO Bobot command: shoot
+2018-02-21 22:12:35,434 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,434 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,438 INFO Turn 3 begins
+2018-02-21 22:12:35,439 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,440 INFO Killing Thibault
+2018-02-21 22:12:35,441 INFO Turn 8 begins
+2018-02-21 22:12:35,443 INFO Thibault command: dodge
+2018-02-21 22:12:35,445 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,446 INFO Thibault command: dodge
+2018-02-21 22:12:35,448 INFO Thibault exit code: None
+2018-02-21 22:12:35,450 INFO Bobot command: dodge
+2018-02-21 22:12:35,451 INFO Killing Thibault
+2018-02-21 22:12:35,453 INFO Bobot command: reload
+2018-02-21 22:12:35,454 INFO Killing Bobot
+2018-02-21 22:12:35,456 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,457 INFO Thibault exit code: None
+2018-02-21 22:12:35,461 INFO Bobot exit code: None
+2018-02-21 22:12:35,462 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,462 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,463 INFO Killing Bobot
+2018-02-21 22:12:35,468 INFO Bobot exit code: None
+2018-02-21 22:12:35,469 INFO Turn 4 begins
+2018-02-21 22:12:35,468 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,475 INFO Thibault command: shoot
+2018-02-21 22:12:35,476 INFO Turn 9 begins
+2018-02-21 22:12:35,481 INFO Bobot command: shoot
+2018-02-21 22:12:35,484 INFO Thibault command: reload
+2018-02-21 22:12:35,486 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,490 INFO Bobot command: shoot
+2018-02-21 22:12:35,492 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,496 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,498 INFO Turn 5 begins
+2018-02-21 22:12:35,501 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,504 INFO Thibault command: reload
+2018-02-21 22:12:35,509 INFO Killing Thibault
+2018-02-21 22:12:35,510 INFO Bobot command: reload
+2018-02-21 22:12:35,517 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,523 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,524 INFO Thibault exit code: 1
+2018-02-21 22:12:35,529 INFO Turn 6 begins
+2018-02-21 22:12:35,530 INFO Killing Bobot
+2018-02-21 22:12:35,535 INFO Thibault command: dodge
+2018-02-21 22:12:35,541 INFO Bobot exit code: 1
+2018-02-21 22:12:35,541 INFO Bobot command: dodge
+2018-02-21 22:12:35,548 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,554 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,560 INFO Turn 7 begins
+2018-02-21 22:12:35,567 INFO Thibault command: dodge
+2018-02-21 22:12:35,589 INFO Bobot command: shoot
+2018-02-21 22:12:35,595 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,604 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,610 INFO Turn 8 begins
+2018-02-21 22:12:35,618 INFO Thibault command: reload
+2018-02-21 22:12:35,626 INFO Bobot shot but without bullets
+2018-02-21 22:12:35,632 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:35,638 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,646 INFO Turn 9 begins
+2018-02-21 22:12:35,651 INFO Thibault command: reload
+2018-02-21 22:12:35,660 INFO Bobot command: reload
+2018-02-21 22:12:35,666 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,673 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,679 INFO Turn 10 begins
+2018-02-21 22:12:35,685 INFO Thibault command: shoot
+2018-02-21 22:12:35,691 INFO Bobot command: dodge
+2018-02-21 22:12:35,697 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,704 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,712 INFO Turn 11 begins
+2018-02-21 22:12:35,716 INFO Thibault command: reload
+2018-02-21 22:12:35,719 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,720 INFO Bobot command: reload
+2018-02-21 22:12:35,724 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,725 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:35,725 INFO Turn 1 begins
+2018-02-21 22:12:35,730 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,732 INFO Turn 1 begins
+2018-02-21 22:12:35,732 INFO Thibault command: dodge
+2018-02-21 22:12:35,736 INFO Turn 12 begins
+2018-02-21 22:12:35,739 INFO Thibault command: shoot
+2018-02-21 22:12:35,739 INFO Bobot command: shoot
+2018-02-21 22:12:35,742 INFO Thibault command: reload
+2018-02-21 22:12:35,745 INFO Bobot command: shoot
+2018-02-21 22:12:35,745 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,748 INFO Bobot command: dodge
+2018-02-21 22:12:35,750 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,754 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,754 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,757 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,760 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,760 INFO Turn 2 begins
+2018-02-21 22:12:35,763 INFO Turn 2 begins
+2018-02-21 22:12:35,766 INFO Turn 13 begins
+2018-02-21 22:12:35,769 INFO Thibault command: reload
+2018-02-21 22:12:35,769 INFO Thibault command: shoot
+2018-02-21 22:12:35,771 INFO Thibault command: reload
+2018-02-21 22:12:35,775 INFO Bobot command: reload
+2018-02-21 22:12:35,775 INFO Bobot shot but without bullets
+2018-02-21 22:12:35,777 INFO Bobot command: dodge
+2018-02-21 22:12:35,781 INFO Thibault shoots Bobot
+2018-02-21 22:12:35,782 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,783 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,787 INFO Thibault shoots Bobot
+2018-02-21 22:12:35,787 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,788 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,791 INFO Turn 14 begins
+2018-02-21 22:12:35,793 INFO Turn 3 begins
+2018-02-21 22:12:35,795 INFO Thibault command: dodge
+2018-02-21 22:12:35,797 INFO Thibault command: reload
+2018-02-21 22:12:35,799 INFO Killing Thibault
+2018-02-21 22:12:35,800 INFO Bobot command: dodge
+2018-02-21 22:12:35,801 INFO Bobot command: dodge
+2018-02-21 22:12:35,805 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,806 INFO Thibault exit code: None
+2018-02-21 22:12:35,806 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,809 INFO Starting new showdown: Thibault vs Bobot
+e
+2018-02-21 22:12:35,812 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,812 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,813 INFO Killing Bobot
+2018-02-21 22:12:35,817 INFO Turn 1 begins
+2018-02-21 22:12:35,817 INFO Turn 15 begins
+2018-02-21 22:12:35,818 INFO Turn 4 begins
+2018-02-21 22:12:35,823 INFO Thibault command: reload
+2018-02-21 22:12:35,823 INFO Bobot exit code: None
+2018-02-21 22:12:35,823 INFO Thibault command: dodge
+2018-02-21 22:12:35,825 INFO Thibault command: reload
+2018-02-21 22:12:35,829 INFO Bobot command: shoot
+2018-02-21 22:12:35,829 INFO Bobot command: dodge
+2018-02-21 22:12:35,831 INFO Bobot command: shoot
+2018-02-21 22:12:35,835 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:35,836 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,838 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,842 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:35,843 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,845 INFO Bobot shoots Thibault
+2018-02-21 22:12:35,849 INFO Turn 2 begins
+2018-02-21 22:12:35,849 INFO Turn 5 begins
+2018-02-21 22:12:35,851 INFO Killing Thibault
+2018-02-21 22:12:35,855 INFO Thibault command: shoot
+2018-02-21 22:12:35,856 INFO Thibault command: shoot
+2018-02-21 22:12:35,861 INFO Bobot shot but without bullets
+2018-02-21 22:12:35,863 INFO Bobot command: dodge
+2018-02-21 22:12:35,863 INFO Thibault exit code: 1
+2018-02-21 22:12:35,868 INFO Thibault shoots Bobot
+2018-02-21 22:12:35,869 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,869 INFO Killing Bobot
+2018-02-21 22:12:35,876 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:35,876 INFO Thibault shoots Bobot
+2018-02-21 22:12:35,879 INFO Bobot exit code: 1
+2018-02-21 22:12:35,882 INFO Turn 6 begins
+2018-02-21 22:12:35,882 INFO Killing Thibault
+2018-02-21 22:12:35,888 INFO Thibault exit code: None
+2018-02-21 22:12:35,891 INFO Thibault command: reload
+2018-02-21 22:12:35,895 INFO Killing Bobot
+2018-02-21 22:12:35,898 INFO Bobot command: reload
+2018-02-21 22:12:35,904 INFO Bobot exit code: None
+2018-02-21 22:12:35,906 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:35,917 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,925 INFO Turn 7 begins
+2018-02-21 22:12:35,932 INFO Thibault command: reload
+2018-02-21 22:12:35,941 INFO Bobot command: dodge
+2018-02-21 22:12:35,947 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,954 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,961 INFO Turn 8 begins
+2018-02-21 22:12:35,967 INFO Thibault command: reload
+2018-02-21 22:12:35,976 INFO Bobot command: dodge
+2018-02-21 22:12:35,983 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:35,989 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:35,996 INFO Turn 9 begins
+2018-02-21 22:12:36,003 INFO Thibault command: shoot
+2018-02-21 22:12:36,009 INFO Bobot command: dodge
+2018-02-21 22:12:36,016 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:36,023 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:36,032 INFO Turn 10 begins
+2018-02-21 22:12:36,039 INFO Thibault command: reload
+2018-02-21 22:12:36,046 INFO Bobot command: reload
+2018-02-21 22:12:36,052 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:36,060 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,067 INFO Turn 11 begins
+2018-02-21 22:12:36,073 INFO Thibault command: dodge
+2018-02-21 22:12:36,076 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,080 INFO Bobot command: dodge
+2018-02-21 22:12:36,083 INFO Turn 1 begins
+2018-02-21 22:12:36,087 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:36,090 INFO Thibault command: reload
+2018-02-21 22:12:36,094 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,097 INFO Bobot command: shoot
+2018-02-21 22:12:36,100 INFO Turn 12 begins
+2018-02-21 22:12:36,104 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,105 INFO Thibault command: dodge
+2018-02-21 22:12:36,109 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,110 INFO Bobot command: shoot
+2018-02-21 22:12:36,115 INFO Killing Thibault
+2018-02-21 22:12:36,115 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,120 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,121 INFO Thibault exit code: None
+2018-02-21 22:12:36,125 INFO Turn 13 begins
+2018-02-21 22:12:36,126 INFO Killing Bobot
+2018-02-21 22:12:36,130 INFO Thibault command: reload
+2018-02-21 22:12:36,131 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,134 INFO Bobot exit code: None
+2018-02-21 22:12:36,137 INFO Bobot command: shoot
+2018-02-21 22:12:36,137 INFO Turn 1 begins
+2018-02-21 22:12:36,143 INFO Thibault command: dodge
+2018-02-21 22:12:36,143 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,148 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,150 INFO Bobot command: shoot
+2018-02-21 22:12:36,152 INFO Killing Thibault
+2018-02-21 22:12:36,156 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,157 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,163 INFO Turn 1 begins
+2018-02-21 22:12:36,164 INFO Thibault exit code: 1
+2018-02-21 22:12:36,164 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,169 INFO Thibault command: reload
+2018-02-21 22:12:36,171 INFO Turn 2 begins
+2018-02-21 22:12:36,171 INFO Killing Bobot
+nd: reload
+2018-02-21 22:12:36,176 INFO Bobot command: shoot
+2018-02-21 22:12:36,177 INFO Thibault command: reload
+2018-02-21 22:12:36,181 INFO Bobot exit code: None
+2018-02-21 22:12:36,182 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,184 INFO Bobot shot but without bullets
+2018-02-21 22:12:36,189 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,190 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:36,196 INFO Killing Thibault
+2018-02-21 22:12:36,197 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,202 INFO Thibault exit code: None
+2018-02-21 22:12:36,209 INFO Turn 3 begins
+2018-02-21 22:12:36,209 INFO Killing Bobot
+2018-02-21 22:12:36,215 INFO Thibault command: shoot
+2018-02-21 22:12:36,216 INFO Bobot exit code: None
+2018-02-21 22:12:36,224 INFO Bobot command: reload
+2018-02-21 22:12:36,236 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,242 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,249 INFO Killing Thibault
+2018-02-21 22:12:36,261 INFO Thibault exit code: None
+2018-02-21 22:12:36,268 INFO Killing Bobot
+2018-02-21 22:12:36,279 INFO Bobot exit code: 1
+2018-02-21 22:12:36,389 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,398 INFO Turn 1 begins
+2018-02-21 22:12:36,405 INFO Thibault command: dodge
+2018-02-21 22:12:36,410 INFO Bobot command: shoot
+2018-02-21 22:12:36,416 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,424 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,430 INFO Turn 2 begins
+2018-02-21 22:12:36,435 INFO Thibault command: reload
+2018-02-21 22:12:36,440 INFO Bobot shot but without bullets
+2018-02-21 22:12:36,445 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:36,449 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,454 INFO Turn 3 begins
+2018-02-21 22:12:36,459 INFO Thibault command: shoot
+2018-02-21 22:12:36,463 INFO Bobot command: reload
+2018-02-21 22:12:36,465 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,469 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,471 INFO Turn 1 begins
+2018-02-21 22:12:36,471 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,477 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,478 INFO Thibault command: dodge
+2018-02-21 22:12:36,479 INFO Turn 1 begins
+2018-02-21 22:12:36,484 INFO Killing Thibault
+2018-02-21 22:12:36,485 INFO Bobot command: shoot
+2018-02-21 22:12:36,485 INFO Thibault command: reload
+2018-02-21 22:12:36,490 INFO Bobot command: shoot
+2018-02-21 22:12:36,491 INFO Thibault exit code: None
+2018-02-21 22:12:36,492 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,495 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,498 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,499 INFO Killing Bobot
+2018-02-21 22:12:36,500 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,503 INFO Turn 2 begins
+2018-02-21 22:12:36,506 INFO Bobot exit code: None
+2018-02-21 22:12:36,507 INFO Killing Thibault
+2018-02-21 22:12:36,508 INFO Thibault command: reload
+2018-02-21 22:12:36,513 INFO Thibault exit code: None
+2018-02-21 22:12:36,515 INFO Bobot shot but without bullets
+2018-02-21 22:12:36,520 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:36,520 INFO Killing Bobot
+2018-02-21 22:12:36,524 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,527 INFO Bobot exit code: None
+2018-02-21 22:12:36,531 INFO Turn 3 begins
+2018-02-21 22:12:36,531 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,538 INFO Thibault command: shoot
+2018-02-21 22:12:36,540 INFO Turn 1 begins
+2018-02-21 22:12:36,546 INFO Bobot command: reload
+2018-02-21 22:12:36,547 INFO Thibault command: shoot
+2018-02-21 22:12:36,553 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,557 INFO Bobot command: shoot
+2018-02-21 22:12:36,560 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,563 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,567 INFO Killing Thibault
+2018-02-21 22:12:36,571 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:36,574 INFO Thibault exit code: None
+2018-02-21 22:12:36,580 INFO Turn 2 begins
+2018-02-21 22:12:36,581 INFO Killing Bobot
+2018-02-21 22:12:36,588 INFO Bobot exit code: None
+2018-02-21 22:12:36,587 INFO Thibault command: reload
+2018-02-21 22:12:36,602 INFO Bobot command: reload
+2018-02-21 22:12:36,611 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:36,618 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,625 INFO Turn 3 begins
+2018-02-21 22:12:36,632 INFO Thibault command: reload
+2018-02-21 22:12:36,640 INFO Bobot command: dodge
+2018-02-21 22:12:36,646 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:36,657 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,663 INFO Turn 4 begins
+2018-02-21 22:12:36,670 INFO Thibault command: shoot
+2018-02-21 22:12:36,677 INFO Bobot command: dodge
+2018-02-21 22:12:36,684 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:36,692 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:36,698 INFO Turn 5 begins
+2018-02-21 22:12:36,713 INFO Thibault command: dodge
+2018-02-21 22:12:36,722 INFO Bobot command: reload
+2018-02-21 22:12:36,729 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:36,736 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,741 INFO Turn 6 begins
+2018-02-21 22:12:36,748 INFO Thibault command: dodge
+2018-02-21 22:12:36,753 INFO Bobot command: shoot
+2018-02-21 22:12:36,758 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,759 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,764 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,766 INFO Turn 1 begins
+2018-02-21 22:12:36,770 INFO Turn 7 begins
+2018-02-21 22:12:36,774 INFO Thibault command: dodge
+2018-02-21 22:12:36,775 INFO Thibault command: reload
+2018-02-21 22:12:36,779 INFO Bobot command: shoot
+2018-02-21 22:12:36,784 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,785 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,786 INFO Bobot command: shoot
+2018-02-21 22:12:36,791 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,792 INFO Turn 1 begins
+2018-02-21 22:12:36,794 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,798 INFO Killing Thibault
+2018-02-21 22:12:36,799 INFO Thibault command: shoot
+2018-02-21 22:12:36,801 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,807 INFO Bobot command: shoot
+2018-02-21 22:12:36,807 INFO Thibault exit code: None
+one
+2018-02-21 22:12:36,809 INFO Turn 2 begins
+2018-02-21 22:12:36,812 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,813 INFO Killing Bobot
+2018-02-21 22:12:36,817 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:36,818 INFO Bobot exit code: None
+2018-02-21 22:12:36,821 INFO Thibault command: reload
+2018-02-21 22:12:36,823 INFO Turn 2 begins
+2018-02-21 22:12:36,827 INFO Bobot shot but without bullets
+2018-02-21 22:12:36,830 INFO Thibault command: reload
+2018-02-21 22:12:36,834 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:36,836 INFO Bobot command: reload
+2018-02-21 22:12:36,840 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,843 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:36,846 INFO Turn 3 begins
+2018-02-21 22:12:36,849 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:36,850 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:36,855 INFO Thibault command: shoot
+2018-02-21 22:12:36,857 INFO Turn 1 begins
+2018-02-21 22:12:36,858 INFO Turn 3 begins
+2018-02-21 22:12:36,863 INFO Bobot command: reload
+2018-02-21 22:12:36,865 INFO Thibault command: shoot
+2018-02-21 22:12:36,867 INFO Thibault command: reload
+t
+2018-02-21 22:12:36,872 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,873 INFO Bobot command: dodge
+2018-02-21 22:12:36,876 INFO Bobot command: shoot
+2018-02-21 22:12:36,879 INFO Thibault shoots Bobot
+2018-02-21 22:12:36,881 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:36,885 INFO Killing Thibault
+2018-02-21 22:12:36,886 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,888 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:36,892 INFO Thibault exit code: None
+2018-02-21 22:12:36,897 INFO Bobot shoots Thibault
+2018-02-21 22:12:36,898 INFO Turn 4 begins
+2018-02-21 22:12:36,899 INFO Killing Bobot
+2018-02-21 22:12:36,905 INFO Killing Thibault
+2018-02-21 22:12:36,905 INFO Thibault command: dodge
+2018-02-21 22:12:36,906 INFO Bobot exit code: None
+ dodge
+2018-02-21 22:12:36,913 INFO Thibault exit code: None
+2018-02-21 22:12:36,917 INFO Bobot command: reload
+2018-02-21 22:12:36,920 INFO Killing Bobot
+2018-02-21 22:12:36,930 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:36,930 INFO Bobot exit code: 1
+2018-02-21 22:12:36,937 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,946 INFO Turn 5 begins
+2018-02-21 22:12:36,958 INFO Thibault command: dodge
+2018-02-21 22:12:36,967 INFO Bobot command: shoot
+2018-02-21 22:12:36,975 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:36,982 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:36,990 INFO Turn 6 begins
+2018-02-21 22:12:36,999 INFO Thibault command: reload
+2018-02-21 22:12:37,007 INFO Bobot command: shoot
+2018-02-21 22:12:37,014 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,022 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,032 INFO Killing Thibault
+2018-02-21 22:12:37,039 INFO Thibault exit code: None
+2018-02-21 22:12:37,045 INFO Killing Bobot
+2018-02-21 22:12:37,052 INFO Bobot exit code: None
+2018-02-21 22:12:37,063 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,071 INFO Turn 1 begins
+2018-02-21 22:12:37,078 INFO Thibault command: reload
+2018-02-21 22:12:37,087 INFO Bobot command: shoot
+2018-02-21 22:12:37,094 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,103 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,113 INFO Killing Thibault
+2018-02-21 22:12:37,121 INFO Thibault exit code: None
+2018-02-21 22:12:37,128 INFO Killing Bobot
+2018-02-21 22:12:37,136 INFO Bobot exit code: None
+2018-02-21 22:12:37,159 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,165 INFO Turn 1 begins
+2018-02-21 22:12:37,171 INFO Thibault command: shoot
+2018-02-21 22:12:37,179 INFO Bobot command: shoot
+2018-02-21 22:12:37,184 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,186 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,192 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:37,194 INFO Turn 1 begins
+2018-02-21 22:12:37,200 INFO Turn 2 begins
+2018-02-21 22:12:37,202 INFO Thibault command: shoot
+2018-02-21 22:12:37,208 INFO Thibault command: reload
+2018-02-21 22:12:37,210 INFO Bobot command: shoot
+2018-02-21 22:12:37,216 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,217 INFO Bobot command: reload
+2018-02-21 22:12:37,222 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,227 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:37,230 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,235 INFO Turn 2 begins
+2018-02-21 22:12:37,238 INFO Turn 3 begins
+2018-02-21 22:12:37,244 INFO Thibault command: reload
+2018-02-21 22:12:37,247 INFO Thibault command: reload
+2018-02-21 22:12:37,252 INFO Bobot command: reload
+2018-02-21 22:12:37,255 INFO Bobot command: dodge
+2018-02-21 22:12:37,260 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,263 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,267 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,271 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,275 INFO Turn 3 begins
+2018-02-21 22:12:37,280 INFO Turn 4 begins
+2018-02-21 22:12:37,281 INFO Thibault command: reload
+2018-02-21 22:12:37,286 INFO Thibault command: reload
+2018-02-21 22:12:37,288 INFO Bobot command: dodge
+2018-02-21 22:12:37,294 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,296 INFO Bobot command: dodge
+2018-02-21 22:12:37,302 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,304 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,308 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,308 INFO Turn 4 begins
+2018-02-21 22:12:37,313 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,316 INFO Turn 1 begins
+2018-02-21 22:12:37,316 INFO Thibault command: shoot
+2018-02-21 22:12:37,321 INFO Turn 5 begins
+2018-02-21 22:12:37,323 INFO Bobot command: dodge
+2018-02-21 22:12:37,324 INFO Thibault command: reload
+2018-02-21 22:12:37,329 INFO Thibault command: reload
+2018-02-21 22:12:37,331 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,331 INFO Bobot command: shoot
+2018-02-21 22:12:37,337 INFO Bobot command: dodge
+2018-02-21 22:12:37,339 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:37,339 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,348 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,348 INFO Turn 5 begins
+2018-02-21 22:12:37,346 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,353 INFO Killing Thibault
+2018-02-21 22:12:37,355 INFO Thibault command: dodge
+2018-02-21 22:12:37,355 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,360 INFO Thibault exit code: None
+2018-02-21 22:12:37,361 INFO Bobot command: reload
+2018-02-21 22:12:37,364 INFO Turn 6 begins
+2018-02-21 22:12:37,365 INFO Killing Bobot
+2018-02-21 22:12:37,368 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,371 INFO Bobot exit code: None
+2018-02-21 22:12:37,373 INFO Thibault command: shoot
+2018-02-21 22:12:37,374 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,380 INFO Bobot command: dodge
+2018-02-21 22:12:37,381 INFO Turn 6 begins
+2018-02-21 22:12:37,385 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,387 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,389 INFO Thibault command: dodge
+2018-02-21 22:12:37,393 INFO Turn 1 begins
+2018-02-21 22:12:37,396 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:37,397 INFO Bobot command: shoot
+2018-02-21 22:12:37,400 INFO Thibault command: dodge
+2018-02-21 22:12:37,405 INFO Bobot command: shoot
+2018-02-21 22:12:37,406 INFO Turn 7 begins
+2018-02-21 22:12:37,409 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,413 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,415 INFO Thibault command: dodge
+2018-02-21 22:12:37,417 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,420 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,423 INFO Bobot command: reload
+2018-02-21 22:12:37,424 INFO Turn 7 begins
+2018-02-21 22:12:37,429 INFO Turn 2 begins
+2018-02-21 22:12:37,433 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,433 INFO Thibault command: reload
+2018-02-21 22:12:37,437 INFO Thibault command: reload
+2018-02-21 22:12:37,441 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,444 INFO Bobot shot but without bullets
+2018-02-21 22:12:37,445 INFO Bobot command: shoot
+2018-02-21 22:12:37,449 INFO Turn 8 begins
+2018-02-21 22:12:37,452 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:37,453 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,457 INFO Thibault command: dodge
+2018-02-21 22:12:37,460 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,461 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,466 INFO Bobot command: shoot
+2018-02-21 22:12:37,467 INFO Turn 3 begins
+2018-02-21 22:12:37,468 INFO Killing Thibault
+2018-02-21 22:12:37,474 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,475 INFO Thibault command: reload
+2018-02-21 22:12:37,476 INFO Thibault exit code: None
+2018-02-21 22:12:37,483 INFO Bobot command: reload
+2018-02-21 22:12:37,484 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,484 INFO Killing Bobot
+2018-02-21 22:12:37,492 INFO Bobot exit code: None
+2018-02-21 22:12:37,492 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,493 INFO Turn 9 begins
+2018-02-21 22:12:37,499 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:37,502 INFO Thibault command: reload
+2018-02-21 22:12:37,505 INFO Turn 4 begins
+2018-02-21 22:12:37,511 INFO Thibault command: shoot
+2018-02-21 22:12:37,514 INFO Bobot command: shoot
+2018-02-21 22:12:37,521 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,522 INFO Bobot command: dodge
+2018-02-21 22:12:37,529 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,531 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:37,538 INFO Killing Thibault
+2018-02-21 22:12:37,540 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:37,547 INFO Turn 5 begins
+2018-02-21 22:12:37,553 INFO Thibault exit code: 1
+2018-02-21 22:12:37,555 INFO Thibault command: dodge
+2018-02-21 22:12:37,562 INFO Bobot command: reload
+2018-02-21 22:12:37,561 INFO Killing Bobot
+2018-02-21 22:12:37,569 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:37,577 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,580 INFO Bobot exit code: 1
+2018-02-21 22:12:37,585 INFO Turn 6 begins
+2018-02-21 22:12:37,592 INFO Thibault command: dodge
+2018-02-21 22:12:37,599 INFO Bobot command: shoot
+2018-02-21 22:12:37,607 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,610 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,615 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,618 INFO Turn 1 begins
+2018-02-21 22:12:37,622 INFO Turn 7 begins
+2018-02-21 22:12:37,626 INFO Thibault command: dodge
+2018-02-21 22:12:37,632 INFO Thibault command: reload
+2018-02-21 22:12:37,634 INFO Bobot command: shoot
+2018-02-21 22:12:37,642 INFO Bobot command: shoot
+2018-02-21 22:12:37,643 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,650 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,651 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,659 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,660 INFO Turn 2 begins
+2018-02-21 22:12:37,666 INFO Killing Thibault
+2018-02-21 22:12:37,667 INFO Thibault command: shoot
+2018-02-21 22:12:37,679 INFO Bobot shot but without bullets
+2018-02-21 22:12:37,682 INFO Thibault exit code: 1
+2018-02-21 22:12:37,687 INFO Thibault shoots Bobot
+2018-02-21 22:12:37,690 INFO Killing Bobot
+2018-02-21 22:12:37,697 INFO Thibault shoots Bobot
+2018-02-21 22:12:37,704 INFO Bobot exit code: 1
+2018-02-21 22:12:37,708 INFO Killing Thibault
+2018-02-21 22:12:37,720 INFO Thibault exit code: None
+2018-02-21 22:12:37,728 INFO Killing Bobot
+2018-02-21 22:12:37,736 INFO Bobot exit code: None
+2018-02-21 22:12:37,746 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,760 INFO Turn 1 begins
+2018-02-21 22:12:37,768 INFO Thibault command: reload
+2018-02-21 22:12:37,777 INFO Bobot command: shoot
+2018-02-21 22:12:37,785 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,793 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,801 INFO Killing Thibault
+2018-02-21 22:12:37,809 INFO Thibault exit code: None
+2018-02-21 22:12:37,817 INFO Killing Bobot
+2018-02-21 22:12:37,823 INFO Bobot exit code: None
+2018-02-21 22:12:37,826 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,835 INFO Turn 1 begins
+2018-02-21 22:12:37,844 INFO Thibault command: reload
+2018-02-21 22:12:37,855 INFO Bobot command: shoot
+2018-02-21 22:12:37,863 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,876 INFO Bobot shoots Thibault
+2018-02-21 22:12:37,884 INFO Killing Thibault
+2018-02-21 22:12:37,901 INFO Thibault exit code: 1
+2018-02-21 22:12:37,913 INFO Killing Bobot
+2018-02-21 22:12:37,927 INFO Bobot exit code: 1
+2018-02-21 22:12:37,952 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,958 INFO Turn 1 begins
+2018-02-21 22:12:37,965 INFO Thibault command: dodge
+2018-02-21 22:12:37,973 INFO Bobot command: shoot
+2018-02-21 22:12:37,978 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:37,984 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:37,988 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:37,993 INFO Turn 2 begins
+2018-02-21 22:12:37,997 INFO Turn 1 begins
+2018-02-21 22:12:38,001 INFO Thibault command: reload
+2018-02-21 22:12:38,006 INFO Thibault command: dodge
+2018-02-21 22:12:38,009 INFO Bobot shot but without bullets
+2018-02-21 22:12:38,015 INFO Bobot command: shoot
+2018-02-21 22:12:38,018 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:38,024 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,025 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,034 INFO Turn 3 begins
+2018-02-21 22:12:38,034 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,043 INFO Thibault command: reload
+2018-02-21 22:12:38,045 INFO Turn 2 begins
+2018-02-21 22:12:38,051 INFO Bobot command: reload
+2018-02-21 22:12:38,054 INFO Thibault command: reload
+2018-02-21 22:12:38,059 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,062 INFO Bobot shot but without bullets
+2018-02-21 22:12:38,066 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,069 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:38,073 INFO Turn 4 begins
+2018-02-21 22:12:38,074 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,078 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,081 INFO Thibault command: reload
+2018-02-21 22:12:38,083 INFO Turn 1 begins
+2018-02-21 22:12:38,086 INFO Turn 3 begins
+2018-02-21 22:12:38,089 INFO Bobot command: dodge
+2018-02-21 22:12:38,092 INFO Thibault command: dodge
+2018-02-21 22:12:38,095 INFO Thibault command: shoot
+2018-02-21 22:12:38,097 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,101 INFO Bobot command: shoot
+2018-02-21 22:12:38,104 INFO Bobot command: reload
+2018-02-21 22:12:38,105 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,109 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,112 INFO Thibault shoots Bobot
+2018-02-21 22:12:38,112 INFO Turn 5 begins
+2018-02-21 22:12:38,117 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,120 INFO Thibault command: reload
+2018-02-21 22:12:38,121 INFO Thibault shoots Bobot
+ponent did: dodge
+2018-02-21 22:12:38,126 INFO Turn 2 begins
+2018-02-21 22:12:38,128 INFO Bobot command: dodge
+2018-02-21 22:12:38,130 INFO Killing Thibault
+2018-02-21 22:12:38,135 INFO Thibault command: shoot
+2018-02-21 22:12:38,136 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,138 INFO Thibault exit code: None
+2018-02-21 22:12:38,142 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,142 INFO Bobot shot but without bullets
+2018-02-21 22:12:38,146 INFO Killing Bobot
+ 22:12:38,146 INFO Killing Bobot
+2018-02-21 22:12:38,148 INFO Turn 6 begins
+2018-02-21 22:12:38,149 INFO Thibault shoots Bobot
+2018-02-21 22:12:38,156 INFO Bobot exit code: None
+2018-02-21 22:12:38,156 INFO Thibault command: reload
+2018-02-21 22:12:38,156 INFO Thibault shoots Bobot
+ad
+2018-02-21 22:12:38,163 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,163 INFO Bobot command: dodge
+2018-02-21 22:12:38,165 INFO Killing Thibault
+2018-02-21 22:12:38,173 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,174 INFO Turn 1 begins
+2018-02-21 22:12:38,178 INFO Thibault exit code: None
+2018-02-21 22:12:38,182 INFO Thibault command: dodge
+2018-02-21 22:12:38,183 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,186 INFO Killing Bobot
+2018-02-21 22:12:38,191 INFO Bobot command: shoot
+2018-02-21 22:12:38,191 INFO Turn 7 begins
+2018-02-21 22:12:38,195 INFO Bobot exit code: None
+2018-02-21 22:12:38,200 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,200 INFO Thibault reloaded but already full
+2018-02-21 22:12:38,208 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,210 INFO Thibault command: reload
+2018-02-21 22:12:38,217 INFO Turn 2 begins
+2018-02-21 22:12:38,218 INFO Bobot command: dodge
+2018-02-21 22:12:38,226 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,226 INFO Thibault command: reload
+2018-02-21 22:12:38,234 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,238 INFO Bobot shot but without bullets
+2018-02-21 22:12:38,242 INFO Turn 8 begins
+2018-02-21 22:12:38,246 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:38,250 INFO Thibault command: shoot
+2018-02-21 22:12:38,257 INFO Bobot command: dodge
+2018-02-21 22:12:38,259 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,267 INFO Turn 3 begins
+2018-02-21 22:12:38,267 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,275 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,278 INFO Thibault command: reload
+2018-02-21 22:12:38,283 INFO Turn 9 begins
+2018-02-21 22:12:38,287 INFO Bobot command: reload
+2018-02-21 22:12:38,291 INFO Thibault command: dodge
+2018-02-21 22:12:38,296 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,298 INFO Bobot command: reload
+2018-02-21 22:12:38,305 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,308 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,314 INFO Turn 4 begins
+2018-02-21 22:12:38,316 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,323 INFO Thibault command: shoot
+2018-02-21 22:12:38,325 INFO Turn 10 begins
+2018-02-21 22:12:38,332 INFO Thibault command: dodge
+2018-02-21 22:12:38,341 INFO Bobot command: shoot
+2018-02-21 22:12:38,342 INFO Bobot command: dodge
+2018-02-21 22:12:38,350 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,354 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,358 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,363 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,366 INFO Turn 11 begins
+2018-02-21 22:12:38,372 INFO Turn 5 begins
+2018-02-21 22:12:38,374 INFO Thibault command: reload
+2018-02-21 22:12:38,379 INFO Thibault command: dodge
+2018-02-21 22:12:38,382 INFO Bobot command: shoot
+2018-02-21 22:12:38,386 INFO Bobot command: reload
+2018-02-21 22:12:38,389 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,394 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,395 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,401 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,402 INFO Killing Thibault
+2018-02-21 22:12:38,407 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,408 INFO Thibault exit code: None
+2018-02-21 22:12:38,410 INFO Turn 6 begins
+2018-02-21 22:12:38,415 INFO Turn 1 begins
+2018-02-21 22:12:38,415 INFO Killing Bobot
+2018-02-21 22:12:38,418 INFO Thibault command: dodge
+2018-02-21 22:12:38,422 INFO Bobot exit code: None
+2018-02-21 22:12:38,423 INFO Thibault command: shoot
+2018-02-21 22:12:38,425 INFO Bobot command: shoot
+2018-02-21 22:12:38,431 INFO Bobot command: shoot
+2018-02-21 22:12:38,433 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,439 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,441 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,444 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,447 INFO Turn 7 begins
+2018-02-21 22:12:38,451 INFO Turn 1 begins
+2018-02-21 22:12:38,453 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,457 INFO Thibault command: reload
+2018-02-21 22:12:38,460 INFO Thibault command: shoot
+2018-02-21 22:12:38,463 INFO Turn 2 begins
+2018-02-21 22:12:38,467 INFO Bobot command: shoot
+2018-02-21 22:12:38,469 INFO Bobot command: shoot
+2018-02-21 22:12:38,472 INFO Thibault command: reload
+2018-02-21 22:12:38,478 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,478 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,481 INFO Bobot command: reload
+2018-02-21 22:12:38,487 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,487 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,489 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,496 INFO Killing Thibault
+2018-02-21 22:12:38,496 INFO Turn 2 begins
+2018-02-21 22:12:38,498 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,505 INFO Thibault exit code: None
+2018-02-21 22:12:38,505 INFO Thibault command: reload
+2018-02-21 22:12:38,507 INFO Turn 3 begins
+2018-02-21 22:12:38,515 INFO Killing Bobot
+2018-02-21 22:12:38,516 INFO Thibault command: reload
+2018-02-21 22:12:38,517 INFO Bobot command: reload
+2018-02-21 22:12:38,524 INFO Bobot exit code: None
+2018-02-21 22:12:38,524 INFO Bobot command: dodge
+2018-02-21 22:12:38,527 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,533 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,538 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,542 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,547 INFO Turn 3 begins
+2018-02-21 22:12:38,551 INFO Turn 4 begins
+2018-02-21 22:12:38,557 INFO Thibault command: shoot
+2018-02-21 22:12:38,560 INFO Thibault command: shoot
+2018-02-21 22:12:38,567 INFO Bobot command: dodge
+2018-02-21 22:12:38,569 INFO Bobot command: dodge
+2018-02-21 22:12:38,578 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,584 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,587 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,594 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,596 INFO Turn 5 begins
+2018-02-21 22:12:38,603 INFO Turn 4 begins
+2018-02-21 22:12:38,604 INFO Thibault command: dodge
+2018-02-21 22:12:38,614 INFO Thibault command: reload
+2018-02-21 22:12:38,618 INFO Bobot command: reload
+2018-02-21 22:12:38,623 INFO Bobot command: reload
+2018-02-21 22:12:38,627 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,632 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,641 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,642 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,646 INFO Turn 6 begins
+2018-02-21 22:12:38,650 INFO Turn 5 begins
+2018-02-21 22:12:38,655 INFO Thibault command: dodge
+2018-02-21 22:12:38,658 INFO Thibault command: dodge
+2018-02-21 22:12:38,663 INFO Bobot command: shoot
+2018-02-21 22:12:38,664 INFO Bobot command: dodge
+2018-02-21 22:12:38,665 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,672 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,674 INFO Turn 1 begins
+2018-02-21 22:12:38,675 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,680 INFO Thibault command: reload
+2018-02-21 22:12:38,681 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,686 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,688 INFO Bobot command: shoot
+2018-02-21 22:12:38,691 INFO Turn 7 begins
+2018-02-21 22:12:38,696 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,701 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,701 INFO Thibault command: reload
+2018-02-21 22:12:38,702 INFO Turn 6 begins
+2018-02-21 22:12:38,710 INFO Bobot command: shoot
+2018-02-21 22:12:38,712 INFO Killing Thibault
+2018-02-21 22:12:38,715 INFO Thibault command: dodge
+2018-02-21 22:12:38,718 INFO Thibault exit code: None
+2018-02-21 22:12:38,720 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,724 INFO Killing Bobot
+2018-02-21 22:12:38,725 INFO Bobot command: shoot
+2018-02-21 22:12:38,731 INFO Bobot exit code: None
+2018-02-21 22:12:38,731 INFO Bobot exit code: None2018-02-21 22:12:38,720 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,735 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,739 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,744 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:38,746 INFO Killing Thibault
+2018-02-21 22:12:38,753 INFO Thibault exit code: None
+2018-02-21 22:12:38,754 INFO Turn 7 begins
+2018-02-21 22:12:38,761 INFO Killing Bobot
+2018-02-21 22:12:38,761 INFO Thibault command: reload
+2018-02-21 22:12:38,769 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,770 INFO Bobot command: shoot
+2018-02-21 22:12:38,772 INFO Bobot exit code: 1
+2018-02-21 22:12:38,778 INFO Turn 1 begins
+2018-02-21 22:12:38,778 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,787 INFO Thibault command: shoot
+2018-02-21 22:12:38,788 INFO Bobot shoots Thibault
+2018-02-21 22:12:38,796 INFO Bobot command: shoot
+2018-02-21 22:12:38,798 INFO Killing Thibault
+2018-02-21 22:12:38,805 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:38,814 INFO Thibault exit code: None
+2018-02-21 22:12:38,814 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,824 INFO Turn 2 begins
+2018-02-21 22:12:38,828 INFO Killing Bobot
+2018-02-21 22:12:38,834 INFO Thibault command: reload
+2018-02-21 22:12:38,841 INFO Bobot exit code: 1
+2018-02-21 22:12:38,843 INFO Bobot command: reload
+2018-02-21 22:12:38,852 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,862 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,873 INFO Turn 3 begins
+2018-02-21 22:12:38,884 INFO Thibault command: reload
+2018-02-21 22:12:38,898 INFO Bobot command: dodge
+2018-02-21 22:12:38,908 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,919 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:38,926 INFO Turn 4 begins
+2018-02-21 22:12:38,938 INFO Thibault command: shoot
+2018-02-21 22:12:38,947 INFO Bobot command: dodge
+2018-02-21 22:12:38,955 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:38,963 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:38,969 INFO Turn 5 begins
+2018-02-21 22:12:38,976 INFO Thibault command: reload
+2018-02-21 22:12:38,982 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:38,985 INFO Bobot command: reload
+2018-02-21 22:12:38,990 INFO Turn 1 begins
+2018-02-21 22:12:38,996 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:38,998 INFO Thibault command: reload
+2018-02-21 22:12:39,005 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:39,006 INFO Bobot command: shoot
+2018-02-21 22:12:39,012 INFO Turn 6 begins
+2018-02-21 22:12:39,014 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,019 INFO Thibault command: shoot
+2018-02-21 22:12:39,021 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,029 INFO Bobot command: dodge
+2018-02-21 22:12:39,029 INFO Killing Thibault
+2018-02-21 22:12:39,035 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,035 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:12:39,041 INFO Thibault exit code: None
+2018-02-21 22:12:39,046 INFO Turn 1 begins
+2018-02-21 22:12:39,048 INFO Killing Bobot
+2018-02-21 22:12:39,049 DEBUG Telling Bobot that opponent did: shoot
+2018-02-21 22:12:39,056 INFO Bobot exit code: None
+2018-02-21 22:12:39,057 INFO Thibault command: dodge
+2018-02-21 22:12:39,059 INFO Turn 7 begins
+2018-02-21 22:12:39,067 INFO Bobot command: shoot
+2018-02-21 22:12:39,067 INFO Thibault command: dodge
+2018-02-21 22:12:39,075 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,076 INFO Bobot command: reload
+2018-02-21 22:12:39,084 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,084 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:12:39,091 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,093 INFO Turn 2 begins
+2018-02-21 22:12:39,096 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,100 INFO Turn 8 begins
+2018-02-21 22:12:39,101 INFO Thibault command: reload
+2018-02-21 22:12:39,106 INFO Turn 1 begins
+2018-02-21 22:12:39,110 INFO Thibault command: dodge
+2018-02-21 22:12:39,112 INFO Bobot shot but without bullets
+2018-02-21 22:12:39,119 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:39,120 INFO Bobot command: shoot
+2018-02-21 22:12:39,120 INFO Thibault command: dodge
+2018-02-21 22:12:39,128 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:39,129 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,130 INFO Bobot command: shoot
+2018-02-21 22:12:39,137 INFO Turn 3 begins
+2018-02-21 22:12:39,139 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,140 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,146 INFO Thibault command: shoot
+2018-02-21 22:12:39,148 INFO Turn 9 begins
+2018-02-21 22:12:39,149 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,155 INFO Bobot command: reload
+2018-02-21 22:12:39,158 INFO Thibault command: reload
+2018-02-21 22:12:39,162 INFO Turn 2 begins
+2018-02-21 22:12:39,166 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,167 INFO Bobot command: shoot
+2018-02-21 22:12:39,171 INFO Thibault command: shoot
+2018-02-21 22:12:39,176 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,176 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,179 INFO Bobot shot but without bullets
+2018-02-21 22:12:39,186 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,187 INFO Killing Thibault
+2018-02-21 22:12:39,188 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,196 INFO Thibault exit code: None
+2018-02-21 22:12:39,197 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,198 INFO Killing Thibault
+2018-02-21 22:12:39,206 INFO Killing Bobot
+2018-02-21 22:12:39,207 INFO Killing Thibault
+2018-02-21 22:12:39,213 INFO Thibault exit code: -9
+2018-02-21 22:12:39,216 INFO Bobot exit code: None
+2018-02-21 22:12:39,217 INFO Thibault exit code: None
+2018-02-21 22:12:39,225 INFO Killing Bobot
+2018-02-21 22:12:39,226 INFO Killing Bobot
+2018-02-21 22:12:39,237 INFO Bobot exit code: -9
+2018-02-21 22:12:39,241 INFO Bobot exit code: 1
+2018-02-21 22:12:39,293 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,302 INFO Turn 1 begins
+2018-02-21 22:12:39,311 INFO Thibault command: dodge
+2018-02-21 22:12:39,320 INFO Bobot command: shoot
+2018-02-21 22:12:39,328 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,337 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,346 INFO Turn 2 begins
+2018-02-21 22:12:39,355 INFO Thibault command: shoot
+2018-02-21 22:12:39,364 INFO Bobot shot but without bullets
+2018-02-21 22:12:39,373 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,381 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,390 INFO Killing Thibault
+2018-02-21 22:12:39,413 INFO Thibault exit code: None
+2018-02-21 22:12:39,422 INFO Killing Bobot
+2018-02-21 22:12:39,435 INFO Bobot exit code: None
+2018-02-21 22:12:39,470 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,477 INFO Turn 1 begins
+2018-02-21 22:12:39,483 INFO Thibault command: dodge
+2018-02-21 22:12:39,491 INFO Bobot command: shoot
+2018-02-21 22:12:39,494 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,496 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,498 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,504 INFO Turn 1 begins
+2018-02-21 22:12:39,506 INFO Turn 1 begins
+2018-02-21 22:12:39,509 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,513 INFO Thibault command: reload
+2018-02-21 22:12:39,515 INFO Thibault command: dodge
+2018-02-21 22:12:39,518 INFO Turn 2 begins
+2018-02-21 22:12:39,523 INFO Bobot command: shoot
+2018-02-21 22:12:39,525 INFO Bobot command: shoot
+2018-02-21 22:12:39,528 INFO Thibault command: shoot
+2018-02-21 22:12:39,532 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,535 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:12:39,538 INFO Bobot shot but without bullets
+2018-02-21 22:12:39,541 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,547 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 22:12:39,548 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,549 INFO Killing Thibault
+2018-02-21 22:12:39,557 INFO Turn 2 begins
+2018-02-21 22:12:39,557 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,559 INFO Thibault exit code: None
+2018-02-21 22:12:39,568 INFO Thibault command: reload
+2018-02-21 22:12:39,569 INFO Killing Bobot
+2018-02-21 22:12:39,570 INFO Killing Thibault
+2018-02-21 22:12:39,579 INFO Bobot exit code: None
+2018-02-21 22:12:39,582 INFO Bobot shot but without bullets
+2018-02-21 22:12:39,592 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:12:39,604 DEBUG Telling Bobot that opponent did: reload
+2018-02-21 22:12:39,614 INFO Turn 3 begins
+2018-02-21 22:12:39,624 INFO Thibault command: shoot
+2018-02-21 22:12:39,635 INFO Thibault exit code: 1
+2018-02-21 22:12:39,641 INFO Bobot command: reload
+2018-02-21 22:12:39,645 INFO Killing Bobot
+2018-02-21 22:12:39,650 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,654 INFO Bobot exit code: None
+2018-02-21 22:12:39,660 INFO Thibault shoots Bobot
+2018-02-21 22:12:39,666 INFO Killing Thibault
+2018-02-21 22:12:39,673 INFO Thibault exit code: None
+2018-02-21 22:12:39,675 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,681 INFO Killing Bobot
+2018-02-21 22:12:39,685 INFO Turn 1 begins
+2018-02-21 22:12:39,689 INFO Bobot exit code: None
+2018-02-21 22:12:39,691 INFO Thibault command: reload
+2018-02-21 22:12:39,699 INFO Bobot command: shoot
+2018-02-21 22:12:39,706 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,713 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,719 INFO Killing Thibault
+2018-02-21 22:12:39,725 INFO Thibault exit code: None
+2018-02-21 22:12:39,731 INFO Killing Bobot
+2018-02-21 22:12:39,739 INFO Bobot exit code: None
+2018-02-21 22:12:39,819 INFO Starting new showdown: Thibault vs Bobot
+2018-02-21 22:12:39,827 INFO Turn 1 begins
+2018-02-21 22:12:39,833 INFO Thibault command: reload
+2018-02-21 22:12:39,839 INFO Bobot command: shoot
+2018-02-21 22:12:39,845 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,852 INFO Bobot shoots Thibault
+2018-02-21 22:12:39,858 INFO Killing Thibault
+2018-02-21 22:12:39,864 INFO Thibault exit code: None
+2018-02-21 22:12:39,870 INFO Killing Bobot
+2018-02-21 22:12:39,876 INFO Bobot exit code: None

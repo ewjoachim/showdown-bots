@@ -1,0 +1,58 @@
+2018-02-21 20:46:52,494 INFO Starting new showdown: Bobot vs philippe
+2018-02-21 20:46:52,497 INFO Turn 1 begins
+2018-02-21 20:46:52,497 INFO Bobot command: shoot
+2018-02-21 20:46:52,497 INFO philippe command: dodge
+2018-02-21 20:46:52,497 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 20:46:52,497 DEBUG Telling philippe that opponent did: shoot
+2018-02-21 20:46:52,498 INFO Turn 2 begins
+2018-02-21 20:46:52,498 INFO Bobot shot but without bullets
+2018-02-21 20:46:52,499 INFO philippe command: shoot
+2018-02-21 20:46:52,499 INFO philippe shoots Bobot
+2018-02-21 20:46:52,499 INFO Killing Bobot
+2018-02-21 20:46:52,499 INFO Bobot exit code: None
+2018-02-21 20:46:52,499 INFO Killing philippe
+2018-02-21 20:46:52,500 INFO philippe exit code: None
+2018-02-21 20:47:01,861 INFO Starting new showdown: Bobot vs philippe
+2018-02-21 20:47:01,863 INFO Turn 1 begins
+2018-02-21 20:47:01,864 INFO Bobot command: shoot
+2018-02-21 20:47:01,864 INFO philippe command: dodge
+2018-02-21 20:47:01,864 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 20:47:01,864 DEBUG Telling philippe that opponent did: shoot
+2018-02-21 20:47:01,864 INFO Turn 2 begins
+2018-02-21 20:47:01,865 INFO Bobot shot but without bullets
+2018-02-21 20:47:01,865 INFO philippe command: shoot
+2018-02-21 20:47:01,865 INFO philippe shoots Bobot
+2018-02-21 20:47:01,866 INFO philippe shoots Bobot
+2018-02-21 20:47:01,866 INFO Killing Bobot
+2018-02-21 20:47:01,866 INFO Bobot exit code: None
+2018-02-21 20:47:01,866 INFO Killing philippe
+2018-02-21 20:47:01,866 INFO philippe exit code: None
+2018-02-21 20:47:09,497 INFO Starting new showdown: Bobot vs philippe
+2018-02-21 20:47:09,499 INFO Turn 1 begins
+2018-02-21 20:47:09,499 INFO Bobot command: shoot
+2018-02-21 20:47:09,500 INFO philippe command: dodge
+2018-02-21 20:47:09,500 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 20:47:09,500 DEBUG Telling philippe that opponent did: shoot
+2018-02-21 20:47:09,500 INFO Turn 2 begins
+2018-02-21 20:47:09,501 INFO Bobot shot but without bullets
+2018-02-21 20:47:09,501 INFO philippe command: shoot
+2018-02-21 20:47:09,501 INFO philippe shoots Bobot
+2018-02-21 20:47:09,502 INFO philippe shoots Bobot
+2018-02-21 20:47:09,502 INFO Killing Bobot
+2018-02-21 20:47:09,502 INFO Bobot exit code: None
+2018-02-21 20:47:09,502 INFO Killing philippe
+2018-02-21 20:47:09,502 INFO philippe exit code: None
+2018-02-21 20:47:39,766 INFO Starting new showdown: Bobot vs philippe
+2018-02-21 20:47:39,768 INFO Turn 1 begins
+2018-02-21 20:47:39,769 INFO Bobot command: shoot
+2018-02-21 20:47:39,769 INFO philippe command: dodge
+2018-02-21 20:47:39,769 DEBUG Telling Bobot that opponent did: dodge
+2018-02-21 20:47:39,769 DEBUG Telling philippe that opponent did: shoot
+2018-02-21 20:47:39,769 INFO Turn 2 begins
+2018-02-21 20:47:39,770 INFO Bobot shot but without bullets
+2018-02-21 20:47:39,770 INFO philippe command: shoot
+2018-02-21 20:47:39,770 INFO philippe shoots Bobot
+2018-02-21 20:47:39,771 INFO Killing Bobot
+2018-02-21 20:47:39,771 INFO Bobot exit code: None
+2018-02-21 20:47:39,771 INFO Killing philippe
+2018-02-21 20:47:39,771 INFO philippe exit code: None

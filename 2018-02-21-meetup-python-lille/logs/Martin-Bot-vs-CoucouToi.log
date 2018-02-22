@@ -1,0 +1,975 @@
+2018-02-21 21:32:42,568 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,569 INFO Turn 1 begins
+2018-02-21 21:32:42,570 INFO Martin-Bot command: shoot
+2018-02-21 21:32:42,570 INFO CoucouToi command: reload
+2018-02-21 21:32:42,571 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,571 INFO CoucouToi command: reload
+2018-02-21 21:32:42,572 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,572 INFO Killing Martin-Bot
+2018-02-21 21:32:42,573 INFO Killing Martin-Bot
+2018-02-21 21:32:42,573 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,573 INFO Killing CoucouToi
+2018-02-21 21:32:42,574 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,574 INFO Killing CoucouToi
+2018-02-21 21:32:42,572 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,575 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,585 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,586 INFO Turn 1 begins
+2018-02-21 21:32:42,587 INFO Martin-Bot command: shoot
+2018-02-21 21:32:42,588 INFO CoucouToi command: reload
+2018-02-21 21:32:42,588 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,589 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,589 INFO Killing Martin-Bot
+2018-02-21 21:32:42,590 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,590 INFO Killing CoucouToi
+2018-02-21 21:32:42,591 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,838 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,839 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,840 INFO Turn 1 begins
+2018-02-21 21:32:42,841 INFO Martin-Bot command: shoot
+2018-02-21 21:32:42,842 INFO CoucouToi command: reload
+2018-02-21 21:32:42,842 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,843 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,843 INFO Killing Martin-Bot
+2018-02-21 21:32:42,843 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,844 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,844 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,845 INFO Killing Martin-Bot
+2018-02-21 21:32:42,845 INFO Killing CoucouToi
+2018-02-21 21:32:42,844 INFO Turn 1 begins
+2018-02-21 21:32:42,846 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,846 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,847 INFO Martin-Bot command: shoot
+2018-02-21 21:32:42,847 INFO Killing CoucouToi
+2018-02-21 21:32:42,848 INFO CoucouToi command: reload
+2018-02-21 21:32:42,848 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,849 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,850 INFO Killing Martin-Bot
+2018-02-21 21:32:42,851 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:42,851 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,852 INFO Turn 1 begins
+2018-02-21 21:32:42,852 INFO Killing CoucouToi
+2018-02-21 21:32:42,853 INFO Martin-Bot command: shoot
+2018-02-21 21:32:42,853 INFO CoucouToi exit code: None
+2018-02-21 21:32:42,854 INFO CoucouToi command: reload
+2018-02-21 21:32:42,855 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,856 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:42,857 INFO Killing Martin-Bot
+2018-02-21 21:32:42,858 INFO Martin-Bot exit code: None
+2018-02-21 21:32:42,859 INFO Killing CoucouToi
+2018-02-21 21:32:42,860 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,100 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,101 INFO Turn 1 begins
+2018-02-21 21:32:43,103 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,103 INFO CoucouToi command: reload
+2018-02-21 21:32:43,104 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,105 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,105 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,106 INFO Killing Martin-Bot
+2018-02-21 21:32:43,106 INFO Turn 1 begins
+2018-02-21 21:32:43,107 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,107 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,107 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,109 INFO Turn 1 begins
+2018-02-21 21:32:43,109 INFO CoucouToi command: reload
+2018-02-21 21:32:43,109 INFO Killing CoucouToi
+2018-02-21 21:32:43,110 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,110 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,110 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,111 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,111 INFO CoucouToi command: reload
+2018-02-21 21:32:43,112 INFO Killing Martin-Bot
+2018-02-21 21:32:43,112 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,113 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,114 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,114 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,115 INFO Killing CoucouToi
+2018-02-21 21:32:43,115 INFO Killing Martin-Bot
+2018-02-21 21:32:43,115 INFO Turn 1 begins
+2018-02-21 21:32:43,116 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,117 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,117 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,118 INFO Killing CoucouToi
+2018-02-21 21:32:43,118 INFO CoucouToi command: reload
+2018-02-21 21:32:43,119 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,119 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,121 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,123 INFO Killing Martin-Bot
+2018-02-21 21:32:43,125 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,127 INFO Killing CoucouToi
+2018-02-21 21:32:43,130 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,365 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,366 INFO Turn 1 begins
+2018-02-21 21:32:43,368 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,369 INFO CoucouToi command: reload
+2018-02-21 21:32:43,370 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,370 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,371 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,372 INFO Turn 1 begins
+2018-02-21 21:32:43,372 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,373 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,373 INFO Killing Martin-Bot
+2018-02-21 21:32:43,374 INFO CoucouToi command: reload
+2018-02-21 21:32:43,374 INFO Turn 1 begins
+2018-02-21 21:32:43,375 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,376 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,376 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,377 INFO Killing CoucouToi
+2018-02-21 21:32:43,377 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,378 INFO CoucouToi command: reload
+2018-02-21 21:32:43,378 INFO Killing Martin-Bot
+2018-02-21 21:32:43,378 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,379 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,380 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,381 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,381 INFO Killing CoucouToi
+2018-02-21 21:32:43,382 INFO Killing Martin-Bot
+2018-02-21 21:32:43,383 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,384 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,386 INFO Killing CoucouToi
+2018-02-21 21:32:43,388 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,440 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,441 INFO Turn 1 begins
+2018-02-21 21:32:43,443 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,445 INFO CoucouToi command: reload
+2018-02-21 21:32:43,446 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,448 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,450 INFO Killing Martin-Bot
+2018-02-21 21:32:43,451 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,453 INFO Killing CoucouToi
+2018-02-21 21:32:43,455 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,615 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,617 INFO Turn 1 begins
+2018-02-21 21:32:43,618 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,619 INFO CoucouToi command: reload
+2018-02-21 21:32:43,620 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,622 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,623 INFO Killing Martin-Bot
+2018-02-21 21:32:43,625 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,626 INFO Killing CoucouToi
+2018-02-21 21:32:43,628 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,628 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,630 INFO Turn 1 begins
+2018-02-21 21:32:43,631 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,633 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,634 INFO Turn 1 begins
+2018-02-21 21:32:43,635 INFO CoucouToi command: reload
+2018-02-21 21:32:43,636 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,637 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,639 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,639 INFO CoucouToi command: reload
+2018-02-21 21:32:43,640 INFO Killing Martin-Bot
+2018-02-21 21:32:43,641 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,643 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,644 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,645 INFO Killing Martin-Bot
+2018-02-21 21:32:43,647 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,649 INFO Killing CoucouToi
+2018-02-21 21:32:43,651 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,654 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,705 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,707 INFO Turn 1 begins
+2018-02-21 21:32:43,709 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,711 INFO CoucouToi command: reload
+2018-02-21 21:32:43,713 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,715 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,717 INFO Killing Martin-Bot
+2018-02-21 21:32:43,719 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,721 INFO Killing CoucouToi
+2018-02-21 21:32:43,723 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,887 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,889 INFO Turn 1 begins
+2018-02-21 21:32:43,890 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,892 INFO CoucouToi command: reload
+2018-02-21 21:32:43,893 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,895 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,894 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,896 INFO Killing Martin-Bot
+2018-02-21 21:32:43,897 INFO Turn 1 begins
+2018-02-21 21:32:43,898 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,899 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,900 INFO Killing CoucouToi
+2018-02-21 21:32:43,901 INFO CoucouToi command: reload
+2018-02-21 21:32:43,902 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,904 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,905 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,906 INFO Killing Martin-Bot
+2018-02-21 21:32:43,908 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,911 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,912 INFO Killing CoucouToi
+2018-02-21 21:32:43,913 INFO Turn 1 begins
+2018-02-21 21:32:43,915 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,916 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,918 INFO CoucouToi command: reload
+2018-02-21 21:32:43,921 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,923 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,925 INFO Killing Martin-Bot
+2018-02-21 21:32:43,928 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,930 INFO Killing CoucouToi
+2018-02-21 21:32:43,933 INFO CoucouToi exit code: None
+2018-02-21 21:32:43,972 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:43,975 INFO Turn 1 begins
+2018-02-21 21:32:43,977 INFO Martin-Bot command: shoot
+2018-02-21 21:32:43,980 INFO CoucouToi command: reload
+2018-02-21 21:32:43,982 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,984 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:43,987 INFO Killing Martin-Bot
+2018-02-21 21:32:43,989 INFO Martin-Bot exit code: None
+2018-02-21 21:32:43,991 INFO Killing CoucouToi
+2018-02-21 21:32:43,994 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,152 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,154 INFO Turn 1 begins
+2018-02-21 21:32:44,156 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,158 INFO CoucouToi command: reload
+2018-02-21 21:32:44,158 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,160 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,161 INFO Turn 1 begins
+2018-02-21 21:32:44,163 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,163 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,165 INFO CoucouToi command: reload
+2018-02-21 21:32:44,166 INFO Killing Martin-Bot
+2018-02-21 21:32:44,167 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,168 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,168 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,171 INFO Killing CoucouToi
+2018-02-21 21:32:44,171 INFO Killing Martin-Bot
+2018-02-21 21:32:44,173 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,174 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,177 INFO Killing CoucouToi
+2018-02-21 21:32:44,180 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,194 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,197 INFO Turn 1 begins
+2018-02-21 21:32:44,200 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,203 INFO CoucouToi command: reload
+2018-02-21 21:32:44,206 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,208 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,210 INFO Killing Martin-Bot
+2018-02-21 21:32:44,213 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,215 INFO Killing CoucouToi
+2018-02-21 21:32:44,220 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,239 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,242 INFO Turn 1 begins
+2018-02-21 21:32:44,245 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,248 INFO CoucouToi command: reload
+2018-02-21 21:32:44,250 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,253 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,256 INFO Killing Martin-Bot
+2018-02-21 21:32:44,271 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:44,274 INFO Killing CoucouToi
+2018-02-21 21:32:44,286 INFO CoucouToi exit code: 1
+2018-02-21 21:32:44,425 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,427 INFO Turn 1 begins
+2018-02-21 21:32:44,431 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,432 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,434 INFO CoucouToi command: reload
+2018-02-21 21:32:44,436 INFO Turn 1 begins
+2018-02-21 21:32:44,437 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,439 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,440 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,442 INFO CoucouToi command: reload
+2018-02-21 21:32:44,442 INFO Killing Martin-Bot
+2018-02-21 21:32:44,444 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,445 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,447 INFO Killing CoucouToi
+2018-02-21 21:32:44,448 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,450 INFO Killing Martin-Bot
+2018-02-21 21:32:44,450 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,453 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,456 INFO Killing CoucouToi
+2018-02-21 21:32:44,458 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,477 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,480 INFO Turn 1 begins
+2018-02-21 21:32:44,483 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,489 INFO CoucouToi command: reload
+2018-02-21 21:32:44,493 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,496 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,499 INFO Killing Martin-Bot
+2018-02-21 21:32:44,503 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,506 INFO Killing CoucouToi
+2018-02-21 21:32:44,509 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,530 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,533 INFO Turn 1 begins
+2018-02-21 21:32:44,536 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,539 INFO CoucouToi command: reload
+2018-02-21 21:32:44,542 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,545 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,548 INFO Killing Martin-Bot
+2018-02-21 21:32:44,551 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,555 INFO Killing CoucouToi
+2018-02-21 21:32:44,558 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,694 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,698 INFO Turn 1 begins
+2018-02-21 21:32:44,700 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,702 INFO CoucouToi command: reload
+2018-02-21 21:32:44,705 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,709 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,712 INFO Killing Martin-Bot
+2018-02-21 21:32:44,716 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,719 INFO Killing CoucouToi
+2018-02-21 21:32:44,723 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,748 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,751 INFO Turn 1 begins
+2018-02-21 21:32:44,753 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,755 INFO CoucouToi command: reload
+2018-02-21 21:32:44,758 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,760 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,762 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,763 INFO Killing Martin-Bot
+2018-02-21 21:32:44,765 INFO Turn 1 begins
+2018-02-21 21:32:44,768 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,768 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,771 INFO Killing CoucouToi
+2018-02-21 21:32:44,772 INFO CoucouToi command: reload
+2018-02-21 21:32:44,775 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,776 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,779 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,782 INFO Killing Martin-Bot
+2018-02-21 21:32:44,785 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,789 INFO Killing CoucouToi
+2018-02-21 21:32:44,792 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,799 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,803 INFO Turn 1 begins
+2018-02-21 21:32:44,807 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,810 INFO CoucouToi command: reload
+2018-02-21 21:32:44,814 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,817 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,821 INFO Killing Martin-Bot
+2018-02-21 21:32:44,824 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,828 INFO Killing CoucouToi
+2018-02-21 21:32:44,831 INFO CoucouToi exit code: None
+2018-02-21 21:32:44,961 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:44,965 INFO Turn 1 begins
+2018-02-21 21:32:44,969 INFO Martin-Bot command: shoot
+2018-02-21 21:32:44,974 INFO CoucouToi command: reload
+2018-02-21 21:32:44,979 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,983 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:44,987 INFO Killing Martin-Bot
+2018-02-21 21:32:44,991 INFO Martin-Bot exit code: None
+2018-02-21 21:32:44,995 INFO Killing CoucouToi
+2018-02-21 21:32:45,000 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,027 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,031 INFO Turn 1 begins
+2018-02-21 21:32:45,035 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,038 INFO CoucouToi command: reload
+2018-02-21 21:32:45,041 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,042 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,044 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,045 INFO Turn 1 begins
+2018-02-21 21:32:45,048 INFO Killing Martin-Bot
+2018-02-21 21:32:45,048 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,051 INFO CoucouToi command: reload
+2018-02-21 21:32:45,052 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,054 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,056 INFO Killing CoucouToi
+2018-02-21 21:32:45,058 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,060 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,061 INFO Killing Martin-Bot
+2018-02-21 21:32:45,064 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,068 INFO Killing CoucouToi
+2018-02-21 21:32:45,071 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,078 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,082 INFO Turn 1 begins
+2018-02-21 21:32:45,086 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,090 INFO CoucouToi command: reload
+2018-02-21 21:32:45,094 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,097 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,103 INFO Killing Martin-Bot
+2018-02-21 21:32:45,108 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,112 INFO Killing CoucouToi
+2018-02-21 21:32:45,116 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,243 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,248 INFO Turn 1 begins
+2018-02-21 21:32:45,252 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,257 INFO CoucouToi command: reload
+2018-02-21 21:32:45,262 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,266 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,270 INFO Killing Martin-Bot
+2018-02-21 21:32:45,275 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,279 INFO Killing CoucouToi
+2018-02-21 21:32:45,283 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,311 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,316 INFO Turn 1 begins
+2018-02-21 21:32:45,320 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,323 INFO CoucouToi command: reload
+2018-02-21 21:32:45,324 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,327 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,329 INFO Turn 1 begins
+2018-02-21 21:32:45,331 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,334 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,334 INFO Killing Martin-Bot
+2018-02-21 21:32:45,337 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,339 INFO CoucouToi command: reload
+2018-02-21 21:32:45,340 INFO Killing CoucouToi
+2018-02-21 21:32:45,342 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,343 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,346 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,349 INFO Killing Martin-Bot
+2018-02-21 21:32:45,354 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,358 INFO Killing CoucouToi
+2018-02-21 21:32:45,361 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,362 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,365 INFO Turn 1 begins
+2018-02-21 21:32:45,370 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,374 INFO CoucouToi command: reload
+2018-02-21 21:32:45,378 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,383 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,387 INFO Killing Martin-Bot
+2018-02-21 21:32:45,392 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,397 INFO Killing CoucouToi
+2018-02-21 21:32:45,401 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,536 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,541 INFO Turn 1 begins
+2018-02-21 21:32:45,546 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,550 INFO CoucouToi command: reload
+2018-02-21 21:32:45,554 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,559 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,563 INFO Killing Martin-Bot
+2018-02-21 21:32:45,568 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,574 INFO Killing CoucouToi
+2018-02-21 21:32:45,578 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,594 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,599 INFO Turn 1 begins
+2018-02-21 21:32:45,604 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,608 INFO CoucouToi command: reload
+2018-02-21 21:32:45,612 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,616 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,619 INFO Killing Martin-Bot
+2018-02-21 21:32:45,620 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,624 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,626 INFO Turn 1 begins
+2018-02-21 21:32:45,629 INFO Killing CoucouToi
+2018-02-21 21:32:45,630 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,633 INFO CoucouToi command: reload
+2018-02-21 21:32:45,634 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,637 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,642 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,644 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,647 INFO Killing Martin-Bot
+2018-02-21 21:32:45,649 INFO Turn 1 begins
+2018-02-21 21:32:45,652 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,655 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,656 INFO Killing CoucouToi
+2018-02-21 21:32:45,660 INFO CoucouToi command: reload
+2018-02-21 21:32:45,665 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,665 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,669 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,674 INFO Killing Martin-Bot
+2018-02-21 21:32:45,680 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,685 INFO Killing CoucouToi
+2018-02-21 21:32:45,690 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,823 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,828 INFO Turn 1 begins
+2018-02-21 21:32:45,833 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,838 INFO CoucouToi command: reload
+2018-02-21 21:32:45,843 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,851 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,858 INFO Killing Martin-Bot
+2018-02-21 21:32:45,867 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,870 INFO Killing CoucouToi
+2018-02-21 21:32:45,875 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,891 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,897 INFO Turn 1 begins
+2018-02-21 21:32:45,902 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,907 INFO CoucouToi command: reload
+2018-02-21 21:32:45,912 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,916 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,918 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,922 INFO Turn 1 begins
+2018-02-21 21:32:45,923 INFO Killing Martin-Bot
+2018-02-21 21:32:45,926 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,929 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,931 INFO CoucouToi command: reload
+2018-02-21 21:32:45,933 INFO Killing CoucouToi
+2018-02-21 21:32:45,934 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,937 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,939 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,942 INFO Killing Martin-Bot
+2018-02-21 21:32:45,943 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:45,947 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,949 INFO Turn 1 begins
+2018-02-21 21:32:45,954 INFO Killing CoucouToi
+2018-02-21 21:32:45,954 INFO Martin-Bot command: shoot
+2018-02-21 21:32:45,959 INFO CoucouToi exit code: None
+2018-02-21 21:32:45,959 INFO CoucouToi command: reload
+2018-02-21 21:32:45,964 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,971 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:45,976 INFO Killing Martin-Bot
+2018-02-21 21:32:45,984 INFO Martin-Bot exit code: None
+2018-02-21 21:32:45,989 INFO Killing CoucouToi
+2018-02-21 21:32:45,997 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,146 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,152 INFO Turn 1 begins
+2018-02-21 21:32:46,157 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,163 INFO CoucouToi command: reload
+2018-02-21 21:32:46,167 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,172 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,175 INFO Killing Martin-Bot
+2018-02-21 21:32:46,180 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,184 INFO Killing CoucouToi
+2018-02-21 21:32:46,190 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,191 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,195 INFO Turn 1 begins
+2018-02-21 21:32:46,200 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,206 INFO CoucouToi command: reload
+2018-02-21 21:32:46,211 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,216 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,217 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,220 INFO Killing Martin-Bot
+2018-02-21 21:32:46,221 INFO Turn 1 begins
+2018-02-21 21:32:46,224 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,226 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,229 INFO CoucouToi command: reload
+2018-02-21 21:32:46,230 INFO Killing CoucouToi
+2018-02-21 21:32:46,235 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,235 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,240 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,246 INFO Killing Martin-Bot
+2018-02-21 21:32:46,248 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,252 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,254 INFO Turn 1 begins
+2018-02-21 21:32:46,259 INFO Killing CoucouToi
+2018-02-21 21:32:46,259 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,264 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,265 INFO CoucouToi command: reload
+2018-02-21 21:32:46,271 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,280 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,285 INFO Killing Martin-Bot
+2018-02-21 21:32:46,293 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,299 INFO Killing CoucouToi
+2018-02-21 21:32:46,308 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,430 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,436 INFO Turn 1 begins
+2018-02-21 21:32:46,442 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,448 INFO CoucouToi command: reload
+2018-02-21 21:32:46,455 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,461 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,467 INFO Killing Martin-Bot
+2018-02-21 21:32:46,473 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,479 INFO Killing CoucouToi
+2018-02-21 21:32:46,485 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,491 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,498 INFO Turn 1 begins
+2018-02-21 21:32:46,504 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,509 INFO CoucouToi command: reload
+2018-02-21 21:32:46,515 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,521 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,524 INFO Killing Martin-Bot
+2018-02-21 21:32:46,527 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,529 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,533 INFO Turn 1 begins
+2018-02-21 21:32:46,535 INFO Killing CoucouToi
+2018-02-21 21:32:46,537 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,540 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,542 INFO CoucouToi command: reload
+2018-02-21 21:32:46,548 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,552 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,554 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,557 INFO Killing Martin-Bot
+2018-02-21 21:32:46,560 INFO Turn 1 begins
+2018-02-21 21:32:46,563 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,566 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,570 INFO Killing CoucouToi
+2018-02-21 21:32:46,571 INFO CoucouToi command: reload
+2018-02-21 21:32:46,578 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,583 INFO CoucouToi exit code: 1
+2018-02-21 21:32:46,584 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,590 INFO Killing Martin-Bot
+2018-02-21 21:32:46,597 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,603 INFO Killing CoucouToi
+2018-02-21 21:32:46,613 INFO CoucouToi exit code: 1
+2018-02-21 21:32:46,722 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,727 INFO Turn 1 begins
+2018-02-21 21:32:46,733 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,740 INFO CoucouToi command: reload
+2018-02-21 21:32:46,746 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,752 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,758 INFO Killing Martin-Bot
+2018-02-21 21:32:46,764 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,771 INFO Killing CoucouToi
+2018-02-21 21:32:46,775 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,794 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,800 INFO Turn 1 begins
+2018-02-21 21:32:46,806 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,813 INFO CoucouToi command: reload
+2018-02-21 21:32:46,819 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,825 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,832 INFO Killing Martin-Bot
+2018-02-21 21:32:46,835 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,839 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,840 INFO Turn 1 begins
+2018-02-21 21:32:46,845 INFO Killing CoucouToi
+2018-02-21 21:32:46,846 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,850 INFO CoucouToi command: reload
+2018-02-21 21:32:46,854 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,855 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,859 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,864 INFO Killing Martin-Bot
+2018-02-21 21:32:46,870 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,876 INFO Killing CoucouToi
+2018-02-21 21:32:46,881 INFO CoucouToi exit code: None
+2018-02-21 21:32:46,884 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:46,890 INFO Turn 1 begins
+2018-02-21 21:32:46,897 INFO Martin-Bot command: shoot
+2018-02-21 21:32:46,903 INFO CoucouToi command: reload
+2018-02-21 21:32:46,910 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,916 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:46,922 INFO Killing Martin-Bot
+2018-02-21 21:32:46,929 INFO Martin-Bot exit code: None
+2018-02-21 21:32:46,935 INFO Killing CoucouToi
+2018-02-21 21:32:46,945 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,021 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,028 INFO Turn 1 begins
+2018-02-21 21:32:47,036 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,042 INFO CoucouToi command: reload
+2018-02-21 21:32:47,049 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,056 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,062 INFO Killing Martin-Bot
+2018-02-21 21:32:47,069 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,075 INFO Killing CoucouToi
+2018-02-21 21:32:47,082 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,109 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,116 INFO Turn 1 begins
+2018-02-21 21:32:47,124 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,128 INFO CoucouToi command: reload
+2018-02-21 21:32:47,134 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,135 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,140 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,141 INFO Turn 1 begins
+2018-02-21 21:32:47,147 INFO Killing Martin-Bot
+2018-02-21 21:32:47,148 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,155 INFO CoucouToi command: reload
+2018-02-21 21:32:47,154 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,162 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,162 INFO Killing CoucouToi
+2018-02-21 21:32:47,168 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,169 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,175 INFO Killing Martin-Bot
+2018-02-21 21:32:47,181 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,186 INFO Killing CoucouToi
+2018-02-21 21:32:47,191 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,198 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,205 INFO Turn 1 begins
+2018-02-21 21:32:47,212 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,219 INFO CoucouToi command: reload
+2018-02-21 21:32:47,225 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,233 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,239 INFO Killing Martin-Bot
+2018-02-21 21:32:47,253 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:47,260 INFO Killing CoucouToi
+2018-02-21 21:32:47,268 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,319 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,326 INFO Turn 1 begins
+2018-02-21 21:32:47,334 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,342 INFO CoucouToi command: reload
+2018-02-21 21:32:47,350 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,356 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,363 INFO Killing Martin-Bot
+2018-02-21 21:32:47,372 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,380 INFO Killing CoucouToi
+2018-02-21 21:32:47,387 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,421 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,428 INFO Turn 1 begins
+2018-02-21 21:32:47,435 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,439 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,442 INFO CoucouToi command: reload
+2018-02-21 21:32:47,448 INFO Turn 1 begins
+2018-02-21 21:32:47,450 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,455 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,457 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,462 INFO CoucouToi command: reload
+2018-02-21 21:32:47,465 INFO Killing Martin-Bot
+2018-02-21 21:32:47,469 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,472 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,476 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,480 INFO Killing CoucouToi
+2018-02-21 21:32:47,483 INFO Killing Martin-Bot
+2018-02-21 21:32:47,485 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,490 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,496 INFO Killing CoucouToi
+2018-02-21 21:32:47,504 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,512 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,522 INFO Turn 1 begins
+2018-02-21 21:32:47,531 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,538 INFO CoucouToi command: reload
+2018-02-21 21:32:47,547 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,555 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,562 INFO Killing Martin-Bot
+2018-02-21 21:32:47,569 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,580 INFO Killing CoucouToi
+2018-02-21 21:32:47,591 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,615 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,621 INFO Turn 1 begins
+2018-02-21 21:32:47,627 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,634 INFO CoucouToi command: reload
+2018-02-21 21:32:47,642 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,649 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,656 INFO Killing Martin-Bot
+2018-02-21 21:32:47,664 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,671 INFO Killing CoucouToi
+2018-02-21 21:32:47,679 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,738 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,745 INFO Turn 1 begins
+2018-02-21 21:32:47,752 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,759 INFO CoucouToi command: reload
+2018-02-21 21:32:47,767 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,769 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,774 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,776 INFO Turn 1 begins
+2018-02-21 21:32:47,781 INFO Killing Martin-Bot
+2018-02-21 21:32:47,784 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,791 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,791 INFO CoucouToi command: reload
+2018-02-21 21:32:47,800 INFO Killing CoucouToi
+2018-02-21 21:32:47,801 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,807 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,808 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,815 INFO Killing Martin-Bot
+2018-02-21 21:32:47,823 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,829 INFO Killing CoucouToi
+2018-02-21 21:32:47,839 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,852 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,860 INFO Turn 1 begins
+2018-02-21 21:32:47,870 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,877 INFO CoucouToi command: reload
+2018-02-21 21:32:47,885 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,892 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,900 INFO Killing Martin-Bot
+2018-02-21 21:32:47,908 INFO Martin-Bot exit code: None
+2018-02-21 21:32:47,915 INFO Killing CoucouToi
+2018-02-21 21:32:47,923 INFO CoucouToi exit code: None
+2018-02-21 21:32:47,946 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:47,954 INFO Turn 1 begins
+2018-02-21 21:32:47,964 INFO Martin-Bot command: shoot
+2018-02-21 21:32:47,972 INFO CoucouToi command: reload
+2018-02-21 21:32:47,980 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,988 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:47,998 INFO Killing Martin-Bot
+2018-02-21 21:32:48,011 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:48,019 INFO Killing CoucouToi
+2018-02-21 21:32:48,028 INFO CoucouToi exit code: -9
+2018-02-21 21:32:48,079 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,084 INFO Turn 1 begins
+2018-02-21 21:32:48,091 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,099 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,099 INFO CoucouToi command: reload
+2018-02-21 21:32:48,107 INFO Turn 1 begins
+2018-02-21 21:32:48,107 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,114 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,118 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,123 INFO Killing Martin-Bot
+2018-02-21 21:32:48,127 INFO CoucouToi command: reload
+2018-02-21 21:32:48,134 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,135 INFO Martin-Bot exit code: None
+
+2018-02-21 21:32:48,142 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,143 INFO Killing CoucouToi
+2018-02-21 21:32:48,149 INFO Killing Martin-Bot
+2018-02-21 21:32:48,153 INFO CoucouToi exit code: 1
+2018-02-21 21:32:48,158 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,165 INFO Killing CoucouToi
+2018-02-21 21:32:48,171 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,178 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,186 INFO Turn 1 begins
+2018-02-21 21:32:48,195 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,204 INFO CoucouToi command: reload
+2018-02-21 21:32:48,214 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,222 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,229 INFO Killing Martin-Bot
+2018-02-21 21:32:48,244 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,251 INFO Killing CoucouToi
+2018-02-21 21:32:48,257 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,272 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,280 INFO Turn 1 begins
+2018-02-21 21:32:48,288 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,296 INFO CoucouToi command: reload
+2018-02-21 21:32:48,305 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,313 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,321 INFO Killing Martin-Bot
+2018-02-21 21:32:48,337 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,345 INFO Killing CoucouToi
+2018-02-21 21:32:48,357 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,400 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,409 INFO Turn 1 begins
+2018-02-21 21:32:48,416 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,421 INFO CoucouToi command: reload
+2018-02-21 21:32:48,428 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,429 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,436 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,438 INFO Turn 1 begins
+2018-02-21 21:32:48,445 INFO Killing Martin-Bot
+2018-02-21 21:32:48,446 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,453 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,454 INFO CoucouToi command: reload
+2018-02-21 21:32:48,461 INFO Killing CoucouToi
+2018-02-21 21:32:48,462 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,470 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,473 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,479 INFO Killing Martin-Bot
+2018-02-21 21:32:48,486 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,492 INFO Killing CoucouToi
+2018-02-21 21:32:48,501 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,508 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,519 INFO Turn 1 begins
+2018-02-21 21:32:48,527 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,538 INFO CoucouToi command: reload
+2018-02-21 21:32:48,546 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,557 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,564 INFO Killing Martin-Bot
+2018-02-21 21:32:48,578 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,588 INFO Killing CoucouToi
+2018-02-21 21:32:48,597 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,609 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,618 INFO Turn 1 begins
+2018-02-21 21:32:48,632 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,640 INFO CoucouToi command: reload
+2018-02-21 21:32:48,651 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,661 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,668 INFO Killing Martin-Bot
+2018-02-21 21:32:48,681 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:48,690 INFO Killing CoucouToi
+2018-02-21 21:32:48,696 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,718 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,727 INFO Turn 1 begins
+2018-02-21 21:32:48,735 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,743 INFO CoucouToi command: reload
+2018-02-21 21:32:48,750 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,756 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,756 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,765 INFO Turn 1 begins
+2018-02-21 21:32:48,766 INFO Killing Martin-Bot
+2018-02-21 21:32:48,773 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,782 INFO CoucouToi command: reload
+2018-02-21 21:32:48,783 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:48,790 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,792 INFO Killing CoucouToi
+2018-02-21 21:32:48,799 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,805 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,808 INFO Killing Martin-Bot
+2018-02-21 21:32:48,817 INFO Martin-Bot exit code: None
+2018-02-21 21:32:48,824 INFO Killing CoucouToi
+2018-02-21 21:32:48,832 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,843 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,853 INFO Turn 1 begins
+2018-02-21 21:32:48,863 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,872 INFO CoucouToi command: reload
+2018-02-21 21:32:48,881 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,891 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,900 INFO Killing Martin-Bot
+2018-02-21 21:32:48,914 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:48,922 INFO Killing CoucouToi
+2018-02-21 21:32:48,929 INFO CoucouToi exit code: None
+2018-02-21 21:32:48,943 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:48,952 INFO Turn 1 begins
+2018-02-21 21:32:48,964 INFO Martin-Bot command: shoot
+2018-02-21 21:32:48,973 INFO CoucouToi command: reload
+2018-02-21 21:32:48,983 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:48,993 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,001 INFO Killing Martin-Bot
+2018-02-21 21:32:49,017 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,026 INFO Killing CoucouToi
+2018-02-21 21:32:49,032 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,049 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,058 INFO Turn 1 begins
+2018-02-21 21:32:49,067 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,076 INFO CoucouToi command: reload
+2018-02-21 21:32:49,086 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,090 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,093 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,099 INFO Turn 1 begins
+2018-02-21 21:32:49,102 INFO Killing Martin-Bot
+2018-02-21 21:32:49,107 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,116 INFO CoucouToi command: reload
+2018-02-21 21:32:49,117 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,126 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,126 INFO Killing CoucouToi
+2018-02-21 21:32:49,134 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,143 INFO Killing Martin-Bot
+2018-02-21 21:32:49,144 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,151 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,158 INFO Killing CoucouToi
+2018-02-21 21:32:49,166 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,171 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,181 INFO Turn 1 begins
+2018-02-21 21:32:49,191 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,203 INFO CoucouToi command: reload
+2018-02-21 21:32:49,212 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,220 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,229 INFO Killing Martin-Bot
+2018-02-21 21:32:49,244 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,253 INFO Killing CoucouToi
+2018-02-21 21:32:49,260 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,272 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,281 INFO Turn 1 begins
+2018-02-21 21:32:49,290 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,299 INFO CoucouToi command: reload
+2018-02-21 21:32:49,309 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,320 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,330 INFO Killing Martin-Bot
+2018-02-21 21:32:49,345 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:49,354 INFO Killing CoucouToi
+2018-02-21 21:32:49,368 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,392 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,401 INFO Turn 1 begins
+2018-02-21 21:32:49,410 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,419 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,422 INFO CoucouToi command: reload
+2018-02-21 21:32:49,431 INFO Turn 1 begins
+2018-02-21 21:32:49,441 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,451 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,455 INFO CoucouToi command: reload
+2018-02-21 21:32:49,469 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,473 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,482 INFO Killing Martin-Bot
+2018-02-21 21:32:49,484 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,488 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,491 INFO Killing Martin-Bot
+2018-02-21 21:32:49,497 INFO Killing CoucouToi
+2018-02-21 21:32:49,498 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,504 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,508 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,509 INFO Killing CoucouToi
+2018-02-21 21:32:49,517 INFO Turn 1 begins
+2018-02-21 21:32:49,522 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,527 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,537 INFO CoucouToi command: reload
+2018-02-21 21:32:49,547 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,561 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,571 INFO Killing Martin-Bot
+2018-02-21 21:32:49,586 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,598 INFO Killing CoucouToi
+2018-02-21 21:32:49,607 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,619 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,629 INFO Turn 1 begins
+2018-02-21 21:32:49,638 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,648 INFO CoucouToi command: reload
+2018-02-21 21:32:49,657 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,667 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,678 INFO Killing Martin-Bot
+2018-02-21 21:32:49,694 INFO Martin-Bot exit code: 1
+2018-02-21 21:32:49,704 INFO Killing CoucouToi
+2018-02-21 21:32:49,717 INFO CoucouToi exit code: 1
+2018-02-21 21:32:49,768 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,772 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,778 INFO Turn 1 begins
+2018-02-21 21:32:49,780 INFO Turn 1 begins
+2018-02-21 21:32:49,788 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,789 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,797 INFO CoucouToi command: reload
+2018-02-21 21:32:49,798 INFO CoucouToi command: reload
+2018-02-21 21:32:49,808 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,814 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,820 INFO Killing Martin-Bot
+2018-02-21 21:32:49,826 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,832 INFO Killing CoucouToi
+2018-02-21 21:32:49,838 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,839 INFO CoucouToi exit code: None
+2018-02-21 21:32:49,853 INFO Starting new showdown: Martin-Bot vs CoucouToi
+2018-02-21 21:32:49,861 INFO Turn 1 begins
+2018-02-21 21:32:49,867 INFO Martin-Bot command: shoot
+2018-02-21 21:32:49,872 INFO CoucouToi command: reload
+2018-02-21 21:32:49,880 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,888 INFO Martin-Bot shoots CoucouToi
+2018-02-21 21:32:49,894 INFO Killing Martin-Bot
+2018-02-21 21:32:49,900 INFO Martin-Bot exit code: None
+2018-02-21 21:32:49,905 INFO Killing CoucouToi
+2018-02-21 21:32:49,911 INFO CoucouToi exit code: None

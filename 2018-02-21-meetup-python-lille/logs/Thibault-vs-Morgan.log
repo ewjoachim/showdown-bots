@@ -1,0 +1,1323 @@
+2018-02-21 22:04:43,893 INFO Starting new showdown: Thibault vs Morgan
+2018-02-21 22:04:43,894 INFO Starting new showdown: Thibault vs Morgan
+2018-02-21 22:04:43,894 INFO Turn 1 begins
+2018-02-21 22:04:43,895 INFO Turn 1 begins
+2018-02-21 22:04:43,895 INFO Thibault command: shoot
+2018-02-21 22:04:43,896 INFO Thibault command: shoot
+2018-02-21 22:04:43,896 INFO Morgan command: reload
+2018-02-21 22:04:43,896 INFO Morgan command: dodge
+2018-02-21 22:04:43,896 INFO Thibault shoots Morgan
+2018-02-21 22:04:43,896 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,897 INFO Thibault shoots Morgan
+2018-02-21 22:04:43,897 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,897 INFO Killing Thibault
+2018-02-21 22:04:43,897 INFO Morgan command: shoot
+2018-02-21 22:04:43,897 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,897 INFO Turn 2 begins
+2018-02-21 22:04:43,898 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,898 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:04:43,898 INFO Thibault exit code: None
+2018-02-21 22:04:43,898 INFO Turn 2 begins
+2018-02-21 22:04:43,898 INFO Thibault command: reload
+2018-02-21 22:04:43,898 INFO Killing Morgan
+2018-02-21 22:04:43,899 INFO Turn 2 begins
+2018-02-21 22:04:43,899 INFO Morgan command: dodge
+2018-02-21 22:04:43,899 INFO Morgan exit code: None
+2018-02-21 22:04:43,899 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,900 INFO Thibault command: reload
+2018-02-21 22:04:43,900 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,900 INFO Morgan command: dodge
+2018-02-21 22:04:43,900 INFO Turn 3 begins
+2018-02-21 22:04:43,900 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,901 INFO Thibault command: reload
+2018-02-21 22:04:43,901 INFO Thibault command: shoot
+2018-02-21 22:04:43,901 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,901 INFO Morgan command: dodge
+2018-02-21 22:04:43,901 INFO Morgan shot but without bullets
+2018-02-21 22:04:43,901 INFO Turn 3 begins
+2018-02-21 22:04:43,902 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,902 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:04:43,902 INFO Thibault command: shoot
+2018-02-21 22:04:43,902 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,902 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,902 INFO Morgan command: dodge
+2018-02-21 22:04:43,903 INFO Turn 3 begins
+2018-02-21 22:04:43,903 INFO Turn 4 begins
+2018-02-21 22:04:43,903 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,903 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,904 INFO Thibault command: shoot
+2018-02-21 22:04:43,904 INFO Turn 4 begins
+2018-02-21 22:04:43,904 INFO Thibault command: reload
+2018-02-21 22:04:43,904 INFO Morgan shot but without bullets
+2018-02-21 22:04:43,905 INFO Thibault shoots Morgan
+2018-02-21 22:04:43,905 INFO Morgan command: dodge
+2018-02-21 22:04:43,905 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,905 INFO Killing Thibault
+2018-02-21 22:04:43,906 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,906 INFO Thibault exit code: None
+2018-02-21 22:04:43,906 INFO Turn 5 begins
+2018-02-21 22:04:43,906 INFO Killing Morgan
+2018-02-21 22:04:43,907 INFO Morgan exit code: None
+2018-02-21 22:04:43,907 INFO Thibault command: shoot
+2018-02-21 22:04:43,908 INFO Morgan command: dodge
+2018-02-21 22:04:43,908 INFO Thibault command: shoot
+2018-02-21 22:04:43,908 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,909 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,909 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,909 INFO Turn 6 begins
+2018-02-21 22:04:43,910 INFO Turn 6 begins
+2018-02-21 22:04:43,911 INFO Thibault command: reload
+2018-02-21 22:04:43,911 INFO Morgan command: dodge
+2018-02-21 22:04:43,912 INFO Morgan command: dodge
+2018-02-21 22:04:43,912 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,912 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,912 INFO Turn 7 begins
+2018-02-21 22:04:43,913 INFO Turn 7 begins
+2018-02-21 22:04:43,913 INFO Thibault command: shoot
+2018-02-21 22:04:43,914 INFO Morgan command: dodge
+2018-02-21 22:04:43,914 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,915 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,915 INFO Turn 8 begins
+2018-02-21 22:04:43,916 INFO Thibault command: reload
+2018-02-21 22:04:43,916 INFO Morgan command: dodge
+2018-02-21 22:04:43,917 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,917 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,918 INFO Turn 9 begins
+2018-02-21 22:04:43,918 INFO Thibault command: shoot
+2018-02-21 22:04:43,919 INFO Morgan command: dodge
+2018-02-21 22:04:43,919 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,920 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,920 INFO Turn 10 begins
+2018-02-21 22:04:43,921 INFO Thibault command: reload
+2018-02-21 22:04:43,921 INFO Morgan command: dodge
+2018-02-21 22:04:43,922 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,922 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,923 INFO Turn 11 begins
+2018-02-21 22:04:43,924 INFO Thibault command: shoot
+2018-02-21 22:04:43,924 INFO Morgan command: dodge
+2018-02-21 22:04:43,924 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,925 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,925 INFO Turn 12 begins
+2018-02-21 22:04:43,926 INFO Thibault command: reload
+2018-02-21 22:04:43,926 INFO Morgan command: dodge
+2018-02-21 22:04:43,927 INFO Morgan command: dodge
+2018-02-21 22:04:43,927 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,927 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,928 INFO Turn 13 begins
+2018-02-21 22:04:43,928 INFO Thibault command: shoot
+2018-02-21 22:04:43,929 INFO Thibault command: shoot
+2018-02-21 22:04:43,929 INFO Morgan command: dodge
+2018-02-21 22:04:43,929 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,930 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,930 INFO Turn 14 begins
+2018-02-21 22:04:43,931 INFO Thibault command: reload
+2018-02-21 22:04:43,931 INFO Morgan command: dodge
+2018-02-21 22:04:43,932 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,932 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,933 INFO Turn 15 begins
+2018-02-21 22:04:43,933 INFO Thibault command: shoot
+2018-02-21 22:04:43,934 INFO Morgan command: dodge
+2018-02-21 22:04:43,934 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,935 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,935 INFO Turn 16 begins
+2018-02-21 22:04:43,936 INFO Thibault command: reload
+2018-02-21 22:04:43,936 INFO Morgan command: dodge
+2018-02-21 22:04:43,937 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,937 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,938 INFO Turn 17 begins
+2018-02-21 22:04:43,938 INFO Thibault command: shoot
+2018-02-21 22:04:43,939 INFO Morgan command: dodge
+2018-02-21 22:04:43,939 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,940 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,940 INFO Turn 18 begins
+2018-02-21 22:04:43,941 INFO Thibault command: reload
+2018-02-21 22:04:43,941 INFO Morgan command: dodge
+2018-02-21 22:04:43,942 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,942 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,943 INFO Turn 19 begins
+2018-02-21 22:04:43,943 INFO Thibault command: shoot
+2018-02-21 22:04:43,944 INFO Morgan command: dodge
+2018-02-21 22:04:43,944 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,945 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,945 INFO Turn 20 begins
+2018-02-21 22:04:43,945 INFO Thibault command: shoot
+2018-02-21 22:04:43,946 INFO Morgan command: dodge
+2018-02-21 22:04:43,946 INFO Thibault command: reload
+2018-02-21 22:04:43,946 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,947 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,947 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,947 INFO Turn 20 begins
+2018-02-21 22:04:43,947 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,948 INFO Turn 21 begins
+2018-02-21 22:04:43,948 INFO Thibault command: reload
+2018-02-21 22:04:43,949 INFO Morgan command: dodge
+2018-02-21 22:04:43,949 INFO Thibault command: shoot
+2018-02-21 22:04:43,949 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,950 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,950 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,950 INFO Turn 21 begins
+2018-02-21 22:04:43,950 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,950 INFO Turn 22 begins
+2018-02-21 22:04:43,951 INFO Thibault command: shoot
+2018-02-21 22:04:43,951 INFO Morgan command: dodge
+2018-02-21 22:04:43,951 INFO Thibault command: reload
+2018-02-21 22:04:43,952 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,952 INFO Morgan command: dodge
+2018-02-21 22:04:43,952 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,952 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,952 INFO Turn 22 begins
+2018-02-21 22:04:43,953 INFO Turn 23 begins
+2018-02-21 22:04:43,953 INFO Thibault command: reload
+2018-02-21 22:04:43,953 INFO Thibault command: shoot
+2018-02-21 22:04:43,954 INFO Morgan command: dodge
+2018-02-21 22:04:43,954 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,955 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,955 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,955 INFO Turn 23 begins
+2018-02-21 22:04:43,955 INFO Turn 24 begins
+2018-02-21 22:04:43,956 INFO Thibault command: shoot
+2018-02-21 22:04:43,956 INFO Thibault command: reload
+2018-02-21 22:04:43,956 INFO Morgan command: dodge
+2018-02-21 22:04:43,957 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,957 INFO Morgan command: dodge
+2018-02-21 22:04:43,957 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,957 INFO Turn 24 begins
+2018-02-21 22:04:43,958 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,958 INFO Turn 25 begins
+2018-02-21 22:04:43,958 INFO Thibault command: reload
+2018-02-21 22:04:43,959 INFO Thibault command: shoot
+2018-02-21 22:04:43,959 INFO Morgan command: dodge
+2018-02-21 22:04:43,959 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,960 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,960 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,960 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,960 INFO Turn 25 begins
+2018-02-21 22:04:43,960 INFO Turn 26 begins
+2018-02-21 22:04:43,961 INFO Thibault command: shoot
+2018-02-21 22:04:43,961 INFO Thibault command: reload
+2018-02-21 22:04:43,961 INFO Morgan command: dodge
+2018-02-21 22:04:43,962 INFO Morgan command: dodge
+2018-02-21 22:04:43,962 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,963 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,963 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,963 INFO Turn 26 begins
+2018-02-21 22:04:43,963 INFO Turn 27 begins
+2018-02-21 22:04:43,964 INFO Thibault command: reload
+2018-02-21 22:04:43,964 INFO Thibault command: shoot
+2018-02-21 22:04:43,964 INFO Morgan command: dodge
+2018-02-21 22:04:43,965 INFO Morgan command: dodge
+2018-02-21 22:04:43,965 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,965 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,965 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,966 INFO Turn 27 begins
+2018-02-21 22:04:43,966 INFO Turn 28 begins
+2018-02-21 22:04:43,966 INFO Thibault command: shoot
+2018-02-21 22:04:43,966 INFO Thibault command: reload
+2018-02-21 22:04:43,967 INFO Morgan command: dodge
+2018-02-21 22:04:43,967 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,968 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,968 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,968 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,968 INFO Turn 28 begins
+2018-02-21 22:04:43,968 INFO Turn 29 begins
+2018-02-21 22:04:43,969 INFO Thibault command: shoot
+2018-02-21 22:04:43,969 INFO Thibault command: reload
+2018-02-21 22:04:43,970 INFO Morgan command: dodge
+2018-02-21 22:04:43,970 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,970 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,970 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,971 INFO Turn 29 begins
+2018-02-21 22:04:43,971 INFO Turn 30 begins
+2018-02-21 22:04:43,971 INFO Thibault command: shoot
+2018-02-21 22:04:43,971 INFO Thibault command: reload
+2018-02-21 22:04:43,972 INFO Morgan command: dodge
+2018-02-21 22:04:43,972 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,973 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,973 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,973 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,973 INFO Turn 30 begins
+2018-02-21 22:04:43,973 INFO Turn 31 begins
+2018-02-21 22:04:43,974 INFO Thibault command: reload
+2018-02-21 22:04:43,974 INFO Thibault command: shoot
+2018-02-21 22:04:43,974 INFO Morgan command: dodge
+2018-02-21 22:04:43,975 INFO Morgan command: dodge
+2018-02-21 22:04:43,975 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,975 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,975 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,976 INFO Turn 31 begins
+2018-02-21 22:04:43,976 INFO Turn 32 begins
+2018-02-21 22:04:43,976 INFO Thibault command: reload
+2018-02-21 22:04:43,976 INFO Thibault command: shoot
+2018-02-21 22:04:43,977 INFO Morgan command: dodge
+2018-02-21 22:04:43,977 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,978 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,978 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,978 INFO Turn 32 begins
+2018-02-21 22:04:43,978 INFO Turn 33 begins
+2018-02-21 22:04:43,979 INFO Thibault command: reload
+2018-02-21 22:04:43,979 INFO Thibault command: shoot
+2018-02-21 22:04:43,980 INFO Morgan command: dodge
+2018-02-21 22:04:43,980 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,980 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,981 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,981 INFO Turn 33 begins
+2018-02-21 22:04:43,981 INFO Turn 34 begins
+2018-02-21 22:04:43,981 INFO Thibault command: shoot
+2018-02-21 22:04:43,982 INFO Thibault command: reload
+2018-02-21 22:04:43,982 INFO Morgan command: dodge
+2018-02-21 22:04:43,982 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,983 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,983 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,983 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,983 INFO Turn 34 begins
+2018-02-21 22:04:43,984 INFO Turn 35 begins
+2018-02-21 22:04:43,984 INFO Thibault command: reload
+2018-02-21 22:04:43,984 INFO Thibault command: shoot
+2018-02-21 22:04:43,984 INFO Morgan command: dodge
+2018-02-21 22:04:43,985 INFO Morgan command: dodge
+2018-02-21 22:04:43,985 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,985 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,985 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,986 INFO Turn 35 begins
+2018-02-21 22:04:43,986 INFO Turn 36 begins
+2018-02-21 22:04:43,986 INFO Thibault command: shoot
+2018-02-21 22:04:43,986 INFO Thibault command: reload
+2018-02-21 22:04:43,987 INFO Morgan command: dodge
+2018-02-21 22:04:43,987 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,988 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,988 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,988 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,988 INFO Turn 36 begins
+2018-02-21 22:04:43,988 INFO Turn 37 begins
+2018-02-21 22:04:43,989 INFO Thibault command: reload
+2018-02-21 22:04:43,989 INFO Thibault command: shoot
+2018-02-21 22:04:43,990 INFO Morgan command: dodge
+2018-02-21 22:04:43,990 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,990 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,990 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,991 INFO Turn 37 begins
+2018-02-21 22:04:43,991 INFO Turn 38 begins
+2018-02-21 22:04:43,991 INFO Thibault command: shoot
+2018-02-21 22:04:43,991 INFO Thibault command: reload
+2018-02-21 22:04:43,992 INFO Morgan command: dodge
+2018-02-21 22:04:43,992 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,993 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,993 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,993 INFO Turn 38 begins
+2018-02-21 22:04:43,993 INFO Turn 39 begins
+2018-02-21 22:04:43,994 INFO Thibault command: shoot
+
+2018-02-21 22:04:43,994 INFO Morgan command: dodge
+2018-02-21 22:04:43,995 INFO Morgan command: dodge
+2018-02-21 22:04:43,995 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,995 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,996 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,996 INFO Turn 39 begins
+2018-02-21 22:04:43,996 INFO Turn 40 begins
+2018-02-21 22:04:43,996 INFO Thibault command: shoot
+2018-02-21 22:04:43,996 INFO Thibault command: reload
+2018-02-21 22:04:43,997 INFO Morgan command: dodge
+2018-02-21 22:04:43,997 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,998 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:43,998 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:43,998 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:43,998 INFO Turn 40 begins
+2018-02-21 22:04:43,998 INFO Turn 41 begins
+2018-02-21 22:04:43,999 INFO Thibault command: shoot
+2018-02-21 22:04:43,999 INFO Thibault command: reload
+2018-02-21 22:04:44,000 INFO Morgan command: dodge
+2018-02-21 22:04:44,000 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,001 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,001 INFO Turn 41 begins
+2018-02-21 22:04:44,002 INFO Thibault command: shoot
+2018-02-21 22:04:44,002 INFO Morgan command: dodge
+2018-02-21 22:04:44,003 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,003 INFO Morgan command: dodge
+2018-02-21 22:04:44,003 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,004 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,004 INFO Turn 42 begins
+2018-02-21 22:04:44,004 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,004 INFO Thibault command: reload
+2018-02-21 22:04:44,005 INFO Turn 42 begins
+2018-02-21 22:04:44,005 INFO Thibault command: reload
+2018-02-21 22:04:44,006 INFO Morgan command: dodge
+2018-02-21 22:04:44,006 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,007 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,007 INFO Turn 43 begins
+2018-02-21 22:04:44,008 INFO Thibault command: shoot
+2018-02-21 22:04:44,008 INFO Morgan command: dodge
+2018-02-21 22:04:44,008 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,009 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,009 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,009 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,009 INFO Turn 43 begins
+2018-02-21 22:04:44,010 INFO Turn 44 begins
+2018-02-21 22:04:44,010 INFO Thibault command: shoot
+2018-02-21 22:04:44,010 INFO Thibault command: reload
+2018-02-21 22:04:44,010 INFO Morgan command: dodge
+2018-02-21 22:04:44,011 INFO Morgan command: dodge
+2018-02-21 22:04:44,011 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,011 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,012 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,012 INFO Turn 44 begins
+2018-02-21 22:04:44,012 INFO Turn 45 begins
+2018-02-21 22:04:44,012 INFO Thibault command: reload
+2018-02-21 22:04:44,013 INFO Thibault command: shoot
+2018-02-21 22:04:44,013 INFO Morgan command: dodge
+2018-02-21 22:04:44,013 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,014 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,014 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,014 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,014 INFO Turn 45 begins
+2018-02-21 22:04:44,014 INFO Turn 46 begins
+2018-02-21 22:04:44,015 INFO Thibault command: shoot
+2018-02-21 22:04:44,015 INFO Thibault command: reload
+2018-02-21 22:04:44,015 INFO Morgan command: dodge
+2018-02-21 22:04:44,016 INFO Morgan command: dodge
+2018-02-21 22:04:44,016 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,016 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,016 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,017 INFO Turn 46 begins
+2018-02-21 22:04:44,017 INFO Turn 47 begins
+2018-02-21 22:04:44,017 INFO Thibault command: reload
+2018-02-21 22:04:44,017 INFO Thibault command: shoot
+2018-02-21 22:04:44,018 INFO Morgan command: dodge
+2018-02-21 22:04:44,018 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,018 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,019 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,019 INFO Turn 47 begins
+2018-02-21 22:04:44,019 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,019 INFO Turn 48 begins
+2018-02-21 22:04:44,020 INFO Thibault command: shoot
+2018-02-21 22:04:44,020 INFO Morgan command: dodge
+2018-02-21 22:04:44,020 INFO Thibault command: reload
+2018-02-21 22:04:44,021 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,021 INFO Morgan command: dodge
+2018-02-21 22:04:44,021 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,021 INFO Turn 48 begins
+2018-02-21 22:04:44,021 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,022 INFO Thibault command: reload
+2018-02-21 22:04:44,022 INFO Turn 49 begins
+2018-02-21 22:04:44,023 INFO Thibault command: shoot
+2018-02-21 22:04:44,023 INFO Morgan command: dodge
+2018-02-21 22:04:44,023 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,024 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,024 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,024 INFO Turn 49 begins
+2018-02-21 22:04:44,025 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,025 INFO Thibault command: shoot
+2018-02-21 22:04:44,025 INFO Turn 50 begins
+2018-02-21 22:04:44,026 INFO Morgan command: dodge
+2018-02-21 22:04:44,026 INFO Thibault command: reload
+2018-02-21 22:04:44,027 INFO Morgan command: dodge
+2018-02-21 22:04:44,027 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,027 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,028 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,028 INFO Turn 50 begins
+2018-02-21 22:04:44,028 INFO Turn 51 begins
+2018-02-21 22:04:44,028 INFO Thibault command: reload
+2018-02-21 22:04:44,029 INFO Thibault command: shoot
+2018-02-21 22:04:44,029 INFO Morgan command: dodge
+2018-02-21 22:04:44,029 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,030 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,030 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,030 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,030 INFO Turn 51 begins
+2018-02-21 22:04:44,031 INFO Turn 52 begins
+2018-02-21 22:04:44,031 INFO Thibault command: reload
+2018-02-21 22:04:44,032 INFO Thibault command: shoot
+2018-02-21 22:04:44,032 INFO Morgan command: dodge
+2018-02-21 22:04:44,033 INFO Morgan command: dodge
+2018-02-21 22:04:44,033 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,033 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,033 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,034 INFO Turn 53 begins
+2018-02-21 22:04:44,034 INFO Turn 52 begins
+2018-02-21 22:04:44,034 INFO Thibault command: shoot
+2018-02-21 22:04:44,034 INFO Thibault command: reload
+2018-02-21 22:04:44,035 INFO Morgan command: dodge
+2018-02-21 22:04:44,035 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,036 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,036 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,036 INFO Turn 54 begins
+2018-02-21 22:04:44,036 INFO Turn 53 begins
+2018-02-21 22:04:44,037 INFO Thibault command: reload
+2018-02-21 22:04:44,037 INFO Thibault command: shoot
+2018-02-21 22:04:44,037 INFO Morgan command: dodge
+2018-02-21 22:04:44,038 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,038 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,038 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,039 INFO Turn 55 begins
+2018-02-21 22:04:44,039 INFO Turn 54 begins
+2018-02-21 22:04:44,039 INFO Thibault command: shoot
+2018-02-21 22:04:44,039 INFO Thibault command: reload
+2018-02-21 22:04:44,040 INFO Morgan command: dodge
+2018-02-21 22:04:44,040 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,041 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,041 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,041 INFO Turn 56 begins
+2018-02-21 22:04:44,041 INFO Turn 55 begins
+2018-02-21 22:04:44,042 INFO Thibault command: reload
+2018-02-21 22:04:44,042 INFO Thibault command: shoot
+2018-02-21 22:04:44,042 INFO Morgan command: dodge
+2018-02-21 22:04:44,043 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,043 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,044 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,044 INFO Turn 57 begins
+2018-02-21 22:04:44,044 INFO Turn 56 begins
+2018-02-21 22:04:44,045 INFO Thibault command: shoot
+2018-02-21 22:04:44,045 INFO Thibault command: reload
+2018-02-21 22:04:44,045 INFO Morgan command: dodge
+2018-02-21 22:04:44,046 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,046 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,046 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,046 INFO Turn 58 begins
+2018-02-21 22:04:44,047 INFO Turn 57 begins
+2018-02-21 22:04:44,047 INFO Thibault command: reload
+2018-02-21 22:04:44,047 INFO Thibault command: shoot
+2018-02-21 22:04:44,048 INFO Morgan command: dodge
+2018-02-21 22:04:44,048 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,049 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,049 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,049 INFO Turn 59 begins
+2018-02-21 22:04:44,049 INFO Turn 58 begins
+2018-02-21 22:04:44,050 INFO Thibault command: shoot
+2018-02-21 22:04:44,050 INFO Thibault command: reload
+2018-02-21 22:04:44,050 INFO Morgan command: dodge
+2018-02-21 22:04:44,051 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,051 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,051 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,051 INFO Turn 60 begins
+2018-02-21 22:04:44,052 INFO Turn 59 begins
+2018-02-21 22:04:44,052 INFO Thibault command: reload
+2018-02-21 22:04:44,052 INFO Thibault command: shoot
+2018-02-21 22:04:44,053 INFO Morgan command: dodge
+2018-02-21 22:04:44,053 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,054 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,054 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,054 INFO Turn 61 begins
+2018-02-21 22:04:44,054 INFO Turn 60 begins
+2018-02-21 22:04:44,055 INFO Thibault command: reload
+2018-02-21 22:04:44,055 INFO Thibault command: shoot
+2018-02-21 22:04:44,055 INFO Morgan command: dodge
+2018-02-21 22:04:44,056 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,056 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,056 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,056 INFO Turn 61 begins
+2018-02-21 22:04:44,057 INFO Turn 62 begins
+2018-02-21 22:04:44,057 INFO Thibault command: reload
+2018-02-21 22:04:44,057 INFO Thibault command: shoot
+2018-02-21 22:04:44,058 INFO Morgan command: dodge
+2018-02-21 22:04:44,058 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,059 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,059 INFO Turn 62 begins
+2018-02-21 22:04:44,060 INFO Thibault command: reload
+2018-02-21 22:04:44,060 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,060 INFO Morgan command: dodge
+2018-02-21 22:04:44,060 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,061 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,061 INFO Turn 63 begins
+2018-02-21 22:04:44,061 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,061 INFO Thibault command: shoot
+2018-02-21 22:04:44,062 INFO Turn 63 begins
+2018-02-21 22:04:44,062 INFO Morgan command: dodge
+2018-02-21 22:04:44,062 INFO Thibault command: shoot
+2018-02-21 22:04:44,062 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,063 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,063 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,063 INFO Turn 64 begins
+2018-02-21 22:04:44,064 INFO Turn 64 begins
+2018-02-21 22:04:44,064 INFO Thibault command: reload
+2018-02-21 22:04:44,064 INFO Morgan command: dodge
+2018-02-21 22:04:44,065 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,065 INFO Morgan command: dodge
+2018-02-21 22:04:44,065 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,066 INFO Turn 65 begins
+2018-02-21 22:04:44,066 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,066 INFO Thibault command: shoot
+2018-02-21 22:04:44,067 INFO Morgan command: dodge
+2018-02-21 22:04:44,067 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,067 INFO Thibault command: shoot
+2018-02-21 22:04:44,068 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,068 INFO Morgan command: dodge
+2018-02-21 22:04:44,068 INFO Turn 66 begins
+2018-02-21 22:04:44,068 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,069 INFO Thibault command: reload
+2018-02-21 22:04:44,069 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,069 INFO Turn 66 begins
+2018-02-21 22:04:44,069 INFO Morgan command: dodge
+2018-02-21 22:04:44,070 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,070 INFO Thibault command: reload
+2018-02-21 22:04:44,070 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,070 INFO Morgan command: dodge
+2018-02-21 22:04:44,071 INFO Turn 67 begins
+2018-02-21 22:04:44,071 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,071 INFO Thibault command: shoot
+2018-02-21 22:04:44,071 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,072 INFO Turn 67 begins
+2018-02-21 22:04:44,072 INFO Morgan command: dodge
+2018-02-21 22:04:44,072 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,072 INFO Thibault command: shoot
+2018-02-21 22:04:44,073 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,073 INFO Morgan command: dodge
+2018-02-21 22:04:44,073 INFO Turn 68 begins
+2018-02-21 22:04:44,073 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,074 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,074 INFO Thibault command: reload
+2018-02-21 22:04:44,074 INFO Morgan command: dodge
+2018-02-21 22:04:44,074 INFO Turn 68 begins
+2018-02-21 22:04:44,075 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,075 INFO Thibault command: reload
+2018-02-21 22:04:44,075 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,075 INFO Morgan command: dodge
+2018-02-21 22:04:44,076 INFO Turn 69 begins
+2018-02-21 22:04:44,076 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,076 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,076 INFO Thibault command: shoot
+2018-02-21 22:04:44,077 INFO Turn 69 begins
+2018-02-21 22:04:44,077 INFO Morgan command: dodge
+2018-02-21 22:04:44,077 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,077 INFO Thibault command: shoot
+2018-02-21 22:04:44,078 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,078 INFO Morgan command: dodge
+2018-02-21 22:04:44,078 INFO Turn 70 begins
+2018-02-21 22:04:44,078 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,079 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,079 INFO Turn 70 begins
+2018-02-21 22:04:44,080 INFO Thibault command: reload
+2018-02-21 22:04:44,079 INFO Thibault command: reload
+2018-02-21 22:04:44,080 INFO Morgan command: dodge
+2018-02-21 22:04:44,081 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,081 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,082 INFO Turn 71 begins
+2018-02-21 22:04:44,083 INFO Thibault command: shoot
+2018-02-21 22:04:44,083 INFO Morgan command: dodge
+2018-02-21 22:04:44,082 INFO Thibault command: shoot
+2018-02-21 22:04:44,084 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,084 INFO Morgan command: dodge
+2018-02-21 22:04:44,084 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,085 INFO Turn 72 begins
+2018-02-21 22:04:44,085 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,086 INFO Thibault command: reload
+2018-02-21 22:04:44,086 INFO Turn 72 begins
+2018-02-21 22:04:44,086 INFO Morgan command: dodge
+2018-02-21 22:04:44,087 INFO Thibault command: reload
+2018-02-21 22:04:44,087 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,087 INFO Morgan command: dodge
+2018-02-21 22:04:44,087 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,088 INFO Turn 73 begins
+2018-02-21 22:04:44,088 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,089 INFO Turn 73 begins
+2018-02-21 22:04:44,088 INFO Thibault command: shoot
+2018-02-21 22:04:44,089 INFO Thibault command: shoot
+2018-02-21 22:04:44,090 INFO Morgan command: dodge
+2018-02-21 22:04:44,090 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,091 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,092 INFO Turn 74 begins
+2018-02-21 22:04:44,092 INFO Thibault command: reload
+2018-02-21 22:04:44,093 INFO Morgan command: dodge
+2018-02-21 22:04:44,093 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,094 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,094 INFO Turn 75 begins
+2018-02-21 22:04:44,095 INFO Thibault command: shoot
+2018-02-21 22:04:44,095 INFO Turn 75 begins
+2018-02-21 22:04:44,095 INFO Morgan command: dodge
+2018-02-21 22:04:44,096 INFO Thibault command: shoot
+2018-02-21 22:04:44,096 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,096 INFO Morgan command: dodge
+2018-02-21 22:04:44,096 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,097 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,097 INFO Turn 76 begins
+2018-02-21 22:04:44,097 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,097 INFO Thibault command: reload
+2018-02-21 22:04:44,098 INFO Turn 76 begins
+2018-02-21 22:04:44,098 INFO Morgan command: dodge
+2018-02-21 22:04:44,098 INFO Thibault command: reload
+2018-02-21 22:04:44,099 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,099 INFO Morgan command: dodge
+2018-02-21 22:04:44,099 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,099 INFO Turn 77 begins
+2018-02-21 22:04:44,100 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,100 INFO Thibault command: shoot
+2018-02-21 22:04:44,100 INFO Turn 77 begins
+2018-02-21 22:04:44,101 INFO Morgan command: dodge
+2018-02-21 22:04:44,101 INFO Thibault command: shoot
+2018-02-21 22:04:44,101 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,102 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,102 INFO Turn 78 begins
+2018-02-21 22:04:44,103 INFO Thibault command: reload
+2018-02-21 22:04:44,103 INFO Morgan command: dodge
+2018-02-21 22:04:44,104 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,102 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,104 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,104 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,105 INFO Turn 79 begins
+2018-02-21 22:04:44,105 INFO Turn 78 begins
+2018-02-21 22:04:44,105 INFO Thibault command: shoot
+2018-02-21 22:04:44,105 INFO Thibault command: reload
+2018-02-21 22:04:44,106 INFO Morgan command: dodge
+2018-02-21 22:04:44,106 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,107 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,107 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,107 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,107 INFO Turn 80 begins
+2018-02-21 22:04:44,108 INFO Turn 79 begins
+2018-02-21 22:04:44,108 INFO Thibault command: reload
+2018-02-21 22:04:44,108 INFO Thibault command: shoot
+2018-02-21 22:04:44,108 INFO Morgan command: dodge
+2018-02-21 22:04:44,109 INFO Morgan command: dodge
+2018-02-21 22:04:44,109 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,109 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,109 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,110 INFO Turn 81 begins
+2018-02-21 22:04:44,110 INFO Turn 80 begins
+2018-02-21 22:04:44,110 INFO Thibault command: shoot
+2018-02-21 22:04:44,111 INFO Thibault command: reload
+2018-02-21 22:04:44,111 INFO Morgan command: dodge
+2018-02-21 22:04:44,111 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,112 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,112 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,112 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,112 INFO Turn 82 begins
+2018-02-21 22:04:44,113 INFO Thibault command: reload
+2018-02-21 22:04:44,113 INFO Turn 81 begins
+2018-02-21 22:04:44,114 INFO Morgan command: dodge
+2018-02-21 22:04:44,114 INFO Thibault command: shoot
+2018-02-21 22:04:44,114 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,114 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,115 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,115 INFO Turn 83 begins
+2018-02-21 22:04:44,115 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,116 INFO Thibault command: shoot
+2018-02-21 22:04:44,116 INFO Turn 82 begins
+2018-02-21 22:04:44,116 INFO Morgan command: dodge
+2018-02-21 22:04:44,117 INFO Thibault command: reload
+2018-02-21 22:04:44,117 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,117 INFO Morgan command: dodge
+2018-02-21 22:04:44,117 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,117 INFO Turn 84 begins
+2018-02-21 22:04:44,118 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,118 INFO Thibault command: reload
+2018-02-21 22:04:44,118 INFO Turn 83 begins
+2018-02-21 22:04:44,119 INFO Morgan command: dodge
+2018-02-21 22:04:44,119 INFO Thibault command: shoot
+2018-02-21 22:04:44,119 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,120 INFO Morgan command: dodge
+2018-02-21 22:04:44,120 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,120 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,120 INFO Turn 85 begins
+2018-02-21 22:04:44,120 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,121 INFO Thibault command: shoot
+2018-02-21 22:04:44,121 INFO Turn 84 begins
+2018-02-21 22:04:44,121 INFO Morgan command: dodge
+2018-02-21 22:04:44,122 INFO Thibault command: reload
+2018-02-21 22:04:44,122 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,122 INFO Morgan command: dodge
+2018-02-21 22:04:44,122 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,123 INFO Turn 86 begins
+2018-02-21 22:04:44,123 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,123 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,123 INFO Thibault command: reload
+2018-02-21 22:04:44,124 INFO Turn 85 begins
+2018-02-21 22:04:44,124 INFO Morgan command: dodge
+2018-02-21 22:04:44,124 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,125 INFO Thibault command: shoot
+2018-02-21 22:04:44,125 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,125 INFO Morgan command: dodge
+2018-02-21 22:04:44,125 INFO Turn 87 begins
+2018-02-21 22:04:44,125 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,126 INFO Thibault command: shoot
+2018-02-21 22:04:44,126 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,126 INFO Morgan command: dodge
+2018-02-21 22:04:44,127 INFO Turn 86 begins
+2018-02-21 22:04:44,127 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,127 INFO Thibault command: reload
+2018-02-21 22:04:44,127 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,128 INFO Morgan command: dodge
+2018-02-21 22:04:44,128 INFO Turn 88 begins
+2018-02-21 22:04:44,128 INFO Thibault command: reload
+2018-02-21 22:04:44,129 INFO Morgan command: dodge
+2018-02-21 22:04:44,128 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,129 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,130 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,130 INFO Turn 89 begins
+2018-02-21 22:04:44,130 INFO Turn 87 begins
+2018-02-21 22:04:44,131 INFO Thibault command: shoot
+2018-02-21 22:04:44,132 INFO Morgan command: dodge
+2018-02-21 22:04:44,132 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,132 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,133 INFO Turn 90 begins
+2018-02-21 22:04:44,133 INFO Turn 88 begins
+2018-02-21 22:04:44,133 INFO Thibault command: reload
+2018-02-21 22:04:44,134 INFO Morgan command: dodge
+2018-02-21 22:04:44,134 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,135 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,135 INFO Turn 91 begins
+2018-02-21 22:04:44,135 INFO Turn 89 begins
+2018-02-21 22:04:44,136 INFO Thibault command: shoot
+2018-02-21 22:04:44,137 INFO Morgan command: dodge
+2018-02-21 22:04:44,137 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,138 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,139 INFO Turn 92 begins
+2018-02-21 22:04:44,139 INFO Morgan command: dodge
+2018-02-21 22:04:44,139 INFO Thibault command: reload
+2018-02-21 22:04:44,140 INFO Morgan command: dodge
+2018-02-21 22:04:44,139 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,140 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,140 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,141 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,141 INFO Turn 90 begins
+2018-02-21 22:04:44,141 INFO Turn 93 begins
+2018-02-21 22:04:44,141 INFO Thibault command: reload
+2018-02-21 22:04:44,142 INFO Thibault command: shoot
+2018-02-21 22:04:44,142 INFO Morgan command: dodge
+2018-02-21 22:04:44,142 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,143 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,143 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,143 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,143 INFO Turn 91 begins
+2018-02-21 22:04:44,144 INFO Turn 94 begins
+2018-02-21 22:04:44,144 INFO Thibault command: reload
+2018-02-21 22:04:44,144 INFO Thibault command: shoot
+2018-02-21 22:04:44,145 INFO Morgan command: dodge
+2018-02-21 22:04:44,145 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,146 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,146 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,146 INFO Turn 95 begins
+2018-02-21 22:04:44,146 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,147 INFO Turn 92 begins
+2018-02-21 22:04:44,147 INFO Thibault command: reload
+2018-02-21 22:04:44,148 INFO Thibault command: shoot
+2018-02-21 22:04:44,148 INFO Morgan command: dodge
+2018-02-21 22:04:44,148 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,149 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,149 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,149 INFO Turn 93 begins
+2018-02-21 22:04:44,149 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,150 INFO Thibault command: shoot
+2018-02-21 22:04:44,150 INFO Turn 96 begins
+2018-02-21 22:04:44,150 INFO Thibault command: reload
+2018-02-21 22:04:44,150 INFO Morgan command: dodge
+2018-02-21 22:04:44,151 INFO Morgan command: dodge
+2018-02-21 22:04:44,151 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,152 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,152 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,152 INFO Turn 97 begins
+2018-02-21 22:04:44,153 INFO Turn 94 begins
+2018-02-21 22:04:44,153 INFO Thibault command: shoot
+2018-02-21 22:04:44,153 INFO Thibault command: reload
+2018-02-21 22:04:44,153 INFO Morgan command: dodge
+2018-02-21 22:04:44,154 INFO Morgan command: dodge
+2018-02-21 22:04:44,154 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,154 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,155 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,155 INFO Turn 98 begins
+2018-02-21 22:04:44,155 INFO Turn 95 begins
+2018-02-21 22:04:44,155 INFO Thibault command: reload
+2018-02-21 22:04:44,156 INFO Morgan command: dodge
+2018-02-21 22:04:44,156 INFO Thibault command: shoot
+2018-02-21 22:04:44,156 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,157 INFO Morgan command: dodge
+2018-02-21 22:04:44,157 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,157 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,157 INFO Turn 99 begins
+2018-02-21 22:04:44,158 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,158 INFO Thibault command: shoot
+2018-02-21 22:04:44,158 INFO Turn 96 begins
+2018-02-21 22:04:44,159 INFO Morgan command: dodge
+2018-02-21 22:04:44,159 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,159 INFO Thibault command: reload
+2018-02-21 22:04:44,159 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,160 INFO Turn 100 begins
+2018-02-21 22:04:44,160 INFO Morgan command: dodge
+2018-02-21 22:04:44,160 INFO Thibault command: reload
+2018-02-21 22:04:44,161 INFO Morgan command: dodge
+2018-02-21 22:04:44,162 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,160 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,162 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,162 INFO Thibault dodged 0 times
+2018-02-21 22:04:44,163 INFO Morgan dodged 100 times
+2018-02-21 22:04:44,163 INFO Killing Thibault
+2018-02-21 22:04:44,164 INFO Thibault exit code: None
+2018-02-21 22:04:44,165 INFO Killing Morgan
+2018-02-21 22:04:44,166 INFO Morgan exit code: None
+2018-02-21 22:04:44,163 INFO Turn 97 begins
+2018-02-21 22:04:44,168 INFO Thibault command: shoot
+2018-02-21 22:04:44,168 INFO Morgan command: dodge
+2018-02-21 22:04:44,169 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,170 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,170 INFO Turn 98 begins
+2018-02-21 22:04:44,171 INFO Thibault command: reload
+2018-02-21 22:04:44,171 INFO Morgan command: dodge
+2018-02-21 22:04:44,172 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,172 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,173 INFO Turn 99 begins
+2018-02-21 22:04:44,173 INFO Thibault command: shoot
+2018-02-21 22:04:44,174 INFO Morgan command: dodge
+2018-02-21 22:04:44,175 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,176 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:04:44,176 INFO Turn 100 begins
+2018-02-21 22:04:44,177 INFO Thibault command: reload
+2018-02-21 22:04:44,178 INFO Morgan command: dodge
+2018-02-21 22:04:44,178 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:04:44,179 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:04:44,179 INFO Thibault dodged 0 times
+2018-02-21 22:04:44,180 INFO Morgan dodged 100 times
+2018-02-21 22:04:44,180 INFO Killing Thibault
+2018-02-21 22:04:44,185 INFO Thibault exit code: None
+2018-02-21 22:04:44,185 INFO Killing Morgan
+2018-02-21 22:04:44,192 INFO Morgan exit code: None
+2018-02-21 22:05:01,307 INFO Starting new showdown: Thibault vs Morgan
+2018-02-21 22:05:01,310 INFO Turn 1 begins
+2018-02-21 22:05:01,310 INFO Thibault command: shoot
+2018-02-21 22:05:01,310 INFO Morgan command: shoot
+2018-02-21 22:05:01,310 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:05:01,310 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:01,311 INFO Turn 2 begins
+2018-02-21 22:05:01,312 INFO Thibault command: reload
+2018-02-21 22:05:01,312 INFO Morgan shot but without bullets
+2018-02-21 22:05:01,312 DEBUG Telling Thibault that opponent did: shoot_no_bullet
+2018-02-21 22:05:01,312 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:01,312 INFO Turn 3 begins
+2018-02-21 22:05:01,313 INFO Thibault command: shoot
+2018-02-21 22:05:01,313 INFO Morgan shot but without bullets
+2018-02-21 22:05:01,313 INFO Thibault shoots Morgan
+2018-02-21 22:05:01,313 INFO Killing Thibault
+2018-02-21 22:05:01,314 INFO Thibault exit code: None
+2018-02-21 22:05:01,314 INFO Killing Morgan
+2018-02-21 22:05:01,314 INFO Morgan exit code: None
+2018-02-21 22:05:05,578 INFO Starting new showdown: Thibault vs Morgan
+2018-02-21 22:05:05,580 INFO Turn 1 begins
+2018-02-21 22:05:05,581 INFO Thibault command: shoot
+2018-02-21 22:05:05,581 INFO Morgan command: dodge
+2018-02-21 22:05:05,581 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,581 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,581 INFO Turn 2 begins
+2018-02-21 22:05:05,582 INFO Thibault command: reload
+2018-02-21 22:05:05,582 INFO Morgan command: dodge
+2018-02-21 22:05:05,582 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,582 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,583 INFO Turn 3 begins
+2018-02-21 22:05:05,583 INFO Thibault command: shoot
+2018-02-21 22:05:05,583 INFO Morgan command: dodge
+2018-02-21 22:05:05,583 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,583 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,583 INFO Turn 4 begins
+2018-02-21 22:05:05,583 INFO Thibault command: reload
+2018-02-21 22:05:05,584 INFO Morgan command: dodge
+2018-02-21 22:05:05,584 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,584 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,584 INFO Turn 5 begins
+2018-02-21 22:05:05,584 INFO Thibault command: shoot
+2018-02-21 22:05:05,584 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,585 INFO Turn 6 begins
+2018-02-21 22:05:05,585 INFO Thibault command: reload
+2018-02-21 22:05:05,585 INFO Morgan command: dodge
+2018-02-21 22:05:05,585 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,585 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,585 INFO Turn 7 begins
+2018-02-21 22:05:05,585 INFO Thibault command: shoot
+2018-02-21 22:05:05,586 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,586 INFO Turn 8 begins
+2018-02-21 22:05:05,586 INFO Thibault command: reload
+2018-02-21 22:05:05,586 INFO Morgan command: dodge
+2018-02-21 22:05:05,586 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,586 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,586 INFO Turn 9 begins
+2018-02-21 22:05:05,587 INFO Thibault command: shoot
+2018-02-21 22:05:05,587 INFO Morgan command: dodge
+2018-02-21 22:05:05,587 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,587 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,587 INFO Turn 10 begins
+2018-02-21 22:05:05,587 INFO Thibault command: reload
+2018-02-21 22:05:05,587 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,588 INFO Turn 11 begins
+2018-02-21 22:05:05,588 INFO Thibault command: shoot
+2018-02-21 22:05:05,588 INFO Morgan command: dodge
+2018-02-21 22:05:05,588 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,588 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,588 INFO Turn 12 begins
+2018-02-21 22:05:05,588 INFO Thibault command: reload
+2018-02-21 22:05:05,589 INFO Morgan command: dodge
+2018-02-21 22:05:05,589 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,589 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,589 INFO Turn 13 begins
+2018-02-21 22:05:05,589 INFO Thibault command: shoot
+2018-02-21 22:05:05,589 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,590 INFO Turn 14 begins
+2018-02-21 22:05:05,590 INFO Thibault command: reload
+2018-02-21 22:05:05,590 INFO Morgan command: dodge
+2018-02-21 22:05:05,590 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,590 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,590 INFO Turn 15 begins
+2018-02-21 22:05:05,590 INFO Thibault command: shoot
+2018-02-21 22:05:05,591 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,591 INFO Turn 16 begins
+2018-02-21 22:05:05,591 INFO Thibault command: reload
+2018-02-21 22:05:05,591 INFO Morgan command: dodge
+2018-02-21 22:05:05,591 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,591 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,591 INFO Turn 17 begins
+2018-02-21 22:05:05,591 INFO Thibault command: shoot
+2018-02-21 22:05:05,592 INFO Morgan command: dodge
+2018-02-21 22:05:05,592 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,592 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,592 INFO Turn 18 begins
+2018-02-21 22:05:05,592 INFO Thibault command: reload
+2018-02-21 22:05:05,592 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,592 INFO Turn 19 begins
+2018-02-21 22:05:05,593 INFO Thibault command: shoot
+2018-02-21 22:05:05,593 INFO Morgan command: dodge
+2018-02-21 22:05:05,593 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,593 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,593 INFO Turn 20 begins
+2018-02-21 22:05:05,593 INFO Thibault command: reload
+2018-02-21 22:05:05,593 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,594 INFO Turn 21 begins
+2018-02-21 22:05:05,594 INFO Thibault command: shoot
+2018-02-21 22:05:05,594 INFO Morgan command: dodge
+2018-02-21 22:05:05,594 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,594 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,594 INFO Turn 22 begins
+2018-02-21 22:05:05,594 INFO Thibault command: reload
+2018-02-21 22:05:05,594 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,595 INFO Turn 23 begins
+2018-02-21 22:05:05,595 INFO Thibault command: shoot
+2018-02-21 22:05:05,595 INFO Morgan command: dodge
+2018-02-21 22:05:05,595 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,595 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,595 INFO Turn 24 begins
+2018-02-21 22:05:05,595 INFO Thibault command: reload
+2018-02-21 22:05:05,596 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,596 INFO Turn 25 begins
+2018-02-21 22:05:05,596 INFO Thibault command: shoot
+2018-02-21 22:05:05,596 INFO Morgan command: dodge
+2018-02-21 22:05:05,596 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,596 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,596 INFO Turn 26 begins
+2018-02-21 22:05:05,596 INFO Thibault command: reload
+2018-02-21 22:05:05,597 INFO Morgan command: dodge
+2018-02-21 22:05:05,597 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,597 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,597 INFO Turn 27 begins
+2018-02-21 22:05:05,597 INFO Thibault command: shoot
+2018-02-21 22:05:05,597 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,598 INFO Turn 28 begins
+2018-02-21 22:05:05,598 INFO Thibault command: reload
+2018-02-21 22:05:05,598 INFO Morgan command: dodge
+2018-02-21 22:05:05,598 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,598 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,598 INFO Turn 29 begins
+2018-02-21 22:05:05,598 INFO Thibault command: shoot
+2018-02-21 22:05:05,599 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,599 INFO Turn 30 begins
+2018-02-21 22:05:05,599 INFO Thibault command: reload
+2018-02-21 22:05:05,599 INFO Morgan command: dodge
+2018-02-21 22:05:05,599 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,599 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,599 INFO Turn 31 begins
+2018-02-21 22:05:05,599 INFO Thibault command: shoot
+2018-02-21 22:05:05,600 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,600 INFO Turn 32 begins
+2018-02-21 22:05:05,600 INFO Thibault command: reload
+2018-02-21 22:05:05,600 INFO Morgan command: dodge
+2018-02-21 22:05:05,600 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,600 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,600 INFO Turn 33 begins
+2018-02-21 22:05:05,600 INFO Thibault command: shoot
+2018-02-21 22:05:05,601 INFO Morgan command: dodge
+2018-02-21 22:05:05,601 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,601 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,601 INFO Turn 34 begins
+2018-02-21 22:05:05,601 INFO Thibault command: reload
+2018-02-21 22:05:05,601 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,601 INFO Turn 35 begins
+2018-02-21 22:05:05,602 INFO Thibault command: shoot
+2018-02-21 22:05:05,602 INFO Morgan command: dodge
+2018-02-21 22:05:05,602 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,602 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,602 INFO Turn 36 begins
+2018-02-21 22:05:05,602 INFO Thibault command: reload
+2018-02-21 22:05:05,602 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,602 INFO Turn 37 begins
+2018-02-21 22:05:05,603 INFO Thibault command: shoot
+2018-02-21 22:05:05,603 INFO Morgan command: dodge
+2018-02-21 22:05:05,603 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,603 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,603 INFO Turn 38 begins
+2018-02-21 22:05:05,604 INFO Thibault command: reload
+2018-02-21 22:05:05,604 INFO Morgan command: dodge
+2018-02-21 22:05:05,604 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,604 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,604 INFO Turn 39 begins
+2018-02-21 22:05:05,604 INFO Thibault command: shoot
+2018-02-21 22:05:05,604 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,604 INFO Turn 40 begins
+2018-02-21 22:05:05,605 INFO Thibault command: reload
+2018-02-21 22:05:05,605 INFO Morgan command: dodge
+2018-02-21 22:05:05,605 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,605 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,605 INFO Turn 41 begins
+2018-02-21 22:05:05,605 INFO Thibault command: shoot
+2018-02-21 22:05:05,605 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,606 INFO Turn 42 begins
+2018-02-21 22:05:05,606 INFO Thibault command: reload
+2018-02-21 22:05:05,606 INFO Morgan command: dodge
+2018-02-21 22:05:05,606 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,606 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,606 INFO Turn 43 begins
+2018-02-21 22:05:05,606 INFO Thibault command: shoot
+2018-02-21 22:05:05,607 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,607 INFO Turn 44 begins
+2018-02-21 22:05:05,607 INFO Thibault command: reload
+2018-02-21 22:05:05,607 INFO Morgan command: dodge
+2018-02-21 22:05:05,607 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,607 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,607 INFO Turn 45 begins
+2018-02-21 22:05:05,607 INFO Thibault command: shoot
+2018-02-21 22:05:05,608 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,608 INFO Turn 46 begins
+2018-02-21 22:05:05,608 INFO Thibault command: reload
+2018-02-21 22:05:05,608 INFO Morgan command: dodge
+2018-02-21 22:05:05,608 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,608 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,608 INFO Turn 47 begins
+2018-02-21 22:05:05,609 INFO Thibault command: shoot
+2018-02-21 22:05:05,609 INFO Morgan command: dodge
+2018-02-21 22:05:05,609 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,609 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,609 INFO Turn 48 begins
+2018-02-21 22:05:05,609 INFO Thibault command: reload
+2018-02-21 22:05:05,609 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,609 INFO Turn 49 begins
+2018-02-21 22:05:05,610 INFO Thibault command: shoot
+2018-02-21 22:05:05,610 INFO Morgan command: dodge
+2018-02-21 22:05:05,610 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,610 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,610 INFO Turn 50 begins
+2018-02-21 22:05:05,610 INFO Thibault command: reload
+2018-02-21 22:05:05,610 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,610 INFO Turn 51 begins
+2018-02-21 22:05:05,611 INFO Thibault command: shoot
+2018-02-21 22:05:05,611 INFO Morgan command: dodge
+2018-02-21 22:05:05,611 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,611 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,611 INFO Turn 52 begins
+2018-02-21 22:05:05,611 INFO Thibault command: reload
+2018-02-21 22:05:05,611 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,611 INFO Turn 53 begins
+2018-02-21 22:05:05,612 INFO Thibault command: shoot
+2018-02-21 22:05:05,612 INFO Morgan command: dodge
+2018-02-21 22:05:05,612 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,612 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,612 INFO Turn 54 begins
+2018-02-21 22:05:05,612 INFO Thibault command: reload
+2018-02-21 22:05:05,612 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,613 INFO Turn 55 begins
+2018-02-21 22:05:05,613 INFO Thibault command: shoot
+2018-02-21 22:05:05,613 INFO Morgan command: dodge
+2018-02-21 22:05:05,613 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,613 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,613 INFO Turn 56 begins
+2018-02-21 22:05:05,613 INFO Thibault command: reload
+2018-02-21 22:05:05,613 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,614 INFO Turn 57 begins
+2018-02-21 22:05:05,614 INFO Thibault command: shoot
+2018-02-21 22:05:05,614 INFO Morgan command: dodge
+2018-02-21 22:05:05,614 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,614 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,614 INFO Turn 58 begins
+2018-02-21 22:05:05,615 INFO Thibault command: reload
+2018-02-21 22:05:05,615 INFO Morgan command: dodge
+2018-02-21 22:05:05,615 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,615 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,615 INFO Turn 59 begins
+2018-02-21 22:05:05,615 INFO Thibault command: shoot
+2018-02-21 22:05:05,616 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,616 INFO Turn 60 begins
+2018-02-21 22:05:05,616 INFO Thibault command: reload
+2018-02-21 22:05:05,616 INFO Morgan command: dodge
+2018-02-21 22:05:05,616 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,616 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,617 INFO Turn 61 begins
+2018-02-21 22:05:05,618 INFO Thibault command: shoot
+2018-02-21 22:05:05,618 INFO Morgan command: dodge
+2018-02-21 22:05:05,618 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,618 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,618 INFO Turn 62 begins
+2018-02-21 22:05:05,618 INFO Thibault command: reload
+2018-02-21 22:05:05,618 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,619 INFO Turn 63 begins
+2018-02-21 22:05:05,619 INFO Thibault command: shoot
+2018-02-21 22:05:05,619 INFO Morgan command: dodge
+2018-02-21 22:05:05,619 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,619 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,619 INFO Turn 64 begins
+2018-02-21 22:05:05,619 INFO Thibault command: reload
+2018-02-21 22:05:05,620 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,620 INFO Turn 65 begins
+2018-02-21 22:05:05,620 INFO Thibault command: shoot
+2018-02-21 22:05:05,620 INFO Morgan command: dodge
+2018-02-21 22:05:05,620 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,620 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,620 INFO Turn 66 begins
+2018-02-21 22:05:05,620 INFO Thibault command: reload
+2018-02-21 22:05:05,621 INFO Morgan command: dodge
+2018-02-21 22:05:05,621 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,621 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,621 INFO Turn 67 begins
+2018-02-21 22:05:05,621 INFO Thibault command: shoot
+2018-02-21 22:05:05,621 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,621 INFO Turn 68 begins
+2018-02-21 22:05:05,622 INFO Thibault command: reload
+2018-02-21 22:05:05,622 INFO Morgan command: dodge
+2018-02-21 22:05:05,622 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,622 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,622 INFO Turn 69 begins
+2018-02-21 22:05:05,622 INFO Thibault command: shoot
+2018-02-21 22:05:05,622 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,623 INFO Turn 70 begins
+2018-02-21 22:05:05,623 INFO Thibault command: reload
+2018-02-21 22:05:05,623 INFO Morgan command: dodge
+2018-02-21 22:05:05,623 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,623 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,624 INFO Turn 71 begins
+2018-02-21 22:05:05,624 INFO Thibault command: shoot
+2018-02-21 22:05:05,624 INFO Morgan command: dodge
+2018-02-21 22:05:05,625 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,625 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,625 INFO Turn 72 begins
+2018-02-21 22:05:05,625 INFO Thibault command: reload
+2018-02-21 22:05:05,625 INFO Morgan command: dodge
+2018-02-21 22:05:05,625 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,626 INFO Turn 73 begins
+2018-02-21 22:05:05,626 INFO Thibault command: shoot
+2018-02-21 22:05:05,626 INFO Morgan command: dodge
+2018-02-21 22:05:05,626 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,626 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,626 INFO Turn 74 begins
+2018-02-21 22:05:05,626 INFO Thibault command: reload
+2018-02-21 22:05:05,627 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,627 INFO Turn 75 begins
+2018-02-21 22:05:05,627 INFO Thibault command: shoot
+2018-02-21 22:05:05,627 INFO Morgan command: dodge
+2018-02-21 22:05:05,627 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,627 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,627 INFO Turn 76 begins
+2018-02-21 22:05:05,627 INFO Thibault command: reload
+2018-02-21 22:05:05,628 INFO Morgan command: dodge
+2018-02-21 22:05:05,628 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,628 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,628 INFO Turn 77 begins
+2018-02-21 22:05:05,628 INFO Thibault command: shoot
+2018-02-21 22:05:05,628 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,628 INFO Turn 78 begins
+2018-02-21 22:05:05,629 INFO Thibault command: reload
+2018-02-21 22:05:05,629 INFO Morgan command: dodge
+2018-02-21 22:05:05,629 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,629 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,629 INFO Turn 79 begins
+2018-02-21 22:05:05,629 INFO Thibault command: shoot
+2018-02-21 22:05:05,629 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,629 INFO Turn 80 begins
+2018-02-21 22:05:05,630 INFO Thibault command: reload
+2018-02-21 22:05:05,630 INFO Morgan command: dodge
+2018-02-21 22:05:05,630 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,630 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,630 INFO Turn 81 begins
+2018-02-21 22:05:05,630 INFO Thibault command: shoot
+2018-02-21 22:05:05,630 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,631 INFO Turn 82 begins
+2018-02-21 22:05:05,631 INFO Thibault command: reload
+2018-02-21 22:05:05,631 INFO Morgan command: dodge
+2018-02-21 22:05:05,631 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,631 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,631 INFO Turn 83 begins
+2018-02-21 22:05:05,631 INFO Thibault command: shoot
+2018-02-21 22:05:05,631 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,632 INFO Turn 84 begins
+2018-02-21 22:05:05,632 INFO Thibault command: reload
+2018-02-21 22:05:05,632 INFO Morgan command: dodge
+2018-02-21 22:05:05,632 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,632 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,632 INFO Turn 85 begins
+2018-02-21 22:05:05,632 INFO Thibault command: shoot
+2018-02-21 22:05:05,633 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,633 INFO Turn 86 begins
+2018-02-21 22:05:05,633 INFO Thibault command: reload
+2018-02-21 22:05:05,633 INFO Morgan command: dodge
+2018-02-21 22:05:05,633 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,633 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,633 INFO Turn 87 begins
+2018-02-21 22:05:05,633 INFO Thibault command: shoot
+2018-02-21 22:05:05,634 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,634 INFO Turn 88 begins
+2018-02-21 22:05:05,634 INFO Thibault command: reload
+2018-02-21 22:05:05,634 INFO Morgan command: dodge
+2018-02-21 22:05:05,634 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,634 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,634 INFO Turn 89 begins
+2018-02-21 22:05:05,634 INFO Thibault command: shoot
+2018-02-21 22:05:05,635 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,635 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,635 INFO Turn 90 begins
+2018-02-21 22:05:05,635 INFO Thibault command: reload
+2018-02-21 22:05:05,635 INFO Morgan command: dodge
+2018-02-21 22:05:05,635 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,635 INFO Turn 91 begins
+2018-02-21 22:05:05,635 INFO Thibault command: shoot
+2018-02-21 22:05:05,636 INFO Morgan command: dodge
+2018-02-21 22:05:05,636 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,636 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,636 INFO Turn 92 begins
+2018-02-21 22:05:05,636 INFO Thibault command: reload
+2018-02-21 22:05:05,636 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,636 INFO Turn 93 begins
+2018-02-21 22:05:05,637 INFO Thibault command: shoot
+2018-02-21 22:05:05,637 INFO Morgan command: dodge
+2018-02-21 22:05:05,637 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,637 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,637 INFO Turn 94 begins
+2018-02-21 22:05:05,637 INFO Thibault command: reload
+2018-02-21 22:05:05,637 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,638 INFO Turn 95 begins
+2018-02-21 22:05:05,638 INFO Thibault command: shoot
+2018-02-21 22:05:05,638 INFO Morgan command: dodge
+2018-02-21 22:05:05,638 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,638 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,638 INFO Turn 96 begins
+2018-02-21 22:05:05,638 INFO Thibault command: reload
+2018-02-21 22:05:05,639 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,639 INFO Turn 97 begins
+2018-02-21 22:05:05,639 INFO Thibault command: shoot
+2018-02-21 22:05:05,639 INFO Morgan command: dodge
+2018-02-21 22:05:05,639 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,639 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,639 INFO Turn 98 begins
+2018-02-21 22:05:05,639 INFO Thibault command: reload
+2018-02-21 22:05:05,640 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,640 INFO Turn 99 begins
+2018-02-21 22:05:05,640 INFO Thibault command: shoot
+2018-02-21 22:05:05,640 INFO Morgan command: dodge
+2018-02-21 22:05:05,640 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,640 DEBUG Telling Morgan that opponent did: shoot
+2018-02-21 22:05:05,640 INFO Turn 100 begins
+2018-02-21 22:05:05,640 INFO Thibault command: reload
+2018-02-21 22:05:05,641 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 22:05:05,641 DEBUG Telling Morgan that opponent did: reload
+2018-02-21 22:05:05,641 INFO Thibault dodged 0 times
+2018-02-21 22:05:05,641 INFO Morgan dodged 100 times
+2018-02-21 22:05:05,641 INFO Killing Thibault
+2018-02-21 22:05:05,641 INFO Thibault exit code: None
+2018-02-21 22:05:05,641 INFO Killing Morgan
+2018-02-21 22:05:05,641 INFO Morgan exit code: None
+2018-02-21 22:05:08,086 INFO Starting new showdown: Thibault vs Morgan
+2018-02-21 22:05:08,088 INFO Turn 1 begins
+2018-02-21 22:05:08,088 INFO Thibault command: shoot
+2018-02-21 22:05:08,088 INFO Morgan command: reload
+2018-02-21 22:05:08,088 INFO Thibault shoots Morgan
+2018-02-21 22:05:08,089 INFO Thibault shoots Morgan
+2018-02-21 22:05:08,089 INFO Killing Thibault
+2018-02-21 22:05:08,089 INFO Thibault exit code: None
+2018-02-21 22:05:08,090 INFO Killing Morgan
+2018-02-21 22:05:08,090 INFO Morgan exit code: None

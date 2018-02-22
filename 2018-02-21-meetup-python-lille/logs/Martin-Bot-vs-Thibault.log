@@ -1,0 +1,2653 @@
+2018-02-21 22:09:21,709 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:21,711 INFO Turn 1 begins
+2018-02-21 22:09:21,711 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,712 INFO Thibault command: shoot
+2018-02-21 22:09:21,712 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,712 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,712 INFO Turn 2 begins
+2018-02-21 22:09:21,713 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,713 INFO Thibault command: reload
+2018-02-21 22:09:21,713 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,714 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,714 INFO Turn 3 begins
+2018-02-21 22:09:21,714 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,714 INFO Thibault command: shoot
+2018-02-21 22:09:21,714 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,714 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,714 INFO Turn 4 begins
+2018-02-21 22:09:21,715 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,715 INFO Thibault command: reload
+2018-02-21 22:09:21,715 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,715 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,715 INFO Turn 5 begins
+2018-02-21 22:09:21,715 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,715 INFO Thibault command: shoot
+2018-02-21 22:09:21,715 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,716 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,716 INFO Turn 6 begins
+2018-02-21 22:09:21,716 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,716 INFO Thibault command: reload
+2018-02-21 22:09:21,716 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,716 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,716 INFO Turn 7 begins
+2018-02-21 22:09:21,716 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,717 INFO Thibault command: shoot
+2018-02-21 22:09:21,717 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,717 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,717 INFO Turn 8 begins
+2018-02-21 22:09:21,717 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,717 INFO Thibault command: reload
+2018-02-21 22:09:21,717 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,717 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,718 INFO Turn 9 begins
+2018-02-21 22:09:21,718 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,718 INFO Thibault command: shoot
+2018-02-21 22:09:21,718 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,718 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,718 INFO Turn 10 begins
+2018-02-21 22:09:21,719 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,719 INFO Thibault command: reload
+2018-02-21 22:09:21,719 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,719 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,719 INFO Turn 11 begins
+2018-02-21 22:09:21,720 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,720 INFO Thibault command: shoot
+2018-02-21 22:09:21,720 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,720 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,720 INFO Turn 12 begins
+2018-02-21 22:09:21,720 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,720 INFO Thibault command: reload
+2018-02-21 22:09:21,721 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,721 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,721 INFO Turn 13 begins
+2018-02-21 22:09:21,721 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,721 INFO Thibault command: shoot
+2018-02-21 22:09:21,721 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,721 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,722 INFO Turn 14 begins
+2018-02-21 22:09:21,722 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,722 INFO Thibault command: reload
+2018-02-21 22:09:21,722 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,722 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,722 INFO Turn 15 begins
+2018-02-21 22:09:21,723 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,723 INFO Thibault command: shoot
+2018-02-21 22:09:21,723 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,723 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,723 INFO Turn 16 begins
+2018-02-21 22:09:21,723 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,724 INFO Thibault command: reload
+2018-02-21 22:09:21,724 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,724 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,724 INFO Turn 17 begins
+2018-02-21 22:09:21,724 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,724 INFO Thibault command: shoot
+2018-02-21 22:09:21,724 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,724 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,725 INFO Turn 18 begins
+2018-02-21 22:09:21,725 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,725 INFO Thibault command: reload
+2018-02-21 22:09:21,725 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,725 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,725 INFO Turn 19 begins
+2018-02-21 22:09:21,725 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,726 INFO Thibault command: shoot
+2018-02-21 22:09:21,726 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,726 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,726 INFO Turn 20 begins
+2018-02-21 22:09:21,726 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,726 INFO Thibault command: reload
+2018-02-21 22:09:21,726 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,727 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,727 INFO Turn 21 begins
+2018-02-21 22:09:21,727 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,727 INFO Thibault command: shoot
+2018-02-21 22:09:21,727 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,727 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,727 INFO Turn 22 begins
+2018-02-21 22:09:21,728 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,728 INFO Thibault command: reload
+2018-02-21 22:09:21,728 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,728 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,728 INFO Turn 23 begins
+2018-02-21 22:09:21,728 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,728 INFO Thibault command: shoot
+2018-02-21 22:09:21,728 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,729 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,729 INFO Turn 24 begins
+2018-02-21 22:09:21,729 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,729 INFO Thibault command: reload
+2018-02-21 22:09:21,729 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,729 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,729 INFO Turn 25 begins
+2018-02-21 22:09:21,730 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,730 INFO Thibault command: shoot
+2018-02-21 22:09:21,730 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,730 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,730 INFO Turn 26 begins
+2018-02-21 22:09:21,730 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,730 INFO Thibault command: reload
+2018-02-21 22:09:21,731 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,731 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,731 INFO Turn 27 begins
+2018-02-21 22:09:21,731 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,731 INFO Thibault command: shoot
+2018-02-21 22:09:21,732 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,732 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,732 INFO Turn 28 begins
+2018-02-21 22:09:21,732 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,732 INFO Thibault command: reload
+2018-02-21 22:09:21,732 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,732 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,732 INFO Turn 29 begins
+2018-02-21 22:09:21,733 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,733 INFO Thibault command: shoot
+2018-02-21 22:09:21,733 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,733 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,733 INFO Turn 30 begins
+2018-02-21 22:09:21,733 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,733 INFO Thibault command: reload
+2018-02-21 22:09:21,733 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,733 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,734 INFO Turn 31 begins
+2018-02-21 22:09:21,734 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,734 INFO Thibault command: shoot
+2018-02-21 22:09:21,734 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,734 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,734 INFO Turn 32 begins
+2018-02-21 22:09:21,734 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,734 INFO Thibault command: reload
+2018-02-21 22:09:21,735 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,735 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,735 INFO Turn 33 begins
+2018-02-21 22:09:21,736 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,736 INFO Thibault command: shoot
+2018-02-21 22:09:21,736 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,736 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,736 INFO Turn 34 begins
+2018-02-21 22:09:21,737 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,737 INFO Thibault command: reload
+2018-02-21 22:09:21,738 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,738 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,738 INFO Turn 35 begins
+2018-02-21 22:09:21,738 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,738 INFO Thibault command: shoot
+2018-02-21 22:09:21,738 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,738 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,739 INFO Turn 36 begins
+2018-02-21 22:09:21,739 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,739 INFO Thibault command: reload
+2018-02-21 22:09:21,739 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,739 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,739 INFO Turn 37 begins
+2018-02-21 22:09:21,739 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,739 INFO Thibault command: shoot
+2018-02-21 22:09:21,740 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,740 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,740 INFO Turn 38 begins
+2018-02-21 22:09:21,740 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,740 INFO Thibault command: reload
+2018-02-21 22:09:21,740 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,740 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,740 INFO Turn 39 begins
+2018-02-21 22:09:21,740 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,741 INFO Thibault command: shoot
+2018-02-21 22:09:21,741 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,741 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,741 INFO Turn 40 begins
+2018-02-21 22:09:21,741 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,741 INFO Thibault command: reload
+2018-02-21 22:09:21,741 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,741 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,741 INFO Turn 41 begins
+2018-02-21 22:09:21,742 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,742 INFO Thibault command: shoot
+2018-02-21 22:09:21,742 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,742 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,742 INFO Turn 42 begins
+2018-02-21 22:09:21,742 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,742 INFO Thibault command: reload
+2018-02-21 22:09:21,742 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,742 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,743 INFO Turn 43 begins
+2018-02-21 22:09:21,743 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,743 INFO Thibault command: shoot
+2018-02-21 22:09:21,743 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,743 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,743 INFO Turn 44 begins
+2018-02-21 22:09:21,743 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,743 INFO Thibault command: reload
+2018-02-21 22:09:21,743 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,743 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,744 INFO Turn 45 begins
+2018-02-21 22:09:21,744 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,744 INFO Thibault command: shoot
+2018-02-21 22:09:21,744 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,744 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,744 INFO Turn 46 begins
+2018-02-21 22:09:21,744 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,744 INFO Thibault command: reload
+2018-02-21 22:09:21,745 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,745 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,745 INFO Turn 47 begins
+2018-02-21 22:09:21,745 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,745 INFO Thibault command: shoot
+2018-02-21 22:09:21,745 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,745 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,746 INFO Turn 48 begins
+2018-02-21 22:09:21,746 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,746 INFO Thibault command: reload
+2018-02-21 22:09:21,746 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,746 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,746 INFO Turn 49 begins
+2018-02-21 22:09:21,746 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,747 INFO Thibault command: shoot
+2018-02-21 22:09:21,747 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,747 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,747 INFO Turn 50 begins
+2018-02-21 22:09:21,747 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,747 INFO Thibault command: reload
+2018-02-21 22:09:21,747 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,747 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,747 INFO Turn 51 begins
+2018-02-21 22:09:21,748 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,748 INFO Thibault command: shoot
+2018-02-21 22:09:21,748 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,748 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,748 INFO Turn 52 begins
+2018-02-21 22:09:21,748 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,749 INFO Thibault command: reload
+2018-02-21 22:09:21,749 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,749 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,749 INFO Turn 53 begins
+2018-02-21 22:09:21,749 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,749 INFO Thibault command: shoot
+2018-02-21 22:09:21,750 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,750 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,751 INFO Turn 54 begins
+2018-02-21 22:09:21,751 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,751 INFO Thibault command: reload
+2018-02-21 22:09:21,751 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,751 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,751 INFO Turn 55 begins
+2018-02-21 22:09:21,751 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,752 INFO Thibault command: shoot
+2018-02-21 22:09:21,752 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,752 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,752 INFO Turn 56 begins
+2018-02-21 22:09:21,752 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,752 INFO Thibault command: reload
+2018-02-21 22:09:21,752 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,752 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,753 INFO Turn 57 begins
+2018-02-21 22:09:21,753 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,753 INFO Thibault command: shoot
+2018-02-21 22:09:21,753 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,753 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,753 INFO Turn 58 begins
+2018-02-21 22:09:21,754 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,754 INFO Thibault command: reload
+2018-02-21 22:09:21,754 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,754 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,754 INFO Turn 59 begins
+2018-02-21 22:09:21,755 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,755 INFO Thibault command: shoot
+2018-02-21 22:09:21,755 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,755 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,755 INFO Turn 60 begins
+2018-02-21 22:09:21,755 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,756 INFO Thibault command: reload
+2018-02-21 22:09:21,756 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,756 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,756 INFO Turn 61 begins
+2018-02-21 22:09:21,756 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,756 INFO Thibault command: shoot
+2018-02-21 22:09:21,756 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,756 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,757 INFO Turn 62 begins
+2018-02-21 22:09:21,757 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,757 INFO Thibault command: reload
+2018-02-21 22:09:21,757 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,757 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,757 INFO Turn 63 begins
+2018-02-21 22:09:21,757 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,758 INFO Thibault command: shoot
+2018-02-21 22:09:21,758 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,758 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,758 INFO Turn 64 begins
+2018-02-21 22:09:21,758 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,758 INFO Thibault command: reload
+2018-02-21 22:09:21,758 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,758 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,759 INFO Turn 65 begins
+2018-02-21 22:09:21,759 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,759 INFO Thibault command: shoot
+2018-02-21 22:09:21,759 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,759 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,759 INFO Turn 66 begins
+2018-02-21 22:09:21,760 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,760 INFO Thibault command: reload
+2018-02-21 22:09:21,760 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,760 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,760 INFO Turn 67 begins
+2018-02-21 22:09:21,760 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,761 INFO Thibault command: shoot
+2018-02-21 22:09:21,761 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,761 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,761 INFO Turn 68 begins
+2018-02-21 22:09:21,761 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,761 INFO Thibault command: reload
+2018-02-21 22:09:21,761 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,761 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,762 INFO Turn 69 begins
+2018-02-21 22:09:21,762 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,762 INFO Thibault command: shoot
+2018-02-21 22:09:21,762 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,762 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,762 INFO Turn 70 begins
+2018-02-21 22:09:21,762 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,762 INFO Thibault command: reload
+2018-02-21 22:09:21,762 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,763 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,763 INFO Turn 71 begins
+2018-02-21 22:09:21,763 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,763 INFO Thibault command: shoot
+2018-02-21 22:09:21,763 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,763 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,763 INFO Turn 72 begins
+2018-02-21 22:09:21,763 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,763 INFO Thibault command: reload
+2018-02-21 22:09:21,764 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,764 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,764 INFO Turn 73 begins
+2018-02-21 22:09:21,764 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,764 INFO Thibault command: shoot
+2018-02-21 22:09:21,764 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,764 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,764 INFO Turn 74 begins
+2018-02-21 22:09:21,764 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,765 INFO Thibault command: reload
+2018-02-21 22:09:21,765 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,765 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,765 INFO Turn 75 begins
+2018-02-21 22:09:21,765 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,765 INFO Thibault command: shoot
+2018-02-21 22:09:21,765 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,765 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,765 INFO Turn 76 begins
+2018-02-21 22:09:21,765 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,766 INFO Thibault command: reload
+2018-02-21 22:09:21,766 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,766 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,766 INFO Turn 77 begins
+2018-02-21 22:09:21,766 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,766 INFO Thibault command: shoot
+2018-02-21 22:09:21,766 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,766 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,766 INFO Turn 78 begins
+2018-02-21 22:09:21,767 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,767 INFO Thibault command: reload
+2018-02-21 22:09:21,767 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,767 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,767 INFO Turn 79 begins
+2018-02-21 22:09:21,767 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,767 INFO Thibault command: shoot
+2018-02-21 22:09:21,767 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,767 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,768 INFO Turn 80 begins
+2018-02-21 22:09:21,768 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,768 INFO Thibault command: reload
+2018-02-21 22:09:21,768 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,768 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,768 INFO Turn 81 begins
+2018-02-21 22:09:21,768 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,768 INFO Thibault command: shoot
+2018-02-21 22:09:21,769 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,769 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,769 INFO Turn 82 begins
+2018-02-21 22:09:21,769 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,769 INFO Thibault command: reload
+2018-02-21 22:09:21,769 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,770 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,770 INFO Turn 83 begins
+2018-02-21 22:09:21,770 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,770 INFO Thibault command: shoot
+2018-02-21 22:09:21,770 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,770 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,770 INFO Turn 84 begins
+2018-02-21 22:09:21,770 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,771 INFO Thibault command: reload
+2018-02-21 22:09:21,771 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,771 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,771 INFO Turn 85 begins
+2018-02-21 22:09:21,771 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,771 INFO Thibault command: shoot
+2018-02-21 22:09:21,771 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,771 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,771 INFO Turn 86 begins
+2018-02-21 22:09:21,772 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,772 INFO Thibault command: reload
+2018-02-21 22:09:21,772 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,772 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,772 INFO Turn 87 begins
+2018-02-21 22:09:21,772 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,772 INFO Thibault command: shoot
+2018-02-21 22:09:21,772 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,772 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,773 INFO Turn 88 begins
+2018-02-21 22:09:21,773 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,773 INFO Thibault command: reload
+2018-02-21 22:09:21,773 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,773 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,773 INFO Turn 89 begins
+2018-02-21 22:09:21,773 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,773 INFO Thibault command: shoot
+2018-02-21 22:09:21,773 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,774 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,774 INFO Turn 90 begins
+2018-02-21 22:09:21,774 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,774 INFO Thibault command: reload
+2018-02-21 22:09:21,774 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,774 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,774 INFO Turn 91 begins
+2018-02-21 22:09:21,774 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,774 INFO Thibault command: shoot
+2018-02-21 22:09:21,775 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,775 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,775 INFO Turn 92 begins
+2018-02-21 22:09:21,775 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,775 INFO Thibault command: reload
+2018-02-21 22:09:21,775 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,775 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,775 INFO Turn 93 begins
+2018-02-21 22:09:21,775 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,776 INFO Thibault command: shoot
+2018-02-21 22:09:21,776 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,776 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,776 INFO Turn 94 begins
+2018-02-21 22:09:21,776 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,776 INFO Thibault command: reload
+2018-02-21 22:09:21,776 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,776 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,776 INFO Turn 95 begins
+2018-02-21 22:09:21,777 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,777 INFO Thibault command: shoot
+2018-02-21 22:09:21,777 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,777 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,777 INFO Turn 96 begins
+2018-02-21 22:09:21,777 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,777 INFO Thibault command: reload
+2018-02-21 22:09:21,778 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,778 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,778 INFO Turn 97 begins
+2018-02-21 22:09:21,778 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,778 INFO Thibault command: shoot
+2018-02-21 22:09:21,778 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,778 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,778 INFO Turn 98 begins
+2018-02-21 22:09:21,778 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,779 INFO Thibault command: reload
+2018-02-21 22:09:21,779 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,779 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,779 INFO Turn 99 begins
+2018-02-21 22:09:21,779 INFO Martin-Bot command: shoot
+2018-02-21 22:09:21,779 INFO Thibault command: shoot
+2018-02-21 22:09:21,779 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:21,779 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:21,779 INFO Turn 100 begins
+2018-02-21 22:09:21,780 INFO Martin-Bot command: reload
+2018-02-21 22:09:21,780 INFO Thibault command: reload
+2018-02-21 22:09:21,780 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:21,780 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:21,780 INFO Martin-Bot dodged 0 times
+2018-02-21 22:09:21,780 INFO Thibault dodged 0 times
+2018-02-21 22:09:21,781 INFO Toss a coin: Martin-Bot wins.
+2018-02-21 22:09:21,781 INFO Killing Martin-Bot
+2018-02-21 22:09:21,781 INFO Martin-Bot exit code: None
+2018-02-21 22:09:21,781 INFO Killing Thibault
+2018-02-21 22:09:21,781 INFO Thibault exit code: None
+2018-02-21 22:09:49,612 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:49,613 INFO Turn 1 begins
+2018-02-21 22:09:49,613 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,614 INFO Thibault command: shoot
+2018-02-21 22:09:49,614 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,615 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,615 INFO Turn 2 begins
+2018-02-21 22:09:49,616 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,617 INFO Thibault command: reload
+2018-02-21 22:09:49,617 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:49,617 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,618 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,618 INFO Turn 1 begins
+2018-02-21 22:09:49,618 INFO Turn 3 begins
+2018-02-21 22:09:49,618 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:49,618 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,619 INFO Turn 1 begins
+2018-02-21 22:09:49,619 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,619 INFO Thibault command: shoot
+2018-02-21 22:09:49,619 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,620 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,620 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,620 INFO Thibault command: shoot
+2018-02-21 22:09:49,620 INFO Turn 2 begins
+2018-02-21 22:09:49,621 INFO Turn 4 begins
+2018-02-21 22:09:49,621 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,621 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,621 INFO Turn 2 begins
+2018-02-21 22:09:49,622 INFO Thibault command: reload
+2018-02-21 22:09:49,622 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,622 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,622 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,623 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,623 INFO Thibault command: reload
+2018-02-21 22:09:49,623 INFO Turn 3 begins
+2018-02-21 22:09:49,623 INFO Turn 5 begins
+2018-02-21 22:09:49,623 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,623 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,624 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,624 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,624 INFO Turn 3 begins
+2018-02-21 22:09:49,624 INFO Thibault command: shoot
+2018-02-21 22:09:49,625 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,625 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,625 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,625 INFO Thibault command: shoot
+2018-02-21 22:09:49,625 INFO Turn 4 begins
+2018-02-21 22:09:49,626 INFO Turn 6 begins
+2018-02-21 22:09:49,626 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,626 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,626 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,627 INFO Thibault command: reload
+2018-02-21 22:09:49,627 INFO Turn 4 begins
+2018-02-21 22:09:49,627 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,627 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,627 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,628 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,628 INFO Turn 5 begins
+2018-02-21 22:09:49,628 INFO Thibault command: reload
+2018-02-21 22:09:49,628 INFO Turn 7 begins
+2018-02-21 22:09:49,628 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,628 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,629 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,629 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,629 INFO Thibault command: shoot
+2018-02-21 22:09:49,629 INFO Turn 5 begins
+2018-02-21 22:09:49,629 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,630 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,630 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,630 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,630 INFO Turn 6 begins
+2018-02-21 22:09:49,631 INFO Thibault command: shoot
+2018-02-21 22:09:49,631 INFO Turn 8 begins
+2018-02-21 22:09:49,631 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,631 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,631 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,631 INFO Thibault command: reload
+2018-02-21 22:09:49,632 INFO Turn 6 begins
+2018-02-21 22:09:49,632 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,632 INFO Thibault command: reload
+2018-02-21 22:09:49,632 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,632 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,633 INFO Turn 7 begins
+2018-02-21 22:09:49,633 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,633 INFO Thibault command: reload
+2018-02-21 22:09:49,633 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,633 INFO Turn 9 begins
+2018-02-21 22:09:49,634 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,634 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,634 INFO Thibault command: shoot
+2018-02-21 22:09:49,634 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,635 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,635 INFO Thibault command: shoot
+2018-02-21 22:09:49,635 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,635 INFO Turn 7 begins
+2018-02-21 22:09:49,635 INFO Turn 8 begins
+2018-02-21 22:09:49,636 INFO Turn 10 begins
+2018-02-21 22:09:49,636 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,636 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,637 INFO Thibault command: shoot
+2018-02-21 22:09:49,637 INFO Thibault command: reload
+2018-02-21 22:09:49,637 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,637 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,637 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,638 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,638 INFO Turn 8 begins
+2018-02-21 22:09:49,638 INFO Turn 9 begins
+2018-02-21 22:09:49,638 INFO Turn 11 begins
+2018-02-21 22:09:49,639 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,639 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,639 INFO Thibault command: shoot
+2018-02-21 22:09:49,639 INFO Thibault command: reload
+2018-02-21 22:09:49,640 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,640 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,640 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,640 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,640 INFO Turn 10 begins
+2018-02-21 22:09:49,641 INFO Turn 9 begins
+2018-02-21 22:09:49,641 INFO Turn 12 begins
+2018-02-21 22:09:49,641 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,641 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,642 INFO Thibault command: reload
+2018-02-21 22:09:49,642 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,642 INFO Thibault command: shoot
+2018-02-21 22:09:49,642 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,643 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,643 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,643 INFO Turn 11 begins
+2018-02-21 22:09:49,643 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,643 INFO Turn 13 begins
+2018-02-21 22:09:49,643 INFO Turn 10 begins
+2018-02-21 22:09:49,643 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,644 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,644 INFO Thibault command: shoot
+2018-02-21 22:09:49,644 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,644 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,645 INFO Thibault command: reload
+2018-02-21 22:09:49,645 INFO Thibault command: shoot
+2018-02-21 22:09:49,645 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,645 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,645 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,645 INFO Turn 12 begins
+2018-02-21 22:09:49,646 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,646 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,646 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,646 INFO Turn 11 begins
+2018-02-21 22:09:49,646 INFO Turn 14 begins
+2018-02-21 22:09:49,647 INFO Thibault command: reload
+2018-02-21 22:09:49,647 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,647 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,647 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,647 INFO Thibault command: shoot
+2018-02-21 22:09:49,648 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,648 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,648 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,648 INFO Turn 13 begins
+2018-02-21 22:09:49,648 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,649 INFO Turn 15 begins
+2018-02-21 22:09:49,649 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,649 INFO Turn 12 begins
+2018-02-21 22:09:49,649 INFO Thibault command: shoot
+2018-02-21 22:09:49,649 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,650 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,650 INFO Thibault command: shoot
+2018-02-21 22:09:49,650 INFO Thibault command: reload
+2018-02-21 22:09:49,650 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,650 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,651 INFO Turn 14 begins
+2018-02-21 22:09:49,651 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,651 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,651 INFO Turn 16 begins
+2018-02-21 22:09:49,651 INFO Turn 13 begins
+2018-02-21 22:09:49,651 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,652 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,652 INFO Thibault command: reload
+2018-02-21 22:09:49,652 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,652 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,652 INFO Thibault command: shoot
+2018-02-21 22:09:49,653 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,653 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,653 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,653 INFO Turn 15 begins
+2018-02-21 22:09:49,653 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,653 INFO Turn 17 begins
+2018-02-21 22:09:49,654 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,654 INFO Turn 14 begins
+2018-02-21 22:09:49,654 INFO Thibault command: shoot
+2018-02-21 22:09:49,654 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,655 INFO Thibault command: shoot
+2018-02-21 22:09:49,655 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,655 INFO Thibault command: reload
+2018-02-21 22:09:49,655 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,655 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,656 INFO Turn 16 begins
+2018-02-21 22:09:49,656 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,656 INFO Turn 18 begins
+2018-02-21 22:09:49,656 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,656 INFO Turn 15 begins
+2018-02-21 22:09:49,657 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,657 INFO Thibault command: reload
+2018-02-21 22:09:49,657 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,657 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,657 INFO Thibault command: shoot
+2018-02-21 22:09:49,658 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,658 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,658 INFO Turn 17 begins
+2018-02-21 22:09:49,658 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,658 INFO Turn 19 begins
+2018-02-21 22:09:49,659 INFO Turn 16 begins
+2018-02-21 22:09:49,659 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,659 INFO Thibault command: shoot
+2018-02-21 22:09:49,659 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,660 INFO Thibault command: shoot
+2018-02-21 22:09:49,660 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,660 INFO Thibault command: reload
+2018-02-21 22:09:49,660 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,660 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,661 INFO Turn 18 begins
+2018-02-21 22:09:49,661 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,661 INFO Turn 20 begins
+2018-02-21 22:09:49,661 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,661 INFO Turn 17 begins
+2018-02-21 22:09:49,662 INFO Thibault command: reload
+2018-02-21 22:09:49,662 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,663 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,663 INFO Turn 19 begins
+2018-02-21 22:09:49,663 INFO Turn 21 begins
+2018-02-21 22:09:49,664 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,664 INFO Thibault command: shoot
+2018-02-21 22:09:49,665 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,665 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,666 INFO Turn 18 begins
+2018-02-21 22:09:49,666 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,666 INFO Turn 22 begins
+2018-02-21 22:09:49,667 INFO Thibault command: reload
+2018-02-21 22:09:49,667 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,667 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,667 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,668 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,668 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,668 INFO Thibault command: reload
+2018-02-21 22:09:49,668 INFO Turn 19 begins
+2018-02-21 22:09:49,668 INFO Turn 20 begins
+2018-02-21 22:09:49,668 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,669 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,669 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,669 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,669 INFO Thibault command: shoot
+2018-02-21 22:09:49,669 INFO Thibault command: reload
+2018-02-21 22:09:49,670 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,670 INFO Turn 23 begins
+2018-02-21 22:09:49,670 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,670 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,670 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,670 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,671 INFO Turn 20 begins
+2018-02-21 22:09:49,671 INFO Thibault command: shoot
+2018-02-21 22:09:49,671 INFO Turn 21 begins
+2018-02-21 22:09:49,671 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,671 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,671 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,672 INFO Thibault command: reload
+2018-02-21 22:09:49,672 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,672 INFO Thibault command: shoot
+2018-02-21 22:09:49,672 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,672 INFO Turn 24 begins
+2018-02-21 22:09:49,672 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,673 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,673 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,673 INFO Turn 21 begins
+2018-02-21 22:09:49,673 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,673 INFO Thibault command: reload
+2018-02-21 22:09:49,674 INFO Turn 22 begins
+2018-02-21 22:09:49,674 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,674 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,674 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,674 INFO Thibault command: shoot
+2018-02-21 22:09:49,675 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,675 INFO Thibault command: reload
+2018-02-21 22:09:49,675 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,675 INFO Turn 25 begins
+2018-02-21 22:09:49,675 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,675 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,675 INFO Turn 22 begins
+2018-02-21 22:09:49,676 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,676 INFO Turn 23 begins
+2018-02-21 22:09:49,676 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,676 INFO Thibault command: shoot
+2018-02-21 22:09:49,677 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,677 INFO Thibault command: reload
+2018-02-21 22:09:49,677 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,677 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,677 INFO Thibault command: shoot
+2018-02-21 22:09:49,677 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,677 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,678 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,678 INFO Turn 23 begins
+2018-02-21 22:09:49,678 INFO Turn 26 begins
+2018-02-21 22:09:49,678 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,678 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,679 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,679 INFO Turn 24 begins
+2018-02-21 22:09:49,679 INFO Thibault command: shoot
+2018-02-21 22:09:49,679 INFO Thibault command: reload
+2018-02-21 22:09:49,679 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,680 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,680 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,680 INFO Thibault command: reload
+2018-02-21 22:09:49,680 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,680 INFO Turn 24 begins
+2018-02-21 22:09:49,680 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:49,681 INFO Turn 1 begins
+2018-02-21 22:09:49,681 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,681 INFO Turn 27 begins
+2018-02-21 22:09:49,681 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,681 INFO Thibault command: reload
+2018-02-21 22:09:49,681 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,682 INFO Turn 25 begins
+2018-02-21 22:09:49,682 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,682 INFO Thibault command: shoot
+2018-02-21 22:09:49,682 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,682 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,682 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,683 INFO Thibault command: shoot
+2018-02-21 22:09:49,683 INFO Turn 25 begins
+2018-02-21 22:09:49,683 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,683 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,683 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,683 INFO Turn 2 begins
+2018-02-21 22:09:49,683 INFO Turn 28 begins
+2018-02-21 22:09:49,684 INFO Thibault command: shoot
+2018-02-21 22:09:49,684 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,684 INFO Turn 26 begins
+2018-02-21 22:09:49,684 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,684 INFO Thibault command: reload
+2018-02-21 22:09:49,685 INFO Thibault command: reload
+2018-02-21 22:09:49,685 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,685 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,685 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,685 INFO Turn 26 begins
+2018-02-21 22:09:49,685 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,686 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,686 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,686 INFO Turn 3 begins
+2018-02-21 22:09:49,686 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,686 INFO Thibault command: reload
+2018-02-21 22:09:49,686 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,686 INFO Turn 29 begins
+2018-02-21 22:09:49,687 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,687 INFO Thibault command: shoot
+2018-02-21 22:09:49,687 INFO Turn 27 begins
+2018-02-21 22:09:49,687 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,687 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,687 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,688 INFO Turn 27 begins
+2018-02-21 22:09:49,688 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,688 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,688 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,688 INFO Thibault command: shoot
+2018-02-21 22:09:49,688 INFO Turn 4 begins
+2018-02-21 22:09:49,689 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,689 INFO Thibault command: shoot
+2018-02-21 22:09:49,689 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,689 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,689 INFO Turn 30 begins
+2018-02-21 22:09:49,689 INFO Thibault command: reload
+2018-02-21 22:09:49,690 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,690 INFO Turn 28 begins
+2018-02-21 22:09:49,690 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,690 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,691 INFO Turn 5 begins
+2018-02-21 22:09:49,691 INFO Thibault command: reload
+2018-02-21 22:09:49,691 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,691 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,692 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,692 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,692 INFO Thibault command: shoot
+2018-02-21 22:09:49,692 INFO Turn 31 begins
+2018-02-21 22:09:49,692 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,692 INFO Turn 29 begins
+2018-02-21 22:09:49,693 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,693 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,693 INFO Turn 29 begins
+2018-02-21 22:09:49,693 INFO Turn 6 begins
+2018-02-21 22:09:49,693 INFO Thibault command: shoot
+2018-02-21 22:09:49,694 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,694 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,694 INFO Thibault command: shoot
+2018-02-21 22:09:49,694 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,694 INFO Thibault command: reload
+2018-02-21 22:09:49,695 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,695 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,695 INFO Turn 30 begins
+2018-02-21 22:09:49,695 INFO Turn 32 begins
+2018-02-21 22:09:49,695 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,695 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,695 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,696 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,696 INFO Turn 7 begins
+2018-02-21 22:09:49,696 INFO Turn 30 begins
+2018-02-21 22:09:49,696 INFO Thibault command: reload
+2018-02-21 22:09:49,696 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,696 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,697 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,697 INFO Thibault command: shoot
+2018-02-21 22:09:49,697 INFO Thibault command: reload
+2018-02-21 22:09:49,697 INFO Turn 31 begins
+2018-02-21 22:09:49,697 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,697 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,698 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,698 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,698 INFO Turn 33 begins
+2018-02-21 22:09:49,698 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,698 INFO Turn 8 begins
+2018-02-21 22:09:49,698 INFO Thibault command: shoot
+2018-02-21 22:09:49,699 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,699 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,698 INFO Turn 31 begins
+2018-02-21 22:09:49,699 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,699 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,699 INFO Thibault command: reload
+2018-02-21 22:09:49,699 INFO Thibault command: shoot
+2018-02-21 22:09:49,700 INFO Turn 32 begins
+2018-02-21 22:09:49,700 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,700 INFO Thibault command: shoot
+2018-02-21 22:09:49,700 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,700 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,700 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,700 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,700 INFO Turn 9 begins
+2018-02-21 22:09:49,701 INFO Thibault command: reload
+2018-02-21 22:09:49,701 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,701 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,701 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,701 INFO Turn 34 begins
+2018-02-21 22:09:49,701 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,702 INFO Thibault command: shoot
+2018-02-21 22:09:49,701 INFO Turn 32 begins
+2018-02-21 22:09:49,702 INFO Turn 33 begins
+2018-02-21 22:09:49,702 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,702 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,702 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,703 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,703 INFO Thibault command: reload
+2018-02-21 22:09:49,703 INFO Turn 10 begins
+2018-02-21 22:09:49,703 INFO Thibault command: shoot
+2018-02-21 22:09:49,703 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,703 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,703 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,704 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,704 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,704 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,704 INFO Thibault command: reload
+2018-02-21 22:09:49,704 INFO Turn 35 begins
+2018-02-21 22:09:49,704 INFO Turn 34 begins
+2018-02-21 22:09:49,704 INFO Turn 33 begins
+2018-02-21 22:09:49,705 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,705 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,705 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,705 INFO Turn 11 begins
+2018-02-21 22:09:49,705 INFO Thibault command: reload
+2018-02-21 22:09:49,705 INFO Thibault command: shoot
+2018-02-21 22:09:49,706 INFO Thibault command: shoot
+2018-02-21 22:09:49,706 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,706 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,706 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,706 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,706 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,707 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,707 INFO Turn 35 begins
+2018-02-21 22:09:49,707 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,707 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,707 INFO Turn 36 begins
+2018-02-21 22:09:49,707 INFO Turn 34 begins
+2018-02-21 22:09:49,708 INFO Turn 12 begins
+2018-02-21 22:09:49,708 INFO Thibault command: shoot
+2018-02-21 22:09:49,708 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,708 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,708 INFO Thibault command: reload
+2018-02-21 22:09:49,709 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,709 INFO Thibault command: reload
+2018-02-21 22:09:49,709 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,709 INFO Turn 36 begins
+2018-02-21 22:09:49,709 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,710 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,710 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,710 INFO Turn 37 begins
+2018-02-21 22:09:49,710 INFO Turn 13 begins
+2018-02-21 22:09:49,710 INFO Thibault command: reload
+2018-02-21 22:09:49,710 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,710 INFO Turn 35 begins
+2018-02-21 22:09:49,711 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,711 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,711 INFO Thibault command: shoot
+2018-02-21 22:09:49,711 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,711 INFO Turn 37 begins
+2018-02-21 22:09:49,712 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,711 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,712 INFO Thibault command: shoot
+2018-02-21 22:09:49,712 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,712 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,713 INFO Thibault command: shoot
+2018-02-21 22:09:49,713 INFO Turn 14 begins
+2018-02-21 22:09:49,713 INFO Turn 38 begins
+2018-02-21 22:09:49,713 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,713 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,713 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,713 INFO Turn 36 begins
+2018-02-21 22:09:49,714 INFO Turn 38 begins
+2018-02-21 22:09:49,714 INFO Thibault command: reload
+2018-02-21 22:09:49,714 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,714 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,715 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,715 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,715 INFO Thibault command: reload
+2018-02-21 22:09:49,715 INFO Turn 15 begins
+2018-02-21 22:09:49,716 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,716 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,716 INFO Turn 39 begins
+2018-02-21 22:09:49,716 INFO Turn 37 begins
+2018-02-21 22:09:49,716 INFO Thibault command: shoot
+2018-02-21 22:09:49,717 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,717 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,717 INFO Thibault command: shoot
+2018-02-21 22:09:49,717 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,718 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,718 INFO Thibault command: shoot
+2018-02-21 22:09:49,718 INFO Turn 16 begins
+2018-02-21 22:09:49,718 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,718 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,719 INFO Turn 40 begins
+2018-02-21 22:09:49,719 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,719 INFO Thibault command: reload
+2018-02-21 22:09:49,719 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,719 INFO Turn 38 begins
+2018-02-21 22:09:49,720 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,720 INFO Thibault command: reload
+2018-02-21 22:09:49,720 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,720 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,720 INFO Turn 17 begins
+2018-02-21 22:09:49,721 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,721 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,721 INFO Turn 41 begins
+2018-02-21 22:09:49,721 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,722 INFO Thibault command: shoot
+2018-02-21 22:09:49,722 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,722 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,722 INFO Turn 41 begins
+2018-02-21 22:09:49,722 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,722 INFO Turn 39 begins
+2018-02-21 22:09:49,722 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,723 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,723 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,723 INFO Thibault command: shoot
+2018-02-21 22:09:49,723 INFO Turn 18 begins
+2018-02-21 22:09:49,723 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,723 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,724 INFO Turn 42 begins
+2018-02-21 22:09:49,724 INFO Thibault command: reload
+2018-02-21 22:09:49,724 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,724 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,724 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,724 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,725 INFO Thibault command: reload
+2018-02-21 22:09:49,725 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,725 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,725 INFO Turn 19 begins
+2018-02-21 22:09:49,725 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,725 INFO Turn 40 begins
+2018-02-21 22:09:49,726 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,726 INFO Turn 43 begins
+2018-02-21 22:09:49,726 INFO Thibault command: reload
+2018-02-21 22:09:49,726 INFO Thibault command: shoot
+2018-02-21 22:09:49,726 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,726 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,727 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,727 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,727 INFO Thibault command: reload
+2018-02-21 22:09:49,727 INFO Thibault command: shoot
+2018-02-21 22:09:49,727 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,727 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,727 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,728 INFO Turn 20 begins
+2018-02-21 22:09:49,728 INFO Turn 43 begins
+2018-02-21 22:09:49,728 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,728 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,728 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,728 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,728 INFO Turn 44 begins
+2018-02-21 22:09:49,729 INFO Thibault command: reload
+2018-02-21 22:09:49,729 INFO Thibault command: shoot
+2018-02-21 22:09:49,729 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,729 INFO Turn 41 begins
+2018-02-21 22:09:49,729 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,730 INFO Thibault command: reload
+2018-02-21 22:09:49,729 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,730 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,730 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,730 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,730 INFO Turn 21 begins
+2018-02-21 22:09:49,730 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,730 INFO Thibault command: shoot
+2018-02-21 22:09:49,731 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,731 INFO Turn 44 begins
+2018-02-21 22:09:49,731 INFO Turn 45 begins
+2018-02-21 22:09:49,731 INFO Thibault command: shoot
+2018-02-21 22:09:49,731 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,732 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,732 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,732 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,732 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,732 INFO Thibault command: shoot
+2018-02-21 22:09:49,732 INFO Turn 42 begins
+2018-02-21 22:09:49,732 INFO Thibault command: reload
+2018-02-21 22:09:49,732 INFO Turn 22 begins
+2018-02-21 22:09:49,733 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,733 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,733 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,733 INFO Turn 46 begins
+2018-02-21 22:09:49,733 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,734 INFO Thibault command: reload
+2018-02-21 22:09:49,734 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,734 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,734 INFO Turn 45 begins
+2018-02-21 22:09:49,734 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,735 INFO Thibault command: reload
+2018-02-21 22:09:49,735 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,735 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,735 INFO Turn 23 begins
+2018-02-21 22:09:49,735 INFO Thibault command: shoot
+2018-02-21 22:09:49,735 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,736 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,736 INFO Turn 43 begins
+2018-02-21 22:09:49,736 INFO Turn 47 begins
+2018-02-21 22:09:49,736 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,736 INFO Thibault command: shoot
+2018-02-21 22:09:49,736 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,737 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,737 INFO Turn 46 begins
+2018-02-21 22:09:49,737 INFO Thibault command: shoot
+2018-02-21 22:09:49,737 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,738 INFO Turn 24 begins
+2018-02-21 22:09:49,738 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,737 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,738 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,738 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,738 INFO Turn 48 begins
+2018-02-21 22:09:49,738 INFO Thibault command: reload
+2018-02-21 22:09:49,739 INFO Thibault command: reload
+2018-02-21 22:09:49,739 INFO Turn 44 begins
+2018-02-21 22:09:49,739 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,739 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,739 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,740 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,740 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,740 INFO Thibault command: reload
+2018-02-21 22:09:49,740 INFO Turn 47 begins
+2018-02-21 22:09:49,740 INFO Turn 25 begins
+2018-02-21 22:09:49,741 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,741 INFO Turn 49 begins
+2018-02-21 22:09:49,741 INFO Thibault command: shoot
+2018-02-21 22:09:49,741 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,742 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,742 INFO Turn 45 begins
+2018-02-21 22:09:49,742 INFO Thibault command: shoot
+2018-02-21 22:09:49,742 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,742 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,742 INFO Turn 26 begins
+2018-02-21 22:09:49,743 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,743 INFO Thibault command: shoot
+2018-02-21 22:09:49,743 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,743 INFO Turn 50 begins
+2018-02-21 22:09:49,743 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,743 INFO Turn 48 begins
+2018-02-21 22:09:49,744 INFO Thibault command: reload
+2018-02-21 22:09:49,744 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,744 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,744 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,744 INFO Turn 46 begins
+2018-02-21 22:09:49,744 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,745 INFO Thibault command: reload
+2018-02-21 22:09:49,745 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,745 INFO Turn 27 begins
+2018-02-21 22:09:49,745 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,745 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,745 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,746 INFO Thibault command: reload
+2018-02-21 22:09:49,746 INFO Turn 51 begins
+2018-02-21 22:09:49,746 INFO Thibault command: shoot
+2018-02-21 22:09:49,746 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,746 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,746 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,746 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,746 INFO Turn 49 begins
+2018-02-21 22:09:49,747 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,747 INFO Thibault command: shoot
+2018-02-21 22:09:49,747 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,747 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,747 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,747 INFO Turn 47 begins
+2018-02-21 22:09:49,747 INFO Turn 28 begins
+2018-02-21 22:09:49,748 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,748 INFO Thibault command: shoot
+2018-02-21 22:09:49,748 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,748 INFO Turn 52 begins
+2018-02-21 22:09:49,748 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,748 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,748 INFO Thibault command: reload
+2018-02-21 22:09:49,749 INFO Thibault command: shoot
+2018-02-21 22:09:49,749 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,749 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,749 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,749 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,749 INFO Thibault command: reload
+2018-02-21 22:09:49,749 INFO Turn 50 begins
+2018-02-21 22:09:49,749 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,750 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,750 INFO Turn 29 begins
+2018-02-21 22:09:49,750 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,750 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,750 INFO Turn 48 begins
+2018-02-21 22:09:49,750 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,750 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,751 INFO Thibault command: shoot
+2018-02-21 22:09:49,751 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,751 INFO Turn 53 begins
+2018-02-21 22:09:49,751 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,751 INFO Thibault command: reload
+2018-02-21 22:09:49,752 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,752 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,752 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,752 INFO Thibault command: shoot
+2018-02-21 22:09:49,752 INFO Turn 30 begins
+2018-02-21 22:09:49,752 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,752 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,753 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,753 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,753 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,753 INFO Turn 49 begins
+2018-02-21 22:09:49,753 INFO Thibault command: reload
+2018-02-21 22:09:49,753 INFO Turn 54 begins
+2018-02-21 22:09:49,754 INFO Turn 51 begins
+2018-02-21 22:09:49,754 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,754 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,754 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,754 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,754 INFO Thibault command: shoot
+2018-02-21 22:09:49,754 INFO Thibault command: reload
+2018-02-21 22:09:49,754 INFO Turn 31 begins
+2018-02-21 22:09:49,755 INFO Thibault command: shoot
+2018-02-21 22:09:49,755 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,755 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,755 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,755 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,755 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,756 INFO Thibault command: shoot
+2018-02-21 22:09:49,756 INFO Turn 55 begins
+2018-02-21 22:09:49,756 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,756 INFO Turn 50 begins
+2018-02-21 22:09:49,756 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,756 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,756 INFO Turn 52 begins
+2018-02-21 22:09:49,757 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,757 INFO Thibault command: shoot
+2018-02-21 22:09:49,757 INFO Turn 32 begins
+2018-02-21 22:09:49,757 INFO Thibault command: reload
+2018-02-21 22:09:49,757 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,758 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,758 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,758 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,758 INFO Thibault command: reload
+2018-02-21 22:09:49,758 INFO Turn 56 begins
+2018-02-21 22:09:49,758 INFO Turn 51 begins
+2018-02-21 22:09:49,759 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,759 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,759 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,759 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,759 INFO Turn 53 begins
+2018-02-21 22:09:49,759 INFO Thibault command: reload
+2018-02-21 22:09:49,759 INFO Turn 33 begins
+2018-02-21 22:09:49,760 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,760 INFO Thibault command: shoot
+2018-02-21 22:09:49,760 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,760 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,760 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,761 INFO Thibault command: shoot
+2018-02-21 22:09:49,761 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,761 INFO Turn 57 begins
+2018-02-21 22:09:49,761 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,761 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,761 INFO Turn 52 begins
+2018-02-21 22:09:49,762 INFO Thibault command: shoot
+2018-02-21 22:09:49,762 INFO Turn 34 begins
+2018-02-21 22:09:49,762 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,762 INFO Turn 54 begins
+2018-02-21 22:09:49,762 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,762 INFO Thibault command: reload
+2018-02-21 22:09:49,763 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,763 INFO Turn 58 begins
+2018-02-21 22:09:49,763 INFO Thibault command: reload
+2018-02-21 22:09:49,763 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,764 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,764 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,764 INFO Turn 53 begins
+2018-02-21 22:09:49,764 INFO Thibault command: reload
+2018-02-21 22:09:49,764 INFO Turn 35 begins
+2018-02-21 22:09:49,764 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,764 INFO Turn 55 begins
+2018-02-21 22:09:49,765 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,765 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,765 INFO Thibault command: shoot
+2018-02-21 22:09:49,766 INFO Turn 59 begins
+2018-02-21 22:09:49,766 INFO Thibault command: shoot
+2018-02-21 22:09:49,766 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,766 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,766 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,767 INFO Thibault command: shoot
+2018-02-21 22:09:49,767 INFO Turn 36 begins
+2018-02-21 22:09:49,767 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,767 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,767 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,767 INFO Turn 54 begins
+2018-02-21 22:09:49,768 INFO Turn 56 begins
+2018-02-21 22:09:49,768 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,768 INFO Turn 60 begins
+2018-02-21 22:09:49,768 INFO Thibault command: reload
+2018-02-21 22:09:49,768 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,769 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,769 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,769 INFO Thibault command: reload
+2018-02-21 22:09:49,769 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,769 INFO Turn 37 begins
+2018-02-21 22:09:49,770 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,770 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,770 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,770 INFO Turn 55 begins
+2018-02-21 22:09:49,770 INFO Turn 61 begins
+2018-02-21 22:09:49,771 INFO Thibault command: shoot
+2018-02-21 22:09:49,771 INFO Turn 57 begins
+2018-02-21 22:09:49,771 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,771 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,771 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,772 INFO Thibault command: shoot
+2018-02-21 22:09:49,772 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,772 INFO Turn 38 begins
+2018-02-21 22:09:49,772 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,772 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,773 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,773 INFO Turn 62 begins
+2018-02-21 22:09:49,773 INFO Turn 58 begins
+2018-02-21 22:09:49,773 INFO Thibault command: reload
+2018-02-21 22:09:49,773 INFO Turn 56 begins
+2018-02-21 22:09:49,774 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,774 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,774 INFO Thibault command: reload
+2018-02-21 22:09:49,774 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,775 INFO Turn 39 begins
+2018-02-21 22:09:49,775 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,775 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,775 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,775 INFO Turn 63 begins
+2018-02-21 22:09:49,776 INFO Turn 59 begins
+2018-02-21 22:09:49,776 INFO Thibault command: shoot
+2018-02-21 22:09:49,776 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,776 INFO Turn 57 begins
+2018-02-21 22:09:49,776 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,777 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,777 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,777 INFO Thibault command: shoot
+2018-02-21 22:09:49,777 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,777 INFO Turn 40 begins
+2018-02-21 22:09:49,778 INFO Turn 64 begins
+2018-02-21 22:09:49,778 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,778 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,778 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,778 INFO Thibault command: reload
+2018-02-21 22:09:49,778 INFO Turn 60 begins
+2018-02-21 22:09:49,779 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,779 INFO Thibault command: reload
+2018-02-21 22:09:49,779 INFO Turn 58 begins
+2018-02-21 22:09:49,779 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,779 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,780 INFO Turn 41 begins
+2018-02-21 22:09:49,780 INFO Thibault command: reload
+2018-02-21 22:09:49,780 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,780 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,780 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,780 INFO Turn 65 begins
+2018-02-21 22:09:49,781 INFO Thibault command: shoot
+2018-02-21 22:09:49,781 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,781 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,781 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,781 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,781 INFO Turn 61 begins
+2018-02-21 22:09:49,782 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,782 INFO Turn 59 begins
+2018-02-21 22:09:49,782 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,782 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,782 INFO Turn 42 begins
+2018-02-21 22:09:49,782 INFO Thibault command: shoot
+2018-02-21 22:09:49,782 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,783 INFO Turn 66 begins
+2018-02-21 22:09:49,783 INFO Thibault command: shoot
+2018-02-21 22:09:49,783 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,783 INFO Thibault command: reload
+2018-02-21 22:09:49,783 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,783 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,783 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,784 INFO Thibault command: reload
+2018-02-21 22:09:49,784 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,784 INFO Turn 62 begins
+2018-02-21 22:09:49,784 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,784 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,784 INFO Turn 60 begins
+2018-02-21 22:09:49,784 INFO Turn 43 begins
+2018-02-21 22:09:49,785 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,785 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,785 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,785 INFO Turn 67 begins
+2018-02-21 22:09:49,785 INFO Thibault command: shoot
+2018-02-21 22:09:49,785 INFO Thibault command: reload
+2018-02-21 22:09:49,786 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,786 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,786 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,786 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,786 INFO Thibault command: shoot
+2018-02-21 22:09:49,786 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,787 INFO Turn 44 begins
+2018-02-21 22:09:49,787 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,787 INFO Turn 63 begins
+2018-02-21 22:09:49,787 INFO Turn 61 begins
+2018-02-21 22:09:49,787 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,787 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,788 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,788 INFO Turn 68 begins
+2018-02-21 22:09:49,788 INFO Thibault command: reload
+2018-02-21 22:09:49,788 INFO Thibault command: shoot
+2018-02-21 22:09:49,788 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,788 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,789 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,789 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,789 INFO Thibault command: reload
+2018-02-21 22:09:49,789 INFO Turn 45 begins
+2018-02-21 22:09:49,789 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,789 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,790 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,790 INFO Turn 64 begins
+2018-02-21 22:09:49,790 INFO Thibault command: shoot
+2018-02-21 22:09:49,790 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,790 INFO Turn 62 begins
+2018-02-21 22:09:49,791 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,791 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,791 INFO Turn 69 begins
+2018-02-21 22:09:49,791 INFO Thibault command: reload
+2018-02-21 22:09:49,791 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,791 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,792 INFO Thibault command: reload
+2018-02-21 22:09:49,792 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,792 INFO Turn 46 begins
+2018-02-21 22:09:49,792 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,792 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,792 INFO Thibault command: shoot
+2018-02-21 22:09:49,792 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,792 INFO Turn 65 begins
+2018-02-21 22:09:49,792 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,793 INFO Thibault command: reload
+2018-02-21 22:09:49,793 INFO Turn 63 begins
+2018-02-21 22:09:49,793 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,793 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,793 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,793 INFO Thibault command: shoot
+2018-02-21 22:09:49,794 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,794 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,794 INFO Turn 70 begins
+2018-02-21 22:09:49,794 INFO Thibault command: shoot
+2018-02-21 22:09:49,794 INFO Turn 47 begins
+2018-02-21 22:09:49,794 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,794 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,795 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,795 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,795 INFO Turn 66 begins
+2018-02-21 22:09:49,795 INFO Thibault command: reload
+2018-02-21 22:09:49,795 INFO Thibault command: shoot
+2018-02-21 22:09:49,795 INFO Turn 64 begins
+2018-02-21 22:09:49,795 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,796 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,796 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,796 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,796 INFO Thibault command: reload
+2018-02-21 22:09:49,796 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,796 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,797 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,797 INFO Turn 48 begins
+2018-02-21 22:09:49,797 INFO Turn 71 begins
+2018-02-21 22:09:49,797 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,797 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,797 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,798 INFO Turn 67 begins
+2018-02-21 22:09:49,798 INFO Thibault command: reload
+2018-02-21 22:09:49,798 INFO Thibault command: shoot
+2018-02-21 22:09:49,798 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,798 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,798 INFO Turn 65 begins
+2018-02-21 22:09:49,799 INFO Thibault command: shoot
+2018-02-21 22:09:49,799 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,799 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,799 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,799 INFO Turn 49 begins
+2018-02-21 22:09:49,799 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,800 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,800 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,800 INFO Turn 72 begins
+2018-02-21 22:09:49,800 INFO Turn 68 begins
+2018-02-21 22:09:49,800 INFO Thibault command: shoot
+2018-02-21 22:09:49,800 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,801 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,800 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,801 INFO Turn 66 begins
+2018-02-21 22:09:49,801 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,801 INFO Thibault command: reload
+2018-02-21 22:09:49,801 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,801 INFO Turn 50 begins
+2018-02-21 22:09:49,802 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,802 INFO Thibault command: reload
+2018-02-21 22:09:49,802 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,802 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,803 INFO Thibault command: reload
+2018-02-21 22:09:49,803 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,803 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,803 INFO Turn 67 begins
+2018-02-21 22:09:49,803 INFO Turn 73 begins
+2018-02-21 22:09:49,803 INFO Turn 51 begins
+2018-02-21 22:09:49,803 INFO Turn 69 begins
+2018-02-21 22:09:49,804 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,805 INFO Thibault command: shoot
+2018-02-21 22:09:49,805 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,805 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,806 INFO Turn 70 begins
+2018-02-21 22:09:49,806 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,806 INFO Turn 74 begins
+2018-02-21 22:09:49,806 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,806 INFO Turn 52 begins
+2018-02-21 22:09:49,804 INFO Thibault command: shoot
+2018-02-21 22:09:49,807 INFO Thibault command: reload
+2018-02-21 22:09:49,807 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,807 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,807 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,807 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,807 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,808 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,808 INFO Turn 68 begins
+2018-02-21 22:09:49,808 INFO Turn 71 begins
+2018-02-21 22:09:49,808 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,808 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,808 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,809 INFO Turn 53 begins
+2018-02-21 22:09:49,809 INFO Thibault command: reload
+2018-02-21 22:09:49,809 INFO Turn 75 begins
+2018-02-21 22:09:49,809 INFO Thibault command: shoot
+2018-02-21 22:09:49,809 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,809 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,809 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,810 INFO Thibault command: shoot
+2018-02-21 22:09:49,810 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,810 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,810 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,810 INFO Turn 69 begins
+2018-02-21 22:09:49,810 INFO Turn 72 begins
+2018-02-21 22:09:49,811 INFO Turn 54 begins
+2018-02-21 22:09:49,811 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,812 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,812 INFO Thibault command: reload
+2018-02-21 22:09:49,812 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,813 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,812 INFO Thibault command: shoot
+2018-02-21 22:09:49,813 INFO Turn 76 begins
+2018-02-21 22:09:49,813 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,813 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,813 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,814 INFO Turn 73 begins
+2018-02-21 22:09:49,814 INFO Turn 55 begins
+2018-02-21 22:09:49,814 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,814 INFO Thibault command: reload
+2018-02-21 22:09:49,814 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,814 INFO Turn 70 begins
+2018-02-21 22:09:49,815 INFO Thibault command: shoot
+2018-02-21 22:09:49,815 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,815 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,815 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,815 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,815 INFO Thibault command: reload
+2018-02-21 22:09:49,816 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,816 INFO Turn 77 begins
+2018-02-21 22:09:49,816 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,816 INFO Turn 74 begins
+2018-02-21 22:09:49,816 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,816 INFO Turn 56 begins
+2018-02-21 22:09:49,817 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,817 INFO Turn 71 begins
+2018-02-21 22:09:49,817 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,818 INFO Thibault command: reload
+2018-02-21 22:09:49,818 INFO Thibault command: shoot
+2018-02-21 22:09:49,818 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,818 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,818 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,818 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,819 INFO Turn 57 begins
+2018-02-21 22:09:49,819 INFO Turn 75 begins
+2018-02-21 22:09:49,819 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,819 INFO Turn 78 begins
+2018-02-21 22:09:49,820 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,820 INFO Turn 72 begins
+2018-02-21 22:09:49,820 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,820 INFO Thibault command: shoot
+2018-02-21 22:09:49,820 INFO Thibault command: reload
+2018-02-21 22:09:49,820 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,821 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,821 INFO Thibault command: reload
+2018-02-21 22:09:49,821 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,821 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,821 INFO Turn 58 begins
+2018-02-21 22:09:49,822 INFO Turn 76 begins
+2018-02-21 22:09:49,822 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,822 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,822 INFO Turn 73 begins
+2018-02-21 22:09:49,823 INFO Thibault command: reload
+2018-02-21 22:09:49,822 INFO Turn 79 begins
+2018-02-21 22:09:49,823 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,823 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,823 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,823 INFO Thibault command: shoot
+2018-02-21 22:09:49,824 INFO Turn 59 begins
+2018-02-21 22:09:49,824 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,824 INFO Turn 77 begins
+2018-02-21 22:09:49,824 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,824 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,825 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,825 INFO Thibault command: shoot
+2018-02-21 22:09:49,825 INFO Turn 74 begins
+2018-02-21 22:09:49,825 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,825 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,825 INFO Turn 80 begins
+2018-02-21 22:09:49,826 INFO Thibault command: reload
+2018-02-21 22:09:49,826 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,826 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,826 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,826 INFO Turn 60 begins
+2018-02-21 22:09:49,826 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,827 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,827 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,827 INFO Turn 75 begins
+2018-02-21 22:09:49,827 INFO Turn 78 begins
+2018-02-21 22:09:49,827 INFO Thibault command: reload
+2018-02-21 22:09:49,827 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,827 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,828 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,828 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,828 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,828 INFO Thibault command: shoot
+2018-02-21 22:09:49,828 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,828 INFO Thibault command: reload
+2018-02-21 22:09:49,828 INFO Turn 81 begins
+2018-02-21 22:09:49,829 INFO Turn 61 begins
+2018-02-21 22:09:49,829 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,829 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,829 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,829 INFO Turn 76 begins
+2018-02-21 22:09:49,829 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,830 INFO Thibault command: shoot
+2018-02-21 22:09:49,830 INFO Turn 79 begins
+2018-02-21 22:09:49,830 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,830 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,830 INFO Thibault command: reload
+2018-02-21 22:09:49,830 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,831 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,831 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,831 INFO Turn 62 begins
+2018-02-21 22:09:49,831 INFO Thibault command: shoot
+2018-02-21 22:09:49,831 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,832 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,832 INFO Turn 82 begins
+2018-02-21 22:09:49,832 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,832 INFO Turn 77 begins
+2018-02-21 22:09:49,832 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,832 INFO Thibault command: reload
+2018-02-21 22:09:49,832 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,832 INFO Turn 80 begins
+2018-02-21 22:09:49,833 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,833 INFO Thibault command: reload
+2018-02-21 22:09:49,833 INFO Thibault command: shoot
+2018-02-21 22:09:49,833 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,833 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,833 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,834 INFO Turn 63 begins
+2018-02-21 22:09:49,834 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,834 INFO Thibault command: reload
+2018-02-21 22:09:49,834 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,834 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,834 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,834 INFO Turn 78 begins
+2018-02-21 22:09:49,835 INFO Thibault command: shoot
+2018-02-21 22:09:49,835 INFO Turn 83 begins
+2018-02-21 22:09:49,835 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,835 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,835 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,835 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,835 INFO Turn 81 begins
+2018-02-21 22:09:49,835 INFO Thibault command: reload
+2018-02-21 22:09:49,836 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,836 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,836 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,836 INFO Thibault command: shoot
+2018-02-21 22:09:49,836 INFO Turn 64 begins
+2018-02-21 22:09:49,836 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,836 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,837 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,837 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,837 INFO Thibault command: reload
+2018-02-21 22:09:49,837 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,837 INFO Turn 79 begins
+2018-02-21 22:09:49,837 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,838 INFO Turn 84 begins
+2018-02-21 22:09:49,838 INFO Turn 82 begins
+2018-02-21 22:09:49,838 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,838 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,838 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,838 INFO Thibault command: shoot
+2018-02-21 22:09:49,838 INFO Turn 65 begins
+2018-02-21 22:09:49,839 INFO Thibault command: reload
+2018-02-21 22:09:49,839 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,839 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,839 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,839 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,839 INFO Thibault command: shoot
+2018-02-21 22:09:49,840 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,840 INFO Turn 80 begins
+2018-02-21 22:09:49,840 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,840 INFO Turn 83 begins
+2018-02-21 22:09:49,840 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,840 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,840 INFO Turn 85 begins
+2018-02-21 22:09:49,841 INFO Turn 66 begins
+2018-02-21 22:09:49,841 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,841 INFO Thibault command: reload
+2018-02-21 22:09:49,841 INFO Thibault command: shoot
+2018-02-21 22:09:49,841 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,842 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,842 INFO Thibault command: shoot
+2018-02-21 22:09:49,842 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,842 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,842 INFO Turn 84 begins
+2018-02-21 22:09:49,842 INFO Turn 81 begins
+2018-02-21 22:09:49,843 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,843 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,843 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,843 INFO Thibault command: reload
+2018-02-21 22:09:49,843 INFO Turn 86 begins
+2018-02-21 22:09:49,843 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,843 INFO Thibault command: shoot
+2018-02-21 22:09:49,844 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,844 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,844 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,844 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,844 INFO Turn 67 begins
+2018-02-21 22:09:49,844 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,845 INFO Turn 85 begins
+2018-02-21 22:09:49,844 INFO Thibault command: reload
+2018-02-21 22:09:49,845 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,845 INFO Turn 82 begins
+2018-02-21 22:09:49,845 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,845 INFO Thibault command: shoot
+2018-02-21 22:09:49,846 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,846 INFO Thibault command: shoot
+2018-02-21 22:09:49,846 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,846 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,846 INFO Thibault command: reload
+2018-02-21 22:09:49,846 INFO Turn 87 begins
+2018-02-21 22:09:49,846 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,846 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,847 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,847 INFO Turn 68 begins
+2018-02-21 22:09:49,847 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,847 INFO Turn 86 begins
+2018-02-21 22:09:49,847 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,847 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,847 INFO Turn 83 begins
+2018-02-21 22:09:49,848 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,848 INFO Thibault command: shoot
+2018-02-21 22:09:49,848 INFO Thibault command: reload
+2018-02-21 22:09:49,848 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,848 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,848 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,849 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,849 INFO Thibault command: shoot
+2018-02-21 22:09:49,849 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,849 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,849 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,849 INFO Turn 69 begins
+2018-02-21 22:09:49,849 INFO Turn 87 begins
+2018-02-21 22:09:49,850 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,849 INFO Turn 88 begins
+2018-02-21 22:09:49,850 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,850 INFO Turn 84 begins
+2018-02-21 22:09:49,850 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,850 INFO Thibault command: shoot
+2018-02-21 22:09:49,851 INFO Thibault command: shoot
+2018-02-21 22:09:49,851 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,851 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,851 INFO Thibault command: reload
+2018-02-21 22:09:49,851 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,851 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,851 INFO Turn 70 begins
+2018-02-21 22:09:49,852 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,852 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,852 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,852 INFO Turn 88 begins
+2018-02-21 22:09:49,852 INFO Thibault command: reload
+2018-02-21 22:09:49,852 INFO Turn 89 begins
+2018-02-21 22:09:49,853 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,853 INFO Turn 85 begins
+2018-02-21 22:09:49,853 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,853 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,853 INFO Thibault command: reload
+2018-02-21 22:09:49,853 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,854 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,854 INFO Thibault command: shoot
+2018-02-21 22:09:49,854 INFO Turn 71 begins
+2018-02-21 22:09:49,854 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,854 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,854 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,855 INFO Turn 89 begins
+2018-02-21 22:09:49,855 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,855 INFO Thibault command: shoot
+2018-02-21 22:09:49,855 INFO Turn 86 begins
+2018-02-21 22:09:49,855 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,855 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,856 INFO Thibault command: shoot
+2018-02-21 22:09:49,855 INFO Turn 90 begins
+2018-02-21 22:09:49,856 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,856 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,856 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,856 INFO Turn 72 begins
+2018-02-21 22:09:49,856 INFO Thibault command: reload
+2018-02-21 22:09:49,857 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,857 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,857 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,857 INFO Thibault command: reload
+2018-02-21 22:09:49,857 INFO Turn 90 begins
+2018-02-21 22:09:49,857 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,858 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,858 INFO Turn 87 begins
+2018-02-21 22:09:49,858 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,858 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,858 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,858 INFO Thibault command: reload
+2018-02-21 22:09:49,859 INFO Turn 73 begins
+2018-02-21 22:09:49,858 INFO Turn 91 begins
+2018-02-21 22:09:49,859 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,859 INFO Thibault command: shoot
+2018-02-21 22:09:49,859 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,859 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,859 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,860 INFO Turn 91 begins
+2018-02-21 22:09:49,860 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,860 INFO Thibault command: shoot
+2018-02-21 22:09:49,860 INFO Turn 88 begins
+2018-02-21 22:09:49,860 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,860 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,861 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,861 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,861 INFO Thibault command: shoot
+2018-02-21 22:09:49,861 INFO Turn 74 begins
+2018-02-21 22:09:49,861 INFO Thibault command: reload
+2018-02-21 22:09:49,861 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,862 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,862 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,862 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,862 INFO Turn 92 begins
+2018-02-21 22:09:49,862 INFO Thibault command: reload
+2018-02-21 22:09:49,862 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,863 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,863 INFO Turn 89 begins
+2018-02-21 22:09:49,863 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,863 INFO Thibault command: reload
+2018-02-21 22:09:49,863 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,863 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,864 INFO Turn 75 begins
+2018-02-21 22:09:49,864 INFO Thibault command: shoot
+2018-02-21 22:09:49,864 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,864 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,864 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,864 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,865 INFO Thibault command: shoot
+2018-02-21 22:09:49,865 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,865 INFO Turn 93 begins
+2018-02-21 22:09:49,865 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,865 INFO Turn 90 begins
+2018-02-21 22:09:49,865 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,866 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,866 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,866 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,866 INFO Thibault command: shoot
+2018-02-21 22:09:49,866 INFO Turn 76 begins
+2018-02-21 22:09:49,866 INFO Thibault command: reload
+2018-02-21 22:09:49,866 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,867 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,867 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,867 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,867 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,867 INFO Thibault command: reload
+2018-02-21 22:09:49,867 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,868 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,867 INFO Turn 94 begins
+2018-02-21 22:09:49,868 INFO Turn 91 begins
+2018-02-21 22:09:49,868 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,868 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,869 INFO Turn 77 begins
+2018-02-21 22:09:49,869 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,869 INFO Thibault command: shoot
+2018-02-21 22:09:49,869 INFO Thibault command: reload
+2018-02-21 22:09:49,869 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,869 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,870 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,870 INFO Turn 92 begins
+2018-02-21 22:09:49,870 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,870 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,870 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,870 INFO Turn 95 begins
+2018-02-21 22:09:49,868 INFO Turn 94 begins
+2018-02-21 22:09:49,871 INFO Turn 78 begins
+2018-02-21 22:09:49,871 INFO Thibault command: reload
+2018-02-21 22:09:49,871 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,871 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,871 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,872 INFO Thibault command: shoot
+2018-02-21 22:09:49,872 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,872 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,872 INFO Thibault command: reload
+2018-02-21 22:09:49,872 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,872 INFO Turn 93 begins
+2018-02-21 22:09:49,873 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,873 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,873 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,873 INFO Turn 95 begins
+2018-02-21 22:09:49,873 INFO Thibault command: shoot
+2018-02-21 22:09:49,873 INFO Turn 96 begins
+2018-02-21 22:09:49,873 INFO Turn 79 begins
+2018-02-21 22:09:49,874 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,874 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,874 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,874 INFO Thibault command: shoot
+2018-02-21 22:09:49,874 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,874 INFO Thibault command: reload
+2018-02-21 22:09:49,875 INFO Turn 94 begins
+2018-02-21 22:09:49,875 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,875 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,875 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,875 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,875 INFO Turn 96 begins
+2018-02-21 22:09:49,876 INFO Turn 80 begins
+2018-02-21 22:09:49,875 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,876 INFO Thibault command: reload
+2018-02-21 22:09:49,876 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,876 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,876 INFO Turn 97 begins
+2018-02-21 22:09:49,877 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,877 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,877 INFO Thibault command: reload
+2018-02-21 22:09:49,877 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,877 INFO Turn 95 begins
+2018-02-21 22:09:49,877 INFO Thibault command: shoot
+2018-02-21 22:09:49,878 INFO Turn 97 begins
+2018-02-21 22:09:49,878 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,878 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,878 INFO Turn 81 begins
+2018-02-21 22:09:49,878 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,878 INFO Thibault command: shoot
+2018-02-21 22:09:49,879 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,879 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,879 INFO Thibault command: shoot
+2018-02-21 22:09:49,879 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,879 INFO Turn 98 begins
+2018-02-21 22:09:49,880 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,880 INFO Turn 96 begins
+2018-02-21 22:09:49,880 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,880 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,880 INFO Turn 98 begins
+2018-02-21 22:09:49,880 INFO Turn 82 begins
+2018-02-21 22:09:49,880 INFO Thibault command: reload
+2018-02-21 22:09:49,881 INFO Thibault command: reload
+2018-02-21 22:09:49,881 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,881 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,882 INFO Thibault command: reload
+2018-02-21 22:09:49,882 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,882 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,882 INFO Turn 99 begins
+2018-02-21 22:09:49,882 INFO Turn 97 begins
+2018-02-21 22:09:49,883 INFO Turn 99 begins
+2018-02-21 22:09:49,883 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,883 INFO Turn 83 begins
+2018-02-21 22:09:49,884 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,884 INFO Thibault command: shoot
+2018-02-21 22:09:49,884 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,884 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,885 INFO Turn 84 begins
+2018-02-21 22:09:49,885 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,885 INFO Turn 100 begins
+2018-02-21 22:09:49,885 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,886 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,886 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,886 INFO Thibault command: reload
+2018-02-21 22:09:49,886 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,886 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,887 INFO Turn 98 begins
+2018-02-21 22:09:49,887 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,887 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,887 INFO Turn 85 begins
+2018-02-21 22:09:49,887 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,888 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,888 INFO Thibault command: reload
+2018-02-21 22:09:49,888 INFO Thibault command: shoot
+2018-02-21 22:09:49,888 INFO Martin-Bot dodged 0 times
+2018-02-21 22:09:49,889 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,889 INFO Thibault dodged 0 times
+2018-02-21 22:09:49,889 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,889 INFO Toss a coin: Martin-Bot wins.
+2018-02-21 22:09:49,890 INFO Turn 86 begins
+2018-02-21 22:09:49,890 INFO Killing Martin-Bot
+2018-02-21 22:09:49,890 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,891 INFO Thibault command: reload
+2018-02-21 22:09:49,891 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,892 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,892 INFO Turn 87 begins
+2018-02-21 22:09:49,893 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,894 INFO Thibault command: shoot
+2018-02-21 22:09:49,889 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,895 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,895 INFO Martin-Bot exit code: None
+2018-02-21 22:09:49,895 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,895 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,895 INFO Killing Thibault
+2018-02-21 22:09:49,895 INFO Turn 99 begins
+2018-02-21 22:09:49,895 INFO Turn 88 begins
+2018-02-21 22:09:49,896 INFO Thibault exit code: 0
+2018-02-21 22:09:49,896 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,895 INFO Martin-Bot dodged 0 times
+2018-02-21 22:09:49,896 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,897 INFO Thibault command: reload
+2018-02-21 22:09:49,897 INFO Thibault dodged 0 times
+2018-02-21 22:09:49,897 INFO Thibault command: shoot
+2018-02-21 22:09:49,897 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,897 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,898 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,898 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,897 INFO Toss a coin: Thibault wins.
+2018-02-21 22:09:49,898 INFO Turn 89 begins
+2018-02-21 22:09:49,898 INFO Turn 100 begins
+2018-02-21 22:09:49,899 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,899 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,899 INFO Thibault command: shoot
+2018-02-21 22:09:49,899 INFO Thibault command: reload
+2018-02-21 22:09:49,900 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,899 INFO Killing Martin-Bot
+2018-02-21 22:09:49,900 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,900 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,900 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,901 INFO Turn 90 begins
+2018-02-21 22:09:49,901 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,902 INFO Thibault command: reload
+2018-02-21 22:09:49,902 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,903 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,903 INFO Turn 91 begins
+2018-02-21 22:09:49,904 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,905 INFO Thibault command: shoot
+2018-02-21 22:09:49,905 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,906 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,906 INFO Turn 92 begins
+2018-02-21 22:09:49,907 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,907 INFO Thibault command: reload
+2018-02-21 22:09:49,908 INFO Thibault dodged 0 times
+2018-02-21 22:09:49,908 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,908 INFO Martin-Bot exit code: 1
+2018-02-21 22:09:49,908 INFO Toss a coin: Martin-Bot wins.
+2018-02-21 22:09:49,908 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,909 INFO Killing Thibault
+2018-02-21 22:09:49,909 INFO Killing Martin-Bot
+2018-02-21 22:09:49,909 INFO Turn 93 begins
+2018-02-21 22:09:49,910 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,910 INFO Martin-Bot exit code: None
+2018-02-21 22:09:49,910 INFO Thibault command: shoot
+2018-02-21 22:09:49,910 INFO Killing Thibault
+2018-02-21 22:09:49,910 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,911 INFO Thibault exit code: 0
+2018-02-21 22:09:49,909 INFO Thibault exit code: 0
+2018-02-21 22:09:49,911 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,912 INFO Turn 94 begins
+2018-02-21 22:09:49,912 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,913 INFO Thibault command: reload
+2018-02-21 22:09:49,913 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,913 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,914 INFO Turn 95 begins
+2018-02-21 22:09:49,914 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,914 INFO Thibault command: shoot
+2018-02-21 22:09:49,915 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,915 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,915 INFO Turn 96 begins
+2018-02-21 22:09:49,916 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,916 INFO Thibault command: reload
+2018-02-21 22:09:49,916 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,916 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,917 INFO Turn 97 begins
+2018-02-21 22:09:49,917 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,917 INFO Thibault command: shoot
+2018-02-21 22:09:49,918 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,918 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,918 INFO Turn 98 begins
+2018-02-21 22:09:49,919 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,919 INFO Thibault command: reload
+2018-02-21 22:09:49,919 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,919 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,920 INFO Turn 99 begins
+2018-02-21 22:09:49,920 INFO Martin-Bot command: shoot
+2018-02-21 22:09:49,921 INFO Thibault command: shoot
+2018-02-21 22:09:49,921 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:49,921 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:49,922 INFO Turn 100 begins
+2018-02-21 22:09:49,922 INFO Martin-Bot command: reload
+2018-02-21 22:09:49,922 INFO Thibault command: reload
+2018-02-21 22:09:49,923 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:49,923 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:49,923 INFO Martin-Bot dodged 0 times
+2018-02-21 22:09:49,923 INFO Thibault dodged 0 times
+2018-02-21 22:09:49,924 INFO Toss a coin: Thibault wins.
+2018-02-21 22:09:49,924 INFO Killing Martin-Bot
+2018-02-21 22:09:49,925 INFO Martin-Bot exit code: None
+2018-02-21 22:09:49,926 INFO Killing Thibault
+2018-02-21 22:09:49,927 INFO Thibault exit code: None
+2018-02-21 22:09:50,106 INFO Starting new showdown: Martin-Bot vs Thibault
+2018-02-21 22:09:50,107 INFO Turn 1 begins
+2018-02-21 22:09:50,108 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,108 INFO Thibault command: shoot
+2018-02-21 22:09:50,109 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,109 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,110 INFO Turn 2 begins
+2018-02-21 22:09:50,112 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,112 INFO Thibault command: reload
+2018-02-21 22:09:50,113 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,113 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,114 INFO Turn 3 begins
+2018-02-21 22:09:50,115 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,115 INFO Thibault command: shoot
+2018-02-21 22:09:50,116 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,117 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,117 INFO Turn 4 begins
+2018-02-21 22:09:50,118 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,119 INFO Thibault command: reload
+2018-02-21 22:09:50,119 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,120 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,121 INFO Turn 5 begins
+2018-02-21 22:09:50,121 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,122 INFO Thibault command: shoot
+2018-02-21 22:09:50,122 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,123 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,124 INFO Turn 6 begins
+2018-02-21 22:09:50,124 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,125 INFO Thibault command: reload
+2018-02-21 22:09:50,125 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,126 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,126 INFO Turn 7 begins
+2018-02-21 22:09:50,127 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,128 INFO Thibault command: shoot
+2018-02-21 22:09:50,128 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,129 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,129 INFO Turn 8 begins
+2018-02-21 22:09:50,130 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,130 INFO Thibault command: reload
+2018-02-21 22:09:50,131 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,131 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,132 INFO Turn 9 begins
+2018-02-21 22:09:50,133 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,133 INFO Thibault command: shoot
+2018-02-21 22:09:50,134 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,134 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,135 INFO Turn 10 begins
+2018-02-21 22:09:50,136 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,136 INFO Thibault command: reload
+2018-02-21 22:09:50,137 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,137 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,138 INFO Turn 11 begins
+2018-02-21 22:09:50,139 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,139 INFO Thibault command: shoot
+2018-02-21 22:09:50,140 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,140 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,141 INFO Turn 12 begins
+2018-02-21 22:09:50,141 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,142 INFO Thibault command: reload
+2018-02-21 22:09:50,142 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,143 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,144 INFO Turn 13 begins
+2018-02-21 22:09:50,144 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,145 INFO Thibault command: shoot
+2018-02-21 22:09:50,145 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,146 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,146 INFO Turn 14 begins
+2018-02-21 22:09:50,147 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,148 INFO Thibault command: reload
+2018-02-21 22:09:50,148 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,149 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,149 INFO Turn 15 begins
+2018-02-21 22:09:50,150 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,150 INFO Thibault command: shoot
+2018-02-21 22:09:50,151 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,151 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,152 INFO Turn 16 begins
+2018-02-21 22:09:50,153 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,153 INFO Thibault command: reload
+2018-02-21 22:09:50,154 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,154 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,155 INFO Turn 17 begins
+2018-02-21 22:09:50,155 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,156 INFO Thibault command: shoot
+2018-02-21 22:09:50,156 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,157 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,158 INFO Turn 18 begins
+2018-02-21 22:09:50,158 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,159 INFO Thibault command: reload
+2018-02-21 22:09:50,159 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,160 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,160 INFO Turn 19 begins
+2018-02-21 22:09:50,161 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,161 INFO Thibault command: shoot
+2018-02-21 22:09:50,162 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,162 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,163 INFO Turn 20 begins
+2018-02-21 22:09:50,164 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,164 INFO Thibault command: reload
+2018-02-21 22:09:50,165 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,165 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,166 INFO Turn 21 begins
+2018-02-21 22:09:50,167 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,167 INFO Thibault command: shoot
+2018-02-21 22:09:50,168 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,168 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,169 INFO Turn 22 begins
+2018-02-21 22:09:50,170 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,170 INFO Thibault command: reload
+2018-02-21 22:09:50,171 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,171 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,172 INFO Turn 23 begins
+2018-02-21 22:09:50,172 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,173 INFO Thibault command: shoot
+2018-02-21 22:09:50,173 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,174 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,175 INFO Turn 24 begins
+2018-02-21 22:09:50,175 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,176 INFO Thibault command: reload
+2018-02-21 22:09:50,176 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,177 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,177 INFO Turn 25 begins
+2018-02-21 22:09:50,178 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,179 INFO Thibault command: shoot
+2018-02-21 22:09:50,179 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,180 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,180 INFO Turn 26 begins
+2018-02-21 22:09:50,181 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,181 INFO Thibault command: reload
+2018-02-21 22:09:50,182 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,182 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,183 INFO Turn 27 begins
+2018-02-21 22:09:50,184 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,184 INFO Thibault command: shoot
+2018-02-21 22:09:50,185 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,185 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,186 INFO Turn 28 begins
+2018-02-21 22:09:50,186 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,187 INFO Thibault command: reload
+2018-02-21 22:09:50,187 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,188 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,189 INFO Turn 29 begins
+2018-02-21 22:09:50,189 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,190 INFO Thibault command: shoot
+2018-02-21 22:09:50,190 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,191 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,191 INFO Turn 30 begins
+2018-02-21 22:09:50,192 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,193 INFO Thibault command: reload
+2018-02-21 22:09:50,193 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,194 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,194 INFO Turn 31 begins
+2018-02-21 22:09:50,195 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,195 INFO Thibault command: shoot
+2018-02-21 22:09:50,196 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,196 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,197 INFO Turn 32 begins
+2018-02-21 22:09:50,198 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,198 INFO Thibault command: reload
+2018-02-21 22:09:50,199 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,199 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,200 INFO Turn 33 begins
+2018-02-21 22:09:50,201 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,201 INFO Thibault command: shoot
+2018-02-21 22:09:50,202 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,202 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,203 INFO Turn 34 begins
+2018-02-21 22:09:50,204 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,204 INFO Thibault command: reload
+2018-02-21 22:09:50,205 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,205 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,206 INFO Turn 35 begins
+2018-02-21 22:09:50,206 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,207 INFO Thibault command: shoot
+2018-02-21 22:09:50,207 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,208 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,209 INFO Turn 36 begins
+2018-02-21 22:09:50,209 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,210 INFO Thibault command: reload
+2018-02-21 22:09:50,210 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,211 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,211 INFO Turn 37 begins
+2018-02-21 22:09:50,212 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,213 INFO Thibault command: shoot
+2018-02-21 22:09:50,213 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,214 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,214 INFO Turn 38 begins
+2018-02-21 22:09:50,215 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,216 INFO Thibault command: reload
+2018-02-21 22:09:50,216 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,217 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,217 INFO Turn 39 begins
+2018-02-21 22:09:50,218 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,218 INFO Thibault command: shoot
+2018-02-21 22:09:50,219 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,219 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,220 INFO Turn 40 begins
+2018-02-21 22:09:50,221 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,221 INFO Thibault command: reload
+2018-02-21 22:09:50,222 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,222 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,223 INFO Turn 41 begins
+2018-02-21 22:09:50,224 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,224 INFO Thibault command: shoot
+2018-02-21 22:09:50,225 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,225 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,226 INFO Turn 42 begins
+2018-02-21 22:09:50,227 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,227 INFO Thibault command: reload
+2018-02-21 22:09:50,228 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,228 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,229 INFO Turn 43 begins
+2018-02-21 22:09:50,229 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,230 INFO Thibault command: shoot
+2018-02-21 22:09:50,230 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,231 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,231 INFO Turn 44 begins
+2018-02-21 22:09:50,232 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,233 INFO Thibault command: reload
+2018-02-21 22:09:50,233 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,233 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,234 INFO Turn 45 begins
+2018-02-21 22:09:50,235 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,235 INFO Thibault command: shoot
+2018-02-21 22:09:50,236 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,236 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,237 INFO Turn 46 begins
+2018-02-21 22:09:50,238 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,238 INFO Thibault command: reload
+2018-02-21 22:09:50,239 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,239 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,240 INFO Turn 47 begins
+2018-02-21 22:09:50,240 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,241 INFO Thibault command: shoot
+2018-02-21 22:09:50,241 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,242 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,243 INFO Turn 48 begins
+2018-02-21 22:09:50,243 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,244 INFO Thibault command: reload
+2018-02-21 22:09:50,244 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,245 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,245 INFO Turn 49 begins
+2018-02-21 22:09:50,246 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,246 INFO Thibault command: shoot
+2018-02-21 22:09:50,247 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,247 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,248 INFO Turn 50 begins
+2018-02-21 22:09:50,249 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,249 INFO Thibault command: reload
+2018-02-21 22:09:50,250 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,250 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,251 INFO Turn 51 begins
+2018-02-21 22:09:50,251 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,252 INFO Thibault command: shoot
+2018-02-21 22:09:50,253 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,253 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,254 INFO Turn 52 begins
+2018-02-21 22:09:50,254 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,255 INFO Thibault command: reload
+2018-02-21 22:09:50,255 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,256 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,257 INFO Turn 53 begins
+2018-02-21 22:09:50,257 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,258 INFO Thibault command: shoot
+2018-02-21 22:09:50,258 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,259 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,259 INFO Turn 54 begins
+2018-02-21 22:09:50,260 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,261 INFO Thibault command: reload
+2018-02-21 22:09:50,261 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,262 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,262 INFO Turn 55 begins
+2018-02-21 22:09:50,263 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,264 INFO Thibault command: shoot
+2018-02-21 22:09:50,264 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,265 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,265 INFO Turn 56 begins
+2018-02-21 22:09:50,266 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,266 INFO Thibault command: reload
+2018-02-21 22:09:50,267 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,267 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,268 INFO Turn 57 begins
+2018-02-21 22:09:50,269 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,269 INFO Thibault command: shoot
+2018-02-21 22:09:50,270 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,270 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,271 INFO Turn 58 begins
+2018-02-21 22:09:50,271 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,272 INFO Thibault command: reload
+2018-02-21 22:09:50,272 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,273 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,274 INFO Turn 59 begins
+2018-02-21 22:09:50,274 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,275 INFO Thibault command: shoot
+2018-02-21 22:09:50,275 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,276 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,276 INFO Turn 60 begins
+2018-02-21 22:09:50,277 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,277 INFO Thibault command: reload
+2018-02-21 22:09:50,278 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,278 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,279 INFO Turn 61 begins
+2018-02-21 22:09:50,280 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,280 INFO Thibault command: shoot
+2018-02-21 22:09:50,281 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,281 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,282 INFO Turn 62 begins
+2018-02-21 22:09:50,282 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,283 INFO Thibault command: reload
+2018-02-21 22:09:50,283 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,284 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,285 INFO Turn 63 begins
+2018-02-21 22:09:50,285 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,286 INFO Thibault command: shoot
+2018-02-21 22:09:50,286 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,287 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,287 INFO Turn 64 begins
+2018-02-21 22:09:50,288 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,289 INFO Thibault command: reload
+2018-02-21 22:09:50,289 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,290 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,290 INFO Turn 65 begins
+2018-02-21 22:09:50,291 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,292 INFO Thibault command: shoot
+2018-02-21 22:09:50,292 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,293 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,293 INFO Turn 66 begins
+2018-02-21 22:09:50,294 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,294 INFO Thibault command: reload
+2018-02-21 22:09:50,295 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,295 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,296 INFO Turn 67 begins
+2018-02-21 22:09:50,297 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,297 INFO Thibault command: shoot
+2018-02-21 22:09:50,298 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,298 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,299 INFO Turn 68 begins
+2018-02-21 22:09:50,300 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,300 INFO Thibault command: reload
+2018-02-21 22:09:50,301 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,301 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,302 INFO Turn 69 begins
+2018-02-21 22:09:50,302 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,303 INFO Thibault command: shoot
+2018-02-21 22:09:50,303 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,304 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,305 INFO Turn 70 begins
+2018-02-21 22:09:50,305 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,306 INFO Thibault command: reload
+2018-02-21 22:09:50,306 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,307 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,307 INFO Turn 71 begins
+2018-02-21 22:09:50,308 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,309 INFO Thibault command: shoot
+2018-02-21 22:09:50,309 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,310 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,310 INFO Turn 72 begins
+2018-02-21 22:09:50,311 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,312 INFO Thibault command: reload
+2018-02-21 22:09:50,312 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,313 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,313 INFO Turn 73 begins
+2018-02-21 22:09:50,314 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,315 INFO Thibault command: shoot
+2018-02-21 22:09:50,315 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,315 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,316 INFO Turn 74 begins
+2018-02-21 22:09:50,317 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,317 INFO Thibault command: reload
+2018-02-21 22:09:50,318 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,318 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,319 INFO Turn 75 begins
+2018-02-21 22:09:50,320 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,320 INFO Thibault command: shoot
+2018-02-21 22:09:50,321 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,322 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,322 INFO Turn 76 begins
+2018-02-21 22:09:50,323 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,323 INFO Thibault command: reload
+2018-02-21 22:09:50,324 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,324 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,325 INFO Turn 77 begins
+2018-02-21 22:09:50,325 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,326 INFO Thibault command: shoot
+2018-02-21 22:09:50,326 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,327 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,328 INFO Turn 78 begins
+2018-02-21 22:09:50,328 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,329 INFO Thibault command: reload
+2018-02-21 22:09:50,329 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,330 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,331 INFO Turn 79 begins
+2018-02-21 22:09:50,331 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,332 INFO Thibault command: shoot
+2018-02-21 22:09:50,332 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,333 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,333 INFO Turn 80 begins
+2018-02-21 22:09:50,334 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,335 INFO Thibault command: reload
+2018-02-21 22:09:50,335 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,336 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,336 INFO Turn 81 begins
+2018-02-21 22:09:50,337 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,337 INFO Thibault command: shoot
+2018-02-21 22:09:50,338 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,338 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,339 INFO Turn 82 begins
+2018-02-21 22:09:50,340 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,340 INFO Thibault command: reload
+2018-02-21 22:09:50,341 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,341 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,342 INFO Turn 83 begins
+2018-02-21 22:09:50,343 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,343 INFO Thibault command: shoot
+2018-02-21 22:09:50,344 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,344 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,345 INFO Turn 84 begins
+2018-02-21 22:09:50,346 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,346 INFO Thibault command: reload
+2018-02-21 22:09:50,347 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,347 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,348 INFO Turn 85 begins
+2018-02-21 22:09:50,348 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,349 INFO Thibault command: shoot
+2018-02-21 22:09:50,349 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,350 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,351 INFO Turn 86 begins
+2018-02-21 22:09:50,351 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,352 INFO Thibault command: reload
+2018-02-21 22:09:50,352 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,353 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,353 INFO Turn 87 begins
+2018-02-21 22:09:50,354 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,354 INFO Thibault command: shoot
+2018-02-21 22:09:50,355 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,355 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,356 INFO Turn 88 begins
+2018-02-21 22:09:50,357 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,357 INFO Thibault command: reload
+2018-02-21 22:09:50,358 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,358 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,359 INFO Turn 89 begins
+2018-02-21 22:09:50,359 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,360 INFO Thibault command: shoot
+2018-02-21 22:09:50,360 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,361 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,361 INFO Turn 90 begins
+2018-02-21 22:09:50,362 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,363 INFO Thibault command: reload
+2018-02-21 22:09:50,363 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,364 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,364 INFO Turn 91 begins
+2018-02-21 22:09:50,365 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,366 INFO Thibault command: shoot
+2018-02-21 22:09:50,366 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,367 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,367 INFO Turn 92 begins
+2018-02-21 22:09:50,368 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,368 INFO Thibault command: reload
+2018-02-21 22:09:50,369 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,369 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,370 INFO Turn 93 begins
+2018-02-21 22:09:50,371 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,371 INFO Thibault command: shoot
+2018-02-21 22:09:50,372 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,372 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,373 INFO Turn 94 begins
+2018-02-21 22:09:50,373 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,374 INFO Thibault command: reload
+2018-02-21 22:09:50,374 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,375 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,376 INFO Turn 95 begins
+2018-02-21 22:09:50,376 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,377 INFO Thibault command: shoot
+2018-02-21 22:09:50,377 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,378 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,379 INFO Turn 96 begins
+2018-02-21 22:09:50,379 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,380 INFO Thibault command: reload
+2018-02-21 22:09:50,380 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,381 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,381 INFO Turn 97 begins
+2018-02-21 22:09:50,382 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,383 INFO Thibault command: shoot
+2018-02-21 22:09:50,383 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,384 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,384 INFO Turn 98 begins
+2018-02-21 22:09:50,385 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,385 INFO Thibault command: reload
+2018-02-21 22:09:50,386 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,386 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,387 INFO Turn 99 begins
+2018-02-21 22:09:50,388 INFO Martin-Bot command: shoot
+2018-02-21 22:09:50,388 INFO Thibault command: shoot
+2018-02-21 22:09:50,389 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:09:50,389 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 22:09:50,390 INFO Turn 100 begins
+2018-02-21 22:09:50,391 INFO Martin-Bot command: reload
+2018-02-21 22:09:50,391 INFO Thibault command: reload
+2018-02-21 22:09:50,392 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:09:50,392 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 22:09:50,393 INFO Martin-Bot dodged 0 times
+2018-02-21 22:09:50,393 INFO Thibault dodged 0 times
+2018-02-21 22:09:50,394 INFO Toss a coin: Thibault wins.
+2018-02-21 22:09:50,394 INFO Killing Martin-Bot
+2018-02-21 22:09:50,395 INFO Martin-Bot exit code: None
+2018-02-21 22:09:50,396 INFO Killing Thibault
+2018-02-21 22:09:50,397 INFO Thibault exit code: None

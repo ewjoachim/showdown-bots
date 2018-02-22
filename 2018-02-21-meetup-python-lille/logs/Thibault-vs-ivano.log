@@ -1,0 +1,436 @@
+2018-02-21 21:24:31,158 INFO Starting new showdown: Thibault vs ivano
+2018-02-21 21:24:31,160 INFO Turn 1 begins
+2018-02-21 21:24:31,160 INFO Thibault command: shoot
+2018-02-21 21:24:31,161 INFO ivano command: shoot
+2018-02-21 21:24:31,161 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:24:31,161 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,161 INFO Turn 2 begins
+2018-02-21 21:24:31,162 INFO Thibault command: reload
+2018-02-21 21:24:31,162 INFO ivano command: dodge
+2018-02-21 21:24:31,162 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,162 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,163 INFO Turn 3 begins
+2018-02-21 21:24:31,163 INFO Thibault command: shoot
+2018-02-21 21:24:31,163 INFO ivano command: dodge
+2018-02-21 21:24:31,163 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,163 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,163 INFO Turn 4 begins
+2018-02-21 21:24:31,164 INFO Thibault command: reload
+2018-02-21 21:24:31,164 INFO ivano command: dodge
+2018-02-21 21:24:31,164 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,164 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,164 INFO Turn 5 begins
+2018-02-21 21:24:31,164 INFO Thibault command: shoot
+2018-02-21 21:24:31,164 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,165 INFO Turn 6 begins
+2018-02-21 21:24:31,165 INFO Thibault command: reload
+2018-02-21 21:24:31,165 INFO ivano command: dodge
+2018-02-21 21:24:31,165 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,165 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,165 INFO Turn 7 begins
+2018-02-21 21:24:31,165 INFO Thibault command: shoot
+2018-02-21 21:24:31,166 INFO ivano command: dodge
+2018-02-21 21:24:31,166 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,166 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,166 INFO Turn 8 begins
+2018-02-21 21:24:31,166 INFO Thibault command: reload
+2018-02-21 21:24:31,166 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,167 INFO Turn 9 begins
+2018-02-21 21:24:31,167 INFO Thibault command: shoot
+2018-02-21 21:24:31,167 INFO ivano command: dodge
+2018-02-21 21:24:31,167 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,167 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,167 INFO Turn 10 begins
+2018-02-21 21:24:31,167 INFO Thibault command: reload
+2018-02-21 21:24:31,168 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,168 INFO Turn 11 begins
+2018-02-21 21:24:31,168 INFO Thibault command: shoot
+2018-02-21 21:24:31,168 INFO ivano command: dodge
+2018-02-21 21:24:31,168 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,168 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,169 INFO Turn 12 begins
+2018-02-21 21:24:31,169 INFO Thibault command: reload
+2018-02-21 21:24:31,169 INFO ivano command: dodge
+2018-02-21 21:24:31,169 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,169 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,169 INFO Turn 13 begins
+2018-02-21 21:24:31,170 INFO Thibault command: shoot
+2018-02-21 21:24:31,170 INFO ivano command: dodge
+2018-02-21 21:24:31,170 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,170 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,170 INFO Turn 14 begins
+2018-02-21 21:24:31,170 INFO Thibault command: reload
+2018-02-21 21:24:31,171 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,171 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,171 INFO Turn 15 begins
+2018-02-21 21:24:31,171 INFO Thibault command: shoot
+2018-02-21 21:24:31,171 INFO ivano command: dodge
+2018-02-21 21:24:31,171 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,171 INFO Turn 16 begins
+2018-02-21 21:24:31,172 INFO Thibault command: reload
+2018-02-21 21:24:31,172 INFO ivano command: dodge
+2018-02-21 21:24:31,172 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,172 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,172 INFO Turn 17 begins
+2018-02-21 21:24:31,172 INFO Thibault command: shoot
+2018-02-21 21:24:31,173 INFO ivano command: dodge
+2018-02-21 21:24:31,173 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,173 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,173 INFO Turn 18 begins
+2018-02-21 21:24:31,173 INFO Thibault command: reload
+2018-02-21 21:24:31,173 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,174 INFO Turn 19 begins
+2018-02-21 21:24:31,174 INFO Thibault command: shoot
+2018-02-21 21:24:31,174 INFO ivano command: dodge
+2018-02-21 21:24:31,174 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,174 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,174 INFO Turn 20 begins
+2018-02-21 21:24:31,174 INFO Thibault command: reload
+2018-02-21 21:24:31,175 INFO ivano command: dodge
+2018-02-21 21:24:31,175 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,175 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,175 INFO Turn 21 begins
+2018-02-21 21:24:31,175 INFO Thibault command: shoot
+2018-02-21 21:24:31,175 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,175 INFO Turn 22 begins
+2018-02-21 21:24:31,176 INFO Thibault command: reload
+2018-02-21 21:24:31,176 INFO ivano command: dodge
+2018-02-21 21:24:31,176 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,176 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,176 INFO Turn 23 begins
+2018-02-21 21:24:31,176 INFO Thibault command: shoot
+2018-02-21 21:24:31,177 INFO ivano command: dodge
+2018-02-21 21:24:31,177 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,177 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,177 INFO Turn 24 begins
+2018-02-21 21:24:31,177 INFO Thibault command: reload
+2018-02-21 21:24:31,178 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,178 INFO Turn 25 begins
+2018-02-21 21:24:31,178 INFO Thibault command: shoot
+2018-02-21 21:24:31,178 INFO ivano command: dodge
+2018-02-21 21:24:31,178 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,178 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,179 INFO Turn 26 begins
+2018-02-21 21:24:31,179 INFO Thibault command: reload
+2018-02-21 21:24:31,179 INFO ivano command: dodge
+2018-02-21 21:24:31,179 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,179 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,179 INFO Turn 27 begins
+2018-02-21 21:24:31,179 INFO Thibault command: shoot
+2018-02-21 21:24:31,180 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,180 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,180 INFO Turn 28 begins
+2018-02-21 21:24:31,180 INFO Thibault command: reload
+2018-02-21 21:24:31,180 INFO ivano command: dodge
+2018-02-21 21:24:31,180 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,180 INFO Turn 29 begins
+2018-02-21 21:24:31,181 INFO Thibault command: shoot
+2018-02-21 21:24:31,181 INFO ivano command: dodge
+2018-02-21 21:24:31,181 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,181 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,181 INFO Turn 30 begins
+2018-02-21 21:24:31,181 INFO Thibault command: reload
+2018-02-21 21:24:31,182 INFO ivano command: dodge
+2018-02-21 21:24:31,182 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,182 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,182 INFO Turn 31 begins
+2018-02-21 21:24:31,182 INFO Thibault command: shoot
+2018-02-21 21:24:31,182 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,183 INFO Turn 32 begins
+2018-02-21 21:24:31,183 INFO Thibault command: reload
+2018-02-21 21:24:31,183 INFO ivano command: dodge
+2018-02-21 21:24:31,183 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,183 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,183 INFO Turn 33 begins
+2018-02-21 21:24:31,183 INFO Thibault command: shoot
+2018-02-21 21:24:31,184 INFO ivano command: dodge
+2018-02-21 21:24:31,184 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,184 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,184 INFO Turn 34 begins
+2018-02-21 21:24:31,184 INFO Thibault command: reload
+2018-02-21 21:24:31,184 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,185 INFO Turn 35 begins
+2018-02-21 21:24:31,185 INFO Thibault command: shoot
+2018-02-21 21:24:31,185 INFO ivano command: dodge
+2018-02-21 21:24:31,185 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,185 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,185 INFO Turn 36 begins
+2018-02-21 21:24:31,185 INFO Thibault command: reload
+2018-02-21 21:24:31,186 INFO ivano command: dodge
+2018-02-21 21:24:31,186 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,186 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,187 INFO Turn 37 begins
+2018-02-21 21:24:31,187 INFO Thibault command: shoot
+2018-02-21 21:24:31,187 INFO ivano command: dodge
+2018-02-21 21:24:31,187 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,187 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,187 INFO Turn 38 begins
+2018-02-21 21:24:31,188 INFO Thibault command: reload
+2018-02-21 21:24:31,188 INFO ivano command: dodge
+2018-02-21 21:24:31,188 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,188 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,188 INFO Turn 39 begins
+2018-02-21 21:24:31,188 INFO Thibault command: shoot
+2018-02-21 21:24:31,188 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,189 INFO Turn 40 begins
+2018-02-21 21:24:31,189 INFO Thibault command: reload
+2018-02-21 21:24:31,189 INFO ivano command: dodge
+2018-02-21 21:24:31,189 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,189 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,189 INFO Turn 41 begins
+2018-02-21 21:24:31,189 INFO Thibault command: shoot
+2018-02-21 21:24:31,189 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,190 INFO Turn 42 begins
+2018-02-21 21:24:31,190 INFO Thibault command: reload
+2018-02-21 21:24:31,190 INFO ivano command: dodge
+2018-02-21 21:24:31,190 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,190 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,190 INFO Turn 43 begins
+2018-02-21 21:24:31,190 INFO Thibault command: shoot
+2018-02-21 21:24:31,191 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,191 INFO Turn 44 begins
+2018-02-21 21:24:31,191 INFO Thibault command: reload
+2018-02-21 21:24:31,191 INFO ivano command: dodge
+2018-02-21 21:24:31,191 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,191 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,191 INFO Turn 45 begins
+2018-02-21 21:24:31,191 INFO Thibault command: shoot
+2018-02-21 21:24:31,192 INFO ivano command: dodge
+2018-02-21 21:24:31,192 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,192 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,192 INFO Turn 46 begins
+2018-02-21 21:24:31,192 INFO Thibault command: reload
+2018-02-21 21:24:31,192 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,192 INFO Turn 47 begins
+2018-02-21 21:24:31,193 INFO Thibault command: shoot
+2018-02-21 21:24:31,193 INFO ivano command: dodge
+2018-02-21 21:24:31,193 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,193 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,193 INFO Turn 48 begins
+2018-02-21 21:24:31,193 INFO Thibault command: reload
+2018-02-21 21:24:31,193 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,194 INFO Turn 49 begins
+2018-02-21 21:24:31,194 INFO Thibault command: shoot
+2018-02-21 21:24:31,194 INFO ivano command: dodge
+2018-02-21 21:24:31,194 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,194 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,194 INFO Turn 50 begins
+2018-02-21 21:24:31,195 INFO Thibault command: reload
+2018-02-21 21:24:31,195 INFO ivano command: dodge
+2018-02-21 21:24:31,195 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,195 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,195 INFO Turn 51 begins
+2018-02-21 21:24:31,195 INFO Thibault command: shoot
+2018-02-21 21:24:31,196 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,196 INFO Turn 52 begins
+2018-02-21 21:24:31,196 INFO Thibault command: reload
+2018-02-21 21:24:31,196 INFO ivano command: dodge
+2018-02-21 21:24:31,196 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,196 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,196 INFO Turn 53 begins
+2018-02-21 21:24:31,197 INFO Thibault command: shoot
+2018-02-21 21:24:31,198 INFO ivano command: dodge
+2018-02-21 21:24:31,198 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,198 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,198 INFO Turn 54 begins
+2018-02-21 21:24:31,198 INFO Thibault command: reload
+2018-02-21 21:24:31,199 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,199 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,199 INFO Turn 55 begins
+2018-02-21 21:24:31,199 INFO Thibault command: shoot
+2018-02-21 21:24:31,199 INFO ivano command: dodge
+2018-02-21 21:24:31,199 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,199 INFO Turn 56 begins
+2018-02-21 21:24:31,199 INFO Thibault command: reload
+2018-02-21 21:24:31,200 INFO ivano command: dodge
+2018-02-21 21:24:31,200 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,200 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,200 INFO Turn 57 begins
+2018-02-21 21:24:31,200 INFO Thibault command: shoot
+2018-02-21 21:24:31,200 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,200 INFO Turn 58 begins
+2018-02-21 21:24:31,201 INFO Thibault command: reload
+2018-02-21 21:24:31,201 INFO ivano command: dodge
+2018-02-21 21:24:31,201 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,201 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,201 INFO Turn 59 begins
+2018-02-21 21:24:31,201 INFO Thibault command: shoot
+2018-02-21 21:24:31,201 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,201 INFO Turn 60 begins
+2018-02-21 21:24:31,202 INFO Thibault command: reload
+2018-02-21 21:24:31,202 INFO ivano command: dodge
+2018-02-21 21:24:31,202 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,202 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,202 INFO Turn 61 begins
+2018-02-21 21:24:31,202 INFO Thibault command: shoot
+2018-02-21 21:24:31,202 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,202 INFO Turn 62 begins
+2018-02-21 21:24:31,203 INFO Thibault command: reload
+2018-02-21 21:24:31,203 INFO ivano command: dodge
+2018-02-21 21:24:31,203 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,203 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,203 INFO Turn 63 begins
+2018-02-21 21:24:31,203 INFO Thibault command: shoot
+2018-02-21 21:24:31,203 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,204 INFO Turn 64 begins
+2018-02-21 21:24:31,204 INFO Thibault command: reload
+2018-02-21 21:24:31,204 INFO ivano command: dodge
+2018-02-21 21:24:31,204 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,204 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,204 INFO Turn 65 begins
+2018-02-21 21:24:31,204 INFO Thibault command: shoot
+2018-02-21 21:24:31,205 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,205 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,205 INFO Turn 66 begins
+2018-02-21 21:24:31,205 INFO Thibault command: reload
+2018-02-21 21:24:31,205 INFO ivano command: dodge
+2018-02-21 21:24:31,205 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,205 INFO Turn 67 begins
+2018-02-21 21:24:31,205 INFO Thibault command: shoot
+2018-02-21 21:24:31,206 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,206 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,206 INFO Turn 68 begins
+2018-02-21 21:24:31,206 INFO Thibault command: reload
+2018-02-21 21:24:31,206 INFO ivano command: dodge
+2018-02-21 21:24:31,206 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,206 INFO Turn 69 begins
+2018-02-21 21:24:31,207 INFO Thibault command: shoot
+2018-02-21 21:24:31,207 INFO ivano command: dodge
+2018-02-21 21:24:31,207 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,207 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,207 INFO Turn 70 begins
+2018-02-21 21:24:31,207 INFO Thibault command: reload
+2018-02-21 21:24:31,207 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,207 INFO Turn 71 begins
+2018-02-21 21:24:31,208 INFO Thibault command: shoot
+2018-02-21 21:24:31,208 INFO ivano command: dodge
+2018-02-21 21:24:31,208 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,208 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,208 INFO Turn 72 begins
+2018-02-21 21:24:31,208 INFO Thibault command: reload
+2018-02-21 21:24:31,209 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,209 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,209 INFO Turn 73 begins
+2018-02-21 21:24:31,209 INFO Thibault command: shoot
+2018-02-21 21:24:31,209 INFO ivano command: dodge
+2018-02-21 21:24:31,209 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,210 INFO Turn 74 begins
+2018-02-21 21:24:31,210 INFO Thibault command: reload
+2018-02-21 21:24:31,210 INFO ivano command: dodge
+2018-02-21 21:24:31,210 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,210 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,211 INFO Turn 75 begins
+2018-02-21 21:24:31,211 INFO Thibault command: shoot
+2018-02-21 21:24:31,211 INFO ivano command: dodge
+2018-02-21 21:24:31,211 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,211 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,212 INFO Turn 76 begins
+2018-02-21 21:24:31,212 INFO Thibault command: reload
+2018-02-21 21:24:31,212 INFO ivano command: dodge
+2018-02-21 21:24:31,212 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,212 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,212 INFO Turn 77 begins
+2018-02-21 21:24:31,212 INFO Thibault command: shoot
+2018-02-21 21:24:31,213 INFO ivano command: dodge
+2018-02-21 21:24:31,213 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,213 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,213 INFO Turn 78 begins
+2018-02-21 21:24:31,213 INFO Thibault command: reload
+2018-02-21 21:24:31,213 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,213 INFO Turn 79 begins
+2018-02-21 21:24:31,214 INFO Thibault command: shoot
+2018-02-21 21:24:31,214 INFO ivano command: dodge
+2018-02-21 21:24:31,214 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,214 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,214 INFO Turn 80 begins
+2018-02-21 21:24:31,214 INFO Thibault command: reload
+2018-02-21 21:24:31,214 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,214 INFO Turn 81 begins
+2018-02-21 21:24:31,215 INFO Thibault command: shoot
+2018-02-21 21:24:31,215 INFO ivano command: dodge
+2018-02-21 21:24:31,215 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,215 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,215 INFO Turn 82 begins
+2018-02-21 21:24:31,215 INFO Thibault command: reload
+2018-02-21 21:24:31,216 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,216 INFO Turn 83 begins
+2018-02-21 21:24:31,216 INFO Thibault command: shoot
+2018-02-21 21:24:31,216 INFO ivano command: dodge
+2018-02-21 21:24:31,216 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,216 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,216 INFO Turn 84 begins
+2018-02-21 21:24:31,216 INFO Thibault command: reload
+2018-02-21 21:24:31,217 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,217 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,217 INFO Turn 85 begins
+2018-02-21 21:24:31,217 INFO Thibault command: shoot
+2018-02-21 21:24:31,217 INFO ivano command: dodge
+2018-02-21 21:24:31,217 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,217 INFO Turn 86 begins
+2018-02-21 21:24:31,217 INFO Thibault command: reload
+2018-02-21 21:24:31,218 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,218 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,218 INFO Turn 87 begins
+2018-02-21 21:24:31,218 INFO Thibault command: shoot
+2018-02-21 21:24:31,218 INFO ivano command: dodge
+2018-02-21 21:24:31,218 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,218 INFO Turn 88 begins
+2018-02-21 21:24:31,218 INFO Thibault command: reload
+2018-02-21 21:24:31,219 INFO ivano command: dodge
+2018-02-21 21:24:31,219 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,219 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,219 INFO Turn 89 begins
+2018-02-21 21:24:31,219 INFO Thibault command: shoot
+2018-02-21 21:24:31,219 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,219 INFO Turn 90 begins
+2018-02-21 21:24:31,220 INFO Thibault command: reload
+2018-02-21 21:24:31,220 INFO ivano command: dodge
+2018-02-21 21:24:31,220 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,220 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,220 INFO Turn 91 begins
+2018-02-21 21:24:31,220 INFO Thibault command: shoot
+2018-02-21 21:24:31,220 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,221 INFO Turn 92 begins
+2018-02-21 21:24:31,221 INFO Thibault command: reload
+2018-02-21 21:24:31,221 INFO ivano command: dodge
+2018-02-21 21:24:31,221 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,221 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,221 INFO Turn 93 begins
+2018-02-21 21:24:31,221 INFO Thibault command: shoot
+2018-02-21 21:24:31,222 INFO ivano command: dodge
+2018-02-21 21:24:31,222 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,222 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,222 INFO Turn 94 begins
+2018-02-21 21:24:31,222 INFO Thibault command: reload
+2018-02-21 21:24:31,222 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,222 INFO Turn 95 begins
+2018-02-21 21:24:31,223 INFO Thibault command: shoot
+2018-02-21 21:24:31,223 INFO ivano command: dodge
+2018-02-21 21:24:31,223 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,223 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,223 INFO Turn 96 begins
+2018-02-21 21:24:31,223 INFO Thibault command: reload
+2018-02-21 21:24:31,223 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,223 INFO Turn 97 begins
+2018-02-21 21:24:31,224 INFO Thibault command: shoot
+2018-02-21 21:24:31,224 INFO ivano command: dodge
+2018-02-21 21:24:31,224 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,224 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,224 INFO Turn 98 begins
+2018-02-21 21:24:31,224 INFO Thibault command: reload
+2018-02-21 21:24:31,224 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,225 INFO Turn 99 begins
+2018-02-21 21:24:31,225 INFO Thibault command: shoot
+2018-02-21 21:24:31,225 INFO ivano command: dodge
+2018-02-21 21:24:31,225 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,225 DEBUG Telling ivano that opponent did: shoot
+2018-02-21 21:24:31,225 INFO Turn 100 begins
+2018-02-21 21:24:31,225 INFO Thibault command: reload
+2018-02-21 21:24:31,226 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:24:31,226 DEBUG Telling ivano that opponent did: reload
+2018-02-21 21:24:31,226 INFO Thibault dodged 0 times
+2018-02-21 21:24:31,226 INFO ivano dodged 99 times
+2018-02-21 21:24:31,226 INFO Killing Thibault
+2018-02-21 21:24:31,226 INFO Thibault exit code: None
+2018-02-21 21:24:31,226 INFO Killing ivano
+2018-02-21 21:24:31,226 INFO ivano exit code: None

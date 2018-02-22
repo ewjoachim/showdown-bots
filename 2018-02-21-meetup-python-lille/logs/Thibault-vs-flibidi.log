@@ -1,0 +1,37 @@
+2018-02-21 21:26:47,606 INFO Starting new showdown: Thibault vs flibidi
+2018-02-21 21:26:47,609 INFO Turn 1 begins
+2018-02-21 21:26:47,609 INFO Thibault command: shoot
+2018-02-21 21:26:47,609 INFO flibidi command: shoot
+2018-02-21 21:26:47,609 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:26:47,609 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:26:47,610 INFO Turn 2 begins
+2018-02-21 21:26:47,611 INFO Thibault command: reload
+2018-02-21 21:26:47,611 INFO flibidi command: dodge
+2018-02-21 21:26:47,611 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:26:47,611 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:26:47,611 INFO Turn 3 begins
+2018-02-21 21:26:47,612 INFO Thibault command: shoot
+2018-02-21 21:26:47,612 INFO flibidi command: dodge
+2018-02-21 21:26:47,612 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:26:47,612 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:26:47,612 INFO Turn 4 begins
+2018-02-21 21:26:47,613 INFO Thibault command: reload
+2018-02-21 21:26:47,613 INFO flibidi command: dodge
+2018-02-21 21:26:47,613 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:26:47,613 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:26:47,613 INFO Turn 5 begins
+2018-02-21 21:26:47,613 INFO Thibault command: shoot
+2018-02-21 21:26:47,614 DEBUG Telling flibidi that opponent did: shoot
+2018-02-21 21:26:47,614 INFO Turn 6 begins
+2018-02-21 21:26:47,614 INFO Thibault command: reload
+2018-02-21 21:26:47,614 INFO flibidi command: dodge
+2018-02-21 21:26:47,614 DEBUG Telling Thibault that opponent did: dodge
+2018-02-21 21:26:47,614 DEBUG Telling flibidi that opponent did: reload
+2018-02-21 21:26:47,614 INFO Turn 7 begins
+2018-02-21 21:26:47,615 INFO Thibault command: shoot
+2018-02-21 21:26:47,615 INFO flibidi command: reload
+2018-02-21 21:26:47,615 INFO Thibault shoots flibidi
+2018-02-21 21:26:47,615 INFO Killing Thibault
+2018-02-21 21:26:47,615 INFO Thibault exit code: None
+2018-02-21 21:26:47,615 INFO Killing flibidi
+2018-02-21 21:26:47,616 INFO flibidi exit code: None

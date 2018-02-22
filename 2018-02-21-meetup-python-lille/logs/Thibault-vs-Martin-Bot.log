@@ -1,0 +1,82 @@
+2018-02-21 21:11:24,855 INFO Starting new showdown: Thibault vs Martin-Bot
+2018-02-21 21:11:24,857 INFO Turn 1 begins
+2018-02-21 21:11:24,857 INFO Thibault command: shoot
+2018-02-21 21:11:24,857 INFO Martin-Bot command: shoot
+2018-02-21 21:11:24,857 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:11:24,857 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:11:24,857 INFO Turn 2 begins
+2018-02-21 21:11:24,858 WARNING Thibault issued invalid command Mois, dodge, list, nb_balle,nb_dodge
+2018-02-21 21:11:24,858 INFO Martin-Bot command: reload
+2018-02-21 21:11:24,858 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:11:24,859 DEBUG Telling Martin-Bot that opponent did: stand
+2018-02-21 21:11:24,859 INFO Turn 3 begins
+2018-02-21 21:11:24,859 WARNING Thibault issued invalid command ['shoot']
+2018-02-21 21:11:24,859 INFO Martin-Bot command: shoot
+2018-02-21 21:11:24,859 INFO Martin-Bot shoots Thibault
+2018-02-21 21:11:24,860 INFO Killing Thibault
+2018-02-21 21:11:24,860 INFO Thibault exit code: None
+2018-02-21 21:11:24,860 INFO Killing Martin-Bot
+2018-02-21 21:11:24,860 INFO Martin-Bot exit code: None
+2018-02-21 21:11:32,631 INFO Starting new showdown: Thibault vs Martin-Bot
+2018-02-21 21:11:32,633 INFO Turn 1 begins
+2018-02-21 21:11:32,633 INFO Thibault command: shoot
+2018-02-21 21:11:32,633 INFO Martin-Bot command: shoot
+2018-02-21 21:11:32,634 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:11:32,634 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:11:32,634 INFO Turn 2 begins
+2018-02-21 21:11:32,635 WARNING Thibault issued invalid command Mois, dodge, list, nb_balle,nb_dodge
+2018-02-21 21:11:32,635 INFO Martin-Bot command: reload
+2018-02-21 21:11:32,635 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:11:32,635 DEBUG Telling Martin-Bot that opponent did: stand
+2018-02-21 21:11:32,635 INFO Turn 3 begins
+2018-02-21 21:11:32,636 WARNING Thibault issued invalid command ['shoot']
+2018-02-21 21:11:32,636 INFO Martin-Bot command: reload
+2018-02-21 21:11:32,636 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:11:32,636 DEBUG Telling Martin-Bot that opponent did: stand
+2018-02-21 21:11:32,636 INFO Turn 4 begins
+2018-02-21 21:11:32,636 WARNING Thibault issued invalid command 0
+2018-02-21 21:11:32,637 INFO Martin-Bot command: reload
+2018-02-21 21:11:32,637 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:11:32,637 DEBUG Telling Martin-Bot that opponent did: stand
+2018-02-21 21:11:32,637 INFO Turn 5 begins
+2018-02-21 21:11:32,638 WARNING Thibault issued invalid command 0
+2018-02-21 21:11:32,638 INFO Martin-Bot command: reload
+2018-02-21 21:11:32,638 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:11:32,638 DEBUG Telling Martin-Bot that opponent did: stand
+2018-02-21 21:11:32,639 INFO Turn 6 begins
+2018-02-21 21:11:32,639 WARNING Thibault issued invalid command Adv, dodge, list, nb_balle,nb_dodge
+2018-02-21 21:11:32,639 INFO Martin-Bot command: shoot
+2018-02-21 21:11:32,639 INFO Martin-Bot shoots Thibault
+2018-02-21 21:11:32,640 INFO Martin-Bot shoots Thibault
+2018-02-21 21:11:32,640 INFO Killing Thibault
+2018-02-21 21:11:32,641 INFO Thibault exit code: None
+2018-02-21 21:11:32,641 INFO Killing Martin-Bot
+2018-02-21 21:11:32,642 INFO Martin-Bot exit code: None
+2018-02-21 21:12:16,457 INFO Starting new showdown: Thibault vs Martin-Bot
+2018-02-21 21:12:16,459 INFO Turn 1 begins
+2018-02-21 21:12:16,459 INFO Thibault command: shoot
+2018-02-21 21:12:16,459 INFO Martin-Bot command: shoot
+2018-02-21 21:12:16,459 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:12:16,459 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:12:16,459 INFO Turn 2 begins
+2018-02-21 21:12:16,460 INFO Thibault command: reload
+2018-02-21 21:12:16,460 INFO Martin-Bot command: reload
+2018-02-21 21:12:16,460 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:12:16,461 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 21:12:16,461 INFO Turn 3 begins
+2018-02-21 21:12:16,461 INFO Thibault command: shoot
+2018-02-21 21:12:16,461 INFO Martin-Bot command: shoot
+2018-02-21 21:12:16,461 DEBUG Telling Thibault that opponent did: shoot
+2018-02-21 21:12:16,461 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 21:12:16,461 INFO Turn 4 begins
+2018-02-21 21:12:16,462 INFO Thibault command: reload
+2018-02-21 21:12:16,462 INFO Martin-Bot command: reload
+2018-02-21 21:12:16,462 DEBUG Telling Thibault that opponent did: reload
+2018-02-21 21:12:16,462 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 21:12:16,462 INFO Turn 5 begins
+2018-02-21 21:12:16,462 INFO Martin-Bot command: shoot
+2018-02-21 21:12:16,463 INFO Martin-Bot shoots Thibault
+2018-02-21 21:12:16,463 INFO Killing Thibault
+2018-02-21 21:12:16,463 INFO Thibault exit code: None
+2018-02-21 21:12:16,463 INFO Killing Martin-Bot
+2018-02-21 21:12:16,463 INFO Martin-Bot exit code: None

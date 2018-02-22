@@ -1,0 +1,944 @@
+2018-02-11 16:16:09,770 INFO Starting new showdown: bob vs steve
+2018-02-11 16:16:09,778 INFO Turn 1 begins
+2018-02-11 16:16:09,779 INFO bob command: reload
+2018-02-11 16:16:09,779 INFO steve command: shoot
+2018-02-11 16:16:09,779 INFO steve shoots bob
+2018-02-11 16:16:09,779 INFO Killing bob
+2018-02-11 16:16:09,780 INFO bob exit code: None
+2018-02-11 16:16:09,780 INFO Killing steve
+2018-02-11 16:16:09,781 INFO steve exit code: None
+2018-02-11 16:17:07,895 INFO Starting new showdown: bob vs steve
+2018-02-11 16:17:07,903 INFO Turn 1 begins
+2018-02-11 16:17:07,903 INFO bob command: reload
+2018-02-11 16:17:07,903 INFO steve command: shoot
+2018-02-11 16:17:07,903 INFO steve shoots bob
+2018-02-11 16:17:07,904 INFO Killing bob
+2018-02-11 16:17:07,904 INFO bob exit code: None
+2018-02-11 16:17:07,904 INFO Killing steve
+2018-02-11 16:17:07,904 INFO steve exit code: None
+2018-02-11 16:17:38,725 INFO Starting new showdown: bob vs steve
+2018-02-11 16:17:38,726 INFO Turn 1 begins
+2018-02-11 16:17:38,726 INFO bob command: dodge
+2018-02-11 16:17:38,727 INFO steve command: dodge
+2018-02-11 16:17:38,727 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,727 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,727 INFO Turn 2 begins
+2018-02-11 16:17:38,727 INFO bob command: dodge
+2018-02-11 16:17:38,728 INFO steve command: dodge
+2018-02-11 16:17:38,728 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,728 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,728 INFO Turn 3 begins
+2018-02-11 16:17:38,728 INFO bob command: dodge
+2018-02-11 16:17:38,729 INFO Turn 4 begins
+2018-02-11 16:17:38,729 INFO bob command: dodge
+2018-02-11 16:17:38,729 INFO steve command: dodge
+2018-02-11 16:17:38,729 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,729 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,729 INFO Turn 5 begins
+2018-02-11 16:17:38,730 INFO steve command: dodge
+2018-02-11 16:17:38,730 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,730 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,730 INFO Turn 6 begins
+2018-02-11 16:17:38,730 INFO bob command: shoot
+2018-02-11 16:17:38,730 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,730 INFO Turn 7 begins
+2018-02-11 16:17:38,731 INFO bob command: dodge
+2018-02-11 16:17:38,731 INFO steve command: dodge
+2018-02-11 16:17:38,731 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,731 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,731 INFO Turn 8 begins
+2018-02-11 16:17:38,731 INFO steve command: shoot
+2018-02-11 16:17:38,731 DEBUG Telling bob that opponent did: shoot
+2018-02-11 16:17:38,732 INFO Turn 9 begins
+2018-02-11 16:17:38,732 INFO bob command: reload
+2018-02-11 16:17:38,732 INFO steve command: dodge
+2018-02-11 16:17:38,732 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,732 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,732 INFO Turn 10 begins
+2018-02-11 16:17:38,732 INFO bob command: dodge
+2018-02-11 16:17:38,732 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,733 INFO Turn 11 begins
+2018-02-11 16:17:38,733 INFO bob command: dodge
+2018-02-11 16:17:38,733 INFO steve command: reload
+2018-02-11 16:17:38,733 DEBUG Telling bob that opponent did: reload
+2018-02-11 16:17:38,733 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,733 INFO Turn 12 begins
+2018-02-11 16:17:38,734 INFO steve command: dodge
+2018-02-11 16:17:38,734 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,734 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,734 INFO Turn 13 begins
+2018-02-11 16:17:38,734 INFO bob command: shoot
+2018-02-11 16:17:38,734 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,735 INFO Turn 14 begins
+2018-02-11 16:17:38,735 INFO bob command: dodge
+2018-02-11 16:17:38,735 INFO steve command: dodge
+2018-02-11 16:17:38,735 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,735 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,735 INFO Turn 15 begins
+2018-02-11 16:17:38,736 INFO steve command: dodge
+2018-02-11 16:17:38,736 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,736 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,736 INFO Turn 16 begins
+2018-02-11 16:17:38,736 INFO bob command: dodge
+2018-02-11 16:17:38,736 INFO Turn 17 begins
+2018-02-11 16:17:38,737 INFO bob command: dodge
+2018-02-11 16:17:38,737 INFO steve command: dodge
+2018-02-11 16:17:38,737 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,737 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,737 INFO Turn 18 begins
+2018-02-11 16:17:38,738 INFO steve command: dodge
+2018-02-11 16:17:38,738 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,738 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,738 INFO Turn 19 begins
+2018-02-11 16:17:38,738 INFO bob command: reload
+2018-02-11 16:17:38,738 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,739 INFO Turn 20 begins
+2018-02-11 16:17:38,739 INFO bob command: dodge
+2018-02-11 16:17:38,739 INFO steve command: dodge
+2018-02-11 16:17:38,739 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,739 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,739 INFO Turn 21 begins
+2018-02-11 16:17:38,740 INFO steve command: dodge
+2018-02-11 16:17:38,740 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,740 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,740 INFO Turn 22 begins
+2018-02-11 16:17:38,740 INFO bob command: dodge
+2018-02-11 16:17:38,740 INFO steve command: shoot
+2018-02-11 16:17:38,740 DEBUG Telling bob that opponent did: shoot
+2018-02-11 16:17:38,741 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,741 INFO Turn 23 begins
+2018-02-11 16:17:38,741 INFO bob command: dodge
+2018-02-11 16:17:38,741 INFO steve command: dodge
+2018-02-11 16:17:38,741 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,742 INFO Turn 24 begins
+2018-02-11 16:17:38,742 INFO bob command: dodge
+2018-02-11 16:17:38,742 INFO steve command: dodge
+2018-02-11 16:17:38,742 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,742 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,742 INFO Turn 25 begins
+2018-02-11 16:17:38,743 INFO bob command: shoot
+2018-02-11 16:17:38,743 INFO steve command: dodge
+2018-02-11 16:17:38,743 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,743 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,743 INFO Turn 26 begins
+2018-02-11 16:17:38,743 INFO bob command: dodge
+2018-02-11 16:17:38,743 INFO steve command: reload
+2018-02-11 16:17:38,743 DEBUG Telling bob that opponent did: reload
+2018-02-11 16:17:38,744 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,744 INFO Turn 27 begins
+2018-02-11 16:17:38,744 INFO bob command: dodge
+2018-02-11 16:17:38,744 INFO steve command: dodge
+2018-02-11 16:17:38,744 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,744 INFO Turn 28 begins
+2018-02-11 16:17:38,745 INFO steve command: dodge
+2018-02-11 16:17:38,745 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,745 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,745 INFO Turn 29 begins
+2018-02-11 16:17:38,745 INFO bob command: dodge
+2018-02-11 16:17:38,746 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,746 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,746 INFO Turn 30 begins
+2018-02-11 16:17:38,746 INFO bob command: dodge
+2018-02-11 16:17:38,746 INFO steve command: dodge
+2018-02-11 16:17:38,746 INFO Turn 31 begins
+2018-02-11 16:17:38,747 INFO bob command: dodge
+2018-02-11 16:17:38,747 INFO steve command: dodge
+2018-02-11 16:17:38,747 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,747 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,747 INFO Turn 32 begins
+2018-02-11 16:17:38,748 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,748 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,748 INFO Turn 33 begins
+2018-02-11 16:17:38,748 INFO bob command: dodge
+2018-02-11 16:17:38,748 INFO steve command: dodge
+2018-02-11 16:17:38,749 INFO Turn 34 begins
+2018-02-11 16:17:38,749 INFO bob command: dodge
+2018-02-11 16:17:38,749 INFO steve command: shoot
+2018-02-11 16:17:38,749 DEBUG Telling bob that opponent did: shoot
+2018-02-11 16:17:38,749 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,749 INFO Turn 35 begins
+2018-02-11 16:17:38,749 INFO steve command: dodge
+2018-02-11 16:17:38,750 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,750 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,750 INFO Turn 36 begins
+2018-02-11 16:17:38,750 INFO bob command: reload
+2018-02-11 16:17:38,750 INFO steve command: dodge
+2018-02-11 16:17:38,750 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,750 INFO Turn 37 begins
+2018-02-11 16:17:38,751 INFO bob command: dodge
+2018-02-11 16:17:38,751 INFO steve command: dodge
+2018-02-11 16:17:38,751 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,751 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,751 INFO Turn 38 begins
+2018-02-11 16:17:38,752 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,752 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,752 INFO Turn 39 begins
+2018-02-11 16:17:38,752 INFO bob command: dodge
+2018-02-11 16:17:38,752 INFO steve command: dodge
+2018-02-11 16:17:38,753 INFO Turn 40 begins
+2018-02-11 16:17:38,753 INFO bob command: dodge
+2018-02-11 16:17:38,753 INFO steve command: dodge
+2018-02-11 16:17:38,753 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,753 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,753 INFO Turn 41 begins
+2018-02-11 16:17:38,754 INFO steve command: reload
+2018-02-11 16:17:38,754 DEBUG Telling bob that opponent did: reload
+2018-02-11 16:17:38,754 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,754 INFO Turn 42 begins
+2018-02-11 16:17:38,754 INFO bob command: shoot
+2018-02-11 16:17:38,754 INFO steve command: dodge
+2018-02-11 16:17:38,754 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,754 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,755 INFO Turn 43 begins
+2018-02-11 16:17:38,755 INFO bob command: dodge
+2018-02-11 16:17:38,755 INFO steve command: dodge
+2018-02-11 16:17:38,755 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,755 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,756 INFO Turn 44 begins
+2018-02-11 16:17:38,756 INFO bob command: dodge
+2018-02-11 16:17:38,756 INFO steve command: dodge
+2018-02-11 16:17:38,756 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,756 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,756 INFO Turn 45 begins
+2018-02-11 16:17:38,757 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,757 INFO Turn 46 begins
+2018-02-11 16:17:38,757 INFO bob command: dodge
+2018-02-11 16:17:38,757 INFO steve command: dodge
+2018-02-11 16:17:38,757 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,757 INFO Turn 47 begins
+2018-02-11 16:17:38,757 INFO bob command: reload
+2018-02-11 16:17:38,758 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,758 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,758 INFO Turn 48 begins
+2018-02-11 16:17:38,758 INFO bob command: dodge
+2018-02-11 16:17:38,758 INFO steve command: dodge
+2018-02-11 16:17:38,758 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,758 INFO Turn 49 begins
+2018-02-11 16:17:38,759 INFO bob command: shoot
+2018-02-11 16:17:38,759 INFO steve command: dodge
+2018-02-11 16:17:38,759 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,759 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,759 INFO Turn 50 begins
+2018-02-11 16:17:38,759 INFO bob command: dodge
+2018-02-11 16:17:38,759 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,759 INFO Turn 51 begins
+2018-02-11 16:17:38,760 INFO bob command: dodge
+2018-02-11 16:17:38,760 INFO steve command: dodge
+2018-02-11 16:17:38,760 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,760 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,760 INFO Turn 52 begins
+2018-02-11 16:17:38,761 INFO bob command: dodge
+2018-02-11 16:17:38,761 INFO steve command: dodge
+2018-02-11 16:17:38,761 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,762 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,762 INFO Turn 53 begins
+2018-02-11 16:17:38,762 INFO bob command: dodge
+2018-02-11 16:17:38,762 INFO steve command: dodge
+2018-02-11 16:17:38,762 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,762 INFO Turn 54 begins
+2018-02-11 16:17:38,763 INFO bob command: dodge
+2018-02-11 16:17:38,763 INFO steve command: dodge
+2018-02-11 16:17:38,763 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,763 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,763 INFO Turn 55 begins
+2018-02-11 16:17:38,763 INFO bob command: reload
+2018-02-11 16:17:38,764 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,764 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,764 INFO Turn 56 begins
+2018-02-11 16:17:38,764 INFO bob command: dodge
+2018-02-11 16:17:38,764 INFO steve command: shoot
+2018-02-11 16:17:38,764 DEBUG Telling bob that opponent did: shoot
+2018-02-11 16:17:38,767 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,767 INFO Turn 57 begins
+2018-02-11 16:17:38,768 INFO bob command: dodge
+2018-02-11 16:17:38,768 INFO steve command: dodge
+2018-02-11 16:17:38,768 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,768 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,768 INFO Turn 58 begins
+2018-02-11 16:17:38,769 INFO steve command: dodge
+2018-02-11 16:17:38,769 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,769 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,769 INFO Turn 59 begins
+2018-02-11 16:17:38,769 INFO bob command: dodge
+2018-02-11 16:17:38,770 INFO Turn 60 begins
+2018-02-11 16:17:38,770 INFO bob command: dodge
+2018-02-11 16:17:38,770 INFO steve command: dodge
+2018-02-11 16:17:38,770 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,770 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,770 INFO Turn 61 begins
+2018-02-11 16:17:38,771 INFO steve command: reload
+2018-02-11 16:17:38,771 DEBUG Telling bob that opponent did: reload
+2018-02-11 16:17:38,771 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,771 INFO Turn 62 begins
+2018-02-11 16:17:38,771 INFO bob command: dodge
+2018-02-11 16:17:38,771 INFO steve command: dodge
+2018-02-11 16:17:38,771 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,771 INFO Turn 63 begins
+2018-02-11 16:17:38,772 INFO bob command: dodge
+2018-02-11 16:17:38,772 INFO steve command: dodge
+2018-02-11 16:17:38,772 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,772 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,772 INFO Turn 64 begins
+2018-02-11 16:17:38,773 INFO Turn 65 begins
+2018-02-11 16:17:38,773 INFO bob command: dodge
+2018-02-11 16:17:38,773 INFO steve command: dodge
+2018-02-11 16:17:38,773 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,773 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,773 INFO Turn 66 begins
+2018-02-11 16:17:38,773 INFO bob command: shoot
+2018-02-11 16:17:38,773 INFO steve command: shoot
+2018-02-11 16:17:38,773 DEBUG Telling bob that opponent did: shoot
+2018-02-11 16:17:38,774 DEBUG Telling steve that opponent did: shoot
+2018-02-11 16:17:38,774 INFO Turn 67 begins
+2018-02-11 16:17:38,774 INFO bob command: dodge
+2018-02-11 16:17:38,774 INFO steve command: dodge
+2018-02-11 16:17:38,774 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,774 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,774 INFO Turn 68 begins
+2018-02-11 16:17:38,775 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,775 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,775 INFO Turn 69 begins
+2018-02-11 16:17:38,775 INFO bob command: reload
+2018-02-11 16:17:38,775 INFO steve command: dodge
+2018-02-11 16:17:38,775 DEBUG Telling steve that opponent did: reload
+2018-02-11 16:17:38,775 INFO Turn 70 begins
+2018-02-11 16:17:38,775 INFO bob command: dodge
+2018-02-11 16:17:38,776 INFO steve command: dodge
+2018-02-11 16:17:38,776 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,776 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,776 INFO Turn 71 begins
+2018-02-11 16:17:38,776 INFO bob command: dodge
+2018-02-11 16:17:38,776 INFO Turn 72 begins
+2018-02-11 16:17:38,777 INFO steve command: dodge
+2018-02-11 16:17:38,777 DEBUG Telling bob that opponent did: dodge
+2018-02-11 16:17:38,777 DEBUG Telling steve that opponent did: dodge
+2018-02-11 16:17:38,777 INFO Turn 73 begins
+2018-02-11 16:17:38,777 INFO bob command: shoot
+2018-02-11 16:17:38,777 INFO steve command: reload
+2018-02-11 16:17:38,777 INFO bob shoots steve
+2018-02-11 16:17:38,777 INFO Killing bob
+2018-02-11 16:17:38,778 INFO bob exit code: None
+2018-02-11 16:17:38,778 INFO Killing steve
+2018-02-11 16:17:38,778 INFO steve exit code: None
+2018-02-21 19:38:31,090 INFO Starting new showdown: bob vs steve
+2018-02-21 19:38:31,093 INFO Turn 1 begins
+2018-02-21 19:38:31,093 INFO bob command: dodge
+2018-02-21 19:38:31,093 INFO steve command: shoot
+2018-02-21 19:38:31,093 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,093 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,093 INFO Turn 2 begins
+2018-02-21 19:38:31,094 INFO bob command: dodge
+2018-02-21 19:38:31,094 INFO steve command: dodge
+2018-02-21 19:38:31,094 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,094 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,095 INFO Turn 3 begins
+2018-02-21 19:38:31,095 INFO bob command: dodge
+2018-02-21 19:38:31,095 INFO steve command: dodge
+2018-02-21 19:38:31,095 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,095 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,095 INFO Turn 4 begins
+2018-02-21 19:38:31,096 INFO Turn 5 begins
+2018-02-21 19:38:31,096 INFO bob command: shoot
+2018-02-21 19:38:31,096 INFO steve command: dodge
+2018-02-21 19:38:31,096 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,096 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,096 INFO Turn 6 begins
+2018-02-21 19:38:31,096 INFO bob command: dodge
+2018-02-21 19:38:31,097 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,097 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,097 INFO Turn 7 begins
+2018-02-21 19:38:31,097 INFO bob command: dodge
+2018-02-21 19:38:31,097 INFO steve command: dodge
+2018-02-21 19:38:31,097 INFO Turn 8 begins
+2018-02-21 19:38:31,098 INFO steve command: dodge
+2018-02-21 19:38:31,098 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,098 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,098 INFO Turn 9 begins
+2018-02-21 19:38:31,098 INFO bob command: dodge
+2018-02-21 19:38:31,098 INFO Turn 10 begins
+2018-02-21 19:38:31,099 INFO steve command: dodge
+2018-02-21 19:38:31,099 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,099 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,099 INFO Turn 11 begins
+2018-02-21 19:38:31,099 INFO bob command: dodge
+2018-02-21 19:38:31,099 INFO Turn 12 begins
+2018-02-21 19:38:31,100 INFO bob command: reload
+2018-02-21 19:38:31,100 INFO steve command: reload
+2018-02-21 19:38:31,100 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,100 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,100 INFO Turn 13 begins
+2018-02-21 19:38:31,100 INFO bob command: dodge
+2018-02-21 19:38:31,100 INFO steve command: dodge
+2018-02-21 19:38:31,100 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,100 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,101 INFO Turn 14 begins
+2018-02-21 19:38:31,101 INFO bob command: dodge
+2018-02-21 19:38:31,101 INFO steve command: dodge
+2018-02-21 19:38:31,101 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,101 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,101 INFO Turn 15 begins
+2018-02-21 19:38:31,102 INFO Turn 16 begins
+2018-02-21 19:38:31,102 INFO bob command: dodge
+2018-02-21 19:38:31,102 INFO steve command: dodge
+2018-02-21 19:38:31,102 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,102 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,102 INFO Turn 17 begins
+2018-02-21 19:38:31,103 INFO Turn 18 begins
+2018-02-21 19:38:31,103 INFO bob command: shoot
+2018-02-21 19:38:31,103 INFO steve command: shoot
+2018-02-21 19:38:31,103 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,103 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,103 INFO Turn 19 begins
+2018-02-21 19:38:31,103 INFO bob command: reload
+2018-02-21 19:38:31,103 INFO steve command: dodge
+2018-02-21 19:38:31,104 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,104 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,104 INFO Turn 20 begins
+2018-02-21 19:38:31,104 INFO bob command: dodge
+2018-02-21 19:38:31,104 INFO steve command: dodge
+2018-02-21 19:38:31,104 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,104 INFO Turn 21 begins
+2018-02-21 19:38:31,105 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,105 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,105 INFO Turn 22 begins
+2018-02-21 19:38:31,105 INFO bob command: dodge
+2018-02-21 19:38:31,105 INFO steve command: dodge
+2018-02-21 19:38:31,105 INFO Turn 23 begins
+2018-02-21 19:38:31,106 INFO steve command: dodge
+2018-02-21 19:38:31,106 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,106 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,106 INFO Turn 24 begins
+2018-02-21 19:38:31,106 INFO bob command: dodge
+2018-02-21 19:38:31,106 INFO Turn 25 begins
+2018-02-21 19:38:31,107 INFO steve command: reload
+2018-02-21 19:38:31,107 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,107 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,107 INFO Turn 26 begins
+2018-02-21 19:38:31,107 INFO bob command: dodge
+2018-02-21 19:38:31,107 INFO steve command: dodge
+2018-02-21 19:38:31,107 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,108 INFO Turn 27 begins
+2018-02-21 19:38:31,108 INFO bob command: dodge
+2018-02-21 19:38:31,108 INFO steve command: dodge
+2018-02-21 19:38:31,108 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,108 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,108 INFO Turn 28 begins
+2018-02-21 19:38:31,109 INFO steve command: dodge
+2018-02-21 19:38:31,109 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,109 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,109 INFO Turn 29 begins
+2018-02-21 19:38:31,109 INFO bob command: shoot
+2018-02-21 19:38:31,109 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,110 INFO Turn 30 begins
+2018-02-21 19:38:31,110 INFO bob command: dodge
+2018-02-21 19:38:31,110 INFO steve command: dodge
+2018-02-21 19:38:31,110 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,110 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,110 INFO Turn 31 begins
+2018-02-21 19:38:31,111 INFO steve command: dodge
+2018-02-21 19:38:31,111 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,111 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,111 INFO Turn 32 begins
+2018-02-21 19:38:31,111 INFO bob command: reload
+2018-02-21 19:38:31,112 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,112 INFO Turn 33 begins
+2018-02-21 19:38:31,112 INFO bob command: dodge
+2018-02-21 19:38:31,112 INFO steve command: dodge
+2018-02-21 19:38:31,112 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,112 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,112 INFO Turn 34 begins
+2018-02-21 19:38:31,113 INFO bob command: dodge
+2018-02-21 19:38:31,113 INFO steve command: dodge
+2018-02-21 19:38:31,113 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,113 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,113 INFO Turn 35 begins
+2018-02-21 19:38:31,113 INFO steve command: shoot
+2018-02-21 19:38:31,113 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,114 INFO Turn 36 begins
+2018-02-21 19:38:31,114 INFO bob command: dodge
+2018-02-21 19:38:31,114 INFO steve command: dodge
+2018-02-21 19:38:31,114 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,114 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,114 INFO Turn 37 begins
+2018-02-21 19:38:31,115 INFO bob command: dodge
+2018-02-21 19:38:31,115 INFO steve command: dodge
+2018-02-21 19:38:31,115 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,115 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,115 INFO Turn 38 begins
+2018-02-21 19:38:31,116 INFO steve command: dodge
+2018-02-21 19:38:31,116 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,116 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,116 INFO Turn 39 begins
+2018-02-21 19:38:31,116 INFO bob command: shoot
+2018-02-21 19:38:31,116 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,117 INFO Turn 40 begins
+2018-02-21 19:38:31,117 INFO bob command: dodge
+2018-02-21 19:38:31,117 INFO steve command: dodge
+2018-02-21 19:38:31,117 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,117 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,117 INFO Turn 41 begins
+2018-02-21 19:38:31,118 INFO Turn 42 begins
+2018-02-21 19:38:31,118 INFO bob command: dodge
+2018-02-21 19:38:31,118 INFO steve command: dodge
+2018-02-21 19:38:31,118 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,118 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,118 INFO Turn 43 begins
+2018-02-21 19:38:31,119 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,119 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,119 INFO Turn 44 begins
+2018-02-21 19:38:31,120 INFO bob command: dodge
+2018-02-21 19:38:31,120 INFO steve command: reload
+2018-02-21 19:38:31,120 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,120 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,120 INFO Turn 45 begins
+2018-02-21 19:38:31,120 INFO steve command: dodge
+2018-02-21 19:38:31,121 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,121 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,121 INFO Turn 46 begins
+2018-02-21 19:38:31,121 INFO bob command: dodge
+2018-02-21 19:38:31,121 INFO steve command: dodge
+2018-02-21 19:38:31,121 INFO Turn 47 begins
+2018-02-21 19:38:31,122 INFO bob command: dodge
+2018-02-21 19:38:31,122 INFO steve command: dodge
+2018-02-21 19:38:31,122 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,122 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,122 INFO Turn 48 begins
+2018-02-21 19:38:31,122 INFO bob command: reload
+2018-02-21 19:38:31,123 INFO steve command: dodge
+2018-02-21 19:38:31,123 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,123 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,123 INFO Turn 49 begins
+2018-02-21 19:38:31,123 INFO bob command: shoot
+2018-02-21 19:38:31,124 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,124 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,124 INFO Turn 50 begins
+2018-02-21 19:38:31,124 INFO bob command: dodge
+2018-02-21 19:38:31,124 INFO steve command: dodge
+2018-02-21 19:38:31,125 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,125 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,125 INFO Turn 51 begins
+2018-02-21 19:38:31,125 INFO bob command: dodge
+2018-02-21 19:38:31,125 INFO steve command: dodge
+2018-02-21 19:38:31,125 INFO Turn 52 begins
+2018-02-21 19:38:31,126 INFO bob command: dodge
+2018-02-21 19:38:31,126 INFO steve command: shoot
+2018-02-21 19:38:31,126 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,126 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,126 INFO Turn 53 begins
+2018-02-21 19:38:31,126 INFO steve command: dodge
+2018-02-21 19:38:31,127 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,127 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,127 INFO Turn 54 begins
+2018-02-21 19:38:31,127 INFO bob command: dodge
+2018-02-21 19:38:31,127 INFO steve command: dodge
+2018-02-21 19:38:31,128 INFO Turn 55 begins
+2018-02-21 19:38:31,128 INFO bob command: dodge
+2018-02-21 19:38:31,128 INFO steve command: dodge
+2018-02-21 19:38:31,128 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,129 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,129 INFO Turn 56 begins
+2018-02-21 19:38:31,129 INFO bob command: dodge
+2018-02-21 19:38:31,130 INFO steve command: dodge
+2018-02-21 19:38:31,130 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,130 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,130 INFO Turn 57 begins
+2018-02-21 19:38:31,130 INFO bob command: dodge
+2018-02-21 19:38:31,131 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,131 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,131 INFO Turn 58 begins
+2018-02-21 19:38:31,132 INFO bob command: dodge
+2018-02-21 19:38:31,132 INFO steve command: dodge
+2018-02-21 19:38:31,132 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,132 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,132 INFO Turn 59 begins
+2018-02-21 19:38:31,132 INFO bob command: reload
+2018-02-21 19:38:31,132 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,133 INFO Turn 60 begins
+2018-02-21 19:38:31,133 INFO bob command: dodge
+2018-02-21 19:38:31,133 INFO steve command: dodge
+2018-02-21 19:38:31,133 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,133 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,133 INFO Turn 61 begins
+2018-02-21 19:38:31,134 INFO bob command: dodge
+2018-02-21 19:38:31,134 INFO steve command: dodge
+2018-02-21 19:38:31,134 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,134 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,134 INFO Turn 62 begins
+2018-02-21 19:38:31,135 INFO Turn 63 begins
+2018-02-21 19:38:31,135 INFO bob command: dodge
+2018-02-21 19:38:31,135 INFO steve command: dodge
+2018-02-21 19:38:31,135 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,135 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,135 INFO Turn 64 begins
+2018-02-21 19:38:31,136 INFO steve command: reload
+2018-02-21 19:38:31,136 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,136 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,136 INFO Turn 65 begins
+2018-02-21 19:38:31,136 INFO bob command: dodge
+2018-02-21 19:38:31,136 INFO steve command: dodge
+2018-02-21 19:38:31,136 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,137 INFO Turn 66 begins
+2018-02-21 19:38:31,137 INFO bob command: shoot
+2018-02-21 19:38:31,137 INFO steve command: dodge
+2018-02-21 19:38:31,137 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,137 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,137 INFO Turn 67 begins
+2018-02-21 19:38:31,137 INFO bob command: reload
+2018-02-21 19:38:31,138 INFO steve command: dodge
+2018-02-21 19:38:31,138 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,138 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,138 INFO Turn 68 begins
+2018-02-21 19:38:31,138 INFO bob command: dodge
+2018-02-21 19:38:31,138 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,138 INFO Turn 69 begins
+2018-02-21 19:38:31,139 INFO bob command: dodge
+2018-02-21 19:38:31,139 INFO steve command: dodge
+2018-02-21 19:38:31,139 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,139 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,139 INFO Turn 70 begins
+2018-02-21 19:38:31,140 INFO bob command: dodge
+2018-02-21 19:38:31,140 INFO steve command: shoot
+2018-02-21 19:38:31,140 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,140 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,140 INFO Turn 71 begins
+2018-02-21 19:38:31,140 INFO steve command: dodge
+2018-02-21 19:38:31,140 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,141 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,141 INFO Turn 72 begins
+2018-02-21 19:38:31,141 INFO bob command: dodge
+2018-02-21 19:38:31,141 INFO steve command: dodge
+2018-02-21 19:38:31,141 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,141 INFO Turn 73 begins
+2018-02-21 19:38:31,142 INFO bob command: dodge
+2018-02-21 19:38:31,142 INFO steve command: reload
+2018-02-21 19:38:31,142 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,142 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,142 INFO Turn 74 begins
+2018-02-21 19:38:31,142 INFO steve command: dodge
+2018-02-21 19:38:31,143 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,143 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,143 INFO Turn 75 begins
+2018-02-21 19:38:31,143 INFO bob command: shoot
+2018-02-21 19:38:31,143 INFO steve command: dodge
+2018-02-21 19:38:31,143 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,143 INFO Turn 76 begins
+2018-02-21 19:38:31,144 INFO bob command: dodge
+2018-02-21 19:38:31,144 INFO steve command: dodge
+2018-02-21 19:38:31,144 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,145 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,145 INFO Turn 77 begins
+2018-02-21 19:38:31,145 INFO bob command: dodge
+2018-02-21 19:38:31,145 INFO steve command: dodge
+2018-02-21 19:38:31,146 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,146 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,146 INFO Turn 78 begins
+2018-02-21 19:38:31,146 INFO bob command: dodge
+2018-02-21 19:38:31,146 INFO steve command: dodge
+2018-02-21 19:38:31,146 INFO Turn 79 begins
+2018-02-21 19:38:31,147 INFO bob command: reload
+2018-02-21 19:38:31,147 INFO steve command: dodge
+2018-02-21 19:38:31,147 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,147 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,147 INFO Turn 80 begins
+2018-02-21 19:38:31,147 INFO bob command: dodge
+2018-02-21 19:38:31,148 INFO steve command: dodge
+2018-02-21 19:38:31,148 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,148 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,148 INFO Turn 81 begins
+2018-02-21 19:38:31,148 INFO bob command: dodge
+2018-02-21 19:38:31,149 INFO Turn 82 begins
+2018-02-21 19:38:31,149 INFO bob command: dodge
+2018-02-21 19:38:31,149 INFO steve command: dodge
+2018-02-21 19:38:31,149 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,149 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,149 INFO Turn 83 begins
+2018-02-21 19:38:31,149 INFO steve command: shoot
+2018-02-21 19:38:31,150 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:38:31,150 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,150 INFO Turn 84 begins
+2018-02-21 19:38:31,150 INFO bob command: dodge
+2018-02-21 19:38:31,150 INFO steve command: dodge
+2018-02-21 19:38:31,150 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,150 INFO Turn 85 begins
+2018-02-21 19:38:31,151 INFO bob command: shoot
+2018-02-21 19:38:31,151 INFO steve command: dodge
+2018-02-21 19:38:31,151 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,151 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,151 INFO Turn 86 begins
+2018-02-21 19:38:31,151 INFO bob command: dodge
+2018-02-21 19:38:31,152 INFO steve command: dodge
+2018-02-21 19:38:31,152 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,152 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,152 INFO Turn 87 begins
+2018-02-21 19:38:31,152 INFO bob command: dodge
+2018-02-21 19:38:31,152 INFO Turn 88 begins
+2018-02-21 19:38:31,153 INFO bob command: dodge
+2018-02-21 19:38:31,153 INFO steve command: dodge
+2018-02-21 19:38:31,153 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,153 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,153 INFO Turn 89 begins
+2018-02-21 19:38:31,154 INFO steve command: dodge
+2018-02-21 19:38:31,154 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,154 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,154 INFO Turn 90 begins
+2018-02-21 19:38:31,154 INFO bob command: dodge
+2018-02-21 19:38:31,154 INFO Turn 91 begins
+2018-02-21 19:38:31,155 INFO bob command: dodge
+2018-02-21 19:38:31,155 INFO steve command: dodge
+2018-02-21 19:38:31,155 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,155 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,155 INFO Turn 92 begins
+2018-02-21 19:38:31,156 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,156 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,156 INFO Turn 93 begins
+2018-02-21 19:38:31,156 INFO bob command: dodge
+2018-02-21 19:38:31,156 INFO steve command: dodge
+2018-02-21 19:38:31,156 INFO Turn 94 begins
+2018-02-21 19:38:31,157 INFO bob command: reload
+2018-02-21 19:38:31,157 INFO steve command: reload
+2018-02-21 19:38:31,157 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:38:31,157 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:38:31,157 INFO Turn 95 begins
+2018-02-21 19:38:31,157 INFO bob command: dodge
+2018-02-21 19:38:31,157 INFO steve command: dodge
+2018-02-21 19:38:31,158 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,158 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,158 INFO Turn 96 begins
+2018-02-21 19:38:31,158 INFO bob command: dodge
+2018-02-21 19:38:31,158 INFO steve command: dodge
+2018-02-21 19:38:31,158 INFO Turn 97 begins
+2018-02-21 19:38:31,159 INFO bob command: dodge
+2018-02-21 19:38:31,159 INFO steve command: dodge
+2018-02-21 19:38:31,159 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,159 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,159 INFO Turn 98 begins
+2018-02-21 19:38:31,160 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,160 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,160 INFO Turn 99 begins
+2018-02-21 19:38:31,160 INFO bob command: shoot
+2018-02-21 19:38:31,160 INFO steve command: dodge
+2018-02-21 19:38:31,160 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:38:31,160 INFO Turn 100 begins
+2018-02-21 19:38:31,161 INFO bob command: dodge
+2018-02-21 19:38:31,161 INFO steve command: dodge
+2018-02-21 19:38:31,161 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:38:31,161 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:38:31,161 INFO bob dodged 83 times
+2018-02-21 19:38:31,161 INFO steve dodged 88 times
+2018-02-21 19:38:31,161 INFO Killing bob
+2018-02-21 19:38:31,161 INFO bob exit code: None
+2018-02-21 19:38:31,162 INFO Killing steve
+2018-02-21 19:38:31,162 INFO steve exit code: None
+2018-02-21 19:49:27,231 INFO Starting new showdown: bob vs steve
+2018-02-21 19:49:27,233 INFO Turn 1 begins
+2018-02-21 19:49:27,233 INFO bob command: reload
+2018-02-21 19:49:27,234 INFO steve command: reload
+2018-02-21 19:49:27,234 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:49:27,234 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:49:27,234 INFO Turn 2 begins
+2018-02-21 19:49:27,234 INFO bob command: dodge
+2018-02-21 19:49:27,235 INFO steve command: shoot
+2018-02-21 19:49:27,235 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:49:27,235 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:27,235 INFO Turn 3 begins
+2018-02-21 19:49:27,235 INFO bob command: dodge
+2018-02-21 19:49:27,236 INFO Turn 4 begins
+2018-02-21 19:49:27,236 INFO bob command: dodge
+2018-02-21 19:49:27,236 INFO steve shot but without bullets
+2018-02-21 19:49:27,236 DEBUG Telling bob that opponent did: shoot_no_bullet
+2018-02-21 19:49:27,236 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:27,236 INFO Turn 5 begins
+2018-02-21 19:49:27,236 INFO bob command: shoot
+2018-02-21 19:49:27,236 INFO steve command: reload
+2018-02-21 19:49:27,237 INFO bob shoots steve
+2018-02-21 19:49:27,237 INFO Killing bob
+2018-02-21 19:49:27,237 INFO bob exit code: None
+2018-02-21 19:49:27,237 INFO Killing steve
+2018-02-21 19:49:27,237 INFO steve exit code: None
+2018-02-21 19:49:39,881 INFO Starting new showdown: bob vs steve
+2018-02-21 19:49:39,883 INFO Turn 1 begins
+2018-02-21 19:49:39,883 INFO bob command: reload
+2018-02-21 19:49:39,883 INFO steve command: dodge
+2018-02-21 19:49:39,883 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:49:39,883 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:49:39,883 INFO Turn 2 begins
+2018-02-21 19:49:39,884 INFO bob command: shoot
+2018-02-21 19:49:39,884 INFO steve command: reload
+2018-02-21 19:49:39,884 INFO bob shoots steve
+2018-02-21 19:49:39,884 INFO Killing bob
+2018-02-21 19:49:39,885 INFO bob exit code: None
+2018-02-21 19:49:39,885 INFO Killing steve
+2018-02-21 19:49:39,885 INFO steve exit code: None
+2018-02-21 19:49:50,662 INFO Starting new showdown: bob vs steve
+2018-02-21 19:49:50,664 INFO Turn 1 begins
+2018-02-21 19:49:50,664 INFO bob command: reload
+2018-02-21 19:49:50,664 INFO steve command: reload
+2018-02-21 19:49:50,664 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:49:50,664 DEBUG Telling steve that opponent did: reload
+2018-02-21 19:49:50,664 INFO Turn 2 begins
+2018-02-21 19:49:50,665 INFO bob command: dodge
+2018-02-21 19:49:50,665 INFO steve command: shoot
+2018-02-21 19:49:50,665 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:49:50,665 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:50,665 INFO Turn 3 begins
+2018-02-21 19:49:50,666 INFO bob command: dodge
+2018-02-21 19:49:50,666 INFO steve command: reload
+2018-02-21 19:49:50,666 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:49:50,666 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:50,666 INFO Turn 4 begins
+2018-02-21 19:49:50,666 INFO steve command: shoot
+2018-02-21 19:49:50,666 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:49:50,666 INFO Turn 5 begins
+2018-02-21 19:49:50,667 INFO bob command: dodge
+2018-02-21 19:49:50,667 INFO steve command: dodge
+2018-02-21 19:49:50,667 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:49:50,667 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:50,667 INFO Turn 6 begins
+2018-02-21 19:49:50,667 INFO bob command: shoot
+2018-02-21 19:49:50,667 INFO steve command: shoot
+2018-02-21 19:49:50,667 DEBUG Telling bob that opponent did: shoot
+2018-02-21 19:49:50,667 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:49:50,668 INFO Turn 7 begins
+2018-02-21 19:49:50,668 INFO bob command: shoot
+2018-02-21 19:49:50,668 INFO steve command: dodge
+2018-02-21 19:49:50,668 DEBUG Telling bob that opponent did: dodge
+2018-02-21 19:49:50,668 DEBUG Telling steve that opponent did: shoot
+2018-02-21 19:49:50,668 INFO Turn 8 begins
+2018-02-21 19:49:50,668 INFO bob command: dodge
+2018-02-21 19:49:50,668 INFO steve command: reload
+2018-02-21 19:49:50,669 DEBUG Telling bob that opponent did: reload
+2018-02-21 19:49:50,669 DEBUG Telling steve that opponent did: dodge
+2018-02-21 19:49:50,669 INFO Turn 9 begins
+2018-02-21 19:49:50,669 INFO bob command: reload
+2018-02-21 19:49:50,669 INFO steve command: shoot
+2018-02-21 19:49:50,669 INFO steve shoots bob
+2018-02-21 19:49:50,669 INFO Killing bob
+2018-02-21 19:49:50,669 INFO bob exit code: None
+2018-02-21 19:49:50,670 INFO Killing steve
+2018-02-21 19:49:50,670 INFO steve exit code: None
+2018-02-21 20:07:59,977 INFO Starting new showdown: bob vs steve
+2018-02-21 20:07:59,987 INFO Turn 1 begins
+2018-02-21 20:07:59,987 INFO bob command: shoot
+2018-02-21 20:07:59,987 INFO steve command: reload
+2018-02-21 20:07:59,987 INFO bob shoots steve
+2018-02-21 20:07:59,987 INFO Killing bob
+2018-02-21 20:07:59,988 INFO bob exit code: None
+2018-02-21 20:07:59,988 INFO Killing steve
+2018-02-21 20:07:59,988 INFO steve exit code: None
+2018-02-21 20:08:06,100 INFO Starting new showdown: bob vs steve
+2018-02-21 20:08:06,101 INFO Turn 1 begins
+2018-02-21 20:08:06,101 INFO bob command: dodge
+2018-02-21 20:08:06,102 INFO steve command: reload
+2018-02-21 20:08:06,102 DEBUG Telling bob that opponent did: reload
+2018-02-21 20:08:06,102 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:08:06,102 INFO Turn 2 begins
+2018-02-21 20:08:06,102 INFO bob command: shoot
+2018-02-21 20:08:06,103 INFO steve command: shoot
+2018-02-21 20:08:06,103 DEBUG Telling bob that opponent did: shoot
+2018-02-21 20:08:06,103 DEBUG Telling steve that opponent did: shoot
+2018-02-21 20:08:06,103 INFO Turn 3 begins
+2018-02-21 20:08:06,103 INFO bob command: dodge
+2018-02-21 20:08:06,103 INFO steve command: dodge
+2018-02-21 20:08:06,104 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:08:06,104 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:08:06,104 INFO Turn 4 begins
+2018-02-21 20:08:06,104 INFO bob shot but without bullets
+2018-02-21 20:08:06,104 INFO steve command: shoot
+2018-02-21 20:08:06,104 INFO steve shoots bob
+2018-02-21 20:08:06,104 INFO Killing bob
+2018-02-21 20:08:06,104 INFO bob exit code: None
+2018-02-21 20:08:06,105 INFO Killing steve
+2018-02-21 20:08:06,105 INFO steve exit code: None
+2018-02-21 20:09:43,015 INFO Starting new showdown: bob vs steve
+2018-02-21 20:09:43,017 INFO Turn 1 begins
+2018-02-21 20:09:43,017 INFO bob command: dodge
+2018-02-21 20:09:43,017 INFO steve command: shoot
+2018-02-21 20:09:43,017 DEBUG Telling bob that opponent did: shoot
+2018-02-21 20:09:43,017 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,017 INFO Turn 2 begins
+2018-02-21 20:09:43,018 INFO bob command: dodge
+2018-02-21 20:09:43,018 INFO steve command: dodge
+2018-02-21 20:09:43,018 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,018 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,018 INFO Turn 3 begins
+2018-02-21 20:09:43,019 INFO bob command: shoot
+2018-02-21 20:09:43,019 INFO steve command: dodge
+2018-02-21 20:09:43,019 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,019 DEBUG Telling steve that opponent did: shoot
+2018-02-21 20:09:43,019 INFO Turn 4 begins
+2018-02-21 20:09:43,019 INFO bob command: dodge
+2018-02-21 20:09:43,019 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,020 INFO Turn 5 begins
+2018-02-21 20:09:43,020 INFO bob command: dodge
+2018-02-21 20:09:43,020 INFO steve shot but without bullets
+2018-02-21 20:09:43,020 DEBUG Telling bob that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,020 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,020 INFO Turn 6 begins
+2018-02-21 20:09:43,020 INFO bob command: reload
+2018-02-21 20:09:43,020 INFO steve command: dodge
+2018-02-21 20:09:43,020 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,021 DEBUG Telling steve that opponent did: reload
+2018-02-21 20:09:43,021 INFO Turn 7 begins
+2018-02-21 20:09:43,021 INFO bob command: shoot
+2018-02-21 20:09:43,021 INFO steve command: dodge
+2018-02-21 20:09:43,021 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,021 DEBUG Telling steve that opponent did: shoot
+2018-02-21 20:09:43,021 INFO Turn 8 begins
+2018-02-21 20:09:43,021 INFO bob shot but without bullets
+2018-02-21 20:09:43,022 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,022 DEBUG Telling steve that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,022 INFO Turn 9 begins
+2018-02-21 20:09:43,022 INFO bob shot but without bullets
+2018-02-21 20:09:43,022 INFO steve command: dodge
+2018-02-21 20:09:43,022 INFO Turn 10 begins
+2018-02-21 20:09:43,023 INFO steve command: reload
+2018-02-21 20:09:43,023 DEBUG Telling bob that opponent did: reload
+2018-02-21 20:09:43,023 DEBUG Telling steve that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,023 INFO Turn 11 begins
+2018-02-21 20:09:43,023 INFO bob shot but without bullets
+2018-02-21 20:09:43,023 INFO Turn 12 begins
+2018-02-21 20:09:43,024 INFO bob command: dodge
+2018-02-21 20:09:43,024 INFO steve command: dodge
+2018-02-21 20:09:43,024 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,024 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,024 INFO Turn 13 begins
+2018-02-21 20:09:43,024 INFO bob shot but without bullets
+2018-02-21 20:09:43,024 DEBUG Telling steve that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,024 INFO Turn 14 begins
+2018-02-21 20:09:43,025 INFO bob command: dodge
+2018-02-21 20:09:43,025 INFO steve command: shoot
+2018-02-21 20:09:43,025 DEBUG Telling bob that opponent did: shoot
+2018-02-21 20:09:43,025 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,025 INFO Turn 15 begins
+2018-02-21 20:09:43,025 INFO bob command: reload
+2018-02-21 20:09:43,025 INFO steve command: reload
+2018-02-21 20:09:43,025 DEBUG Telling bob that opponent did: reload
+2018-02-21 20:09:43,025 DEBUG Telling steve that opponent did: reload
+2018-02-21 20:09:43,026 INFO Turn 16 begins
+2018-02-21 20:09:43,026 INFO bob command: shoot
+2018-02-21 20:09:43,026 INFO steve command: shoot
+2018-02-21 20:09:43,026 DEBUG Telling bob that opponent did: shoot
+2018-02-21 20:09:43,026 DEBUG Telling steve that opponent did: shoot
+2018-02-21 20:09:43,026 INFO Turn 17 begins
+2018-02-21 20:09:43,026 INFO bob command: dodge
+2018-02-21 20:09:43,026 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,027 INFO Turn 18 begins
+2018-02-21 20:09:43,027 INFO bob shot but without bullets
+2018-02-21 20:09:43,027 INFO steve command: dodge
+2018-02-21 20:09:43,027 DEBUG Telling bob that opponent did: dodge
+2018-02-21 20:09:43,027 DEBUG Telling steve that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,027 INFO Turn 19 begins
+2018-02-21 20:09:43,028 DEBUG Telling steve that opponent did: shoot_no_bullet
+2018-02-21 20:09:43,028 INFO Turn 20 begins
+2018-02-21 20:09:43,028 INFO bob command: dodge
+2018-02-21 20:09:43,028 INFO steve command: reload
+2018-02-21 20:09:43,028 DEBUG Telling bob that opponent did: reload
+2018-02-21 20:09:43,028 DEBUG Telling steve that opponent did: dodge
+2018-02-21 20:09:43,028 INFO Turn 21 begins
+2018-02-21 20:09:43,028 INFO bob command: reload
+2018-02-21 20:09:43,028 INFO steve command: shoot
+2018-02-21 20:09:43,029 INFO steve shoots bob
+2018-02-21 20:09:43,029 INFO Killing bob
+2018-02-21 20:09:43,029 INFO bob exit code: None
+2018-02-21 20:09:43,029 INFO Killing steve
+2018-02-21 20:09:43,029 INFO steve exit code: None

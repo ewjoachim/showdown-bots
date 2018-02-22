@@ -1,0 +1,860 @@
+2018-02-21 21:57:53,910 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:53,911 INFO Turn 1 begins
+2018-02-21 21:57:53,924 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:53,925 INFO Turn 1 begins
+2018-02-21 21:57:54,912 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:54,913 INFO Melissa command: dodge
+2018-02-21 21:57:54,914 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:54,915 INFO Killing Matthieu
+2018-02-21 21:57:54,916 INFO Matthieu exit code: None
+2018-02-21 21:57:54,916 INFO Killing Melissa
+2018-02-21 21:57:54,917 INFO Melissa exit code: None
+2018-02-21 21:57:54,927 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:54,928 INFO Melissa command: dodge
+2018-02-21 21:57:54,928 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:54,929 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:54,930 INFO Killing Matthieu
+2018-02-21 21:57:54,931 INFO Matthieu exit code: None
+2018-02-21 21:57:54,931 INFO Killing Melissa
+2018-02-21 21:57:54,932 INFO Melissa exit code: None
+2018-02-21 21:57:55,127 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:55,128 INFO Turn 1 begins
+2018-02-21 21:57:55,143 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:55,145 INFO Turn 1 begins
+2018-02-21 21:57:55,145 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:55,146 INFO Turn 1 begins
+2018-02-21 21:57:56,129 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:56,131 INFO Melissa command: dodge
+2018-02-21 21:57:56,132 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:56,133 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:56,133 INFO Killing Matthieu
+2018-02-21 21:57:56,134 INFO Matthieu exit code: None
+2018-02-21 21:57:56,135 INFO Killing Melissa
+2018-02-21 21:57:56,136 INFO Melissa exit code: None
+2018-02-21 21:57:56,147 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:56,148 INFO Melissa command: dodge
+2018-02-21 21:57:56,149 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:56,150 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:56,151 INFO Killing Matthieu
+2018-02-21 21:57:56,152 INFO Matthieu exit code: None
+2018-02-21 21:57:56,152 INFO Killing Melissa
+2018-02-21 21:57:56,153 INFO Melissa exit code: None
+2018-02-21 21:57:56,345 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:56,347 INFO Turn 1 begins
+2018-02-21 21:57:56,364 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:56,366 INFO Turn 1 begins
+2018-02-21 21:57:56,367 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:56,369 INFO Turn 1 begins
+2018-02-21 21:57:57,350 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:57,351 INFO Melissa command: dodge
+2018-02-21 21:57:57,352 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:57,353 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:57,354 INFO Killing Matthieu
+2018-02-21 21:57:57,355 INFO Matthieu exit code: None
+2018-02-21 21:57:57,356 INFO Killing Melissa
+2018-02-21 21:57:57,357 INFO Melissa exit code: None
+2018-02-21 21:57:57,368 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:57,369 INFO Melissa command: dodge
+2018-02-21 21:57:57,370 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:57,371 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:57,371 INFO Killing Matthieu
+2018-02-21 21:57:57,372 INFO Melissa command: dodge
+2018-02-21 21:57:57,372 INFO Matthieu exit code: None
+2018-02-21 21:57:57,373 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:57,373 INFO Killing Melissa
+2018-02-21 21:57:57,374 INFO Melissa exit code: None
+2018-02-21 21:57:57,375 INFO Killing Matthieu
+2018-02-21 21:57:57,376 INFO Matthieu exit code: None
+2018-02-21 21:57:57,377 INFO Killing Melissa
+2018-02-21 21:57:57,378 INFO Melissa exit code: None
+2018-02-21 21:57:57,567 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:57,569 INFO Turn 1 begins
+2018-02-21 21:57:57,583 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:57,585 INFO Turn 1 begins
+2018-02-21 21:57:57,587 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:57,589 INFO Turn 1 begins
+2018-02-21 21:57:58,572 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:58,574 INFO Melissa command: dodge
+2018-02-21 21:57:58,575 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,577 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,578 INFO Killing Matthieu
+2018-02-21 21:57:58,579 INFO Matthieu exit code: None
+2018-02-21 21:57:58,581 INFO Killing Melissa
+2018-02-21 21:57:58,582 INFO Melissa exit code: None
+2018-02-21 21:57:58,587 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:58,589 INFO Melissa command: dodge
+2018-02-21 21:57:58,590 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,591 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:58,592 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,592 INFO Melissa command: dodge
+2018-02-21 21:57:58,593 INFO Killing Matthieu
+2018-02-21 21:57:58,593 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,594 INFO Matthieu exit code: None
+2018-02-21 21:57:58,594 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:58,595 INFO Killing Melissa
+2018-02-21 21:57:58,595 INFO Killing Matthieu
+2018-02-21 21:57:58,596 INFO Melissa exit code: None
+2018-02-21 21:57:58,597 INFO Matthieu exit code: None
+2018-02-21 21:57:58,598 INFO Killing Melissa
+2018-02-21 21:57:58,600 INFO Melissa exit code: None
+2018-02-21 21:57:58,792 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:58,794 INFO Turn 1 begins
+2018-02-21 21:57:58,795 INFO Turn 1 begins
+2018-02-21 21:57:58,805 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:58,807 INFO Turn 1 begins
+2018-02-21 21:57:58,810 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:57:58,812 INFO Turn 1 begins
+2018-02-21 21:57:59,798 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:59,800 INFO Melissa command: dodge
+2018-02-21 21:57:59,802 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,804 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,805 INFO Killing Matthieu
+2018-02-21 21:57:59,807 INFO Matthieu exit code: None
+2018-02-21 21:57:59,808 INFO Killing Melissa
+2018-02-21 21:57:59,808 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:59,810 INFO Melissa exit code: None
+2018-02-21 21:57:59,811 INFO Melissa command: dodge
+2018-02-21 21:57:59,813 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:57:59,813 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,815 INFO Melissa command: dodge
+2018-02-21 21:57:59,816 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,818 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,818 INFO Killing Matthieu
+2018-02-21 21:57:59,820 INFO Matthieu takes too long to answer.
+2018-02-21 21:57:59,821 INFO Matthieu exit code: None
+2018-02-21 21:57:59,822 INFO Killing Matthieu
+2018-02-21 21:57:59,823 INFO Killing Melissa
+2018-02-21 21:57:59,824 INFO Matthieu exit code: None
+2018-02-21 21:57:59,825 INFO Melissa exit code: None
+2018-02-21 21:57:59,826 INFO Killing Melissa
+2018-02-21 21:57:59,827 INFO Melissa exit code: None
+2018-02-21 21:58:00,023 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:00,024 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:00,026 INFO Turn 1 begins
+2018-02-21 21:58:00,027 INFO Turn 1 begins
+2018-02-21 21:58:00,037 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:00,039 INFO Turn 1 begins
+2018-02-21 21:58:00,041 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:00,043 INFO Turn 1 begins
+2018-02-21 21:58:01,029 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:01,030 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:01,031 INFO Melissa command: dodge
+2018-02-21 21:58:01,032 INFO Melissa command: dodge
+2018-02-21 21:58:01,033 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,034 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,035 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,037 INFO Killing Matthieu
+2018-02-21 21:58:01,038 INFO Matthieu exit code: None
+2018-02-21 21:58:01,039 INFO Matthieu exit code: None
+2018-02-21 21:58:01,040 INFO Killing Melissa
+2018-02-21 21:58:01,041 INFO Killing Melissa
+2018-02-21 21:58:01,042 INFO Melissa exit code: None
+2018-02-21 21:58:01,042 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:01,045 INFO Melissa command: dodge
+2018-02-21 21:58:01,045 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:01,047 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,048 INFO Melissa command: dodge
+2018-02-21 21:58:01,050 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,052 INFO Killing Matthieu
+2018-02-21 21:58:01,052 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:01,053 INFO Matthieu exit code: None
+2018-02-21 21:58:01,054 INFO Killing Matthieu
+2018-02-21 21:58:01,055 INFO Killing Melissa
+2018-02-21 21:58:01,056 INFO Matthieu exit code: None
+2018-02-21 21:58:01,057 INFO Melissa exit code: None
+2018-02-21 21:58:01,057 INFO Killing Melissa
+2018-02-21 21:58:01,059 INFO Melissa exit code: None
+2018-02-21 21:58:01,256 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:01,260 INFO Turn 1 begins
+2018-02-21 21:58:01,259 INFO Turn 1 begins
+2018-02-21 21:58:01,268 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:01,271 INFO Turn 1 begins
+2018-02-21 21:58:01,277 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:01,279 INFO Turn 1 begins
+2018-02-21 21:58:02,263 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:02,267 INFO Melissa command: dodge
+2018-02-21 21:58:02,269 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,271 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,273 INFO Killing Matthieu
+2018-02-21 21:58:02,273 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:02,275 INFO Matthieu exit code: None
+2018-02-21 21:58:02,276 INFO Melissa command: dodge
+2018-02-21 21:58:02,276 INFO Matthieu exit code: None
+2018-02-21 21:58:02,278 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,278 INFO Killing Melissa
+2018-02-21 21:58:02,280 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,280 INFO Melissa exit code: None
+2018-02-21 21:58:02,281 INFO Melissa exit code: None
+2018-02-21 21:58:02,281 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:02,282 INFO Killing Matthieu
+2018-02-21 21:58:02,284 INFO Melissa command: dodge
+2018-02-21 21:58:02,285 INFO Matthieu exit code: None
+2018-02-21 21:58:02,287 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,288 INFO Killing Melissa
+2018-02-21 21:58:02,289 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:02,290 INFO Melissa exit code: None
+2018-02-21 21:58:02,291 INFO Killing Matthieu
+2018-02-21 21:58:02,293 INFO Matthieu exit code: None
+2018-02-21 21:58:02,296 INFO Killing Melissa
+2018-02-21 21:58:02,299 INFO Melissa exit code: None
+2018-02-21 21:58:02,493 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:02,496 INFO Turn 1 begins
+2018-02-21 21:58:02,500 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:02,503 INFO Turn 1 begins
+2018-02-21 21:58:02,503 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:02,506 INFO Turn 1 begins
+2018-02-21 21:58:02,510 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:02,512 INFO Turn 1 begins
+2018-02-21 21:58:03,500 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:03,504 INFO Melissa command: dodge
+2018-02-21 21:58:03,506 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,506 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:03,508 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,509 INFO Melissa command: dodge
+2018-02-21 21:58:03,509 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:03,511 INFO Killing Matthieu
+2018-02-21 21:58:03,512 INFO Melissa command: dodge
+2018-02-21 21:58:03,512 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,514 INFO Matthieu exit code: None
+2018-02-21 21:58:03,515 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:03,515 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,517 INFO Killing Melissa
+2018-02-21 21:58:03,518 INFO Melissa command: dodge
+2018-02-21 21:58:03,518 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,518 INFO Killing Matthieu
+2018-02-21 21:58:03,521 INFO Melissa exit code: None
+2018-02-21 21:58:03,521 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,521 INFO Matthieu exit code: None
+2018-02-21 21:58:03,522 INFO Killing Matthieu
+2018-02-21 21:58:03,524 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:03,525 INFO Killing Melissa
+2018-02-21 21:58:03,526 INFO Matthieu exit code: None
+2018-02-21 21:58:03,527 INFO Killing Matthieu
+2018-02-21 21:58:03,528 INFO Melissa exit code: None
+2018-02-21 21:58:03,530 INFO Killing Melissa
+2018-02-21 21:58:03,531 INFO Matthieu exit code: None
+2018-02-21 21:58:03,533 INFO Melissa exit code: None
+2018-02-21 21:58:03,534 INFO Killing Melissa
+2018-02-21 21:58:03,537 INFO Melissa exit code: None
+2018-02-21 21:58:03,738 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:03,740 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:03,741 INFO Turn 1 begins
+2018-02-21 21:58:03,743 INFO Turn 1 begins
+2018-02-21 21:58:03,745 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:03,747 INFO Turn 1 begins
+2018-02-21 21:58:03,750 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:03,753 INFO Turn 1 begins
+2018-02-21 21:58:04,745 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:04,747 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:04,749 INFO Melissa command: dodge
+2018-02-21 21:58:04,750 INFO Melissa command: dodge
+2018-02-21 21:58:04,751 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:04,752 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,753 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,755 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,755 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:04,755 INFO Melissa command: dodge
+2018-02-21 21:58:04,756 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,759 INFO Killing Matthieu
+2018-02-21 21:58:04,759 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,759 INFO Melissa command: dodge
+2018-02-21 21:58:04,760 INFO Killing Matthieu
+2018-02-21 21:58:04,762 INFO Matthieu exit code: None
+2018-02-21 21:58:04,762 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,764 INFO Matthieu exit code: -13
+2018-02-21 21:58:04,766 INFO Killing Melissa
+2018-02-21 21:58:04,766 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:04,766 INFO Killing Matthieu
+2018-02-21 21:58:04,767 INFO Killing Melissa
+2018-02-21 21:58:04,770 INFO Melissa exit code: None
+2018-02-21 21:58:04,770 INFO Killing Matthieu
+2018-02-21 21:58:04,771 INFO Melissa exit code: None
+2018-02-21 21:58:04,771 INFO Matthieu exit code: -13
+2018-02-21 21:58:04,775 INFO Killing Melissa
+2018-02-21 21:58:04,775 INFO Matthieu exit code: None
+2018-02-21 21:58:04,780 INFO Killing Melissa
+2018-02-21 21:58:04,780 INFO Melissa exit code: None
+2018-02-21 21:58:04,782 INFO Melissa exit code: None
+2018-02-21 21:58:04,986 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:04,987 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:04,990 INFO Turn 1 begins
+2018-02-21 21:58:04,992 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:04,995 INFO Turn 1 begins
+2018-02-21 21:58:05,000 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:05,003 INFO Turn 1 begins
+2018-02-21 21:58:05,994 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:05,998 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:05,998 INFO Melissa command: dodge
+2018-02-21 21:58:06,001 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,002 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,004 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,005 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,006 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:06,006 INFO Melissa command: dodge
+2018-02-21 21:58:06,007 INFO Killing Matthieu
+2018-02-21 21:58:06,008 INFO Killing Matthieu
+2018-02-21 21:58:06,010 INFO Melissa command: dodge
+2018-02-21 21:58:06,010 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,011 INFO Matthieu exit code: None
+2018-02-21 21:58:06,012 INFO Matthieu exit code: None
+2018-02-21 21:58:06,014 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,015 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,016 INFO Killing Melissa
+2018-02-21 21:58:06,018 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:06,019 INFO Killing Matthieu
+2018-02-21 21:58:06,020 INFO Melissa exit code: None
+2018-02-21 21:58:06,022 INFO Melissa exit code: None
+2018-02-21 21:58:06,022 INFO Matthieu exit code: None
+
+2018-02-21 21:58:06,024 INFO Killing Matthieu
+2018-02-21 21:58:06,027 INFO Killing Melissa
+2018-02-21 21:58:06,030 INFO Matthieu exit code: None
+2018-02-21 21:58:06,032 INFO Melissa exit code: None
+2018-02-21 21:58:06,034 INFO Killing Melissa
+2018-02-21 21:58:06,036 INFO Melissa exit code: None
+2018-02-21 21:58:06,235 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:06,238 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:06,239 INFO Turn 1 begins
+2018-02-21 21:58:06,241 INFO Turn 1 begins
+2018-02-21 21:58:06,244 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:06,247 INFO Turn 1 begins
+2018-02-21 21:58:06,255 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:06,260 INFO Turn 1 begins
+2018-02-21 21:58:07,243 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:07,246 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:07,247 INFO Melissa command: dodge
+2018-02-21 21:58:07,249 INFO Melissa command: dodge
+2018-02-21 21:58:07,250 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,251 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:07,252 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,254 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,255 INFO Melissa command: dodge
+2018-02-21 21:58:07,256 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,258 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,259 INFO Killing Matthieu
+2018-02-21 21:58:07,260 INFO Killing Matthieu
+2018-02-21 21:58:07,261 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,263 INFO Matthieu exit code: None
+2018-02-21 21:58:07,263 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:07,264 INFO Killing Matthieu
+2018-02-21 21:58:07,265 INFO Matthieu exit code: None
+2018-02-21 21:58:07,268 INFO Killing Melissa
+2018-02-21 21:58:07,268 INFO Melissa command: dodge
+2018-02-21 21:58:07,268 INFO Matthieu exit code: None
+2018-02-21 21:58:07,269 INFO Killing Melissa
+2018-02-21 21:58:07,272 INFO Melissa exit code: None
+2018-02-21 21:58:07,273 INFO Killing Melissa
+2018-02-21 21:58:07,272 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,274 INFO Melissa exit code: None
+2018-02-21 21:58:07,277 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:07,279 INFO Melissa exit code: None
+2018-02-21 21:58:07,282 INFO Killing Matthieu
+2018-02-21 21:58:07,286 INFO Matthieu exit code: None
+2018-02-21 21:58:07,289 INFO Killing Melissa
+2018-02-21 21:58:07,292 INFO Melissa exit code: None
+2018-02-21 21:58:07,488 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:07,489 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:07,492 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:07,493 INFO Turn 1 begins
+2018-02-21 21:58:07,495 INFO Turn 1 begins
+2018-02-21 21:58:07,498 INFO Turn 1 begins
+2018-02-21 21:58:07,503 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:07,506 INFO Turn 1 begins
+2018-02-21 21:58:08,500 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:08,503 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:08,505 INFO Melissa command: dodge
+2018-02-21 21:58:08,506 INFO Melissa command: dodge
+2018-02-21 21:58:08,508 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,509 INFO Melissa command: dodge
+2018-02-21 21:58:08,509 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:08,512 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,513 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,514 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,515 INFO Melissa command: dodge
+2018-02-21 21:58:08,516 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,517 INFO Killing Matthieu
+2018-02-21 21:58:08,518 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,519 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,521 INFO Killing Matthieu
+2018-02-21 21:58:08,522 INFO Matthieu exit code: None
+2018-02-21 21:58:08,523 INFO Killing Matthieu
+2018-02-21 21:58:08,524 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:08,526 INFO Matthieu exit code: None
+2018-02-21 21:58:08,527 INFO Killing Melissa
+2018-02-21 21:58:08,528 INFO Matthieu exit code: None
+2018-02-21 21:58:08,529 INFO Killing Matthieu
+2018-02-21 21:58:08,531 INFO Killing Melissa
+2018-02-21 21:58:08,532 INFO Melissa exit code: None
+2018-02-21 21:58:08,533 INFO Killing Melissa
+2018-02-21 21:58:08,534 INFO Matthieu exit code: None
+2018-02-21 21:58:08,536 INFO Melissa exit code: None
+2018-02-21 21:58:08,539 INFO Killing Melissa
+2018-02-21 21:58:08,539 INFO Melissa exit code: None
+2018-02-21 21:58:08,544 INFO Melissa exit code: None
+2018-02-21 21:58:08,754 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:08,756 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:08,759 INFO Turn 1 begins
+2018-02-21 21:58:08,762 INFO Turn 1 begins
+2018-02-21 21:58:08,764 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:08,769 INFO Turn 1 begins
+2018-02-21 21:58:09,763 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:09,767 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:09,768 INFO Melissa command: dodge
+2018-02-21 21:58:09,771 INFO Melissa command: dodge
+2018-02-21 21:58:09,772 INFO Melissa command: dodge
+2018-02-21 21:58:09,772 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:09,774 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,776 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,777 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,777 INFO Melissa command: dodge
+2018-02-21 21:58:09,779 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,781 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,783 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,784 INFO Killing Matthieu
+2018-02-21 21:58:09,786 INFO Killing Matthieu
+2018-02-21 21:58:09,788 INFO Killing Matthieu
+2018-02-21 21:58:09,788 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:09,789 INFO Matthieu exit code: None
+2018-02-21 21:58:09,792 INFO Matthieu exit code: None
+2018-02-21 21:58:09,793 INFO Matthieu exit code: None
+2018-02-21 21:58:09,793 INFO Killing Matthieu
+2018-02-21 21:58:09,795 INFO Killing Melissa
+2018-02-21 21:58:09,797 INFO Killing Melissa
+2018-02-21 21:58:09,798 INFO Killing Melissa
+2018-02-21 21:58:09,798 INFO Matthieu exit code: None
+2018-02-21 21:58:09,800 INFO Melissa exit code: None
+2018-02-21 21:58:09,804 INFO Killing Melissa
+2018-02-21 21:58:09,806 INFO Melissa exit code: None
+2018-02-21 21:58:09,807 INFO Melissa exit code: None
+2018-02-21 21:58:09,809 INFO Melissa exit code: None
+2018-02-21 21:58:10,017 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:10,022 INFO Turn 1 begins
+2018-02-21 21:58:10,024 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:10,028 INFO Turn 1 begins
+2018-02-21 21:58:10,029 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:10,034 INFO Turn 1 begins
+2018-02-21 21:58:10,040 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:10,045 INFO Turn 1 begins
+2018-02-21 21:58:11,027 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:11,033 INFO Melissa command: dodge
+2018-02-21 21:58:11,033 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:11,037 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,038 INFO Melissa command: dodge
+2018-02-21 21:58:11,038 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:11,041 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,042 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,044 INFO Melissa command: dodge
+2018-02-21 21:58:11,046 INFO Killing Matthieu
+2018-02-21 21:58:11,046 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,047 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,049 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:11,050 INFO Killing Matthieu
+2018-02-21 21:58:11,051 INFO Matthieu exit code: None
+2018-02-21 21:58:11,053 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,055 INFO Melissa command: dodge
+2018-02-21 21:58:11,056 INFO Matthieu exit code: None
+2018-02-21 21:58:11,057 INFO Killing Melissa
+2018-02-21 21:58:11,058 INFO Killing Matthieu
+2018-02-21 21:58:11,061 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,062 INFO Killing Melissa
+2018-02-21 21:58:11,063 INFO Melissa exit code: None
+2018-02-21 21:58:11,064 INFO Matthieu exit code: None
+2018-02-21 21:58:11,066 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:11,069 INFO Killing Melissa
+2018-02-21 21:58:11,072 INFO Melissa exit code: None
+2018-02-21 21:58:11,073 INFO Killing Matthieu
+2018-02-21 21:58:11,075 INFO Melissa exit code: None
+2018-02-21 21:58:11,081 INFO Matthieu exit code: None
+2018-02-21 21:58:11,086 INFO Killing Melissa
+2018-02-21 21:58:11,090 INFO Melissa exit code: None
+2018-02-21 21:58:11,283 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:11,288 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:11,289 INFO Turn 1 begins
+2018-02-21 21:58:11,294 INFO Turn 1 begins
+2018-02-21 21:58:11,294 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:11,298 INFO Turn 1 begins
+2018-02-21 21:58:11,307 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:11,312 INFO Turn 1 begins
+2018-02-21 21:58:12,295 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:12,298 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:12,300 INFO Melissa command: dodge
+2018-02-21 21:58:12,302 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:12,303 INFO Melissa command: dodge
+2018-02-21 21:58:12,305 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,307 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,309 INFO Melissa command: dodge
+2018-02-21 21:58:12,311 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,313 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,315 INFO Killing Matthieu
+2018-02-21 21:58:12,317 INFO Killing Matthieu
+2018-02-21 21:58:12,318 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:12,318 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,322 INFO Matthieu exit code: -13
+2018-02-21 21:58:12,323 INFO Matthieu exit code: None
+2018-02-21 21:58:12,324 INFO Killing Matthieu
+2018-02-21 21:58:12,324 INFO Melissa command: dodge
+2018-02-21 21:58:12,328 INFO Killing Melissa
+2018-02-21 21:58:12,329 INFO Killing Melissa
+2018-02-21 21:58:12,330 INFO Matthieu exit code: None
+2018-02-21 21:58:12,330 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,336 INFO Killing Melissa
+2018-02-21 21:58:12,336 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:12,339 INFO Melissa exit code: None
+2018-02-21 21:58:12,339 INFO Melissa exit code: 1
+2018-02-21 21:58:12,342 INFO Killing Matthieu
+2018-02-21 21:58:12,342 INFO Melissa exit code: None
+2018-02-21 21:58:12,347 INFO Matthieu exit code: None
+2018-02-21 21:58:12,352 INFO Killing Melissa
+2018-02-21 21:58:12,356 INFO Melissa exit code: None
+2018-02-21 21:58:12,557 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:12,560 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:12,564 INFO Turn 1 begins
+2018-02-21 21:58:12,565 INFO Turn 1 begins
+2018-02-21 21:58:12,567 INFO Turn 1 begins
+2018-02-21 21:58:12,573 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:12,577 INFO Turn 1 begins
+2018-02-21 21:58:13,571 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:13,573 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:13,577 INFO Melissa command: dodge
+2018-02-21 21:58:13,578 INFO Melissa command: dodge
+2018-02-21 21:58:13,579 INFO Melissa command: dodge
+2018-02-21 21:58:13,582 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:13,583 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,585 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,588 INFO Melissa command: dodge
+2018-02-21 21:58:13,589 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,591 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,594 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,595 INFO Killing Matthieu
+2018-02-21 21:58:13,597 INFO Killing Matthieu
+2018-02-21 21:58:13,600 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:13,601 INFO Matthieu exit code: None
+2018-02-21 21:58:13,603 INFO Matthieu exit code: None
+2018-02-21 21:58:13,604 INFO Matthieu exit code: None
+2018-02-21 21:58:13,607 INFO Killing Matthieu
+2018-02-21 21:58:13,608 INFO Killing Melissa
+2018-02-21 21:58:13,609 INFO Killing Melissa
+2018-02-21 21:58:13,610 INFO Killing Melissa
+2018-02-21 21:58:13,613 INFO Matthieu exit code: None
+2018-02-21 21:58:13,614 INFO Melissa exit code: None
+2018-02-21 21:58:13,615 INFO Melissa exit code: None
+2018-02-21 21:58:13,616 INFO Melissa exit code: None
+2018-02-21 21:58:13,622 INFO Killing Melissa
+2018-02-21 21:58:13,629 INFO Melissa exit code: None
+2018-02-21 21:58:13,835 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:13,836 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:13,842 INFO Turn 1 begins
+2018-02-21 21:58:13,843 INFO Turn 1 begins
+2018-02-21 21:58:13,845 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:13,851 INFO Turn 1 begins
+2018-02-21 21:58:14,849 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:14,850 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:14,855 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:14,858 INFO Melissa command: dodge
+2018-02-21 21:58:14,862 INFO Melissa command: dodge
+2018-02-21 21:58:14,865 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:14,869 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:14,871 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:14,872 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:14,875 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:14,878 INFO Killing Matthieu
+2018-02-21 21:58:14,881 INFO Killing Matthieu
+2018-02-21 21:58:14,884 INFO Matthieu exit code: None
+2018-02-21 21:58:14,885 INFO Matthieu exit code: None
+2018-02-21 21:58:14,885 INFO Matthieu exit code: -9
+2018-02-21 21:58:14,888 INFO Matthieu exit code: None
+2018-02-21 21:58:14,891 INFO Killing Melissa
+2018-02-21 21:58:14,892 INFO Killing Melissa
+2018-02-21 21:58:14,895 INFO Killing Melissa
+2018-02-21 21:58:14,897 INFO Melissa exit code: None
+2018-02-21 21:58:14,899 INFO Melissa exit code: None
+2018-02-21 21:58:14,900 INFO Melissa exit code: None
+2018-02-21 21:58:14,902 INFO Melissa exit code: None
+2018-02-21 21:58:15,114 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:15,117 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:15,121 INFO Turn 1 begins
+2018-02-21 21:58:15,121 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:15,123 INFO Turn 1 begins
+2018-02-21 21:58:15,125 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:15,128 INFO Turn 1 begins
+2018-02-21 21:58:15,133 INFO Turn 1 begins
+2018-02-21 21:58:16,130 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:16,131 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:16,134 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:16,137 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:16,137 INFO Melissa command: dodge
+2018-02-21 21:58:16,138 INFO Melissa command: dodge
+2018-02-21 21:58:16,142 INFO Melissa command: dodge
+2018-02-21 21:58:16,144 INFO Melissa command: dodge
+2018-02-21 21:58:16,145 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,149 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,151 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,152 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,156 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,158 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:16,159 INFO Killing Matthieu
+2018-02-21 21:58:16,163 INFO Killing Matthieu
+2018-02-21 21:58:16,165 INFO Killing Matthieu
+2018-02-21 21:58:16,166 INFO Matthieu exit code: None
+2018-02-21 21:58:16,167 INFO Matthieu exit code: None
+2018-02-21 21:58:16,170 INFO Matthieu exit code: None
+2018-02-21 21:58:16,173 INFO Matthieu exit code: None
+2018-02-21 21:58:16,173 INFO Killing Melissa
+2018-02-21 21:58:16,174 INFO Killing Melissa
+2018-02-21 21:58:16,178 INFO Killing Melissa
+2018-02-21 21:58:16,179 INFO Killing Melissa
+2018-02-21 21:58:16,180 INFO Melissa exit code: None
+2018-02-21 21:58:16,182 INFO Melissa exit code: None
+2018-02-21 21:58:16,186 INFO Melissa exit code: None
+2018-02-21 21:58:16,187 INFO Melissa exit code: None
+2018-02-21 21:58:16,399 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:16,401 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:16,405 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:16,407 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:16,408 INFO Turn 1 begins
+2018-02-21 21:58:16,409 INFO Turn 1 begins
+2018-02-21 21:58:16,414 INFO Turn 1 begins
+2018-02-21 21:58:17,417 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:17,420 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:17,425 INFO Melissa command: dodge
+2018-02-21 21:58:17,429 INFO Melissa command: dodge
+2018-02-21 21:58:17,433 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:17,436 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:17,440 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:17,441 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:17,443 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:17,447 INFO Killing Matthieu
+2018-02-21 21:58:17,448 INFO Killing Matthieu
+2018-02-21 21:58:17,450 INFO Killing Matthieu
+2018-02-21 21:58:17,454 INFO Matthieu exit code: None
+2018-02-21 21:58:17,456 INFO Matthieu exit code: None
+2018-02-21 21:58:17,458 INFO Matthieu exit code: None
+2018-02-21 21:58:17,462 INFO Killing Melissa
+2018-02-21 21:58:17,463 INFO Killing Melissa
+2018-02-21 21:58:17,465 INFO Killing Melissa
+2018-02-21 21:58:17,469 INFO Melissa exit code: None
+2018-02-21 21:58:17,472 INFO Melissa exit code: None
+2018-02-21 21:58:17,473 INFO Melissa exit code: None
+2018-02-21 21:58:17,689 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:17,692 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:17,697 INFO Turn 1 begins
+2018-02-21 21:58:17,698 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:17,700 INFO Turn 1 begins
+2018-02-21 21:58:17,705 INFO Turn 1 begins
+2018-02-21 21:58:17,720 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:17,727 INFO Turn 1 begins
+2018-02-21 21:58:18,704 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:18,707 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:18,711 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:18,711 INFO Melissa command: dodge
+2018-02-21 21:58:18,715 INFO Melissa command: dodge
+2018-02-21 21:58:18,718 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,718 INFO Melissa command: dodge
+2018-02-21 21:58:18,721 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,723 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,726 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,727 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,730 INFO Killing Matthieu
+2018-02-21 21:58:18,732 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,733 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:18,734 INFO Killing Matthieu
+2018-02-21 21:58:18,737 INFO Matthieu exit code: None
+2018-02-21 21:58:18,739 INFO Killing Matthieu
+2018-02-21 21:58:18,741 INFO Melissa command: dodge
+2018-02-21 21:58:18,745 INFO Killing Melissa
+2018-02-21 21:58:18,747 INFO Matthieu exit code: -13
+2018-02-21 21:58:18,748 INFO Matthieu exit code: None
+2018-02-21 21:58:18,749 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,753 INFO Melissa exit code: None
+2018-02-21 21:58:18,755 INFO Killing Melissa
+2018-02-21 21:58:18,756 INFO Killing Melissa
+2018-02-21 21:58:18,756 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:18,762 INFO Killing Matthieu
+2018-02-21 21:58:18,763 INFO Melissa exit code: None
+2018-02-21 21:58:18,766 INFO Melissa exit code: None
+2018-02-21 21:58:18,770 INFO Matthieu exit code: None
+2018-02-21 21:58:18,776 INFO Killing Melissa
+2018-02-21 21:58:18,782 INFO Melissa exit code: None
+2018-02-21 21:58:18,976 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:18,979 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:18,984 INFO Turn 1 begins
+2018-02-21 21:58:18,984 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:18,986 INFO Turn 1 begins
+2018-02-21 21:58:18,992 INFO Turn 1 begins
+2018-02-21 21:58:18,996 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:19,001 INFO Turn 1 begins
+2018-02-21 21:58:19,992 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:19,999 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:20,000 INFO Melissa command: dodge
+2018-02-21 21:58:20,006 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,007 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:20,007 INFO Melissa command: dodge
+2018-02-21 21:58:20,007 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,014 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,015 INFO Melissa command: dodge
+2018-02-21 21:58:20,015 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,016 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,022 INFO Killing Matthieu
+2018-02-21 21:58:20,023 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,024 INFO Killing Matthieu
+2018-02-21 21:58:20,030 INFO Matthieu exit code: None
+2018-02-21 21:58:20,031 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:20,032 INFO Killing Matthieu
+2018-02-21 21:58:20,033 INFO Matthieu exit code: None
+2018-02-21 21:58:20,039 INFO Killing Melissa
+2018-02-21 21:58:20,040 INFO Matthieu exit code: None
+2018-02-21 21:58:20,040 INFO Killing Matthieu
+2018-02-21 21:58:20,041 INFO Killing Melissa
+2018-02-21 21:58:20,047 INFO Melissa exit code: None
+2018-02-21 21:58:20,048 INFO Killing Melissa
+2018-02-21 21:58:20,049 INFO Matthieu exit code: None
+2018-02-21 21:58:20,051 INFO Melissa exit code: None
+2018-02-21 21:58:20,056 INFO Melissa exit code: None
+2018-02-21 21:58:20,058 INFO Killing Melissa
+2018-02-21 21:58:20,067 INFO Melissa exit code: None
+2018-02-21 21:58:20,270 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:20,271 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:20,274 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:20,279 INFO Turn 1 begins
+2018-02-21 21:58:20,281 INFO Turn 1 begins
+2018-02-21 21:58:20,284 INFO Turn 1 begins
+2018-02-21 21:58:20,290 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:20,295 INFO Turn 1 begins
+2018-02-21 21:58:21,288 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:21,291 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:21,301 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:21,317 INFO Melissa command: dodge
+2018-02-21 21:58:21,318 INFO Melissa command: dodge
+2018-02-21 21:58:21,325 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:21,326 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:21,334 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:21,335 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:21,342 INFO Killing Matthieu
+2018-02-21 21:58:21,343 INFO Killing Matthieu
+2018-02-21 21:58:21,344 INFO Killing Matthieu
+2018-02-21 21:58:21,351 INFO Matthieu exit code: None
+2018-02-21 21:58:21,353 INFO Matthieu exit code: None
+2018-02-21 21:58:21,360 INFO Killing Melissa
+2018-02-21 21:58:21,361 INFO Killing Melissa
+2018-02-21 21:58:21,362 INFO Killing Melissa
+2018-02-21 21:58:21,369 INFO Melissa exit code: None
+2018-02-21 21:58:21,371 INFO Melissa exit code: None
+2018-02-21 21:58:21,588 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:21,589 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:21,597 INFO Turn 1 begins
+2018-02-21 21:58:21,598 INFO Turn 1 begins
+2018-02-21 21:58:21,600 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:21,607 INFO Turn 1 begins
+2018-02-21 21:58:21,607 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:21,613 INFO Turn 1 begins
+2018-02-21 21:58:22,605 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:22,606 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:22,613 INFO Melissa command: dodge
+2018-02-21 21:58:22,613 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:22,619 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:22,619 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,622 INFO Melissa command: dodge
+2018-02-21 21:58:22,622 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,627 INFO Melissa command: dodge
+2018-02-21 21:58:22,628 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,631 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,636 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,637 INFO Killing Matthieu
+2018-02-21 21:58:22,639 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,640 INFO Killing Matthieu
+2018-02-21 21:58:22,645 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:22,645 INFO Matthieu exit code: None
+2018-02-21 21:58:22,648 INFO Killing Matthieu
+2018-02-21 21:58:22,650 INFO Matthieu exit code: -13
+o answer.
+2018-02-21 21:58:22,654 INFO Killing Matthieu
+2018-02-21 21:58:22,655 INFO Killing Melissa
+2018-02-21 21:58:22,657 INFO Matthieu exit code: None
+2018-02-21 21:58:22,658 INFO Killing Melissa
+2018-02-21 21:58:22,663 INFO Matthieu exit code: None
+2018-02-21 21:58:22,666 INFO Killing Melissa
+2018-02-21 21:58:22,667 INFO Melissa exit code: None
+2018-02-21 21:58:22,672 INFO Killing Melissa
+2018-02-21 21:58:22,672 INFO Melissa exit code: -9
+2018-02-21 21:58:22,675 INFO Melissa exit code: None
+2018-02-21 21:58:22,683 INFO Melissa exit code: None
+2018-02-21 21:58:22,886 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:22,892 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:22,894 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:22,895 INFO Turn 1 begins
+2018-02-21 21:58:22,902 INFO Turn 1 begins
+2018-02-21 21:58:22,903 INFO Turn 1 begins
+2018-02-21 21:58:22,962 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:22,970 INFO Turn 1 begins
+2018-02-21 21:58:23,903 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:23,908 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:23,910 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:23,911 INFO Melissa command: dodge
+2018-02-21 21:58:23,916 INFO Melissa command: dodge
+2018-02-21 21:58:23,917 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,919 INFO Melissa command: dodge
+2018-02-21 21:58:23,924 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,926 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,928 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,930 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,933 INFO Killing Matthieu
+2018-02-21 21:58:23,936 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,939 INFO Killing Matthieu
+2018-02-21 21:58:23,941 INFO Matthieu exit code: None
+2018-02-21 21:58:23,943 INFO Killing Matthieu
+2018-02-21 21:58:23,948 INFO Matthieu exit code: None
+2018-02-21 21:58:23,950 INFO Matthieu exit code: None
+2018-02-21 21:58:23,950 INFO Killing Melissa
+2018-02-21 21:58:23,956 INFO Killing Melissa
+2018-02-21 21:58:23,957 INFO Killing Melissa
+2018-02-21 21:58:23,959 INFO Melissa exit code: None
+2018-02-21 21:58:23,964 INFO Melissa exit code: None
+2018-02-21 21:58:23,965 INFO Melissa exit code: None
+2018-02-21 21:58:23,978 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:23,984 INFO Melissa command: dodge
+2018-02-21 21:58:23,989 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:23,995 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:24,001 INFO Killing Matthieu
+2018-02-21 21:58:24,008 INFO Matthieu exit code: None
+2018-02-21 21:58:24,014 INFO Killing Melissa
+2018-02-21 21:58:24,019 INFO Melissa exit code: None
+2018-02-21 21:58:24,175 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:24,182 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:24,183 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:24,185 INFO Turn 1 begins
+2018-02-21 21:58:24,192 INFO Turn 1 begins
+2018-02-21 21:58:24,193 INFO Turn 1 begins
+2018-02-21 21:58:24,236 INFO Starting new showdown: Matthieu vs Melissa
+2018-02-21 21:58:24,244 INFO Turn 1 begins
+2018-02-21 21:58:25,195 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:25,198 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:25,200 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:25,204 INFO Melissa command: dodge
+2018-02-21 21:58:25,208 INFO Melissa command: dodge
+2018-02-21 21:58:25,209 INFO Melissa command: dodge
+2018-02-21 21:58:25,212 INFO Matthieu takes too long to answer.
+ to answer.
+2018-02-21 21:58:25,217 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,219 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,224 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,226 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,227 INFO Killing Matthieu
+2018-02-21 21:58:25,232 INFO Killing Matthieu
+2018-02-21 21:58:25,234 INFO Killing Matthieu
+2018-02-21 21:58:25,236 INFO Matthieu exit code: None
+2018-02-21 21:58:25,239 INFO Matthieu exit code: None
+2018-02-21 21:58:25,243 INFO Killing Melissa
+2018-02-21 21:58:25,244 INFO Matthieu exit code: None
+2018-02-21 21:58:25,247 INFO Killing Melissa
+2018-02-21 21:58:25,251 WARNING Matthieu took more than 1 seconds to answer.
+2018-02-21 21:58:25,251 INFO Melissa exit code: None
+2018-02-21 21:58:25,254 INFO Killing Melissa
+2018-02-21 21:58:25,255 INFO Melissa exit code: None
+2018-02-21 21:58:25,262 INFO Melissa command: dodge
+2018-02-21 21:58:25,263 INFO Melissa exit code: None
+2018-02-21 21:58:25,270 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,275 INFO Matthieu takes too long to answer.
+2018-02-21 21:58:25,281 INFO Killing Matthieu
+2018-02-21 21:58:25,286 INFO Matthieu exit code: None
+2018-02-21 21:58:25,294 INFO Killing Melissa
+2018-02-21 21:58:25,301 INFO Melissa exit code: None

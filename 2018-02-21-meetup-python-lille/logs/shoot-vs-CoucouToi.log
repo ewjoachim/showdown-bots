@@ -1,0 +1,1004 @@
+2018-02-21 21:16:21,854 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:16:21,856 INFO Turn 1 begins
+2018-02-21 21:16:22,860 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:16:22,860 INFO CoucouToi command: reload
+2018-02-21 21:16:22,860 INFO shoot takes too long to answer.
+2018-02-21 21:16:22,861 INFO Killing shoot
+2018-02-21 21:16:22,862 INFO shoot exit code: None
+2018-02-21 21:16:22,862 INFO Killing CoucouToi
+2018-02-21 21:16:22,863 INFO CoucouToi exit code: None
+2018-02-21 21:17:43,406 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:17:43,408 INFO Turn 1 begins
+2018-02-21 21:17:44,411 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:17:44,411 INFO CoucouToi command: reload
+2018-02-21 21:17:44,411 INFO shoot takes too long to answer.
+2018-02-21 21:17:44,412 INFO shoot takes too long to answer.
+2018-02-21 21:17:44,412 INFO Killing shoot
+2018-02-21 21:17:44,413 INFO shoot exit code: None
+2018-02-21 21:17:44,413 INFO Killing CoucouToi
+2018-02-21 21:17:44,414 INFO CoucouToi exit code: None
+2018-02-21 21:17:59,208 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:17:59,209 INFO Turn 1 begins
+2018-02-21 21:18:00,210 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:00,211 INFO CoucouToi command: reload
+2018-02-21 21:18:00,212 INFO shoot takes too long to answer.
+2018-02-21 21:18:00,213 INFO Killing shoot
+2018-02-21 21:18:00,213 INFO shoot exit code: None
+2018-02-21 21:18:00,214 INFO Killing CoucouToi
+2018-02-21 21:18:00,214 INFO CoucouToi exit code: None
+2018-02-21 21:18:07,572 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:07,573 INFO Turn 1 begins
+2018-02-21 21:18:07,577 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:07,578 INFO Turn 1 begins
+2018-02-21 21:18:07,593 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:07,594 INFO Turn 1 begins
+2018-02-21 21:18:08,575 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:08,576 INFO CoucouToi command: reload
+2018-02-21 21:18:08,577 INFO shoot takes too long to answer.
+2018-02-21 21:18:08,577 INFO Killing shoot
+2018-02-21 21:18:08,578 INFO shoot exit code: None
+2018-02-21 21:18:08,579 INFO Killing CoucouToi
+2018-02-21 21:18:08,579 INFO CoucouToi exit code: None
+2018-02-21 21:18:08,580 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:08,581 INFO CoucouToi command: reload
+2018-02-21 21:18:08,581 INFO shoot takes too long to answer.
+2018-02-21 21:18:08,582 INFO shoot takes too long to answer.
+2018-02-21 21:18:08,582 INFO Killing shoot
+2018-02-21 21:18:08,583 INFO Killing shoot
+2018-02-21 21:18:08,583 INFO shoot exit code: None
+2018-02-21 21:18:08,584 INFO Killing CoucouToi
+2018-02-21 21:18:08,584 INFO CoucouToi exit code: None
+2018-02-21 21:18:08,586 INFO CoucouToi exit code: None
+2018-02-21 21:18:08,596 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:08,597 INFO CoucouToi command: reload
+2018-02-21 21:18:08,597 INFO shoot takes too long to answer.
+2018-02-21 21:18:08,598 INFO shoot takes too long to answer.
+2018-02-21 21:18:08,598 INFO Killing shoot
+2018-02-21 21:18:08,599 INFO shoot exit code: None
+2018-02-21 21:18:08,599 INFO Killing CoucouToi
+2018-02-21 21:18:08,600 INFO CoucouToi exit code: None
+2018-02-21 21:18:08,831 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:08,832 INFO Turn 1 begins
+2018-02-21 21:18:08,836 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:08,837 INFO Turn 1 begins
+2018-02-21 21:18:08,867 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:08,868 INFO Turn 1 begins
+2018-02-21 21:18:09,835 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:09,836 INFO CoucouToi command: reload
+2018-02-21 21:18:09,837 INFO shoot takes too long to answer.
+2018-02-21 21:18:09,838 INFO Killing shoot
+2018-02-21 21:18:09,839 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:09,839 INFO shoot exit code: None
+2018-02-21 21:18:09,840 INFO CoucouToi command: reload
+2018-02-21 21:18:09,840 INFO Killing CoucouToi
+2018-02-21 21:18:09,841 INFO shoot takes too long to answer.
+2018-02-21 21:18:09,842 INFO CoucouToi exit code: None
+2018-02-21 21:18:09,842 INFO shoot takes too long to answer.
+2018-02-21 21:18:09,843 INFO Killing shoot
+2018-02-21 21:18:09,844 INFO shoot exit code: None
+2018-02-21 21:18:09,845 INFO Killing CoucouToi
+2018-02-21 21:18:09,846 INFO CoucouToi exit code: None
+2018-02-21 21:18:09,870 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:09,871 INFO CoucouToi command: reload
+2018-02-21 21:18:09,872 INFO shoot takes too long to answer.
+2018-02-21 21:18:09,873 INFO shoot takes too long to answer.
+2018-02-21 21:18:09,874 INFO Killing shoot
+2018-02-21 21:18:09,875 INFO shoot exit code: None
+2018-02-21 21:18:09,876 INFO Killing CoucouToi
+2018-02-21 21:18:09,876 INFO CoucouToi exit code: None
+2018-02-21 21:18:10,091 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:10,092 INFO Turn 1 begins
+2018-02-21 21:18:10,099 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:10,101 INFO Turn 1 begins
+2018-02-21 21:18:10,107 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:10,108 INFO Turn 1 begins
+2018-02-21 21:18:10,122 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:10,124 INFO Turn 1 begins
+2018-02-21 21:18:11,094 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:11,096 INFO CoucouToi command: reload
+2018-02-21 21:18:11,097 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,098 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,099 INFO Killing shoot
+2018-02-21 21:18:11,100 INFO shoot exit code: None
+2018-02-21 21:18:11,102 INFO Killing CoucouToi
+2018-02-21 21:18:11,103 INFO CoucouToi exit code: None
+2018-02-21 21:18:11,103 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:11,104 INFO CoucouToi command: reload
+2018-02-21 21:18:11,105 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,106 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,107 INFO Killing shoot
+2018-02-21 21:18:11,108 INFO shoot exit code: None
+2018-02-21 21:18:11,109 INFO Killing CoucouToi
+2018-02-21 21:18:11,110 INFO CoucouToi exit code: None
+2018-02-21 21:18:11,110 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:11,111 INFO CoucouToi command: reload
+2018-02-21 21:18:11,113 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,114 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,115 INFO Killing shoot
+2018-02-21 21:18:11,117 INFO shoot exit code: None
+2018-02-21 21:18:11,118 INFO Killing CoucouToi
+2018-02-21 21:18:11,119 INFO CoucouToi exit code: None
+2018-02-21 21:18:11,126 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:11,127 INFO CoucouToi command: reload
+2018-02-21 21:18:11,129 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,130 INFO shoot takes too long to answer.
+2018-02-21 21:18:11,131 INFO Killing shoot
+2018-02-21 21:18:11,132 INFO shoot exit code: None
+2018-02-21 21:18:11,133 INFO Killing CoucouToi
+2018-02-21 21:18:11,135 INFO CoucouToi exit code: None
+2018-02-21 21:18:11,359 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:11,361 INFO Turn 1 begins
+2018-02-21 21:18:11,365 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:11,367 INFO Turn 1 begins
+2018-02-21 21:18:11,379 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:11,381 INFO Turn 1 begins
+2018-02-21 21:18:11,395 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:11,397 INFO Turn 1 begins
+2018-02-21 21:18:12,363 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:12,365 INFO CoucouToi command: reload
+2018-02-21 21:18:12,366 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,368 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,369 INFO Killing shoot
+2018-02-21 21:18:12,369 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:12,370 INFO shoot exit code: None
+2018-02-21 21:18:12,371 INFO CoucouToi command: reload
+2018-02-21 21:18:12,372 INFO Killing CoucouToi
+2018-02-21 21:18:12,372 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,373 INFO CoucouToi exit code: None
+2018-02-21 21:18:12,373 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,375 INFO Killing shoot
+2018-02-21 21:18:12,376 INFO shoot exit code: None
+2018-02-21 21:18:12,378 INFO Killing CoucouToi
+2018-02-21 21:18:12,379 INFO CoucouToi exit code: None
+2018-02-21 21:18:12,383 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:12,385 INFO CoucouToi command: reload
+2018-02-21 21:18:12,386 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,387 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,388 INFO Killing shoot
+2018-02-21 21:18:12,389 INFO shoot exit code: None
+2018-02-21 21:18:12,390 INFO Killing CoucouToi
+2018-02-21 21:18:12,391 INFO CoucouToi exit code: None
+2018-02-21 21:18:12,401 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:12,403 INFO CoucouToi command: reload
+2018-02-21 21:18:12,404 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,406 INFO shoot takes too long to answer.
+2018-02-21 21:18:12,407 INFO Killing shoot
+2018-02-21 21:18:12,409 INFO shoot exit code: None
+2018-02-21 21:18:12,411 INFO Killing CoucouToi
+2018-02-21 21:18:12,413 INFO CoucouToi exit code: None
+2018-02-21 21:18:12,625 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:12,626 INFO Turn 1 begins
+2018-02-21 21:18:12,635 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:12,637 INFO Turn 1 begins
+2018-02-21 21:18:12,645 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:12,647 INFO Turn 1 begins
+2018-02-21 21:18:12,669 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:12,671 INFO Turn 1 begins
+2018-02-21 21:18:13,628 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:13,631 INFO CoucouToi command: reload
+2018-02-21 21:18:13,632 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,634 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,635 INFO Killing shoot
+2018-02-21 21:18:13,636 INFO shoot exit code: None
+2018-02-21 21:18:13,638 INFO Killing CoucouToi
+2018-02-21 21:18:13,639 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:13,640 INFO CoucouToi exit code: None
+2018-02-21 21:18:13,640 INFO CoucouToi command: reload
+2018-02-21 21:18:13,642 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,643 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,645 INFO Killing shoot
+2018-02-21 21:18:13,647 INFO shoot exit code: None
+2018-02-21 21:18:13,649 INFO Killing CoucouToi
+2018-02-21 21:18:13,649 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:13,651 INFO CoucouToi exit code: None
+2018-02-21 21:18:13,652 INFO CoucouToi command: reload
+2018-02-21 21:18:13,654 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,656 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,658 INFO Killing shoot
+2018-02-21 21:18:13,660 INFO shoot exit code: None
+2018-02-21 21:18:13,662 INFO Killing CoucouToi
+2018-02-21 21:18:13,667 INFO CoucouToi exit code: None
+2018-02-21 21:18:13,673 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:13,675 INFO CoucouToi command: reload
+2018-02-21 21:18:13,677 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,679 INFO shoot takes too long to answer.
+2018-02-21 21:18:13,681 INFO Killing shoot
+2018-02-21 21:18:13,684 INFO shoot exit code: None
+2018-02-21 21:18:13,686 INFO Killing CoucouToi
+2018-02-21 21:18:13,689 INFO CoucouToi exit code: None
+2018-02-21 21:18:13,900 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:13,902 INFO Turn 1 begins
+2018-02-21 21:18:13,911 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:13,913 INFO Turn 1 begins
+2018-02-21 21:18:13,929 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:13,931 INFO Turn 1 begins
+2018-02-21 21:18:13,961 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:13,963 INFO Turn 1 begins
+2018-02-21 21:18:14,905 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:14,907 INFO CoucouToi command: reload
+2018-02-21 21:18:14,909 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,911 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,912 INFO Killing shoot
+2018-02-21 21:18:14,914 INFO shoot exit code: None
+2018-02-21 21:18:14,915 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:14,916 INFO Killing CoucouToi
+2018-02-21 21:18:14,917 INFO CoucouToi command: reload
+2018-02-21 21:18:14,917 INFO CoucouToi exit code: None
+2018-02-21 21:18:14,919 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,920 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,922 INFO Killing shoot
+2018-02-21 21:18:14,924 INFO shoot exit code: None
+2018-02-21 21:18:14,926 INFO Killing CoucouToi
+2018-02-21 21:18:14,927 INFO CoucouToi exit code: None
+2018-02-21 21:18:14,934 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:14,937 INFO CoucouToi command: reload
+2018-02-21 21:18:14,939 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,941 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,944 INFO Killing shoot
+2018-02-21 21:18:14,946 INFO shoot exit code: None
+2018-02-21 21:18:14,949 INFO Killing CoucouToi
+2018-02-21 21:18:14,950 INFO CoucouToi exit code: None
+2018-02-21 21:18:14,966 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:14,969 INFO CoucouToi command: reload
+2018-02-21 21:18:14,971 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,973 INFO shoot takes too long to answer.
+2018-02-21 21:18:14,976 INFO Killing shoot
+2018-02-21 21:18:14,979 INFO shoot exit code: None
+2018-02-21 21:18:14,981 INFO Killing CoucouToi
+2018-02-21 21:18:14,983 INFO CoucouToi exit code: None
+2018-02-21 21:18:15,165 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:15,167 INFO Turn 1 begins
+2018-02-21 21:18:15,167 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:15,169 INFO Turn 1 begins
+2018-02-21 21:18:15,196 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:15,198 INFO Turn 1 begins
+2018-02-21 21:18:15,241 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:15,244 INFO Turn 1 begins
+2018-02-21 21:18:16,169 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:16,172 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:16,173 INFO CoucouToi command: reload
+2018-02-21 21:18:16,175 INFO CoucouToi command: reload
+2018-02-21 21:18:16,175 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,177 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,179 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,179 INFO Killing shoot
+2018-02-21 21:18:16,181 INFO Killing shoot
+2018-02-21 21:18:16,181 INFO shoot exit code: None
+2018-02-21 21:18:16,183 INFO shoot exit code: None
+2018-02-21 21:18:16,183 INFO Killing CoucouToi
+2018-02-21 21:18:16,185 INFO Killing CoucouToi
+2018-02-21 21:18:16,185 INFO CoucouToi exit code: None
+2018-02-21 21:18:16,187 INFO CoucouToi exit code: None
+2018-02-21 21:18:16,200 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:16,203 INFO CoucouToi command: reload
+2018-02-21 21:18:16,206 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,209 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,211 INFO Killing shoot
+2018-02-21 21:18:16,214 INFO shoot exit code: None
+2018-02-21 21:18:16,217 INFO Killing CoucouToi
+2018-02-21 21:18:16,219 INFO CoucouToi exit code: None
+2018-02-21 21:18:16,246 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:16,249 INFO CoucouToi command: reload
+2018-02-21 21:18:16,252 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,255 INFO shoot takes too long to answer.
+2018-02-21 21:18:16,258 INFO Killing shoot
+2018-02-21 21:18:16,260 INFO shoot exit code: None
+2018-02-21 21:18:16,263 INFO Killing CoucouToi
+2018-02-21 21:18:16,266 INFO CoucouToi exit code: None
+2018-02-21 21:18:16,426 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:16,428 INFO Turn 1 begins
+2018-02-21 21:18:16,430 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:16,432 INFO Turn 1 begins
+2018-02-21 21:18:16,467 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:16,469 INFO Turn 1 begins
+2018-02-21 21:18:16,520 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:16,523 INFO Turn 1 begins
+2018-02-21 21:18:17,431 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:17,434 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:17,435 INFO CoucouToi command: reload
+2018-02-21 21:18:17,437 INFO CoucouToi command: reload
+2018-02-21 21:18:17,438 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,439 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,440 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,441 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,442 INFO Killing shoot
+2018-02-21 21:18:17,443 INFO Killing shoot
+2018-02-21 21:18:17,444 INFO shoot exit code: None
+2018-02-21 21:18:17,446 INFO shoot exit code: None
+2018-02-21 21:18:17,447 INFO Killing CoucouToi
+2018-02-21 21:18:17,449 INFO Killing CoucouToi
+2018-02-21 21:18:17,450 INFO CoucouToi exit code: None
+2018-02-21 21:18:17,451 INFO CoucouToi exit code: None
+2018-02-21 21:18:17,472 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:17,476 INFO CoucouToi command: reload
+2018-02-21 21:18:17,479 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,482 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,485 INFO Killing shoot
+2018-02-21 21:18:17,488 INFO shoot exit code: None
+2018-02-21 21:18:17,492 INFO Killing CoucouToi
+2018-02-21 21:18:17,494 INFO CoucouToi exit code: None
+2018-02-21 21:18:17,526 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:17,530 INFO CoucouToi command: reload
+2018-02-21 21:18:17,533 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,536 INFO shoot takes too long to answer.
+2018-02-21 21:18:17,540 INFO Killing shoot
+2018-02-21 21:18:17,544 INFO shoot exit code: None
+2018-02-21 21:18:17,547 INFO Killing CoucouToi
+2018-02-21 21:18:17,550 INFO CoucouToi exit code: None
+2018-02-21 21:18:17,667 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:17,671 INFO Turn 1 begins
+2018-02-21 21:18:17,690 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:17,692 INFO Turn 1 begins
+2018-02-21 21:18:17,754 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:17,758 INFO Turn 1 begins
+2018-02-21 21:18:17,785 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:17,788 INFO Turn 1 begins
+2018-02-21 21:18:18,676 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:18,679 INFO CoucouToi command: reload
+2018-02-21 21:18:18,681 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,684 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,686 INFO Killing shoot
+2018-02-21 21:18:18,688 INFO shoot exit code: None
+2018-02-21 21:18:18,691 INFO Killing CoucouToi
+2018-02-21 21:18:18,693 INFO CoucouToi exit code: None
+2018-02-21 21:18:18,695 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:18,698 INFO CoucouToi command: reload
+2018-02-21 21:18:18,700 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,703 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,705 INFO Killing shoot
+2018-02-21 21:18:18,707 INFO shoot exit code: None
+2018-02-21 21:18:18,709 INFO Killing CoucouToi
+2018-02-21 21:18:18,711 INFO CoucouToi exit code: None
+2018-02-21 21:18:18,761 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:18,765 INFO CoucouToi command: reload
+2018-02-21 21:18:18,769 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,771 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,774 INFO Killing shoot
+2018-02-21 21:18:18,777 INFO shoot exit code: None
+2018-02-21 21:18:18,781 INFO Killing CoucouToi
+2018-02-21 21:18:18,784 INFO CoucouToi exit code: None
+2018-02-21 21:18:18,791 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:18,794 INFO CoucouToi command: reload
+2018-02-21 21:18:18,798 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,802 INFO shoot takes too long to answer.
+2018-02-21 21:18:18,805 INFO Killing shoot
+2018-02-21 21:18:18,809 INFO shoot exit code: None
+2018-02-21 21:18:18,812 INFO Killing CoucouToi
+2018-02-21 21:18:18,816 INFO CoucouToi exit code: None
+2018-02-21 21:18:18,905 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:18,909 INFO Turn 1 begins
+2018-02-21 21:18:18,940 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:18,944 INFO Turn 1 begins
+2018-02-21 21:18:19,024 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:19,028 INFO Turn 1 begins
+2018-02-21 21:18:19,042 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:19,046 INFO Turn 1 begins
+2018-02-21 21:18:19,913 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:19,917 INFO CoucouToi command: reload
+2018-02-21 21:18:19,920 INFO shoot takes too long to answer.
+2018-02-21 21:18:19,922 INFO shoot takes too long to answer.
+2018-02-21 21:18:19,924 INFO Killing shoot
+2018-02-21 21:18:19,927 INFO shoot exit code: None
+2018-02-21 21:18:19,930 INFO Killing CoucouToi
+2018-02-21 21:18:19,933 INFO CoucouToi exit code: None
+2018-02-21 21:18:19,949 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:19,952 INFO CoucouToi command: reload
+2018-02-21 21:18:19,954 INFO shoot takes too long to answer.
+2018-02-21 21:18:19,958 INFO shoot takes too long to answer.
+2018-02-21 21:18:19,961 INFO Killing shoot
+2018-02-21 21:18:19,964 INFO shoot exit code: None
+2018-02-21 21:18:19,967 INFO Killing CoucouToi
+2018-02-21 21:18:19,969 INFO CoucouToi exit code: None
+2018-02-21 21:18:20,032 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:20,036 INFO CoucouToi command: reload
+2018-02-21 21:18:20,040 INFO shoot takes too long to answer.
+2018-02-21 21:18:20,046 INFO shoot takes too long to answer.
+2018-02-21 21:18:20,050 INFO Killing shoot
+2018-02-21 21:18:20,052 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:20,055 INFO CoucouToi command: reload
+2018-02-21 21:18:20,056 INFO shoot exit code: None
+2018-02-21 21:18:20,060 INFO shoot takes too long to answer.
+2018-02-21 21:18:20,060 INFO Killing CoucouToi
+2018-02-21 21:18:20,064 INFO shoot takes too long to answer.
+2018-02-21 21:18:20,064 INFO CoucouToi exit code: None
+2018-02-21 21:18:20,068 INFO Killing shoot
+2018-02-21 21:18:20,072 INFO shoot exit code: None
+2018-02-21 21:18:20,076 INFO Killing CoucouToi
+2018-02-21 21:18:20,081 INFO CoucouToi exit code: None
+2018-02-21 21:18:20,169 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:20,173 INFO Turn 1 begins
+2018-02-21 21:18:20,243 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:20,249 INFO Turn 1 begins
+2018-02-21 21:18:20,327 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:20,329 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:20,331 INFO Turn 1 begins
+2018-02-21 21:18:20,333 INFO Turn 1 begins
+2018-02-21 21:18:21,178 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:21,195 INFO CoucouToi command: reload
+2018-02-21 21:18:21,198 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,201 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,203 INFO Killing shoot
+2018-02-21 21:18:21,206 INFO shoot exit code: None
+2018-02-21 21:18:21,209 INFO Killing CoucouToi
+2018-02-21 21:18:21,211 INFO CoucouToi exit code: None
+2018-02-21 21:18:21,254 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:21,258 INFO CoucouToi command: reload
+2018-02-21 21:18:21,261 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,264 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,266 INFO Killing shoot
+2018-02-21 21:18:21,269 INFO shoot exit code: None
+2018-02-21 21:18:21,272 INFO Killing CoucouToi
+2018-02-21 21:18:21,275 INFO CoucouToi exit code: None
+2018-02-21 21:18:21,335 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:21,337 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:21,340 INFO CoucouToi command: reload
+2018-02-21 21:18:21,342 INFO CoucouToi command: reload
+2018-02-21 21:18:21,344 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,346 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,349 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,350 INFO shoot takes too long to answer.
+2018-02-21 21:18:21,353 INFO Killing shoot
+2018-02-21 21:18:21,354 INFO Killing shoot
+2018-02-21 21:18:21,357 INFO shoot exit code: None
+2018-02-21 21:18:21,359 INFO shoot exit code: None
+2018-02-21 21:18:21,362 INFO Killing CoucouToi
+2018-02-21 21:18:21,363 INFO Killing CoucouToi
+2018-02-21 21:18:21,366 INFO CoucouToi exit code: None
+2018-02-21 21:18:21,368 INFO CoucouToi exit code: None
+2018-02-21 21:18:21,422 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:21,427 INFO Turn 1 begins
+2018-02-21 21:18:21,501 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:21,506 INFO Turn 1 begins
+2018-02-21 21:18:21,593 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:21,597 INFO Turn 1 begins
+2018-02-21 21:18:21,597 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:21,601 INFO Turn 1 begins
+2018-02-21 21:18:22,433 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:22,437 INFO CoucouToi command: reload
+2018-02-21 21:18:22,440 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,444 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,447 INFO Killing shoot
+2018-02-21 21:18:22,450 INFO shoot exit code: None
+2018-02-21 21:18:22,453 INFO Killing CoucouToi
+2018-02-21 21:18:22,456 INFO CoucouToi exit code: None
+2018-02-21 21:18:22,512 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:22,516 INFO CoucouToi command: reload
+2018-02-21 21:18:22,519 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,521 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,524 INFO Killing shoot
+2018-02-21 21:18:22,527 INFO shoot exit code: None
+2018-02-21 21:18:22,530 INFO Killing CoucouToi
+2018-02-21 21:18:22,533 INFO CoucouToi exit code: None
+2018-02-21 21:18:22,600 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:22,603 INFO CoucouToi command: reload
+2018-02-21 21:18:22,605 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:22,607 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,610 INFO CoucouToi command: reload
+2018-02-21 21:18:22,611 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,615 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,616 INFO Killing shoot
+2018-02-21 21:18:22,620 INFO shoot takes too long to answer.
+2018-02-21 21:18:22,621 INFO shoot exit code: None
+2018-02-21 21:18:22,624 INFO Killing shoot
+2018-02-21 21:18:22,626 INFO Killing CoucouToi
+2018-02-21 21:18:22,630 INFO CoucouToi exit code: None
+2018-02-21 21:18:22,631 INFO shoot exit code: None
+2018-02-21 21:18:22,634 INFO Killing CoucouToi
+2018-02-21 21:18:22,638 INFO CoucouToi exit code: None
+2018-02-21 21:18:22,667 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:22,673 INFO Turn 1 begins
+2018-02-21 21:18:22,746 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:22,749 INFO Turn 1 begins
+2018-02-21 21:18:22,856 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:22,861 INFO Turn 1 begins
+2018-02-21 21:18:22,862 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:22,866 INFO Turn 1 begins
+2018-02-21 21:18:23,680 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:23,685 INFO CoucouToi command: reload
+2018-02-21 21:18:23,689 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,692 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,695 INFO Killing shoot
+2018-02-21 21:18:23,698 INFO shoot exit code: None
+2018-02-21 21:18:23,701 INFO Killing CoucouToi
+2018-02-21 21:18:23,704 INFO CoucouToi exit code: None
+2018-02-21 21:18:23,754 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:23,759 INFO CoucouToi command: reload
+2018-02-21 21:18:23,762 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,765 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,768 INFO Killing shoot
+2018-02-21 21:18:23,772 INFO shoot exit code: None
+2018-02-21 21:18:23,775 INFO Killing CoucouToi
+2018-02-21 21:18:23,778 INFO CoucouToi exit code: None
+2018-02-21 21:18:23,865 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:23,869 INFO CoucouToi command: reload
+2018-02-21 21:18:23,870 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:23,873 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,874 INFO CoucouToi command: reload
+2018-02-21 21:18:23,876 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,877 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,879 INFO Killing shoot
+2018-02-21 21:18:23,880 INFO shoot takes too long to answer.
+2018-02-21 21:18:23,882 INFO shoot exit code: None
+2018-02-21 21:18:23,884 INFO Killing shoot
+2018-02-21 21:18:23,885 INFO Killing CoucouToi
+2018-02-21 21:18:23,888 INFO shoot exit code: None
+2018-02-21 21:18:23,891 INFO CoucouToi exit code: None
+2018-02-21 21:18:23,893 INFO Killing CoucouToi
+2018-02-21 21:18:23,898 INFO CoucouToi exit code: None
+2018-02-21 21:18:23,917 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:23,922 INFO Turn 1 begins
+2018-02-21 21:18:23,991 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:23,997 INFO Turn 1 begins
+2018-02-21 21:18:24,104 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:24,109 INFO Turn 1 begins
+2018-02-21 21:18:24,115 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:24,118 INFO Turn 1 begins
+2018-02-21 21:18:24,929 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:24,934 INFO CoucouToi command: reload
+2018-02-21 21:18:24,938 INFO shoot takes too long to answer.
+2018-02-21 21:18:24,942 INFO shoot takes too long to answer.
+2018-02-21 21:18:24,945 INFO Killing shoot
+2018-02-21 21:18:24,948 INFO shoot exit code: None
+2018-02-21 21:18:24,951 INFO Killing CoucouToi
+2018-02-21 21:18:24,955 INFO CoucouToi exit code: None
+2018-02-21 21:18:25,003 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:25,008 INFO CoucouToi command: reload
+2018-02-21 21:18:25,011 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,014 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,018 INFO Killing shoot
+2018-02-21 21:18:25,022 INFO shoot exit code: None
+2018-02-21 21:18:25,025 INFO Killing CoucouToi
+2018-02-21 21:18:25,029 INFO CoucouToi exit code: None
+2018-02-21 21:18:25,114 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:25,118 INFO CoucouToi command: reload
+2018-02-21 21:18:25,122 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,122 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:25,125 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,126 INFO CoucouToi command: reload
+2018-02-21 21:18:25,128 INFO Killing shoot
+2018-02-21 21:18:25,129 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,132 INFO shoot exit code: None
+2018-02-21 21:18:25,132 INFO shoot takes too long to answer.
+2018-02-21 21:18:25,135 INFO Killing CoucouToi
+2018-02-21 21:18:25,136 INFO Killing shoot
+2018-02-21 21:18:25,139 INFO CoucouToi exit code: None
+2018-02-21 21:18:25,142 INFO shoot exit code: None
+2018-02-21 21:18:25,147 INFO Killing CoucouToi
+2018-02-21 21:18:25,153 INFO CoucouToi exit code: None
+2018-02-21 21:18:25,169 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:25,175 INFO Turn 1 begins
+2018-02-21 21:18:25,242 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:25,248 INFO Turn 1 begins
+2018-02-21 21:18:25,362 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:25,367 INFO Turn 1 begins
+2018-02-21 21:18:25,373 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:25,377 INFO Turn 1 begins
+2018-02-21 21:18:26,182 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:26,187 INFO CoucouToi command: reload
+2018-02-21 21:18:26,191 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,195 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,199 INFO Killing shoot
+2018-02-21 21:18:26,202 INFO shoot exit code: None
+2018-02-21 21:18:26,206 INFO Killing CoucouToi
+2018-02-21 21:18:26,209 INFO CoucouToi exit code: None
+2018-02-21 21:18:26,254 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:26,260 INFO CoucouToi command: reload
+2018-02-21 21:18:26,263 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,267 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,271 INFO Killing shoot
+2018-02-21 21:18:26,274 INFO shoot exit code: None
+2018-02-21 21:18:26,278 INFO Killing CoucouToi
+2018-02-21 21:18:26,282 INFO CoucouToi exit code: None
+2018-02-21 21:18:26,371 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:26,375 INFO CoucouToi command: reload
+2018-02-21 21:18:26,378 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,381 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:26,382 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,385 INFO CoucouToi command: reload
+2018-02-21 21:18:26,386 INFO Killing shoot
+2018-02-21 21:18:26,389 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,390 INFO shoot exit code: None
+2018-02-21 21:18:26,394 INFO shoot takes too long to answer.
+2018-02-21 21:18:26,395 INFO Killing CoucouToi
+2018-02-21 21:18:26,398 INFO Killing shoot
+2018-02-21 21:18:26,400 INFO CoucouToi exit code: None
+2018-02-21 21:18:26,403 INFO shoot exit code: None
+2018-02-21 21:18:26,408 INFO Killing CoucouToi
+2018-02-21 21:18:26,414 INFO CoucouToi exit code: None
+2018-02-21 21:18:26,420 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:26,426 INFO Turn 1 begins
+2018-02-21 21:18:26,494 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:26,499 INFO Turn 1 begins
+2018-02-21 21:18:26,620 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:26,625 INFO Turn 1 begins
+2018-02-21 21:18:26,629 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:26,633 INFO Turn 1 begins
+2018-02-21 21:18:27,434 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:27,439 INFO CoucouToi command: reload
+2018-02-21 21:18:27,443 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,447 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,451 INFO Killing shoot
+2018-02-21 21:18:27,454 INFO shoot exit code: None
+2018-02-21 21:18:27,458 INFO Killing CoucouToi
+2018-02-21 21:18:27,462 INFO CoucouToi exit code: None
+2018-02-21 21:18:27,505 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:27,509 INFO CoucouToi command: reload
+2018-02-21 21:18:27,513 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,517 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,522 INFO Killing shoot
+2018-02-21 21:18:27,526 INFO shoot exit code: None
+2018-02-21 21:18:27,531 INFO Killing CoucouToi
+2018-02-21 21:18:27,534 INFO CoucouToi exit code: None
+2018-02-21 21:18:27,631 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:27,637 INFO CoucouToi command: reload
+2018-02-21 21:18:27,637 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:27,641 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,642 INFO CoucouToi command: reload
+2018-02-21 21:18:27,647 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,648 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,652 INFO shoot takes too long to answer.
+2018-02-21 21:18:27,653 INFO Killing shoot
+2018-02-21 21:18:27,656 INFO Killing shoot
+2018-02-21 21:18:27,660 INFO shoot exit code: None
+2018-02-21 21:18:27,665 INFO Killing CoucouToi
+2018-02-21 21:18:27,666 INFO Killing CoucouToi
+2018-02-21 21:18:27,671 INFO CoucouToi exit code: None
+2018-02-21 21:18:27,675 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:27,682 INFO Turn 1 begins
+2018-02-21 21:18:27,748 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:27,754 INFO Turn 1 begins
+2018-02-21 21:18:27,889 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:27,894 INFO Turn 1 begins
+2018-02-21 21:18:28,690 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:28,696 INFO CoucouToi command: reload
+2018-02-21 21:18:28,701 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,705 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,709 INFO Killing shoot
+2018-02-21 21:18:28,713 INFO shoot exit code: None
+2018-02-21 21:18:28,717 INFO Killing CoucouToi
+2018-02-21 21:18:28,721 INFO CoucouToi exit code: None
+2018-02-21 21:18:28,761 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:28,765 INFO CoucouToi command: reload
+2018-02-21 21:18:28,770 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,775 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,779 INFO Killing shoot
+2018-02-21 21:18:28,783 INFO shoot exit code: None
+2018-02-21 21:18:28,787 INFO Killing CoucouToi
+2018-02-21 21:18:28,792 INFO CoucouToi exit code: None
+2018-02-21 21:18:28,900 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:28,902 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:28,905 INFO CoucouToi command: reload
+2018-02-21 21:18:28,909 INFO CoucouToi command: reload
+2018-02-21 21:18:28,911 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,915 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,919 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,921 INFO shoot takes too long to answer.
+2018-02-21 21:18:28,925 INFO Killing shoot
+2018-02-21 21:18:28,928 INFO Killing shoot
+2018-02-21 21:18:28,933 INFO shoot exit code: None
+2018-02-21 21:18:28,937 INFO shoot exit code: None
+2018-02-21 21:18:28,940 INFO Killing CoucouToi
+2018-02-21 21:18:28,945 INFO Killing CoucouToi
+2018-02-21 21:18:28,947 INFO CoucouToi exit code: None
+2018-02-21 21:18:28,957 INFO CoucouToi exit code: None
+2018-02-21 21:18:28,960 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:28,967 INFO Turn 1 begins
+2018-02-21 21:18:29,034 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:29,041 INFO Turn 1 begins
+2018-02-21 21:18:29,162 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:29,170 INFO Turn 1 begins
+2018-02-21 21:18:29,180 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:29,186 INFO Turn 1 begins
+2018-02-21 21:18:29,974 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:29,980 INFO CoucouToi command: reload
+2018-02-21 21:18:29,985 INFO shoot takes too long to answer.
+2018-02-21 21:18:29,989 INFO shoot takes too long to answer.
+2018-02-21 21:18:29,993 INFO Killing shoot
+2018-02-21 21:18:29,999 INFO shoot exit code: None
+2018-02-21 21:18:30,004 INFO Killing CoucouToi
+2018-02-21 21:18:30,009 INFO CoucouToi exit code: None
+2018-02-21 21:18:30,052 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:30,058 INFO CoucouToi command: reload
+2018-02-21 21:18:30,062 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,067 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,071 INFO Killing shoot
+2018-02-21 21:18:30,075 INFO shoot exit code: None
+2018-02-21 21:18:30,080 INFO Killing CoucouToi
+2018-02-21 21:18:30,084 INFO CoucouToi exit code: None
+2018-02-21 21:18:30,176 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:30,181 INFO CoucouToi command: reload
+2018-02-21 21:18:30,184 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,188 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,191 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:30,193 INFO Killing shoot
+2018-02-21 21:18:30,197 INFO CoucouToi command: reload
+2018-02-21 21:18:30,200 INFO shoot exit code: None
+2018-02-21 21:18:30,203 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,207 INFO Killing CoucouToi
+2018-02-21 21:18:30,209 INFO shoot takes too long to answer.
+2018-02-21 21:18:30,214 INFO CoucouToi exit code: None
+2018-02-21 21:18:30,215 INFO Killing shoot
+2018-02-21 21:18:30,222 INFO shoot exit code: None
+2018-02-21 21:18:30,222 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:30,229 INFO Killing CoucouToi
+2018-02-21 21:18:30,230 INFO Turn 1 begins
+2018-02-21 21:18:30,238 INFO CoucouToi exit code: None
+2018-02-21 21:18:30,297 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:30,304 INFO Turn 1 begins
+2018-02-21 21:18:30,436 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:30,442 INFO Turn 1 begins
+2018-02-21 21:18:30,455 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:30,461 INFO Turn 1 begins
+2018-02-21 21:18:31,239 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:31,246 INFO CoucouToi command: reload
+2018-02-21 21:18:31,251 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,257 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,262 INFO Killing shoot
+2018-02-21 21:18:31,266 INFO shoot exit code: None
+2018-02-21 21:18:31,272 INFO Killing CoucouToi
+2018-02-21 21:18:31,277 INFO CoucouToi exit code: None
+2018-02-21 21:18:31,310 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:31,315 INFO CoucouToi command: reload
+2018-02-21 21:18:31,320 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,326 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,331 INFO Killing shoot
+2018-02-21 21:18:31,336 INFO shoot exit code: None
+2018-02-21 21:18:31,341 INFO Killing CoucouToi
+2018-02-21 21:18:31,346 INFO CoucouToi exit code: None
+2018-02-21 21:18:31,449 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:31,455 INFO CoucouToi command: reload
+2018-02-21 21:18:31,461 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,465 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,467 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:31,470 INFO Killing shoot
+2018-02-21 21:18:31,474 INFO CoucouToi command: reload
+2018-02-21 21:18:31,474 INFO shoot exit code: None
+2018-02-21 21:18:31,479 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,482 INFO Killing CoucouToi
+2018-02-21 21:18:31,484 INFO shoot takes too long to answer.
+2018-02-21 21:18:31,489 INFO CoucouToi exit code: None
+2018-02-21 21:18:31,489 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:31,491 INFO Killing shoot
+2018-02-21 21:18:31,497 INFO Turn 1 begins
+2018-02-21 21:18:31,500 INFO shoot exit code: None
+2018-02-21 21:18:31,507 INFO Killing CoucouToi
+2018-02-21 21:18:31,514 INFO CoucouToi exit code: None
+2018-02-21 21:18:31,559 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:31,566 INFO Turn 1 begins
+2018-02-21 21:18:31,709 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:31,715 INFO Turn 1 begins
+2018-02-21 21:18:31,731 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:31,738 INFO Turn 1 begins
+2018-02-21 21:18:32,506 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:32,513 INFO CoucouToi command: reload
+2018-02-21 21:18:32,518 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,523 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,527 INFO Killing shoot
+2018-02-21 21:18:32,531 INFO shoot exit code: None
+2018-02-21 21:18:32,536 INFO Killing CoucouToi
+2018-02-21 21:18:32,540 INFO CoucouToi exit code: None
+2018-02-21 21:18:32,572 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:32,578 INFO CoucouToi command: reload
+2018-02-21 21:18:32,584 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,590 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,594 INFO Killing shoot
+2018-02-21 21:18:32,599 INFO shoot exit code: None
+2018-02-21 21:18:32,605 INFO Killing CoucouToi
+2018-02-21 21:18:32,610 INFO CoucouToi exit code: None
+2018-02-21 21:18:32,721 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:32,728 INFO CoucouToi command: reload
+2018-02-21 21:18:32,733 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,738 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,743 INFO Killing shoot
+2018-02-21 21:18:32,744 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:32,751 INFO CoucouToi command: reload
+2018-02-21 21:18:32,754 INFO shoot exit code: 1
+2018-02-21 21:18:32,756 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:32,758 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,762 INFO Killing CoucouToi
+2018-02-21 21:18:32,764 INFO Turn 1 begins
+2018-02-21 21:18:32,766 INFO shoot takes too long to answer.
+2018-02-21 21:18:32,773 INFO Killing shoot
+2018-02-21 21:18:32,773 INFO CoucouToi exit code: None
+ code: None
+2018-02-21 21:18:32,781 INFO shoot exit code: None
+2018-02-21 21:18:32,789 INFO Killing CoucouToi
+2018-02-21 21:18:32,795 INFO CoucouToi exit code: None
+2018-02-21 21:18:32,825 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:32,833 INFO Turn 1 begins
+2018-02-21 21:18:32,993 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:33,000 INFO Turn 1 begins
+2018-02-21 21:18:33,011 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:33,016 INFO Turn 1 begins
+2018-02-21 21:18:33,777 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:33,784 INFO CoucouToi command: reload
+2018-02-21 21:18:33,790 INFO shoot takes too long to answer.
+2018-02-21 21:18:33,794 INFO shoot takes too long to answer.
+2018-02-21 21:18:33,799 INFO Killing shoot
+2018-02-21 21:18:33,804 INFO shoot exit code: None
+2018-02-21 21:18:33,810 INFO Killing CoucouToi
+2018-02-21 21:18:33,816 INFO CoucouToi exit code: None
+2018-02-21 21:18:33,842 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:33,847 INFO CoucouToi command: reload
+2018-02-21 21:18:33,852 INFO shoot takes too long to answer.
+2018-02-21 21:18:33,858 INFO shoot takes too long to answer.
+2018-02-21 21:18:33,863 INFO Killing shoot
+2018-02-21 21:18:33,868 INFO shoot exit code: None
+2018-02-21 21:18:33,874 INFO Killing CoucouToi
+2018-02-21 21:18:33,880 INFO CoucouToi exit code: None
+2018-02-21 21:18:34,007 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:34,013 INFO CoucouToi command: reload
+2018-02-21 21:18:34,018 INFO shoot takes too long to answer.
+2018-02-21 21:18:34,021 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:34,023 INFO shoot takes too long to answer.
+2018-02-21 21:18:34,029 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:34,029 INFO Killing shoot
+2018-02-21 21:18:34,030 INFO CoucouToi command: reload
+2018-02-21 21:18:34,037 INFO shoot exit code: None
+2018-02-21 21:18:34,037 INFO Turn 1 begins
+2018-02-21 21:18:34,038 INFO shoot takes too long to answer.
+2018-02-21 21:18:34,045 INFO Killing CoucouToi
+2018-02-21 21:18:34,046 INFO shoot takes too long to answer.
+2018-02-21 21:18:34,051 INFO CoucouToi exit code: None
+2018-02-21 21:18:34,054 INFO Killing shoot
+2018-02-21 21:18:34,060 INFO shoot exit code: None
+2018-02-21 21:18:34,066 INFO Killing CoucouToi
+2018-02-21 21:18:34,071 INFO CoucouToi exit code: None
+2018-02-21 21:18:34,095 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:34,105 INFO Turn 1 begins
+2018-02-21 21:18:34,293 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:34,300 INFO Turn 1 begins
+2018-02-21 21:18:34,311 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:34,318 INFO Turn 1 begins
+2018-02-21 21:18:35,047 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:35,054 INFO CoucouToi command: reload
+2018-02-21 21:18:35,060 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,065 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,072 INFO Killing shoot
+2018-02-21 21:18:35,078 INFO shoot exit code: None
+2018-02-21 21:18:35,083 INFO Killing CoucouToi
+2018-02-21 21:18:35,088 INFO CoucouToi exit code: None
+2018-02-21 21:18:35,115 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:35,121 INFO CoucouToi command: reload
+2018-02-21 21:18:35,126 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,132 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,138 INFO Killing shoot
+2018-02-21 21:18:35,143 INFO shoot exit code: None
+2018-02-21 21:18:35,149 INFO Killing CoucouToi
+2018-02-21 21:18:35,155 INFO CoucouToi exit code: None
+2018-02-21 21:18:35,302 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:35,307 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:35,307 INFO Turn 1 begins
+2018-02-21 21:18:35,314 INFO CoucouToi command: reload
+2018-02-21 21:18:35,320 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,325 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:35,325 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,330 INFO Killing shoot
+2018-02-21 21:18:35,330 INFO CoucouToi command: reload
+2018-02-21 21:18:35,335 INFO shoot exit code: None
+2018-02-21 21:18:35,335 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,341 INFO Killing CoucouToi
+2018-02-21 21:18:35,341 INFO shoot takes too long to answer.
+2018-02-21 21:18:35,346 INFO CoucouToi exit code: None
+2018-02-21 21:18:35,346 INFO Killing shoot
+2018-02-21 21:18:35,352 INFO shoot exit code: None
+2018-02-21 21:18:35,358 INFO Killing CoucouToi
+2018-02-21 21:18:35,363 INFO CoucouToi exit code: None
+2018-02-21 21:18:35,370 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:35,380 INFO Turn 1 begins
+2018-02-21 21:18:35,559 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:35,567 INFO Turn 1 begins
+2018-02-21 21:18:35,577 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:35,584 INFO Turn 1 begins
+2018-02-21 21:18:36,315 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:36,323 INFO CoucouToi command: reload
+2018-02-21 21:18:36,328 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,333 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,338 INFO Killing shoot
+2018-02-21 21:18:36,343 INFO shoot exit code: None
+2018-02-21 21:18:36,351 INFO Killing CoucouToi
+2018-02-21 21:18:36,357 INFO CoucouToi exit code: None
+2018-02-21 21:18:36,391 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:36,397 INFO CoucouToi command: reload
+2018-02-21 21:18:36,404 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,410 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,417 INFO Killing shoot
+2018-02-21 21:18:36,422 INFO shoot exit code: None
+2018-02-21 21:18:36,428 INFO Killing CoucouToi
+2018-02-21 21:18:36,433 INFO CoucouToi exit code: None
+2018-02-21 21:18:36,572 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:36,573 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:36,580 INFO Turn 1 begins
+2018-02-21 21:18:36,582 INFO CoucouToi command: reload
+2018-02-21 21:18:36,587 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,591 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:36,593 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,598 INFO CoucouToi command: reload
+2018-02-21 21:18:36,601 INFO Killing shoot
+2018-02-21 21:18:36,604 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,606 INFO shoot exit code: None
+2018-02-21 21:18:36,610 INFO shoot takes too long to answer.
+2018-02-21 21:18:36,612 INFO Killing CoucouToi
+2018-02-21 21:18:36,615 INFO Killing shoot
+2018-02-21 21:18:36,618 INFO CoucouToi exit code: None
+2018-02-21 21:18:36,622 INFO shoot exit code: None
+2018-02-21 21:18:36,629 INFO Killing CoucouToi
+2018-02-21 21:18:36,635 INFO CoucouToi exit code: None
+2018-02-21 21:18:36,649 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:36,657 INFO Turn 1 begins
+2018-02-21 21:18:36,833 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:36,841 INFO Turn 1 begins
+2018-02-21 21:18:36,849 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:36,855 INFO Turn 1 begins
+2018-02-21 21:18:37,590 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:37,598 INFO CoucouToi command: reload
+2018-02-21 21:18:37,604 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,609 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,615 INFO Killing shoot
+2018-02-21 21:18:37,620 INFO shoot exit code: None
+2018-02-21 21:18:37,625 INFO Killing CoucouToi
+2018-02-21 21:18:37,631 INFO CoucouToi exit code: None
+2018-02-21 21:18:37,666 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:37,672 INFO CoucouToi command: reload
+2018-02-21 21:18:37,679 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,685 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,691 INFO Killing shoot
+2018-02-21 21:18:37,697 INFO shoot exit code: None
+2018-02-21 21:18:37,704 INFO Killing CoucouToi
+2018-02-21 21:18:37,711 INFO CoucouToi exit code: None
+2018-02-21 21:18:37,846 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:37,848 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:37,854 INFO CoucouToi command: reload
+2018-02-21 21:18:37,855 INFO Turn 1 begins
+2018-02-21 21:18:37,863 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,863 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:37,868 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,872 INFO CoucouToi command: reload
+2018-02-21 21:18:37,876 INFO Killing shoot
+2018-02-21 21:18:37,879 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,884 INFO shoot exit code: None
+2018-02-21 21:18:37,884 INFO shoot takes too long to answer.
+2018-02-21 21:18:37,890 INFO Killing shoot
+2018-02-21 21:18:37,890 INFO Killing CoucouToi
+2018-02-21 21:18:37,896 INFO shoot exit code: None
+2018-02-21 21:18:37,896 INFO CoucouToi exit code: None
+2018-02-21 21:18:37,902 INFO Killing CoucouToi
+2018-02-21 21:18:37,909 INFO CoucouToi exit code: None
+2018-02-21 21:18:37,926 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:37,934 INFO Turn 1 begins
+2018-02-21 21:18:38,111 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:38,120 INFO Turn 1 begins
+2018-02-21 21:18:38,124 INFO Starting new showdown: shoot vs CoucouToi
+2018-02-21 21:18:38,130 INFO Turn 1 begins
+2018-02-21 21:18:38,862 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:38,870 INFO CoucouToi command: reload
+2018-02-21 21:18:38,877 INFO shoot takes too long to answer.
+2018-02-21 21:18:38,882 INFO shoot takes too long to answer.
+2018-02-21 21:18:38,888 INFO Killing shoot
+2018-02-21 21:18:38,893 INFO shoot exit code: None
+2018-02-21 21:18:38,899 INFO Killing CoucouToi
+2018-02-21 21:18:38,905 INFO CoucouToi exit code: None
+2018-02-21 21:18:38,945 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:38,953 INFO CoucouToi command: reload
+2018-02-21 21:18:38,960 INFO shoot takes too long to answer.
+2018-02-21 21:18:38,966 INFO shoot takes too long to answer.
+2018-02-21 21:18:38,973 INFO Killing shoot
+2018-02-21 21:18:38,980 INFO shoot exit code: None
+2018-02-21 21:18:38,988 INFO Killing CoucouToi
+2018-02-21 21:18:38,995 INFO CoucouToi exit code: None
+2018-02-21 21:18:39,127 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:39,135 INFO CoucouToi command: reload
+2018-02-21 21:18:39,137 WARNING shoot took more than 1 seconds to answer.
+2018-02-21 21:18:39,141 INFO shoot takes too long to answer.
+2018-02-21 21:18:39,143 INFO CoucouToi command: reload
+2018-02-21 21:18:39,147 INFO shoot takes too long to answer.
+2018-02-21 21:18:39,149 INFO shoot takes too long to answer.
+2018-02-21 21:18:39,154 INFO Killing shoot
+2018-02-21 21:18:39,156 INFO shoot takes too long to answer.
+2018-02-21 21:18:39,160 INFO shoot exit code: None
+2018-02-21 21:18:39,162 INFO Killing shoot
+2018-02-21 21:18:39,167 INFO Killing CoucouToi
+2018-02-21 21:18:39,169 INFO shoot exit code: None
+2018-02-21 21:18:39,176 INFO CoucouToi exit code: None
+2018-02-21 21:18:39,178 INFO Killing CoucouToi
+2018-02-21 21:18:39,184 INFO CoucouToi exit code: None

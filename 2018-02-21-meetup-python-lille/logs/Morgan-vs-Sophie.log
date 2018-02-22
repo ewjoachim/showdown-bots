@@ -1,0 +1,904 @@
+2018-02-21 21:59:24,878 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:24,879 INFO Turn 1 begins
+2018-02-21 21:59:24,880 INFO Morgan command: reload
+2018-02-21 21:59:24,880 INFO Morgan command: dodge
+2018-02-21 21:59:24,886 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:24,887 INFO Turn 1 begins
+2018-02-21 21:59:24,887 INFO Morgan command: dodge
+2018-02-21 21:59:24,899 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:24,900 INFO Turn 1 begins
+2018-02-21 21:59:24,901 INFO Morgan command: dodge
+2018-02-21 21:59:25,882 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:25,883 INFO Sophie takes too long to answer.
+2018-02-21 21:59:25,883 INFO Killing Morgan
+2018-02-21 21:59:25,884 INFO Killing Morgan
+2018-02-21 21:59:25,884 INFO Morgan exit code: None
+2018-02-21 21:59:25,885 INFO Killing Sophie
+2018-02-21 21:59:25,886 INFO Sophie exit code: None
+2018-02-21 21:59:25,889 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:25,889 INFO Sophie takes too long to answer.
+2018-02-21 21:59:25,890 INFO Sophie takes too long to answer.
+2018-02-21 21:59:25,890 INFO Killing Morgan
+2018-02-21 21:59:25,891 INFO Morgan exit code: None
+2018-02-21 21:59:25,892 INFO Killing Sophie
+2018-02-21 21:59:25,893 INFO Sophie exit code: None
+2018-02-21 21:59:25,902 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:25,903 INFO Sophie takes too long to answer.
+2018-02-21 21:59:25,904 INFO Sophie takes too long to answer.
+2018-02-21 21:59:25,904 INFO Killing Morgan
+2018-02-21 21:59:25,905 INFO Morgan exit code: None
+2018-02-21 21:59:25,905 INFO Killing Sophie
+2018-02-21 21:59:25,906 INFO Sophie exit code: None
+2018-02-21 21:59:26,135 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:26,136 INFO Turn 1 begins
+2018-02-21 21:59:26,137 INFO Morgan command: dodge
+2018-02-21 21:59:26,141 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:26,142 INFO Turn 1 begins
+2018-02-21 21:59:26,143 INFO Morgan command: reload
+2018-02-21 21:59:26,144 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:26,145 INFO Turn 1 begins
+2018-02-21 21:59:26,145 INFO Morgan command: dodge
+2018-02-21 21:59:26,162 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:26,163 INFO Turn 1 begins
+2018-02-21 21:59:26,164 INFO Morgan command: shoot
+2018-02-21 21:59:27,139 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:27,141 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,142 INFO Killing Morgan
+2018-02-21 21:59:27,143 INFO Morgan exit code: None
+2018-02-21 21:59:27,144 INFO Killing Sophie
+2018-02-21 21:59:27,145 INFO Sophie exit code: None
+2018-02-21 21:59:27,145 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:27,146 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,147 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:27,147 INFO Killing Morgan
+2018-02-21 21:59:27,148 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,149 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,149 INFO Morgan exit code: None
+2018-02-21 21:59:27,150 INFO Killing Sophie
+2018-02-21 21:59:27,150 INFO Killing Morgan
+2018-02-21 21:59:27,151 INFO Sophie exit code: None
+2018-02-21 21:59:27,151 INFO Morgan exit code: None
+2018-02-21 21:59:27,153 INFO Killing Sophie
+2018-02-21 21:59:27,154 INFO Sophie exit code: None
+2018-02-21 21:59:27,166 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:27,167 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,168 INFO Sophie takes too long to answer.
+2018-02-21 21:59:27,168 INFO Killing Morgan
+2018-02-21 21:59:27,169 INFO Morgan exit code: None
+2018-02-21 21:59:27,170 INFO Killing Sophie
+2018-02-21 21:59:27,171 INFO Sophie exit code: None
+2018-02-21 21:59:27,398 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:27,399 INFO Turn 1 begins
+2018-02-21 21:59:27,400 INFO Morgan command: shoot
+2018-02-21 21:59:27,400 INFO Morgan command: reload
+2018-02-21 21:59:27,407 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:27,408 INFO Turn 1 begins
+2018-02-21 21:59:27,409 INFO Morgan command: shoot
+2018-02-21 21:59:27,424 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:27,426 INFO Turn 1 begins
+2018-02-21 21:59:27,427 INFO Morgan command: dodge
+2018-02-21 21:59:28,403 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:28,404 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,405 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,406 INFO Killing Morgan
+2018-02-21 21:59:28,408 INFO Morgan exit code: None
+2018-02-21 21:59:28,409 INFO Killing Sophie
+2018-02-21 21:59:28,410 INFO Sophie exit code: None
+2018-02-21 21:59:28,410 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:28,412 INFO Sophie exit code: None
+2018-02-21 21:59:28,412 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,413 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,415 INFO Killing Morgan
+2018-02-21 21:59:28,416 INFO Morgan exit code: None
+2018-02-21 21:59:28,418 INFO Killing Sophie
+2018-02-21 21:59:28,419 INFO Sophie exit code: None
+2018-02-21 21:59:28,429 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:28,430 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,431 INFO Sophie takes too long to answer.
+2018-02-21 21:59:28,433 INFO Killing Morgan
+2018-02-21 21:59:28,434 INFO Morgan exit code: None
+2018-02-21 21:59:28,435 INFO Killing Sophie
+2018-02-21 21:59:28,436 INFO Sophie exit code: None
+2018-02-21 21:59:28,661 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:28,662 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:28,663 INFO Turn 1 begins
+2018-02-21 21:59:28,664 INFO Turn 1 begins
+2018-02-21 21:59:28,664 INFO Morgan command: reload
+2018-02-21 21:59:28,665 INFO Morgan command: reload
+2018-02-21 21:59:28,671 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:28,673 INFO Turn 1 begins
+2018-02-21 21:59:28,675 INFO Morgan command: reload
+2018-02-21 21:59:28,682 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:28,684 INFO Turn 1 begins
+2018-02-21 21:59:28,685 INFO Morgan command: dodge
+2018-02-21 21:59:29,666 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:29,668 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,670 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,671 INFO Killing Morgan
+2018-02-21 21:59:29,672 INFO Morgan exit code: None
+2018-02-21 21:59:29,674 INFO Killing Sophie
+2018-02-21 21:59:29,675 INFO Sophie exit code: None
+2018-02-21 21:59:29,677 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:29,678 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,679 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,681 INFO Killing Morgan
+2018-02-21 21:59:29,683 INFO Morgan exit code: None
+2018-02-21 21:59:29,685 INFO Killing Sophie
+2018-02-21 21:59:29,686 INFO Sophie exit code: None
+2018-02-21 21:59:29,687 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:29,689 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,691 INFO Sophie takes too long to answer.
+2018-02-21 21:59:29,692 INFO Killing Morgan
+2018-02-21 21:59:29,694 INFO Morgan exit code: None
+2018-02-21 21:59:29,695 INFO Killing Sophie
+2018-02-21 21:59:29,697 INFO Sophie exit code: None
+2018-02-21 21:59:29,929 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:29,931 INFO Turn 1 begins
+2018-02-21 21:59:29,933 INFO Morgan command: reload
+2018-02-21 21:59:29,933 INFO Morgan command: dodge
+2018-02-21 21:59:29,938 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:29,940 INFO Turn 1 begins
+2018-02-21 21:59:29,941 INFO Morgan command: shoot
+2018-02-21 21:59:29,947 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:29,948 INFO Turn 1 begins
+2018-02-21 21:59:29,949 INFO Morgan command: shoot
+2018-02-21 21:59:30,935 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:30,937 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,939 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,940 INFO Killing Morgan
+2018-02-21 21:59:30,941 INFO Killing Morgan
+2018-02-21 21:59:30,942 INFO Morgan exit code: None
+2018-02-21 21:59:30,944 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:30,944 INFO Killing Sophie
+2018-02-21 21:59:30,945 INFO Killing Sophie
+2018-02-21 21:59:30,946 INFO Sophie exit code: None
+2018-02-21 21:59:30,946 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,947 INFO Sophie exit code: None
+2018-02-21 21:59:30,948 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,950 INFO Killing Morgan
+2018-02-21 21:59:30,951 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:30,952 INFO Morgan exit code: None
+2018-02-21 21:59:30,953 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,954 INFO Killing Sophie
+2018-02-21 21:59:30,955 INFO Sophie takes too long to answer.
+2018-02-21 21:59:30,956 INFO Sophie exit code: None
+2018-02-21 21:59:30,957 INFO Killing Morgan
+2018-02-21 21:59:30,959 INFO Morgan exit code: None
+2018-02-21 21:59:30,962 INFO Killing Sophie
+2018-02-21 21:59:30,964 INFO Sophie exit code: None
+2018-02-21 21:59:31,202 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:31,205 INFO Turn 1 begins
+2018-02-21 21:59:31,205 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:31,207 INFO Morgan command: shoot
+2018-02-21 21:59:31,207 INFO Turn 1 begins
+2018-02-21 21:59:31,208 INFO Morgan command: dodge
+2018-02-21 21:59:31,210 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:31,212 INFO Turn 1 begins
+2018-02-21 21:59:31,213 INFO Morgan command: reload
+2018-02-21 21:59:31,215 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:31,216 INFO Turn 1 begins
+2018-02-21 21:59:31,218 INFO Morgan command: reload
+2018-02-21 21:59:32,209 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:32,211 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,211 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:32,213 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,214 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,215 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:32,216 INFO Killing Morgan
+2018-02-21 21:59:32,216 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,218 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,218 INFO Killing Morgan
+2018-02-21 21:59:32,218 INFO Morgan exit code: None
+2018-02-21 21:59:32,220 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:32,220 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,221 INFO Morgan exit code: None
+2018-02-21 21:59:32,221 INFO Killing Sophie
+2018-02-21 21:59:32,223 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,224 INFO Killing Sophie
+2018-02-21 21:59:32,224 INFO Sophie exit code: None
+2018-02-21 21:59:32,225 INFO Sophie takes too long to answer.
+2018-02-21 21:59:32,226 INFO Killing Morgan
+2018-02-21 21:59:32,226 INFO Sophie exit code: None
+2018-02-21 21:59:32,228 INFO Killing Morgan
+2018-02-21 21:59:32,229 INFO Morgan exit code: None
+2018-02-21 21:59:32,230 INFO Morgan exit code: None
+2018-02-21 21:59:32,232 INFO Killing Sophie
+2018-02-21 21:59:32,233 INFO Killing Sophie
+2018-02-21 21:59:32,235 INFO Sophie exit code: None
+2018-02-21 21:59:32,236 INFO Sophie exit code: None
+2018-02-21 21:59:32,477 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:32,480 INFO Turn 1 begins
+2018-02-21 21:59:32,482 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:32,482 INFO Morgan command: reload
+2018-02-21 21:59:32,484 INFO Turn 1 begins
+2018-02-21 21:59:32,485 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:32,486 INFO Morgan command: dodge
+2018-02-21 21:59:32,487 INFO Turn 1 begins
+2018-02-21 21:59:32,489 INFO Morgan command: dodge
+2018-02-21 21:59:32,493 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:32,495 INFO Turn 1 begins
+2018-02-21 21:59:32,497 INFO Morgan command: shoot
+2018-02-21 21:59:33,484 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:33,487 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,488 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:33,490 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,491 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,492 INFO Killing Morgan
+2018-02-21 21:59:33,492 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:33,493 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,495 INFO Morgan exit code: None
+2018-02-21 21:59:33,495 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,497 INFO Killing Morgan
+2018-02-21 21:59:33,497 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,498 INFO Killing Sophie
+2018-02-21 21:59:33,499 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:33,500 INFO Killing Morgan
+2018-02-21 21:59:33,500 INFO Sophie exit code: None
+2018-02-21 21:59:33,501 INFO Morgan exit code: None
+2018-02-21 21:59:33,503 INFO Morgan exit code: None
+2018-02-21 21:59:33,503 INFO Killing Sophie
+2018-02-21 21:59:33,505 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,506 INFO Killing Sophie
+2018-02-21 21:59:33,506 INFO Sophie exit code: None
+2018-02-21 21:59:33,507 INFO Sophie takes too long to answer.
+2018-02-21 21:59:33,509 INFO Sophie exit code: None
+2018-02-21 21:59:33,511 INFO Killing Morgan
+2018-02-21 21:59:33,514 INFO Morgan exit code: None
+2018-02-21 21:59:33,517 INFO Killing Sophie
+2018-02-21 21:59:33,520 INFO Sophie exit code: None
+2018-02-21 21:59:33,753 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:33,756 INFO Turn 1 begins
+2018-02-21 21:59:33,757 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:33,758 INFO Morgan command: reload
+2018-02-21 21:59:33,760 INFO Turn 1 begins
+2018-02-21 21:59:33,762 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:33,762 INFO Morgan command: reload
+2018-02-21 21:59:33,765 INFO Turn 1 begins
+2018-02-21 21:59:33,767 INFO Morgan command: dodge
+2018-02-21 21:59:33,781 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:33,784 INFO Turn 1 begins
+2018-02-21 21:59:33,787 INFO Morgan command: dodge
+2018-02-21 21:59:34,762 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:34,765 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,766 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:34,768 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,769 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:34,770 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,771 INFO Killing Morgan
+2018-02-21 21:59:34,773 INFO Killing Morgan
+2018-02-21 21:59:34,773 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,774 INFO Morgan exit code: None
+2018-02-21 21:59:34,775 INFO Morgan exit code: None
+2018-02-21 21:59:34,776 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,777 INFO Killing Sophie
+2018-02-21 21:59:34,779 INFO Killing Sophie
+2018-02-21 21:59:34,779 INFO Killing Morgan
+2018-02-21 21:59:34,780 INFO Sophie exit code: None
+2018-02-21 21:59:34,781 INFO Sophie exit code: None
+2018-02-21 21:59:34,782 INFO Morgan exit code: None
+2018-02-21 21:59:34,786 INFO Killing Sophie
+2018-02-21 21:59:34,790 INFO Sophie exit code: None
+2018-02-21 21:59:34,790 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:34,794 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,797 INFO Sophie takes too long to answer.
+2018-02-21 21:59:34,800 INFO Killing Morgan
+2018-02-21 21:59:34,803 INFO Morgan exit code: None
+2018-02-21 21:59:34,806 INFO Killing Sophie
+2018-02-21 21:59:34,810 INFO Sophie exit code: None
+2018-02-21 21:59:35,038 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:35,042 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:35,043 INFO Turn 1 begins
+2018-02-21 21:59:35,046 INFO Morgan command: shoot
+2018-02-21 21:59:35,047 INFO Morgan command: shoot
+2018-02-21 21:59:35,047 INFO Turn 1 begins
+2018-02-21 21:59:35,050 INFO Morgan command: reload
+2018-02-21 21:59:35,061 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:35,064 INFO Turn 1 begins
+2018-02-21 21:59:35,067 INFO Morgan command: dodge
+2018-02-21 21:59:36,050 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:36,053 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:36,054 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,056 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,058 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,059 INFO Killing Morgan
+2018-02-21 21:59:36,060 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,062 INFO Killing Morgan
+2018-02-21 21:59:36,063 INFO Morgan exit code: None
+2018-02-21 21:59:36,063 INFO Killing Morgan
+2018-02-21 21:59:36,065 INFO Morgan exit code: None
+2018-02-21 21:59:36,067 INFO Killing Sophie
+2018-02-21 21:59:36,067 INFO Morgan exit code: None
+2018-02-21 21:59:36,069 INFO Killing Sophie
+2018-02-21 21:59:36,070 INFO Sophie exit code: None
+2018-02-21 21:59:36,070 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:36,071 INFO Killing Sophie
+2018-02-21 21:59:36,072 INFO Sophie exit code: None
+2018-02-21 21:59:36,074 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,074 INFO Sophie exit code: None
+2018-02-21 21:59:36,078 INFO Sophie takes too long to answer.
+2018-02-21 21:59:36,082 INFO Killing Morgan
+2018-02-21 21:59:36,085 INFO Morgan exit code: None
+2018-02-21 21:59:36,091 INFO Killing Sophie
+2018-02-21 21:59:36,095 INFO Sophie exit code: None
+2018-02-21 21:59:36,322 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:36,325 INFO Turn 1 begins
+2018-02-21 21:59:36,328 INFO Morgan command: dodge
+2018-02-21 21:59:36,329 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:36,332 INFO Turn 1 begins
+2018-02-21 21:59:36,333 INFO Turn 1 begins
+2018-02-21 21:59:36,335 INFO Morgan command: shoot
+2018-02-21 21:59:36,335 INFO Morgan command: reload
+2018-02-21 21:59:36,350 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:36,355 INFO Turn 1 begins
+2018-02-21 21:59:36,357 INFO Morgan command: reload
+2018-02-21 21:59:37,332 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:37,336 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,338 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:37,338 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,341 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,343 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,343 INFO Killing Morgan
+2018-02-21 21:59:37,344 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,346 INFO Morgan exit code: None
+2018-02-21 21:59:37,346 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,348 INFO Killing Morgan
+2018-02-21 21:59:37,350 INFO Killing Sophie
+2018-02-21 21:59:37,350 INFO Killing Morgan
+2018-02-21 21:59:37,350 INFO Morgan exit code: None
+2018-02-21 21:59:37,353 INFO Sophie exit code: None
+2018-02-21 21:59:37,354 INFO Morgan exit code: None
+2018-02-21 21:59:37,355 INFO Killing Sophie
+2018-02-21 21:59:37,357 INFO Killing Sophie
+2018-02-21 21:59:37,358 INFO Sophie exit code: None
+2018-02-21 21:59:37,361 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:37,362 INFO Sophie exit code: None
+2018-02-21 21:59:37,365 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,369 INFO Sophie takes too long to answer.
+2018-02-21 21:59:37,372 INFO Killing Morgan
+2018-02-21 21:59:37,379 INFO Morgan exit code: None
+2018-02-21 21:59:37,383 INFO Killing Sophie
+2018-02-21 21:59:37,387 INFO Sophie exit code: None
+2018-02-21 21:59:37,607 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:37,610 INFO Turn 1 begins
+2018-02-21 21:59:37,613 INFO Morgan command: reload
+2018-02-21 21:59:37,614 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:37,617 INFO Turn 1 begins
+2018-02-21 21:59:37,619 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:37,620 INFO Morgan command: reload
+2018-02-21 21:59:37,622 INFO Turn 1 begins
+2018-02-21 21:59:37,624 INFO Morgan command: reload
+2018-02-21 21:59:37,644 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:37,648 INFO Turn 1 begins
+2018-02-21 21:59:37,651 INFO Morgan command: dodge
+2018-02-21 21:59:38,616 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:38,620 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,623 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,623 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:38,626 INFO Killing Morgan
+2018-02-21 21:59:38,626 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,628 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:38,629 INFO Morgan exit code: None
+2018-02-21 21:59:38,629 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,632 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,633 INFO Killing Morgan
+2018-02-21 21:59:38,633 INFO Killing Sophie
+2018-02-21 21:59:38,636 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,636 INFO Morgan exit code: None
+2018-02-21 21:59:38,637 INFO Sophie exit code: None
+2018-02-21 21:59:38,640 INFO Killing Morgan
+2018-02-21 21:59:38,640 INFO Killing Sophie
+2018-02-21 21:59:38,644 INFO Morgan exit code: None
+2018-02-21 21:59:38,644 INFO Sophie exit code: None
+2018-02-21 21:59:38,648 INFO Killing Sophie
+2018-02-21 21:59:38,652 INFO Sophie exit code: None
+2018-02-21 21:59:38,655 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:38,660 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,664 INFO Sophie takes too long to answer.
+2018-02-21 21:59:38,669 INFO Killing Morgan
+2018-02-21 21:59:38,673 INFO Morgan exit code: None
+2018-02-21 21:59:38,679 INFO Killing Sophie
+2018-02-21 21:59:38,683 INFO Sophie exit code: None
+2018-02-21 21:59:38,889 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:38,892 INFO Turn 1 begins
+2018-02-21 21:59:38,895 INFO Morgan command: shoot
+2018-02-21 21:59:38,896 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:38,899 INFO Turn 1 begins
+2018-02-21 21:59:38,902 INFO Morgan command: reload
+2018-02-21 21:59:38,909 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:38,913 INFO Turn 1 begins
+2018-02-21 21:59:38,916 INFO Morgan command: dodge
+2018-02-21 21:59:38,944 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:38,949 INFO Turn 1 begins
+2018-02-21 21:59:38,952 INFO Morgan command: shoot
+2018-02-21 21:59:39,899 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:39,903 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,905 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:39,907 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,908 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,910 INFO Killing Morgan
+2018-02-21 21:59:39,911 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,913 INFO Morgan exit code: None
+2018-02-21 21:59:39,915 INFO Killing Morgan
+2018-02-21 21:59:39,916 INFO Killing Sophie
+2018-02-21 21:59:39,918 INFO Morgan exit code: None
+2018-02-21 21:59:39,920 INFO Sophie exit code: None
+2018-02-21 21:59:39,920 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:39,922 INFO Killing Sophie
+2018-02-21 21:59:39,924 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,926 INFO Sophie exit code: None
+2018-02-21 21:59:39,928 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,931 INFO Killing Morgan
+2018-02-21 21:59:39,936 INFO Morgan exit code: None
+2018-02-21 21:59:39,941 INFO Killing Sophie
+2018-02-21 21:59:39,946 INFO Sophie exit code: None
+2018-02-21 21:59:39,957 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:39,962 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,967 INFO Sophie takes too long to answer.
+2018-02-21 21:59:39,972 INFO Killing Morgan
+2018-02-21 21:59:39,976 INFO Morgan exit code: None
+2018-02-21 21:59:39,982 INFO Killing Sophie
+2018-02-21 21:59:39,986 INFO Sophie exit code: None
+2018-02-21 21:59:40,170 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:40,174 INFO Turn 1 begins
+2018-02-21 21:59:40,178 INFO Morgan command: shoot
+2018-02-21 21:59:40,179 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:40,185 INFO Turn 1 begins
+2018-02-21 21:59:40,188 INFO Morgan command: dodge
+2018-02-21 21:59:40,224 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:40,229 INFO Turn 1 begins
+2018-02-21 21:59:40,232 INFO Morgan command: reload
+2018-02-21 21:59:40,256 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:40,261 INFO Turn 1 begins
+2018-02-21 21:59:40,264 INFO Morgan command: shoot
+2018-02-21 21:59:41,184 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:41,189 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,192 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,192 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:41,196 INFO Killing Morgan
+2018-02-21 21:59:41,196 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,199 INFO Morgan exit code: None
+2018-02-21 21:59:41,199 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,202 INFO Killing Sophie
+2018-02-21 21:59:41,203 INFO Killing Morgan
+2018-02-21 21:59:41,205 INFO Sophie exit code: None
+2018-02-21 21:59:41,206 INFO Morgan exit code: None
+2018-02-21 21:59:41,209 INFO Killing Sophie
+2018-02-21 21:59:41,213 INFO Sophie exit code: None
+2018-02-21 21:59:41,236 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:41,241 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,247 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,252 INFO Killing Morgan
+2018-02-21 21:59:41,257 INFO Morgan exit code: None
+2018-02-21 21:59:41,262 INFO Killing Sophie
+2018-02-21 21:59:41,267 INFO Sophie exit code: None
+2018-02-21 21:59:41,268 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:41,273 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,279 INFO Sophie takes too long to answer.
+2018-02-21 21:59:41,284 INFO Killing Morgan
+2018-02-21 21:59:41,289 INFO Morgan exit code: None
+2018-02-21 21:59:41,294 INFO Killing Sophie
+2018-02-21 21:59:41,299 INFO Sophie exit code: None
+2018-02-21 21:59:41,436 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:41,443 INFO Turn 1 begins
+2018-02-21 21:59:41,447 INFO Morgan command: dodge
+2018-02-21 21:59:41,450 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:41,455 INFO Turn 1 begins
+2018-02-21 21:59:41,460 INFO Morgan command: reload
+2018-02-21 21:59:41,521 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:41,526 INFO Turn 1 begins
+2018-02-21 21:59:41,530 INFO Morgan command: dodge
+2018-02-21 21:59:41,546 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:41,551 INFO Turn 1 begins
+2018-02-21 21:59:41,555 INFO Morgan command: reload
+2018-02-21 21:59:42,454 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:42,459 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,463 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,466 INFO Killing Morgan
+2018-02-21 21:59:42,467 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:42,470 INFO Morgan exit code: None
+2018-02-21 21:59:42,470 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,473 INFO Killing Sophie
+2018-02-21 21:59:42,474 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,477 INFO Sophie exit code: None
+2018-02-21 21:59:42,478 INFO Killing Morgan
+2018-02-21 21:59:42,482 INFO Morgan exit code: None
+2018-02-21 21:59:42,486 INFO Killing Sophie
+2018-02-21 21:59:42,489 INFO Sophie exit code: None
+2018-02-21 21:59:42,533 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:42,537 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,541 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,544 INFO Killing Morgan
+2018-02-21 21:59:42,549 INFO Morgan exit code: None
+2018-02-21 21:59:42,553 INFO Killing Sophie
+2018-02-21 21:59:42,557 INFO Sophie exit code: None
+2018-02-21 21:59:42,558 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:42,564 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,570 INFO Sophie takes too long to answer.
+2018-02-21 21:59:42,576 INFO Killing Morgan
+2018-02-21 21:59:42,581 INFO Morgan exit code: None
+2018-02-21 21:59:42,588 INFO Killing Sophie
+2018-02-21 21:59:42,593 INFO Sophie exit code: None
+2018-02-21 21:59:42,700 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:42,705 INFO Turn 1 begins
+2018-02-21 21:59:42,711 INFO Morgan command: dodge
+2018-02-21 21:59:42,718 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:42,722 INFO Turn 1 begins
+2018-02-21 21:59:42,727 INFO Morgan command: reload
+2018-02-21 21:59:42,807 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:42,813 INFO Turn 1 begins
+2018-02-21 21:59:42,817 INFO Morgan command: reload
+2018-02-21 21:59:42,837 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:42,842 INFO Turn 1 begins
+2018-02-21 21:59:42,846 INFO Morgan command: reload
+2018-02-21 21:59:43,717 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:43,723 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,727 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,730 INFO Killing Morgan
+2018-02-21 21:59:43,732 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:43,734 INFO Morgan exit code: None
+2018-02-21 21:59:43,736 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,738 INFO Killing Sophie
+2018-02-21 21:59:43,740 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,742 INFO Sophie exit code: None
+2018-02-21 21:59:43,743 INFO Killing Morgan
+2018-02-21 21:59:43,747 INFO Morgan exit code: None
+2018-02-21 21:59:43,751 INFO Killing Sophie
+2018-02-21 21:59:43,755 INFO Sophie exit code: None
+2018-02-21 21:59:43,821 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:43,826 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,831 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,834 INFO Killing Morgan
+2018-02-21 21:59:43,840 INFO Morgan exit code: None
+2018-02-21 21:59:43,844 INFO Killing Sophie
+2018-02-21 21:59:43,848 INFO Sophie exit code: None
+2018-02-21 21:59:43,851 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:43,857 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,863 INFO Sophie takes too long to answer.
+2018-02-21 21:59:43,869 INFO Killing Morgan
+2018-02-21 21:59:43,881 INFO Morgan exit code: 1
+2018-02-21 21:59:43,887 INFO Killing Sophie
+2018-02-21 21:59:43,898 INFO Sophie exit code: 120
+2018-02-21 21:59:43,966 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:43,970 INFO Turn 1 begins
+2018-02-21 21:59:43,973 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:43,978 INFO Turn 1 begins
+2018-02-21 21:59:43,978 INFO Morgan command: dodge
+2018-02-21 21:59:43,984 INFO Morgan command: dodge
+2018-02-21 21:59:44,092 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:44,097 INFO Turn 1 begins
+2018-02-21 21:59:44,102 INFO Morgan command: dodge
+2018-02-21 21:59:44,122 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:44,127 INFO Turn 1 begins
+2018-02-21 21:59:44,131 INFO Morgan command: reload
+2018-02-21 21:59:44,986 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:44,990 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:44,991 INFO Sophie takes too long to answer.
+2018-02-21 21:59:44,995 INFO Sophie takes too long to answer.
+2018-02-21 21:59:44,998 INFO Sophie takes too long to answer.
+2018-02-21 21:59:44,999 INFO Killing Morgan
+2018-02-21 21:59:45,002 INFO Killing Morgan
+2018-02-21 21:59:45,003 INFO Morgan exit code: None
+2018-02-21 21:59:45,007 INFO Morgan exit code: None
+2018-02-21 21:59:45,007 INFO Killing Sophie
+2018-02-21 21:59:45,011 INFO Killing Sophie
+2018-02-21 21:59:45,011 INFO Sophie exit code: None
+2018-02-21 21:59:45,015 INFO Sophie exit code: None
+2018-02-21 21:59:45,106 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:45,110 INFO Sophie takes too long to answer.
+2018-02-21 21:59:45,113 INFO Sophie takes too long to answer.
+2018-02-21 21:59:45,118 INFO Killing Morgan
+2018-02-21 21:59:45,123 INFO Morgan exit code: None
+2018-02-21 21:59:45,128 INFO Killing Sophie
+2018-02-21 21:59:45,132 INFO Sophie exit code: None
+2018-02-21 21:59:45,136 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:45,143 INFO Sophie takes too long to answer.
+2018-02-21 21:59:45,149 INFO Sophie takes too long to answer.
+2018-02-21 21:59:45,155 INFO Killing Morgan
+2018-02-21 21:59:45,167 INFO Morgan exit code: 1
+2018-02-21 21:59:45,173 INFO Killing Sophie
+2018-02-21 21:59:45,184 INFO Sophie exit code: 1
+2018-02-21 21:59:45,224 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:45,228 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:45,230 INFO Turn 1 begins
+2018-02-21 21:59:45,234 INFO Turn 1 begins
+2018-02-21 21:59:45,237 INFO Morgan command: dodge
+2018-02-21 21:59:45,241 INFO Morgan command: dodge
+2018-02-21 21:59:45,364 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:45,370 INFO Turn 1 begins
+2018-02-21 21:59:45,374 INFO Morgan command: dodge
+2018-02-21 21:59:45,405 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:45,411 INFO Turn 1 begins
+2018-02-21 21:59:45,415 INFO Morgan command: dodge
+2018-02-21 21:59:46,244 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:46,248 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:46,250 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,253 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,255 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,257 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,259 INFO Killing Morgan
+2018-02-21 21:59:46,261 INFO Killing Morgan
+2018-02-21 21:59:46,263 INFO Morgan exit code: None
+2018-02-21 21:59:46,265 INFO Morgan exit code: None
+2018-02-21 21:59:46,268 INFO Killing Sophie
+2018-02-21 21:59:46,270 INFO Killing Sophie
+2018-02-21 21:59:46,272 INFO Sophie exit code: None
+2018-02-21 21:59:46,274 INFO Sophie exit code: None
+2018-02-21 21:59:46,379 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:46,386 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,393 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,400 INFO Killing Morgan
+2018-02-21 21:59:46,406 INFO Morgan exit code: None
+2018-02-21 21:59:46,413 INFO Killing Sophie
+2018-02-21 21:59:46,419 INFO Sophie exit code: None
+2018-02-21 21:59:46,420 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:46,426 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,433 INFO Sophie takes too long to answer.
+2018-02-21 21:59:46,439 INFO Killing Morgan
+2018-02-21 21:59:46,450 INFO Morgan exit code: None
+2018-02-21 21:59:46,456 INFO Killing Sophie
+2018-02-21 21:59:46,461 INFO Sophie exit code: None
+2018-02-21 21:59:46,486 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:46,493 INFO Turn 1 begins
+2018-02-21 21:59:46,494 INFO Turn 1 begins
+2018-02-21 21:59:46,500 INFO Morgan command: reload
+2018-02-21 21:59:46,503 INFO Morgan command: shoot
+2018-02-21 21:59:46,641 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:46,647 INFO Turn 1 begins
+2018-02-21 21:59:46,652 INFO Morgan command: dodge
+2018-02-21 21:59:46,675 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:46,681 INFO Turn 1 begins
+2018-02-21 21:59:46,685 INFO Morgan command: dodge
+2018-02-21 21:59:47,509 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:47,511 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:47,515 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,516 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,520 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,521 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,525 INFO Killing Morgan
+2018-02-21 21:59:47,529 INFO Morgan exit code: None
+2018-02-21 21:59:47,530 INFO Morgan exit code: None
+2018-02-21 21:59:47,534 INFO Killing Sophie
+2018-02-21 21:59:47,535 INFO Killing Sophie
+2018-02-21 21:59:47,539 INFO Sophie exit code: None
+2018-02-21 21:59:47,658 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:47,665 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,672 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,677 INFO Killing Morgan
+2018-02-21 21:59:47,683 INFO Morgan exit code: None
+2018-02-21 21:59:47,690 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:47,690 INFO Killing Sophie
+2018-02-21 21:59:47,697 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,697 INFO Sophie exit code: None
+2018-02-21 21:59:47,704 INFO Sophie takes too long to answer.
+2018-02-21 21:59:47,711 INFO Killing Morgan
+2018-02-21 21:59:47,718 INFO Morgan exit code: None
+2018-02-21 21:59:47,724 INFO Killing Sophie
+2018-02-21 21:59:47,728 INFO Sophie exit code: None
+2018-02-21 21:59:47,753 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:47,754 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:47,760 INFO Turn 1 begins
+2018-02-21 21:59:47,761 INFO Turn 1 begins
+2018-02-21 21:59:47,768 INFO Morgan command: reload
+2018-02-21 21:59:47,769 INFO Morgan command: dodge
+2018-02-21 21:59:47,915 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:47,921 INFO Turn 1 begins
+2018-02-21 21:59:47,926 INFO Morgan command: dodge
+2018-02-21 21:59:47,942 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:47,949 INFO Turn 1 begins
+2018-02-21 21:59:47,953 INFO Morgan command: reload
+2018-02-21 21:59:48,776 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:48,778 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:48,783 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,784 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,788 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,789 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,793 INFO Killing Morgan
+2018-02-21 21:59:48,798 INFO Morgan exit code: None
+2018-02-21 21:59:48,799 INFO Morgan exit code: None
+2018-02-21 21:59:48,803 INFO Killing Sophie
+2018-02-21 21:59:48,808 INFO Sophie exit code: None
+2018-02-21 21:59:48,931 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:48,937 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,944 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,948 INFO Killing Morgan
+2018-02-21 21:59:48,953 INFO Morgan exit code: None
+2018-02-21 21:59:48,959 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:48,961 INFO Killing Sophie
+2018-02-21 21:59:48,966 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,968 INFO Sophie exit code: None
+2018-02-21 21:59:48,974 INFO Sophie takes too long to answer.
+2018-02-21 21:59:48,981 INFO Killing Morgan
+2018-02-21 21:59:48,988 INFO Morgan exit code: None
+2018-02-21 21:59:48,995 INFO Killing Sophie
+2018-02-21 21:59:49,000 INFO Sophie exit code: None
+2018-02-21 21:59:49,022 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:49,031 INFO Turn 1 begins
+2018-02-21 21:59:49,039 INFO Morgan command: dodge
+2018-02-21 21:59:49,039 INFO Morgan command: shoot
+2018-02-21 21:59:49,188 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:49,194 INFO Turn 1 begins
+2018-02-21 21:59:49,199 INFO Morgan command: dodge
+2018-02-21 21:59:49,213 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:49,220 INFO Turn 1 begins
+2018-02-21 21:59:49,225 INFO Morgan command: dodge
+2018-02-21 21:59:50,048 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:50,054 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,060 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,065 INFO Killing Morgan
+2018-02-21 21:59:50,070 INFO Morgan exit code: None
+2018-02-21 21:59:50,075 INFO Killing Sophie
+2018-02-21 21:59:50,080 INFO Sophie exit code: None
+2018-02-21 21:59:50,204 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:50,210 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,215 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,223 INFO Killing Morgan
+2018-02-21 21:59:50,230 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:50,236 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,239 INFO Morgan exit code: None
+2018-02-21 21:59:50,242 INFO Sophie takes too long to answer.
+2018-02-21 21:59:50,247 INFO Killing Sophie
+2018-02-21 21:59:50,249 INFO Killing Morgan
+2018-02-21 21:59:50,255 INFO Sophie exit code: None
+2018-02-21 21:59:50,257 INFO Morgan exit code: None
+2018-02-21 21:59:50,263 INFO Killing Sophie
+2018-02-21 21:59:50,268 INFO Sophie exit code: None
+2018-02-21 21:59:50,295 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:50,297 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:50,304 INFO Turn 1 begins
+2018-02-21 21:59:50,311 INFO Turn 1 begins
+2018-02-21 21:59:50,313 INFO Morgan command: dodge
+2018-02-21 21:59:50,320 INFO Morgan command: dodge
+2018-02-21 21:59:50,471 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:50,478 INFO Turn 1 begins
+2018-02-21 21:59:50,481 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:50,483 INFO Morgan command: dodge
+2018-02-21 21:59:50,486 INFO Turn 1 begins
+2018-02-21 21:59:50,491 INFO Morgan command: reload
+2018-02-21 21:59:51,322 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:51,328 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:51,346 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,351 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,356 INFO Killing Morgan
+2018-02-21 21:59:51,361 INFO Morgan exit code: None
+2018-02-21 21:59:51,362 INFO Morgan exit code: None
+2018-02-21 21:59:51,367 INFO Killing Sophie
+2018-02-21 21:59:51,372 INFO Sophie exit code: None
+2018-02-21 21:59:51,373 INFO Sophie exit code: None
+2018-02-21 21:59:51,489 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:51,497 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:51,498 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,505 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,506 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,513 INFO Sophie takes too long to answer.
+2018-02-21 21:59:51,515 INFO Killing Morgan
+2018-02-21 21:59:51,521 INFO Killing Morgan
+2018-02-21 21:59:51,523 INFO Morgan exit code: None
+2018-02-21 21:59:51,531 INFO Killing Sophie
+2018-02-21 21:59:51,534 INFO Morgan exit code: None
+2018-02-21 21:59:51,540 INFO Sophie exit code: None
+2018-02-21 21:59:51,542 INFO Killing Sophie
+2018-02-21 21:59:51,550 INFO Sophie exit code: None
+2018-02-21 21:59:51,588 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:51,598 INFO Turn 1 begins
+2018-02-21 21:59:51,606 INFO Morgan command: shoot
+2018-02-21 21:59:51,607 INFO Morgan command: reload
+2018-02-21 21:59:51,760 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:51,767 INFO Turn 1 begins
+2018-02-21 21:59:51,768 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:51,773 INFO Morgan command: dodge
+2018-02-21 21:59:51,773 INFO Turn 1 begins
+2018-02-21 21:59:51,779 INFO Morgan command: dodge
+2018-02-21 21:59:52,616 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:52,624 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,630 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,635 INFO Killing Morgan
+2018-02-21 21:59:52,640 INFO Morgan exit code: None
+2018-02-21 21:59:52,641 INFO Morgan exit code: None
+2018-02-21 21:59:52,646 INFO Killing Sophie
+2018-02-21 21:59:52,651 INFO Sophie exit code: None
+2018-02-21 21:59:52,652 INFO Sophie exit code: None
+2018-02-21 21:59:52,779 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:52,785 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:52,788 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,793 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,797 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,802 INFO Sophie takes too long to answer.
+2018-02-21 21:59:52,805 INFO Killing Morgan
+2018-02-21 21:59:52,810 INFO Killing Morgan
+2018-02-21 21:59:52,814 INFO Morgan exit code: None
+2018-02-21 21:59:52,819 INFO Morgan exit code: None
+2018-02-21 21:59:52,825 INFO Killing Sophie
+2018-02-21 21:59:52,828 INFO Killing Sophie
+2018-02-21 21:59:52,834 INFO Sophie exit code: None
+2018-02-21 21:59:52,836 INFO Sophie exit code: None
+2018-02-21 21:59:52,866 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:52,875 INFO Turn 1 begins
+2018-02-21 21:59:52,884 INFO Morgan command: dodge
+2018-02-21 21:59:52,885 INFO Morgan command: reload
+
+2018-02-21 21:59:53,051 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:53,058 INFO Turn 1 begins
+2018-02-21 21:59:53,063 INFO Morgan command: shoot
+2018-02-21 21:59:53,063 INFO Morgan command: reload
+2018-02-21 21:59:53,894 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:53,902 INFO Sophie takes too long to answer.
+2018-02-21 21:59:53,908 INFO Sophie takes too long to answer.
+2018-02-21 21:59:53,913 INFO Killing Morgan
+2018-02-21 21:59:53,918 INFO Morgan exit code: None
+2018-02-21 21:59:53,919 INFO Morgan exit code: None
+2018-02-21 21:59:53,925 INFO Killing Sophie
+2018-02-21 21:59:53,930 INFO Sophie exit code: None
+2018-02-21 21:59:53,931 INFO Sophie exit code: None
+2018-02-21 21:59:54,069 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:54,078 INFO Sophie takes too long to answer.
+2018-02-21 21:59:54,087 INFO Sophie takes too long to answer.
+2018-02-21 21:59:54,096 INFO Killing Morgan
+2018-02-21 21:59:54,106 INFO Morgan exit code: None
+2018-02-21 21:59:54,113 INFO Killing Sophie
+2018-02-21 21:59:54,114 INFO Killing Sophie
+2018-02-21 21:59:54,119 INFO Sophie exit code: None
+2018-02-21 21:59:54,146 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:54,156 INFO Turn 1 begins
+2018-02-21 21:59:54,165 INFO Morgan command: shoot
+2018-02-21 21:59:54,165 INFO Morgan command: dodge
+2018-02-21 21:59:54,334 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:54,342 INFO Turn 1 begins
+2018-02-21 21:59:54,348 INFO Morgan command: dodge
+2018-02-21 21:59:55,175 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:55,176 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:55,183 INFO Sophie takes too long to answer.
+2018-02-21 21:59:55,184 INFO Sophie takes too long to answer.
+2018-02-21 21:59:55,189 INFO Sophie takes too long to answer.
+2018-02-21 21:59:55,195 INFO Killing Morgan
+2018-02-21 21:59:55,201 INFO Morgan exit code: None
+2018-02-21 21:59:55,209 INFO Killing Sophie
+2018-02-21 21:59:55,215 INFO Sophie exit code: None
+2018-02-21 21:59:55,355 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:55,364 INFO Sophie takes too long to answer.
+2018-02-21 21:59:55,373 INFO Sophie takes too long to answer.
+2018-02-21 21:59:55,382 INFO Killing Morgan
+2018-02-21 21:59:55,392 INFO Morgan exit code: None
+2018-02-21 21:59:55,398 INFO Killing Sophie
+2018-02-21 21:59:55,404 INFO Sophie exit code: None
+2018-02-21 21:59:55,431 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:55,441 INFO Turn 1 begins
+2018-02-21 21:59:55,451 INFO Morgan command: dodge
+2018-02-21 21:59:55,451 INFO Morgan command: shoot
+2018-02-21 21:59:55,618 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:55,619 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 21:59:55,627 INFO Turn 1 begins
+2018-02-21 21:59:55,634 INFO Morgan command: reload
+2018-02-21 21:59:55,634 INFO Morgan command: dodge
+2018-02-21 21:59:56,461 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:56,462 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:56,470 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,471 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,476 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,477 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,482 INFO Killing Morgan
+2018-02-21 21:59:56,483 INFO Killing Morgan
+2018-02-21 21:59:56,488 INFO Morgan exit code: None
+2018-02-21 21:59:56,490 INFO Morgan exit code: None
+2018-02-21 21:59:56,495 INFO Killing Sophie
+2018-02-21 21:59:56,496 INFO Killing Sophie
+2018-02-21 21:59:56,501 INFO Sophie exit code: None
+2018-02-21 21:59:56,502 INFO Sophie exit code: None
+2018-02-21 21:59:56,641 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 21:59:56,649 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,655 INFO Sophie takes too long to answer.
+2018-02-21 21:59:56,661 INFO Killing Morgan
+2018-02-21 21:59:56,667 INFO Morgan exit code: None
+2018-02-21 21:59:56,673 INFO Killing Sophie
+2018-02-21 21:59:56,674 INFO Killing Sophie
+2018-02-21 21:59:56,679 INFO Sophie exit code: None
+2018-02-21 21:59:56,680 INFO Sophie exit code: None
+2018-02-21 22:00:03,044 INFO Starting new showdown: Morgan vs Sophie
+2018-02-21 22:00:03,047 INFO Turn 1 begins
+2018-02-21 22:00:03,047 INFO Morgan command: reload
+2018-02-21 22:00:04,052 WARNING Sophie took more than 1 seconds to answer.
+2018-02-21 22:00:04,052 INFO Sophie takes too long to answer.
+2018-02-21 22:00:04,053 INFO Sophie takes too long to answer.
+2018-02-21 22:00:04,053 INFO Killing Morgan
+2018-02-21 22:00:04,054 INFO Morgan exit code: None
+2018-02-21 22:00:04,054 INFO Killing Sophie
+2018-02-21 22:00:04,054 INFO Sophie exit code: None

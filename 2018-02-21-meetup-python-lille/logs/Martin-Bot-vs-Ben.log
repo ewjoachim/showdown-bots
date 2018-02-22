@@ -1,0 +1,651 @@
+2018-02-21 22:05:53,046 INFO Starting new showdown: Martin-Bot vs Ben
+2018-02-21 22:05:53,049 INFO Turn 1 begins
+2018-02-21 22:05:53,049 INFO Martin-Bot command: shoot
+2018-02-21 22:05:53,049 INFO Ben command: dodge
+2018-02-21 22:05:53,049 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:05:53,049 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:05:53,050 INFO Turn 2 begins
+2018-02-21 22:05:53,050 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,051 INFO Ben command: reload
+2018-02-21 22:05:53,051 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,051 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,051 INFO Turn 3 begins
+2018-02-21 22:05:53,051 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,052 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,052 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,052 INFO Turn 4 begins
+2018-02-21 22:05:53,052 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,052 INFO Ben command: shoot
+2018-02-21 22:05:53,052 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,052 INFO Turn 5 begins
+2018-02-21 22:05:53,053 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,053 INFO Ben command: shoot
+2018-02-21 22:05:53,053 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,053 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,053 INFO Turn 6 begins
+2018-02-21 22:05:53,053 INFO Ben command: reload
+2018-02-21 22:05:53,053 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,054 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,054 INFO Turn 7 begins
+2018-02-21 22:05:53,054 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,054 INFO Ben command: reload
+2018-02-21 22:05:53,054 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,054 INFO Turn 8 begins
+2018-02-21 22:05:53,055 INFO Ben command: reload
+2018-02-21 22:05:53,055 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,055 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,055 INFO Turn 9 begins
+2018-02-21 22:05:53,055 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,055 INFO Ben command: shoot
+2018-02-21 22:05:53,055 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,056 INFO Turn 10 begins
+2018-02-21 22:05:53,056 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,056 INFO Ben command: shoot
+2018-02-21 22:05:53,056 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,056 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,056 INFO Turn 11 begins
+2018-02-21 22:05:53,057 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,057 INFO Ben command: shoot
+2018-02-21 22:05:53,057 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,057 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,057 INFO Turn 12 begins
+2018-02-21 22:05:53,058 INFO Ben command: shoot
+2018-02-21 22:05:53,058 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,058 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,058 INFO Turn 13 begins
+2018-02-21 22:05:53,058 INFO Martin-Bot command: reload
+2018-02-21 22:05:53,058 INFO Ben command: reload
+2018-02-21 22:05:53,058 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,059 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:05:53,059 INFO Turn 14 begins
+2018-02-21 22:05:53,059 INFO Martin-Bot command: shoot
+2018-02-21 22:05:53,059 INFO Ben command: shoot
+2018-02-21 22:05:53,059 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,059 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:05:53,059 INFO Turn 15 begins
+2018-02-21 22:05:53,060 INFO Martin-Bot command: reload
+2018-02-21 22:05:53,060 INFO Ben command: reload
+2018-02-21 22:05:53,060 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,060 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:05:53,060 INFO Turn 16 begins
+2018-02-21 22:05:53,061 INFO Martin-Bot command: shoot
+2018-02-21 22:05:53,061 INFO Ben command: dodge
+2018-02-21 22:05:53,061 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:05:53,061 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:05:53,061 INFO Turn 17 begins
+2018-02-21 22:05:53,061 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,061 INFO Ben command: reload
+2018-02-21 22:05:53,062 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:05:53,062 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,062 INFO Turn 18 begins
+2018-02-21 22:05:53,062 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,062 INFO Ben command: shoot
+2018-02-21 22:05:53,062 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,063 INFO Turn 19 begins
+2018-02-21 22:05:53,063 INFO Martin-Bot command: dodge
+2018-02-21 22:05:53,063 INFO Ben command: shoot
+2018-02-21 22:05:53,063 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:05:53,063 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:05:53,063 INFO Turn 20 begins
+2018-02-21 22:05:53,064 INFO Martin-Bot command: reload
+2018-02-21 22:05:53,064 INFO Ben command: dodge
+2018-02-21 22:05:53,064 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:05:53,064 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:05:53,064 INFO Turn 21 begins
+2018-02-21 22:05:53,064 INFO Ben shot but without bullets
+2018-02-21 22:05:53,064 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 22:05:53,065 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:05:53,065 INFO Turn 22 begins
+2018-02-21 22:05:53,065 INFO Martin-Bot command: shoot
+2018-02-21 22:05:53,065 INFO Ben command: dodge
+2018-02-21 22:05:53,065 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:05:53,065 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:05:53,065 INFO Turn 23 begins
+2018-02-21 22:05:53,066 INFO Martin-Bot command: shoot
+2018-02-21 22:05:53,066 INFO Ben shot but without bullets
+2018-02-21 22:05:53,066 INFO Martin-Bot shoots Ben
+2018-02-21 22:05:53,066 INFO Killing Martin-Bot
+2018-02-21 22:05:53,066 INFO Martin-Bot exit code: None
+2018-02-21 22:05:53,066 INFO Killing Ben
+2018-02-21 22:05:53,067 INFO Ben exit code: None
+2018-02-21 22:06:15,741 INFO Starting new showdown: Martin-Bot vs Ben
+2018-02-21 22:06:15,743 INFO Turn 1 begins
+2018-02-21 22:06:15,743 INFO Martin-Bot command: shoot
+2018-02-21 22:06:15,744 INFO Ben command: dodge
+2018-02-21 22:06:15,744 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:06:15,744 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:06:15,744 INFO Turn 2 begins
+2018-02-21 22:06:15,745 INFO Martin-Bot command: dodge
+2018-02-21 22:06:15,745 INFO Ben command: shoot
+2018-02-21 22:06:15,745 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:15,745 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:15,745 INFO Turn 3 begins
+2018-02-21 22:06:15,746 INFO Martin-Bot command: reload
+2018-02-21 22:06:15,746 INFO Ben shot but without bullets
+2018-02-21 22:06:15,746 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 22:06:15,746 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:06:15,746 INFO Turn 4 begins
+2018-02-21 22:06:15,746 INFO Ben command: dodge
+2018-02-21 22:06:15,746 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:06:15,747 INFO Turn 5 begins
+2018-02-21 22:06:15,747 INFO Martin-Bot command: reload
+2018-02-21 22:06:15,747 INFO Ben command: dodge
+2018-02-21 22:06:15,747 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:06:15,747 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:06:15,747 INFO Turn 6 begins
+2018-02-21 22:06:15,748 INFO Martin-Bot command: reload
+2018-02-21 22:06:15,748 INFO Ben command: reload
+2018-02-21 22:06:15,748 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:15,748 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:06:15,748 INFO Turn 7 begins
+2018-02-21 22:06:15,748 INFO Martin-Bot command: shoot
+2018-02-21 22:06:15,748 INFO Martin-Bot shoots Ben
+2018-02-21 22:06:15,749 INFO Killing Martin-Bot
+2018-02-21 22:06:15,749 INFO Martin-Bot exit code: None
+2018-02-21 22:06:15,749 INFO Killing Ben
+2018-02-21 22:06:15,749 INFO Ben exit code: None
+2018-02-21 22:06:24,390 INFO Starting new showdown: Martin-Bot vs Ben
+2018-02-21 22:06:24,392 INFO Turn 1 begins
+2018-02-21 22:06:24,393 INFO Martin-Bot command: shoot
+2018-02-21 22:06:24,393 INFO Ben command: dodge
+2018-02-21 22:06:24,393 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:06:24,393 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:06:24,393 INFO Turn 2 begins
+2018-02-21 22:06:24,394 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,394 INFO Ben command: reload
+2018-02-21 22:06:24,395 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,395 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,395 INFO Turn 3 begins
+2018-02-21 22:06:24,395 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,395 INFO Ben command: reload
+2018-02-21 22:06:24,396 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,396 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,396 INFO Turn 4 begins
+2018-02-21 22:06:24,396 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,396 INFO Ben command: reload
+2018-02-21 22:06:24,397 INFO Turn 5 begins
+2018-02-21 22:06:24,397 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,397 INFO Ben command: reload
+2018-02-21 22:06:24,397 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,397 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,397 INFO Turn 6 begins
+2018-02-21 22:06:24,398 INFO Ben command: reload
+2018-02-21 22:06:24,398 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,398 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,398 INFO Turn 7 begins
+2018-02-21 22:06:24,398 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,398 INFO Ben reloaded but already full
+2018-02-21 22:06:24,399 INFO Turn 8 begins
+2018-02-21 22:06:24,399 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,399 INFO Ben reloaded but already full
+2018-02-21 22:06:24,399 INFO Ben command: reload
+2018-02-21 22:06:24,399 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,399 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,400 INFO Turn 9 begins
+2018-02-21 22:06:24,400 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,400 INFO Ben reloaded but already full
+2018-02-21 22:06:24,400 INFO Ben command: reload
+2018-02-21 22:06:24,400 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,400 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,400 INFO Turn 10 begins
+2018-02-21 22:06:24,401 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,401 INFO Ben command: shoot
+2018-02-21 22:06:24,401 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,401 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,401 INFO Turn 11 begins
+2018-02-21 22:06:24,402 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,402 INFO Turn 12 begins
+2018-02-21 22:06:24,402 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,402 INFO Ben command: shoot
+2018-02-21 22:06:24,402 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,402 INFO Turn 13 begins
+2018-02-21 22:06:24,403 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,403 INFO Ben command: shoot
+2018-02-21 22:06:24,403 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,403 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,403 INFO Turn 14 begins
+2018-02-21 22:06:24,404 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,404 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,404 INFO Turn 15 begins
+2018-02-21 22:06:24,404 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,404 INFO Ben command: shoot
+2018-02-21 22:06:24,404 INFO Turn 16 begins
+2018-02-21 22:06:24,405 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,405 INFO Ben command: reload
+2018-02-21 22:06:24,405 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,405 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,405 INFO Turn 17 begins
+2018-02-21 22:06:24,406 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,406 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,406 INFO Turn 18 begins
+2018-02-21 22:06:24,406 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,406 INFO Ben command: reload
+2018-02-21 22:06:24,406 INFO Turn 19 begins
+2018-02-21 22:06:24,407 INFO Ben command: shoot
+2018-02-21 22:06:24,407 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,407 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,407 INFO Turn 20 begins
+2018-02-21 22:06:24,407 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,407 INFO Ben command: reload
+2018-02-21 22:06:24,407 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,408 INFO Turn 21 begins
+2018-02-21 22:06:24,408 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,408 INFO Ben command: shoot
+2018-02-21 22:06:24,408 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,408 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,408 INFO Turn 22 begins
+2018-02-21 22:06:24,409 INFO Ben command: shoot
+2018-02-21 22:06:24,409 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,409 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,409 INFO Turn 23 begins
+2018-02-21 22:06:24,409 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,409 INFO Turn 24 begins
+2018-02-21 22:06:24,410 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,410 INFO Ben command: reload
+2018-02-21 22:06:24,410 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,410 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,410 INFO Turn 25 begins
+2018-02-21 22:06:24,410 INFO Ben command: shoot
+2018-02-21 22:06:24,410 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,411 INFO Turn 26 begins
+2018-02-21 22:06:24,411 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,411 INFO Ben shot but without bullets
+2018-02-21 22:06:24,411 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 22:06:24,411 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,411 INFO Turn 27 begins
+2018-02-21 22:06:24,412 INFO Ben shot but without bullets
+2018-02-21 22:06:24,412 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 22:06:24,412 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,412 INFO Turn 28 begins
+2018-02-21 22:06:24,412 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,412 INFO Ben command: reload
+2018-02-21 22:06:24,412 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,412 INFO Turn 29 begins
+2018-02-21 22:06:24,413 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,413 INFO Ben command: reload
+2018-02-21 22:06:24,413 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,413 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,413 INFO Turn 30 begins
+2018-02-21 22:06:24,414 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,414 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,414 INFO Turn 31 begins
+2018-02-21 22:06:24,414 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,414 INFO Ben command: reload
+2018-02-21 22:06:24,415 INFO Turn 32 begins
+2018-02-21 22:06:24,415 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,415 INFO Ben command: shoot
+2018-02-21 22:06:24,415 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,415 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,415 INFO Turn 33 begins
+2018-02-21 22:06:24,416 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,416 INFO Ben command: reload
+2018-02-21 22:06:24,416 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,416 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,416 INFO Turn 34 begins
+2018-02-21 22:06:24,417 INFO Ben command: reload
+2018-02-21 22:06:24,417 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,417 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,417 INFO Turn 35 begins
+2018-02-21 22:06:24,418 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,418 INFO Ben command: shoot
+2018-02-21 22:06:24,418 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,418 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,418 INFO Turn 36 begins
+2018-02-21 22:06:24,418 INFO Ben command: reload
+2018-02-21 22:06:24,418 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,419 INFO Turn 37 begins
+2018-02-21 22:06:24,419 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,419 INFO Ben command: shoot
+2018-02-21 22:06:24,419 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,419 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,419 INFO Turn 38 begins
+2018-02-21 22:06:24,419 INFO Ben command: reload
+2018-02-21 22:06:24,420 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,420 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,420 INFO Turn 39 begins
+2018-02-21 22:06:24,420 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,420 INFO Ben command: shoot
+2018-02-21 22:06:24,420 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,420 INFO Turn 40 begins
+2018-02-21 22:06:24,421 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,421 INFO Ben command: shoot
+2018-02-21 22:06:24,421 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,421 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,421 INFO Turn 41 begins
+2018-02-21 22:06:24,422 INFO Turn 42 begins
+2018-02-21 22:06:24,422 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,422 INFO Ben command: reload
+2018-02-21 22:06:24,422 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,422 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,422 INFO Turn 43 begins
+2018-02-21 22:06:24,423 INFO Turn 44 begins
+2018-02-21 22:06:24,423 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,423 INFO Ben command: reload
+2018-02-21 22:06:24,423 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,423 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,423 INFO Turn 45 begins
+2018-02-21 22:06:24,424 INFO Ben command: reload
+2018-02-21 22:06:24,424 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,424 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,424 INFO Turn 46 begins
+2018-02-21 22:06:24,424 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,424 INFO Ben reloaded but already full
+2018-02-21 22:06:24,425 INFO Turn 47 begins
+2018-02-21 22:06:24,425 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,425 INFO Ben reloaded but already full
+2018-02-21 22:06:24,425 INFO Ben command: reload
+2018-02-21 22:06:24,425 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,425 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,425 INFO Turn 48 begins
+2018-02-21 22:06:24,426 INFO Ben command: reload
+2018-02-21 22:06:24,426 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,426 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,426 INFO Turn 49 begins
+2018-02-21 22:06:24,426 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,426 INFO Ben reloaded but already full
+2018-02-21 22:06:24,427 INFO Ben command: reload
+2018-02-21 22:06:24,427 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,427 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,427 INFO Turn 50 begins
+2018-02-21 22:06:24,428 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,428 INFO Ben reloaded but already full
+2018-02-21 22:06:24,428 INFO Ben command: reload
+2018-02-21 22:06:24,428 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,428 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,428 INFO Turn 51 begins
+2018-02-21 22:06:24,429 INFO Ben command: reload
+2018-02-21 22:06:24,429 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,429 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,429 INFO Turn 52 begins
+2018-02-21 22:06:24,429 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,429 INFO Ben reloaded but already full
+2018-02-21 22:06:24,430 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,431 INFO Turn 53 begins
+2018-02-21 22:06:24,431 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,431 INFO Ben command: shoot
+2018-02-21 22:06:24,431 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,431 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,431 INFO Turn 54 begins
+2018-02-21 22:06:24,432 INFO Ben command: reload
+2018-02-21 22:06:24,432 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,432 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,432 INFO Turn 55 begins
+2018-02-21 22:06:24,432 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,432 INFO Ben reloaded but already full
+2018-02-21 22:06:24,433 INFO Ben command: reload
+2018-02-21 22:06:24,433 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,433 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,433 INFO Turn 56 begins
+2018-02-21 22:06:24,433 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,433 INFO Ben reloaded but already full
+2018-02-21 22:06:24,434 INFO Ben command: reload
+2018-02-21 22:06:24,434 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,434 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,434 INFO Turn 57 begins
+2018-02-21 22:06:24,434 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,434 INFO Ben reloaded but already full
+2018-02-21 22:06:24,435 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,435 INFO Turn 58 begins
+2018-02-21 22:06:24,435 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,435 INFO Ben command: shoot
+2018-02-21 22:06:24,435 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,435 INFO Turn 59 begins
+2018-02-21 22:06:24,436 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,436 INFO Ben command: reload
+2018-02-21 22:06:24,436 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,436 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,436 INFO Turn 60 begins
+2018-02-21 22:06:24,436 INFO Ben command: shoot
+2018-02-21 22:06:24,436 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,437 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,437 INFO Turn 61 begins
+2018-02-21 22:06:24,437 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,437 INFO Ben command: reload
+2018-02-21 22:06:24,437 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,437 INFO Turn 62 begins
+2018-02-21 22:06:24,438 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,438 INFO Ben reloaded but already full
+2018-02-21 22:06:24,438 INFO Ben command: reload
+2018-02-21 22:06:24,438 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,438 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,438 INFO Turn 63 begins
+2018-02-21 22:06:24,439 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,439 INFO Ben reloaded but already full
+2018-02-21 22:06:24,439 INFO Ben command: reload
+2018-02-21 22:06:24,439 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,439 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,439 INFO Turn 64 begins
+2018-02-21 22:06:24,439 INFO Ben command: shoot
+2018-02-21 22:06:24,439 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,440 INFO Turn 65 begins
+2018-02-21 22:06:24,440 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,440 INFO Ben command: shoot
+2018-02-21 22:06:24,440 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,440 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,440 INFO Turn 66 begins
+2018-02-21 22:06:24,441 INFO Ben command: reload
+2018-02-21 22:06:24,441 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,441 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,441 INFO Turn 67 begins
+2018-02-21 22:06:24,441 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,441 INFO Turn 68 begins
+2018-02-21 22:06:24,442 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,442 INFO Ben reloaded but already full
+2018-02-21 22:06:24,442 INFO Ben command: reload
+2018-02-21 22:06:24,442 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,442 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,442 INFO Turn 69 begins
+2018-02-21 22:06:24,442 INFO Ben command: shoot
+2018-02-21 22:06:24,443 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,443 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,443 INFO Turn 70 begins
+2018-02-21 22:06:24,443 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,443 INFO Ben command: reload
+2018-02-21 22:06:24,443 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,443 INFO Turn 71 begins
+2018-02-21 22:06:24,444 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,444 INFO Ben command: shoot
+2018-02-21 22:06:24,444 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,444 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,444 INFO Turn 72 begins
+2018-02-21 22:06:24,444 INFO Ben command: reload
+2018-02-21 22:06:24,444 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,445 INFO Turn 73 begins
+2018-02-21 22:06:24,445 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,445 INFO Ben reloaded but already full
+2018-02-21 22:06:24,445 INFO Ben command: reload
+2018-02-21 22:06:24,445 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,445 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,445 INFO Turn 74 begins
+2018-02-21 22:06:24,446 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,446 INFO Ben reloaded but already full
+2018-02-21 22:06:24,446 INFO Ben command: reload
+2018-02-21 22:06:24,446 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,446 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,446 INFO Turn 75 begins
+2018-02-21 22:06:24,447 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,447 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,447 INFO Turn 76 begins
+2018-02-21 22:06:24,447 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,447 INFO Ben reloaded but already full
+2018-02-21 22:06:24,447 INFO Ben command: reload
+2018-02-21 22:06:24,448 INFO Turn 77 begins
+2018-02-21 22:06:24,448 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,448 INFO Ben command: shoot
+2018-02-21 22:06:24,448 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,448 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,448 INFO Turn 78 begins
+2018-02-21 22:06:24,448 INFO Ben command: reload
+2018-02-21 22:06:24,448 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,449 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,449 INFO Turn 79 begins
+2018-02-21 22:06:24,449 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,449 INFO Ben reloaded but already full
+2018-02-21 22:06:24,449 INFO Ben command: reload
+2018-02-21 22:06:24,449 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,449 INFO Turn 80 begins
+2018-02-21 22:06:24,450 INFO Ben reloaded but already full
+2018-02-21 22:06:24,450 INFO Ben command: reload
+2018-02-21 22:06:24,450 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,450 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,450 INFO Turn 81 begins
+2018-02-21 22:06:24,450 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,450 INFO Ben command: shoot
+2018-02-21 22:06:24,450 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,451 INFO Turn 82 begins
+2018-02-21 22:06:24,451 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,451 INFO Ben command: shoot
+2018-02-21 22:06:24,451 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,451 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,451 INFO Turn 83 begins
+2018-02-21 22:06:24,452 INFO Ben command: shoot
+2018-02-21 22:06:24,452 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,452 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,452 INFO Turn 84 begins
+2018-02-21 22:06:24,452 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,452 INFO Ben command: reload
+2018-02-21 22:06:24,452 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,453 INFO Turn 85 begins
+2018-02-21 22:06:24,453 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,453 INFO Ben command: reload
+2018-02-21 22:06:24,453 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,453 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,453 INFO Turn 86 begins
+2018-02-21 22:06:24,454 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,454 INFO Ben command: reload
+2018-02-21 22:06:24,454 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,454 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,454 INFO Turn 87 begins
+2018-02-21 22:06:24,455 INFO Ben reloaded but already full
+2018-02-21 22:06:24,455 INFO Ben command: reload
+2018-02-21 22:06:24,455 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,455 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,455 INFO Turn 88 begins
+2018-02-21 22:06:24,455 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,456 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,456 INFO Turn 89 begins
+2018-02-21 22:06:24,456 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,456 INFO Ben reloaded but already full
+2018-02-21 22:06:24,456 INFO Ben command: reload
+2018-02-21 22:06:24,456 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,456 INFO Turn 90 begins
+2018-02-21 22:06:24,457 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,457 INFO Ben command: shoot
+2018-02-21 22:06:24,457 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,457 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,457 INFO Turn 91 begins
+2018-02-21 22:06:24,457 INFO Ben command: reload
+2018-02-21 22:06:24,457 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,458 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,458 INFO Turn 92 begins
+2018-02-21 22:06:24,458 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,458 INFO Ben command: shoot
+2018-02-21 22:06:24,458 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,458 INFO Turn 93 begins
+2018-02-21 22:06:24,459 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,459 INFO Ben command: shoot
+2018-02-21 22:06:24,459 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:06:24,459 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,459 INFO Turn 94 begins
+2018-02-21 22:06:24,459 INFO Ben command: reload
+2018-02-21 22:06:24,460 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,460 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,460 INFO Turn 95 begins
+2018-02-21 22:06:24,460 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,460 INFO Ben command: reload
+2018-02-21 22:06:24,460 INFO Turn 96 begins
+2018-02-21 22:06:24,461 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,461 INFO Ben reloaded but already full
+2018-02-21 22:06:24,461 INFO Ben command: reload
+2018-02-21 22:06:24,461 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,461 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,461 INFO Turn 97 begins
+2018-02-21 22:06:24,462 INFO Ben command: reload
+2018-02-21 22:06:24,462 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,462 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,462 INFO Turn 98 begins
+2018-02-21 22:06:24,462 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,462 INFO Ben reloaded but already full
+2018-02-21 22:06:24,463 INFO Turn 99 begins
+2018-02-21 22:06:24,463 INFO Martin-Bot command: dodge
+2018-02-21 22:06:24,463 INFO Ben reloaded but already full
+2018-02-21 22:06:24,463 INFO Ben command: reload
+2018-02-21 22:06:24,463 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,463 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,463 INFO Turn 100 begins
+2018-02-21 22:06:24,464 INFO Ben reloaded but already full
+2018-02-21 22:06:24,464 INFO Ben command: reload
+2018-02-21 22:06:24,464 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:06:24,464 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:06:24,464 INFO Martin-Bot dodged 99 times
+2018-02-21 22:06:24,464 INFO Ben dodged 1 times
+2018-02-21 22:06:24,464 INFO Killing Martin-Bot
+2018-02-21 22:06:24,464 INFO Martin-Bot exit code: None
+2018-02-21 22:06:24,464 INFO Killing Ben
+2018-02-21 22:06:24,465 INFO Ben exit code: None
+2018-02-21 22:07:09,643 INFO Starting new showdown: Martin-Bot vs Ben
+2018-02-21 22:07:09,645 INFO Turn 1 begins
+2018-02-21 22:07:09,645 INFO Martin-Bot command: shoot
+2018-02-21 22:07:09,645 INFO Ben command: dodge
+2018-02-21 22:07:09,645 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:07:09,646 DEBUG Telling Ben that opponent did: shoot
+2018-02-21 22:07:09,646 INFO Turn 2 begins
+2018-02-21 22:07:09,647 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,647 INFO Ben command: reload
+2018-02-21 22:07:09,647 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:07:09,647 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,647 INFO Turn 3 begins
+2018-02-21 22:07:09,648 INFO Ben command: shoot
+2018-02-21 22:07:09,648 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:07:09,648 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,648 INFO Turn 4 begins
+2018-02-21 22:07:09,648 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,648 INFO Ben command: reload
+2018-02-21 22:07:09,648 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:07:09,649 INFO Turn 5 begins
+2018-02-21 22:07:09,649 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,649 INFO Ben command: reload
+2018-02-21 22:07:09,649 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:07:09,649 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,649 INFO Turn 6 begins
+2018-02-21 22:07:09,650 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,650 INFO Ben command: reload
+2018-02-21 22:07:09,650 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:07:09,650 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,650 INFO Turn 7 begins
+2018-02-21 22:07:09,650 INFO Ben command: shoot
+2018-02-21 22:07:09,650 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:07:09,651 INFO Turn 8 begins
+2018-02-21 22:07:09,651 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,651 INFO Ben command: reload
+2018-02-21 22:07:09,651 DEBUG Telling Martin-Bot that opponent did: reload
+2018-02-21 22:07:09,651 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,651 INFO Turn 9 begins
+2018-02-21 22:07:09,651 INFO Ben command: shoot
+2018-02-21 22:07:09,652 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:07:09,652 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,652 INFO Turn 10 begins
+2018-02-21 22:07:09,652 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,652 INFO Ben command: shoot
+2018-02-21 22:07:09,652 INFO Turn 11 begins
+2018-02-21 22:07:09,653 INFO Martin-Bot command: dodge
+2018-02-21 22:07:09,653 INFO Ben command: shoot
+2018-02-21 22:07:09,653 DEBUG Telling Martin-Bot that opponent did: shoot
+2018-02-21 22:07:09,653 DEBUG Telling Ben that opponent did: dodge
+2018-02-21 22:07:09,653 INFO Turn 12 begins
+2018-02-21 22:07:09,654 INFO Turn 13 begins
+2018-02-21 22:07:09,654 INFO Martin-Bot command: reload
+2018-02-21 22:07:09,654 INFO Ben command: dodge
+2018-02-21 22:07:09,654 DEBUG Telling Martin-Bot that opponent did: dodge
+2018-02-21 22:07:09,654 DEBUG Telling Ben that opponent did: reload
+2018-02-21 22:07:09,654 INFO Turn 14 begins
+2018-02-21 22:07:09,654 INFO Ben shot but without bullets
+2018-02-21 22:07:09,654 DEBUG Telling Martin-Bot that opponent did: shoot_no_bullet
+2018-02-21 22:07:09,655 INFO Turn 15 begins
+2018-02-21 22:07:09,655 INFO Martin-Bot command: shoot
+2018-02-21 22:07:09,655 INFO Ben command: reload
+2018-02-21 22:07:09,655 INFO Martin-Bot shoots Ben
+2018-02-21 22:07:09,655 INFO Killing Martin-Bot
+2018-02-21 22:07:09,655 INFO Martin-Bot exit code: None
+2018-02-21 22:07:09,655 INFO Killing Ben
+2018-02-21 22:07:09,656 INFO Ben exit code: None
